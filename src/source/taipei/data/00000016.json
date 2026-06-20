@@ -1,0 +1,833 @@
+{
+  "data": [
+    {
+      "id": 7400000,
+      "title": "華山分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.047280393358353,
+        121.52082093077384
+      ],
+      "address": "臺北市中正區北平東路1號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400001,
+      "title": "忠孝分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.043692777843315,
+        121.52706896606095
+      ],
+      "address": "臺北市中正區忠孝東路二段8號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400002,
+      "title": "泉州分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.024621190616937,
+        121.51245159241881
+      ],
+      "address": "臺北市中正區泉州街40號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400003,
+      "title": "古亭分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.011705496174766,
+        121.53760276336142
+      ],
+      "address": "臺北市大安區基隆路4段156號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400004,
+      "title": "城中分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.046953411569667,
+        121.51343631610561
+      ],
+      "address": "臺北市中正區忠孝西路1段86號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400005,
+      "title": "雙園分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.0288213008451,
+        121.49549502664532
+      ],
+      "address": "臺北市萬華區西藏路213-1號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400006,
+      "title": "龍山分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.038595238504794,
+        121.49932971324333
+      ],
+      "address": "臺北市萬華區桂林路137號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400007,
+      "title": "萬芳分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.002085438154356,
+        121.56644894522378
+      ],
+      "address": "臺北市文山區萬美街一段52號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400008,
+      "title": "景美分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        24.992318465572417,
+        121.54118361126223
+      ],
+      "address": "臺北市文山區景文街30號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400009,
+      "title": "木柵分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        24.988825379131033,
+        121.56340656108287
+      ],
+      "address": "臺北市文山區木柵路二段200號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400010,
+      "title": "寶橋分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        24.979918705998422,
+        121.5548972381352
+      ],
+      "address": "臺北市文山區璋新街2號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400011,
+      "title": "金華分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.03251362227758,
+        121.52775447524782
+      ],
+      "address": "臺北市大安區愛國東路79巷13號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400012,
+      "title": "安和分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.03292326169991,
+        121.55226174972918
+      ],
+      "address": "臺北市大安區安和路二段2號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400013,
+      "title": "復興分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.030075558896336,
+        121.543291274109
+      ],
+      "address": "臺北市大安區復興南路二段92號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400014,
+      "title": "南港分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.0546884044732,
+        121.60726581340741
+      ],
+      "address": "臺北市南港區興中路6號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400015,
+      "title": "舊莊分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.045095652489547,
+        121.61528539820522
+      ],
+      "address": "臺北市南港區研究院路2段86號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400016,
+      "title": "成德分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.0478173038085,
+        121.58669769492903
+      ],
+      "address": "臺北市南港區東新街63巷11號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400017,
+      "title": "信義分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.040825383806077,
+        121.56874746885464
+      ],
+      "address": "臺北市信義區忠孝東路5段32號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400018,
+      "title": "永吉分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.045545418000792,
+        121.56918546952375
+      ],
+      "address": "臺北市信義區永吉路48號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400019,
+      "title": "莊敬分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.029815246995927,
+        121.56521866341751
+      ],
+      "address": "臺北市信義區松智路40號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400020,
+      "title": "大直分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.080024487822584,
+        121.55669581554776
+      ],
+      "address": "臺北市中山區樂群二路143號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400021,
+      "title": "松江分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.047523835667253,
+        121.53393343882449
+      ],
+      "address": "臺北市中山區建國北路二段39號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400022,
+      "title": "建國分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.067848171749528,
+        121.53588497655882
+      ],
+      "address": "臺北市中山區民族東路282號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400023,
+      "title": "搜救犬訓練基地",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.072512545274268,
+        121.54941588744259
+      ],
+      "address": "臺北市中山區濱江街351號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400024,
+      "title": "圓山分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.068530708073396,
+        121.52917745468906
+      ],
+      "address": "臺北市中山區民族東路41號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400025,
+      "title": "八德分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.048556804276878,
+        121.56296569613804
+      ],
+      "address": "臺北市松山區八德路四段162號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400026,
+      "title": "中崙分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.048393440355515,
+        121.54583968204568
+      ],
+      "address": "臺北市松山區長安東路二段229號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400027,
+      "title": "東湖分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.06749457412047,
+        121.6129192651884
+      ],
+      "address": "臺北市內湖區五分街8號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400028,
+      "title": "大湖分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.083907141810045,
+        121.60165030120162
+      ],
+      "address": "臺北市內湖區成功路五段5號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400029,
+      "title": "內湖分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.069533553072677,
+        121.59036946828678
+      ],
+      "address": "臺北市內湖區成功路二段378號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400030,
+      "title": "民權分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.066909772325577,
+        121.57770929222306
+      ],
+      "address": "臺北市內湖區民權東路六段9號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400031,
+      "title": "建成分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.05476444551777,
+        121.51824595997324
+      ],
+      "address": "臺北市大同區承德路二段35號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400032,
+      "title": "延平分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.050246606701954,
+        121.51136879590607
+      ],
+      "address": "臺北市大同區鄭州路109號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400033,
+      "title": "大同分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.06148762242709,
+        121.51373474718626
+      ],
+      "address": "臺北市大同區重慶北路二段223號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400034,
+      "title": "山仔后分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.133871258455823,
+        121.54567357674753
+      ],
+      "address": "臺北市士林區仰德大道四段161號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400035,
+      "title": "天母分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.12527684547361,
+        121.53290239391464
+      ],
+      "address": "臺北市士林區中山北路7段194號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400036,
+      "title": "福安分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.096365582420557,
+        121.49668880157928
+      ],
+      "address": "臺北市士林區延平北路7段42-7號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400037,
+      "title": "社子分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.07910896154984,
+        121.51148862482052
+      ],
+      "address": "臺北市士林區延平北路五段2-1號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400038,
+      "title": "劍潭分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.08995052359366,
+        121.52765358545196
+      ],
+      "address": "臺北市士林區中山北路五段376號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400039,
+      "title": "雙溪分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.097636498593598,
+        121.54467990359899
+      ],
+      "address": "臺北市士林區至善路二段41號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400040,
+      "title": "後港分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.08734740323202,
+        121.51804603371089
+      ],
+      "address": "臺北市士林區福港街153號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400041,
+      "title": "陽明山分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.151589629645027,
+        121.5466450404181
+      ],
+      "address": "臺北市北投區勝利街1-2號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400042,
+      "title": "光明分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.13516704459624,
+        121.50246886743724
+      ],
+      "address": "臺北市北投區光明路155號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400043,
+      "title": "關渡分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.123066651359036,
+        121.46667022495129
+      ],
+      "address": "臺北市北投區知行路345號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400044,
+      "title": "石牌分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.117956293183727,
+        121.5169057363447
+      ],
+      "address": "臺北市北投區石牌路二段101號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    },
+    {
+      "id": 7400045,
+      "title": "秀山分隊",
+      "category": "culture",
+      "location": "臺北市",
+      "coords": [
+        25.145291777154217,
+        121.49289945157935
+      ],
+      "address": "臺北市北投區秀山路50號",
+      "layoutType": "",
+      "hours": "詳見官方網站",
+      "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+      "image": "",
+      "management": "",
+      "phone": "",
+      "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+    }
+  ],
+  "updateAt": "2026-06-20T01:27:36.725Z"
+}
