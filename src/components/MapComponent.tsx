@@ -26,6 +26,14 @@ const tileLayerUrls = {
   satellite: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
 };
 
+// Display labels for place categories (Traditional Chinese)
+const categoryLabels: { [key: string]: string } = {
+  nature: '自然',
+  culture: '文化',
+  nightmarket: '夜市',
+  smoking: '吸菸區',
+};
+
 const tileLayerAttributions = {
   streets: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   dark: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -62,12 +70,20 @@ export default function MapComponent({
     // Center of Taiwan
     const centerOfTaiwan: [number, number] = [23.6978, 120.9605];
 
+    // Geographic bounds restricting the map to the Taiwan area (incl. Penghu & outlying padding)
+    const taiwanBounds = L.latLngBounds(
+      [21.3, 119.3], // Southwest corner
+      [25.5, 122.2]  // Northeast corner
+    );
+
     const mapInstance = L.map(mapRef.current, {
       center: centerOfTaiwan,
       zoom: 8, // Integer zoom for cleaner tile loading
-      minZoom: 4,
+      minZoom: 7, // Keep the view scoped to Taiwan; can't zoom out to the whole world
       maxZoom: 19, // Specify maxZoom to prevent Leaflet.markercluster "Map has no maxZoom specified" error
       zoomControl: true,
+      maxBounds: taiwanBounds, // Lock panning to the Taiwan area
+      maxBoundsViscosity: 1.0, // Make the bounds a solid wall
     });
 
     // Create and add Marker Cluster Group
@@ -248,8 +264,8 @@ export default function MapComponent({
         popupContent.className = 'custom-popup-content';
         popupContent.innerHTML = `
           <h4 style="margin: 0; font-size: 13px; font-weight: bold; color: #f8fafc;">${loc.title}</h4>
-          <span style="font-size: 9px; color: ${markerColor}; font-weight: 800; text-transform: uppercase; display: inline-block; padding: 1px 6px; background: ${markerColor}20; border: 1px solid ${markerColor}30; border-radius: 4px; margin: 3px 0 5px 0;">
-            ${loc.category === 'nightmarket' ? 'Night Market' : loc.category === 'smoking' ? 'Smoking Area' : loc.category}
+          <span style="font-size: 9px; color: ${markerColor}; font-weight: 800; display: inline-block; padding: 1px 6px; background: ${markerColor}20; border: 1px solid ${markerColor}30; border-radius: 4px; margin: 3px 0 5px 0;">
+            ${categoryLabels[loc.category] ?? loc.category}
           </span>
           <p style="margin: 0 0 8px 0; font-size: 11px; color: #94a3b8; line-height: 1.3;">
             ${loc.location}${loc.address ? ` · ${loc.address}` : ''}
@@ -258,7 +274,7 @@ export default function MapComponent({
 
         const viewDetailsLink = document.createElement('a');
         viewDetailsLink.className = 'custom-popup-link';
-        viewDetailsLink.innerText = 'View Details';
+        viewDetailsLink.innerText = '查看詳情';
         viewDetailsLink.addEventListener('click', (e) => {
           e.preventDefault();
           onSelectLocation(loc.id);

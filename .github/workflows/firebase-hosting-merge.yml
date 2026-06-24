@@ -34,5 +34,5 @@ jobs:
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_TW_MAP_APP }}
-          projectId: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_PROJECT_ID }}
+          projectId: tw-map-67d50
           channelId: live

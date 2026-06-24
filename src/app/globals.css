@@ -8,10 +8,19 @@
   --foreground: #f8fafc;
 }
 
+html,
+body {
+  /* Prevent mobile pull-to-refresh and scroll chaining past the app shell */
+  overscroll-behavior: none;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   overflow: hidden;
+  /* Remove the 300ms tap delay and the grey tap flash on mobile */
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Custom styling for Leaflet elements to fit dark mode */
