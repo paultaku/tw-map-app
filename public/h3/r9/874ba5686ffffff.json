@@ -1,0 +1,1188 @@
+{
+  "cells": [
+    {
+      "h3": "894ba5686c7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.175690182624464,
+        "lng": 121.54285987631803
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 202998,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17568,
+            121.54165
+          ],
+          "address": "臺北市北投區竹子湖路64號(游園)",
+          "layoutType": "",
+          "hours": "1815",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324616,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17564103,
+            121.5432404
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324617,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17575188,
+            121.5417303
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324619,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17643084,
+            121.5424816
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba568653ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.17001225196565,
+        "lng": 121.54068435255817
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 202999,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16886,
+            121.54043
+          ],
+          "address": "臺北市北投區竹子湖路20號",
+          "layoutType": "",
+          "hours": "1817",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324605,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.16894568,
+            121.5406067
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56865bffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 25.167173163274594,
+        "lng": 121.53959662396926
+      },
+      "categories": {
+        "nightmarket": 4,
+        "culture": 3,
+        "nature": 1,
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 203000,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16845,
+            121.54023
+          ],
+          "address": "臺北市北投區竹子湖路17號",
+          "layoutType": "",
+          "hours": "1818",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203001,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16826,
+            121.53885
+          ],
+          "address": "臺北市北投區梅荷研習中心",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203010,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16683,
+            121.53834
+          ],
+          "address": "臺北市北投區竹子湖路9之1號(回收車)",
+          "layoutType": "",
+          "hours": "1833",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203011,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16747,
+            121.5401
+          ],
+          "address": "臺北市北投區竹子湖路16號(派出所)",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324606,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.16765504,
+            121.5401414
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324607,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.16762256,
+            121.5399179
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324608,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.16829815,
+            121.5388019
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603658,
+          "title": "紅楠",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1684,
+            121.5392
+          ],
+          "address": "臺北市北投區湖田里竹子湖路15-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "陽明山國家公園管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1100271,
+          "title": "臺北市CCTV設施",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.16757,
+            121.54007
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5500766,
+          "title": "臺北市政府警察局北投分局竹子湖派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.167467,
+            121.540207
+          ],
+          "address": "竹子湖路16號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "置於派出所內值班台左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於派出所內值班台左側"
+        },
+        {
+          "id": 5502693,
+          "title": "內政部國家公園署陽明山國家公園管理處竹子湖蓬萊米原種田故事館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.168282,
+            121.539439
+          ],
+          "address": "竹子湖路15-1號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "入口左手邊服務台前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口左手邊服務台前方"
+        },
+        {
+          "id": 6001085,
+          "title": "竹子湖派出所",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.167615,
+            121.540228
+          ],
+          "address": "臺北市北投區竹子湖路16號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局 竹子湖派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001109,
+          "title": "北投1號",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.167304,
+            121.540234
+          ],
+          "address": "臺北市北投區竹子湖16號邊竹子湖派出所旁登山步道口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686cbffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.172015002049903,
+        "lng": 121.53854573027891
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 203002,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17046,
+            121.53863
+          ],
+          "address": "臺北市北投區竹子湖路29之1號(湖田橋餐廳)前",
+          "layoutType": "",
+          "hours": "1823",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203003,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17077,
+            121.53872
+          ],
+          "address": "臺北市北投區竹子湖路67之68號前",
+          "layoutType": "",
+          "hours": "1825",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324615,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17126267,
+            121.5385724
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324623,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17245137,
+            121.5385894
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324625,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17281726,
+            121.5386026
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba568637ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.177031755541528,
+        "lng": 121.55790565331459
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203004,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17759,
+            121.55705
+          ],
+          "address": "臺北市北投區竹子湖路56之57號前",
+          "layoutType": "",
+          "hours": "1826",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.17485393083023,
+        "lng": 121.53963345140379
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 203005,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17399,
+            121.53834
+          ],
+          "address": "臺北市北投區竹子湖路55之6號前",
+          "layoutType": "",
+          "hours": "1827",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324624,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17368121,
+            121.538474
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324627,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17574812,
+            121.5387431
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324628,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17461322,
+            121.538431
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56864fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.166006375617908,
+        "lng": 121.5449616895881
+      },
+      "categories": {
+        "culture": 1,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 324602,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.16552595,
+            121.543442
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5700095,
+          "title": "臺北市固定測速照相地點表",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.16491378,
+            121.5437191
+          ],
+          "address": "竹子湖路2-2號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686d7ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.17769277735772,
+        "lng": 121.54072119472337
+      },
+      "categories": {
+        "culture": 6,
+        "other": 2,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 324618,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.1768244,
+            121.5416654
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324620,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.1766237,
+            121.5405935
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324621,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17643468,
+            121.5397265
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324632,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17760573,
+            121.5421141
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324633,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17867922,
+            121.5416844
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324634,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17865806,
+            121.5406577
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702836,
+          "title": "頂湖小鎮小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.177114,
+            121.540011
+          ],
+          "address": "臺北市北投區竹子湖路68號1、2樓及地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700068,
+          "title": "起點",
+          "category": "nature",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1786,
+            121.5406
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "60",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001110,
+          "title": "北投17號",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.178631,
+            121.540647
+          ],
+          "address": "臺北市北投區竹子湖路67號之8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市環保局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.172851258420096,
+        "lng": 121.54177210334116
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 324622,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17374722,
+            121.540663
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686dbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.17401762673813,
+        "lng": 121.5364071388305
+      },
+      "categories": {
+        "culture": 2,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 324626,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17429124,
+            121.5377066
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324629,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17516867,
+            121.5371678
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7300014,
+          "title": "北投第十公墓",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17415871,
+            121.5358537
+          ],
+          "address": "",
+          "layoutType": "列管公墓",
+          "hours": "全日",
+          "description": "無",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "無"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5686d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.17685647784128,
+        "lng": 121.53749483029497
+      },
+      "categories": {
+        "culture": 2,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 324630,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17623702,
+            121.5372817
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324635,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17734287,
+            121.5368644
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700066,
+          "title": "起點",
+          "category": "nature",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1764,
+            121.5376
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "25",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56868bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.17852902456527,
+        "lng": 121.54394767148874
+      },
+      "categories": {
+        "culture": 1,
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 324631,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17953976,
+            121.5434166
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501781,
+          "title": "小觀音棧",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1790735,
+            121.5443799
+          ],
+          "address": "竹子湖路64之13號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "入口進入後右轉牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口進入後右轉牆上"
+        },
+        {
+          "id": 8800013,
+          "title": "陽金點",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.179506,
+            121.5433
+          ],
+          "address": "北投區陽金公路近七星山登山口附近",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba568613ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.17652638210863,
+        "lng": 121.54608641355861
+      },
+      "categories": {
+        "culture": 1,
+        "smoking": 1,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 324644,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17563556,
+            121.5448708
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 500028,
+          "title": "小油坑遊客服務站正前方10公尺處",
+          "category": "smoking",
+          "location": "臺北市北投區",
+          "coords": [
+            25.17651,
+            121.54719
+          ],
+          "address": "竹子湖路69號",
+          "layoutType": "戶外開放式吸菸區",
+          "hours": "24小時開放",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "內政部國家公園署陽明山國家公園管理處",
+          "phone": "(02)28613601-602",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5500168,
+          "title": "內政部國家公園署陽明山國家公園管理處小油坑遊客服務站",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.176434,
+            121.546896
+          ],
+          "address": "竹子湖路69號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "設置地點於遊客服務站內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "設置地點於遊客服務站內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56862fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.172189657970176,
+        "lng": 121.55895659869358
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 324645,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17211733,
+            121.5596173
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

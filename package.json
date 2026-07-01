@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "sync:options": "ts-node scripts/generateMapping.ts",
-    "sync:data": "ts-node scripts/parseOpenData.ts"
+    "sync:data": "ts-node scripts/parseOpenData.ts",
+    "sync:firestore": "ts-node scripts/parseOpenData.ts --upload"
   },
   "dependencies": {
     "@heroui/react": "^3.2.1",
@@ -34,7 +35,10 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
+    "firebase-admin": "^14.0.0",
+    "h3-js": "^4.4.0",
     "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }

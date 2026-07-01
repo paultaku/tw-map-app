@@ -1,0 +1,1325 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1db5a7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.972367820223802,
+        "lng": 121.57840059042528
+      },
+      "categories": {
+        "nightmarket": 1,
+        "other": 3,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202512,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97302,
+            121.57937
+          ],
+          "address": "臺北市文山區老泉街45巷29號〈樟山寺〉",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300788,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97277,
+            121.578648
+          ],
+          "address": "指南路3段38巷17號前30公尺轉彎處(田寮橋)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300789,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.972704,
+            121.578943
+          ],
+          "address": "指南路3段38巷17號前30公尺轉彎處(田寮橋)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 3700139,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9729,
+            121.5789
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "70",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501581,
+          "title": "樟山寺",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.97301951,
+            121.57935
+          ],
+          "address": "老泉街45巷29號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "位於主殿左側之建築物外側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於主殿左側之建築物外側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db537ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.967511171650308,
+        "lng": 121.57945121697716
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202514,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96835,
+            121.57983
+          ],
+          "address": "臺北市文山區指南路3段34巷65號〈瓦厝〉",
+          "layoutType": "",
+          "hours": "1824",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321150,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96699905,
+            121.5810685
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321151,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96807356,
+            121.5806381
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321152,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96828645,
+            121.5796505
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700148,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9663,
+            121.5793
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db527ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.96549995045071,
+        "lng": 121.58158982676822
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202516,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96575,
+            121.58301
+          ],
+          "address": "臺北市文山區指南路3段34巷53之2號〈迺妙〉",
+          "layoutType": "",
+          "hours": "1828",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db5afffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 24.969522267682482,
+        "lng": 121.57731263789844
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 4,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202525,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96842,
+            121.57668
+          ],
+          "address": "臺北市文山區老泉街45巷27號〈明德宮〉",
+          "layoutType": "",
+          "hours": "1855",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202526,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96903,
+            121.57678
+          ],
+          "address": "臺北市文山區老泉街45巷27之2號、30號",
+          "layoutType": "",
+          "hours": "1857",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321033,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97002216,
+            121.578651
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321034,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96801821,
+            121.5772295
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321035,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96925233,
+            121.5767244
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321036,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96854818,
+            121.5766226
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700149,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9701,
+            121.5784
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "15",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db5b3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.97354408423506,
+        "lng": 121.57303557189893
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 202527,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97355,
+            121.57372
+          ],
+          "address": "臺北市文山區老泉街45巷20之1號、21之1號、23號、25之1號",
+          "layoutType": "",
+          "hours": "1859",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321020,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97369934,
+            121.5737712
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321021,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97334068,
+            121.5744465
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321024,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97283987,
+            121.5721831
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321025,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97346323,
+            121.5729106
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db587ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.972709402956262,
+        "lng": 121.56980924344595
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 5
+      },
+      "points": [
+        {
+          "id": 202528,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97215,
+            121.56956
+          ],
+          "address": "臺北市文山區老泉街45巷5之3號、4號",
+          "layoutType": "",
+          "hours": "1901",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321022,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97246054,
+            121.5709727
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321026,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97207559,
+            121.5689919
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321028,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97365577,
+            121.5698045
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321029,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97349096,
+            121.568976
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321030,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97295518,
+            121.5687789
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db59bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.97103988487547,
+        "lng": 121.56335692292842
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 202537,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97196,
+            121.56471
+          ],
+          "address": "臺北市文山區老泉街26巷4號、8號",
+          "layoutType": "",
+          "hours": "1922",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 320985,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.9713478,
+            121.5648508
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 320988,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97190479,
+            121.5646819
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db58bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.969029182406256,
+        "lng": 121.56549525952758
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 202538,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96956,
+            121.56618
+          ],
+          "address": "臺北市文山區老泉街26巷7號",
+          "layoutType": "",
+          "hours": "1924",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202539,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96896,
+            121.56677
+          ],
+          "address": "臺北市文山區老泉街26巷14號",
+          "layoutType": "",
+          "hours": "1927",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 320983,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96998144,
+            121.5662772
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 320984,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96957406,
+            121.5662507
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321015,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96886777,
+            121.5669458
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db583ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.971874669832346,
+        "lng": 121.56658302711756
+      },
+      "categories": {
+        "culture": 3,
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 320982,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97094054,
+            121.5654127
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321027,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97247977,
+            121.5681445
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321031,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97184435,
+            121.5682866
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700227,
+          "title": "容易創造顧問有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.97111,
+            121.567877
+          ],
+          "address": "臺北市文山區老泉街26巷27號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501539,
+          "title": "馥森梧桐墅（老泉休閒農場）",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9711096,
+            121.5678778
+          ],
+          "address": "老泉街26巷27號",
+          "layoutType": "農場",
+          "hours": "詳見官方網站",
+          "description": "在餐廳入門口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在餐廳入門口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db593ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.973885294867898,
+        "lng": 121.5644446609047
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 320986,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97315426,
+            121.5633626
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 320987,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97283316,
+            121.5642713
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db517ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.967853044245004,
+        "lng": 121.57085985176803
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 321002,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96730609,
+            121.5696423
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db513ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 24.967018354767372,
+        "lng": 121.56763362687236
+      },
+      "categories": {
+        "culture": 9,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 321003,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96682398,
+            121.5667374
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321004,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96782679,
+            121.5674123
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321005,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96763757,
+            121.5669767
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321006,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96633247,
+            121.5689201
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321007,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96768579,
+            121.5666561
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321008,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96647251,
+            121.5671892
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321009,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.9665839,
+            121.5681666
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321010,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96717982,
+            121.5689089
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321014,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96847429,
+            121.5674152
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501538,
+          "title": "慈音山莊休閒農場",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9662587,
+            121.5662608
+          ],
+          "address": "老泉街26巷11號",
+          "layoutType": "農場",
+          "hours": "詳見官方網站",
+          "description": "慈音山莊休閒農場景觀餐廳門口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "慈音山莊休閒農場景觀餐廳門口旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db58fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.969863919623926,
+        "lng": 121.56872142407379
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 321011,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97004247,
+            121.5686708
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321012,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.96891283,
+            121.5687943
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321013,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97084932,
+            121.5682626
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db5bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.970698605007513,
+        "lng": 121.57194770074854
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 321023,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97216856,
+            121.5717973
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1db5a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.971533238544843,
+        "lng": 121.57517408953724
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 321037,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97272353,
+            121.5759899
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321038,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區老泉里",
+          "coords": [
+            24.97286732,
+            121.5755601
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

@@ -1,0 +1,5920 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b4b27ffff",
+      "res": 9,
+      "count": 41,
+      "center": {
+        "lat": 25.123565484349548,
+        "lng": 121.49965655873312
+      },
+      "categories": {
+        "other": 21,
+        "nightmarket": 6,
+        "culture": 13,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 100778,
+          "title": "大業路",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12288,
+            121.499134
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100818,
+          "title": "大業路",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12288,
+            121.499134
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 202891,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12482,
+            121.49896
+          ],
+          "address": "臺北市北投區大業路154號前",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203055,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12218,
+            121.50018
+          ],
+          "address": "臺北市北投區中央南路2段101號前",
+          "layoutType": "",
+          "hours": "1734",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203057,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12297,
+            121.50016
+          ],
+          "address": "臺北市北投區中央南路2段63巷口",
+          "layoutType": "",
+          "hours": "1741",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203058,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12391,
+            121.50024
+          ],
+          "address": "臺北市北投區中央南路2段39巷口",
+          "layoutType": "",
+          "hours": "1746",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203171,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12299,
+            121.50017
+          ],
+          "address": "臺北市北投區中央南路2段63號前",
+          "layoutType": "",
+          "hours": "1639",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203172,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12391,
+            121.50025
+          ],
+          "address": "臺北市北投區中央南路2段39巷口",
+          "layoutType": "",
+          "hours": "1641",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322938,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12275726,
+            121.5001388
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322939,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12239209,
+            121.5001737
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322965,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12250451,
+            121.4995738
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322980,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12490016,
+            121.5003415
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322984,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12366491,
+            121.5001958
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322985,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12398767,
+            121.5002256
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322986,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12332944,
+            121.5010255
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322987,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12349694,
+            121.5001479
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322988,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12442498,
+            121.5003158
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322989,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12460369,
+            121.4990958
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322990,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12321863,
+            121.4987181
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322991,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12481129,
+            121.4993849
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322993,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12355202,
+            121.4993461
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602044,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1242,
+            121.4999
+          ],
+          "address": "臺北市北投區八仙里臺北市北投區大業路20號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "金義合窯業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 901167,
+          "title": "大業路65巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12307,
+            121.49906
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 901174,
+          "title": "大業路(農禪寺)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12231,
+            121.49964
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 902081,
+          "title": "大業路(農禪寺)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12231,
+            121.49964
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 902083,
+          "title": "大業路65巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12307,
+            121.49906
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000351,
+          "title": "大業路(農禪寺)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12231,
+            121.49964
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000353,
+          "title": "大業路65巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12307,
+            121.49906
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1002779,
+          "title": "大業路65巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12307,
+            121.49906
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1002786,
+          "title": "大業路(農禪寺)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12231,
+            121.49964
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300757,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.123452,
+            121.499023
+          ],
+          "address": "大業路65巷口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300759,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.122876,
+            121.499134
+          ],
+          "address": "大業路37號旁公車站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300760,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.122242,
+            121.499581
+          ],
+          "address": "大業路10號人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300761,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.124356,
+            121.498795
+          ],
+          "address": "大業路151號(人行道)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2600545,
+          "title": "代統科技實業有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.124784,
+            121.500443
+          ],
+          "address": "臺北市北投區中央南路2段33之3號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603179,
+          "title": "達益投資有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.124655,
+            121.500084
+          ],
+          "address": "臺北市北投區中央南路2段36之2號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000457,
+          "title": "大業路一-N-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1227356,
+            121.4994721
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000481,
+          "title": "大業路(農禪寺)-S-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.122905,
+            121.499107
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501083,
+          "title": "家福股份有限公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.124433,
+            121.4993
+          ],
+          "address": "大業路136號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "5樓總機/出入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5樓總機/出入口處"
+        },
+        {
+          "id": 6001042,
+          "title": "北投19號公園",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.123297,
+            121.50096
+          ],
+          "address": "臺北市北投區中央南路2段39巷26號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處陽明山管理所新生公園",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9000042,
+          "title": "大業東1",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.123291,
+            121.50007
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4ba7ffff",
+      "res": 9,
+      "count": 33,
+      "center": {
+        "lat": 25.1304123063282,
+        "lng": 121.4964681104762
+      },
+      "categories": {
+        "nightmarket": 7,
+        "culture": 8,
+        "nature": 1,
+        "other": 17
+      },
+      "points": [
+        {
+          "id": 202809,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12975289,
+            121.497094
+          ],
+          "address": "臺北市北投區大業路大興街口",
+          "layoutType": "",
+          "hours": "1648",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202810,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13062,
+            121.49671
+          ],
+          "address": "臺北市北投區大業路432號前",
+          "layoutType": "",
+          "hours": "1650",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202860,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12975,
+            121.49709
+          ],
+          "address": "臺北市北投區大業路大興街口",
+          "layoutType": "",
+          "hours": "2137",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202861,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13079,
+            121.49664
+          ],
+          "address": "臺北市北投區大業路432號前",
+          "layoutType": "",
+          "hours": "2141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202902,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13075,
+            121.49772
+          ],
+          "address": "臺北市北投區大興街23巷31號",
+          "layoutType": "",
+          "hours": "2003",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202903,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13098,
+            121.49727
+          ],
+          "address": "臺北市北投區大興街9巷34弄",
+          "layoutType": "",
+          "hours": "2010",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202904,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13159,
+            121.49698
+          ],
+          "address": "臺北市北投區大業路452巷大興街9巷口",
+          "layoutType": "",
+          "hours": "2013",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323047,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13060592,
+            121.4974814
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323049,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13098305,
+            121.4973692
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323050,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.1308732,
+            121.4978372
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323052,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13048485,
+            121.4967924
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323057,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13175062,
+            121.4973596
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323058,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13148138,
+            121.4965882
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323062,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13169705,
+            121.4965044
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323164,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區中央里",
+          "coords": [
+            25.12967168,
+            121.4974637
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603297,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.13,
+            121.4971
+          ],
+          "address": "臺北市北投區大同里大業路396號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 901199,
+          "title": "彰化銀行北投分行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.13161,
+            121.4971
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1002811,
+          "title": "彰化銀行北投分行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.13161,
+            121.4971
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300755,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.131942,
+            121.49608
+          ],
+          "address": "大業路(捷運北投站)站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300762,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.130112,
+            121.496937
+          ],
+          "address": "大業路396號(29號車格)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1900673,
+          "title": "台北市失能者服務協會",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13114966,
+            121.4973085
+          ],
+          "address": "大興街9巷對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25429529",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2600718,
+          "title": "覓覓有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.130134,
+            121.497569
+          ],
+          "address": "臺北市北投區大興街9巷5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602066,
+          "title": "好事制作室內裝修設計有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.131032,
+            121.497585
+          ],
+          "address": "臺北市北投區大興街23巷32號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603424,
+          "title": "五福國際有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.129591,
+            121.497406
+          ],
+          "address": "臺北市北投區大業路382號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702194,
+          "title": "燦坤實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.131582,
+            121.497302
+          ],
+          "address": "臺北市北投區大業路452巷6號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 4000327,
+          "title": "臺北市北投區大同社區發展協會",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.130615,
+            121.497807
+          ],
+          "address": "臺北市北投區大同里大興街9巷24號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "人民團體科",
+          "phone": "28981932",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000463,
+          "title": "大業路二-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1298472,
+            121.4968469
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000464,
+          "title": "大業路(捷運北投站)-N-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.13175,
+            121.495857
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000482,
+          "title": "大業路(捷運北投站)-S-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1318839,
+            121.4961253
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5700100,
+          "title": "臺北市固定測速照相地點表",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.13033974,
+            121.4967385
+          ],
+          "address": "大業路412號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900146,
+          "title": "熱風精品咖啡豆",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.131948,
+            121.496336
+          ],
+          "address": "臺北市北投區大業路462號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2895-5698/0955-825-588",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901204,
+          "title": "Hot Waves Specialty Coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.131948,
+            121.496336
+          ],
+          "address": "No. 462",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.496336",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.496336"
+        },
+        {
+          "id": 7000102,
+          "title": "熱風精品咖啡豆",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.131948,
+            121.496336
+          ],
+          "address": "臺北市北投區大業路462號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "25.131948",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4bb7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.132415433514012,
+        "lng": 121.49433042022207
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 1,
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 202811,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13205,
+            121.49604
+          ],
+          "address": "臺北市北投區大業路472巷口",
+          "layoutType": "",
+          "hours": "1652",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202862,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.13204,
+            121.49604
+          ],
+          "address": "臺北市北投區大業路472巷口",
+          "layoutType": "",
+          "hours": "2145",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 323060,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區大同里",
+          "coords": [
+            25.13235672,
+            121.4959439
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602562,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1335,
+            121.4955
+          ],
+          "address": "臺北市北投區大同里大業路517巷15號對面第2排第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603294,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.133,
+            121.4952
+          ],
+          "address": "臺北市北投區大同里大業路臨時491號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b2fffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.12072521083112,
+        "lng": 121.49856955591042
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 5,
+        "nature": 1,
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 203054,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12131,
+            121.50011
+          ],
+          "address": "臺北市北投區中央南路2段131號前",
+          "layoutType": "",
+          "hours": "1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203168,
+          "title": "光明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12129,
+            121.50015
+          ],
+          "address": "臺北市北投區中央南路2段131號前",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322940,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12036511,
+            121.5002962
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322957,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12156211,
+            121.4997826
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322962,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12100576,
+            121.4978957
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322966,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12146233,
+            121.4974257
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322970,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12138754,
+            121.4986449
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603854,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1199,
+            121.4986
+          ],
+          "address": "臺北市北投區八仙里大度路1段13號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "皇昌營造股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1100065,
+          "title": "臺北市CCTV設施",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12114,
+            121.49967
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300754,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.121579,
+            121.499714
+          ],
+          "address": "大業路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2701973,
+          "title": "新創汽車零配件股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.121893,
+            121.499895
+          ],
+          "address": "臺北市北投區大業路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501762,
+          "title": "國都汽車TOYOTA陽明所廠",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12189278,
+            121.4998947
+          ],
+          "address": "大業路2號六樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "服務廠六樓健身房",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務廠六樓健身房"
+        },
+        {
+          "id": 5700107,
+          "title": "臺北市固定測速照相地點表",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12158936,
+            121.4993992
+          ],
+          "address": "大度路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001021,
+          "title": "車容坊加油站大業站",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.121566,
+            121.498887
+          ],
+          "address": "臺北市北投區大度路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "車容坊股份有限公司車容坊加油站大業站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b63ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.11621130539404,
+        "lng": 121.49103350433691
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3,
+        "other": 1,
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 203093,
+          "title": "關渡分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11688,
+            121.48995
+          ],
+          "address": "臺北市北投區承德路7段401巷572號",
+          "layoutType": "",
+          "hours": "1714",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322915,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11592134,
+            121.4924617
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322920,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11676039,
+            121.4899617
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322921,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11632877,
+            121.4908819
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9600122,
+          "title": "下八仙抽水站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.115782,
+            121.490682
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400239,
+          "title": "基隆河5E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.116058,
+            121.49007
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400240,
+          "title": "基隆河6A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115853,
+            121.490927
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400241,
+          "title": "基隆河6B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115544,
+            121.491766
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b4fffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.114537547462728,
+        "lng": 121.4845848835548
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3,
+        "other": 3,
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 203094,
+          "title": "關渡分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11516,
+            121.48386
+          ],
+          "address": "臺北市北投區承德路7段401巷989弄75號",
+          "layoutType": "",
+          "hours": "1719",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322900,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11560757,
+            121.4841022
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322904,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11495698,
+            121.4837403
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322905,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11496418,
+            121.4829992
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8200114,
+          "title": "基隆河右岸下八仙碼頭",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.114297,
+            121.483093
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8200115,
+          "title": "基隆河右岸貴子坑溪出水口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1151252,
+            121.485408
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9600015,
+          "title": "福德宮",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.114319,
+            121.483053
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11200007,
+          "title": "臺北市河濱休憩點",
+          "category": "nature",
+          "location": "貴子坑溪匯流口",
+          "coords": [
+            25.11512998,
+            121.4854455
+          ],
+          "address": "貴子坑溪匯流口",
+          "layoutType": "自行車道堤頂休憩涼亭",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400231,
+          "title": "基隆河4B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114437,
+            121.483042
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400232,
+          "title": "基隆河4C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114595,
+            121.483942
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400233,
+          "title": "基隆河4D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114628,
+            121.484127
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400234,
+          "title": "基隆河4E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115307,
+            121.485457
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b23ffff",
+      "res": 9,
+      "count": 21,
+      "center": {
+        "lat": 25.12272874398873,
+        "lng": 121.49643186319632
+      },
+      "categories": {
+        "nightmarket": 2,
+        "culture": 14,
+        "nature": 1,
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 203101,
+          "title": "關渡分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12334,
+            121.49699
+          ],
+          "address": "臺北市北投區大業路65巷2弄口",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203102,
+          "title": "關渡分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12161,
+            121.49581
+          ],
+          "address": "臺北市北投區大度路1段怡和巷",
+          "layoutType": "",
+          "hours": "1853",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322958,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12202594,
+            121.4965293
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322959,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12230471,
+            121.4972104
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322960,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12297865,
+            121.4961169
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322961,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12205962,
+            121.4972616
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322963,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12228112,
+            121.4965943
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322964,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12153964,
+            121.4962328
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322967,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12264659,
+            121.4963896
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322968,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12224835,
+            121.4959299
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322969,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12270131,
+            121.4970486
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322992,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12342471,
+            121.4969483
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322995,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12305971,
+            121.4969872
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322996,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12355497,
+            121.4963114
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322997,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.1232915,
+            121.4963412
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322998,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12313007,
+            121.4977292
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603797,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1217,
+            121.4958
+          ],
+          "address": "臺北市北投區八仙里大度路1段與怡和巷交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "農業部農田水利署（農業部農田水利署七星管理處代管）",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8000088,
+          "title": "農禪寺豐年段一小段566地號臨時展場維修工程",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12305032,
+            121.4971057
+          ],
+          "address": "臺北市北投區大業路65巷",
+          "layoutType": "墜落",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "巨勳廣告工程有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9000202,
+          "title": "大業5",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.121521,
+            121.497143
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9100025,
+          "title": "臺北市污水其他設施",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.121583,
+            121.495917
+          ],
+          "address": "",
+          "layoutType": "無線式",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9600130,
+          "title": "怡和巷與大度路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1216,
+            121.4958
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4bdbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12255047530623,
+        "lng": 121.47603538751834
+      },
+      "categories": {
+        "culture": 1,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 322898,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12272725,
+            121.4768935
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5700101,
+          "title": "臺北市固定測速照相地點表",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12242044,
+            121.4777581
+          ],
+          "address": "大度路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4bc3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.123387571070957,
+        "lng": 121.4792593989543
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 322899,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12263389,
+            121.4783806
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b47ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.117377920088252,
+        "lng": 121.48567165655768
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 322901,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11642887,
+            121.4849529
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322902,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11652641,
+            121.4863075
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b7bffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 25.115374452417456,
+        "lng": 121.48780913766716
+      },
+      "categories": {
+        "culture": 2,
+        "nature": 11
+      },
+      "points": [
+        {
+          "id": 322903,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11658051,
+            121.487173
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322919,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11664754,
+            121.4882305
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004758,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11428,
+            121.488181
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004759,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11428,
+            121.488195
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004760,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114182,
+            121.488469
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004761,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114183,
+            121.488479
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004762,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114185,
+            121.488574
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004763,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114185,
+            121.488584
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.6"
+        },
+        {
+          "id": 11200008,
+          "title": "臺北市河濱休憩點",
+          "category": "nature",
+          "location": "下八仙抽水站下游",
+          "coords": [
+            25.11595292,
+            121.489178
+          ],
+          "address": "下八仙抽水站下游",
+          "layoutType": "自行車道堤頂休憩涼亭",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400235,
+          "title": "基隆河5A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115602,
+            121.48639
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400236,
+          "title": "基隆河5B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115833,
+            121.487322
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400237,
+          "title": "基隆河5C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.115982,
+            121.488323
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400238,
+          "title": "基隆河5D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.116095,
+            121.489165
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b43ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11654096742967,
+        "lng": 121.4824474631031
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 322906,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.1155775,
+            121.4828051
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322907,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11634574,
+            121.4828122
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322908,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.116381,
+            121.4836869
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b1bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12222147550619,
+        "lng": 121.48462097190153
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 322909,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12175159,
+            121.4858094
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322913,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12229164,
+            121.483868
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b0bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.120218210807984,
+        "lng": 121.4867584517667
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 322910,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12169807,
+            121.4862798
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b03ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12305841960839,
+        "lng": 121.48784526918172
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 322911,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12211577,
+            121.4868204
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322926,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12203728,
+            121.4881346
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4bcfffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.12138447941721,
+        "lng": 121.48139678719599
+      },
+      "categories": {
+        "culture": 2,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 322912,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12247024,
+            121.4810656
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322914,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12238749,
+            121.4824389
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5700102,
+          "title": "臺北市固定測速照相地點表",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12239283,
+            121.4803609
+          ],
+          "address": "大度路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b67ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117048106380302,
+        "lng": 121.49425798354945
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 322916,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11576922,
+            121.4931759
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b6fffff",
+      "res": 9,
+      "count": 16,
+      "center": {
+        "lat": 25.114207664682716,
+        "lng": 121.49317107703132
+      },
+      "categories": {
+        "culture": 2,
+        "nature": 14
+      },
+      "points": [
+        {
+          "id": 322917,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11556279,
+            121.4938622
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322918,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11537147,
+            121.4945625
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004656,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112737,
+            121.493387
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "*火蟻出沒小旗3主幹-44/50/37(測量1M/1.3M/1M)",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "*火蟻出沒小旗3主幹-44/50/37(測量1M/1.3M/1M)"
+        },
+        {
+          "id": 10004657,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112624,
+            121.493438
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004658,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112613,
+            121.493439
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004659,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112622,
+            121.493429
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004660,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112879,
+            121.493063
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004661,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112997,
+            121.49298
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.3M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量0.3M"
+        },
+        {
+          "id": 10004662,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113241,
+            121.492362
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004663,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113273,
+            121.492293
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004664,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113014,
+            121.492805
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004665,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113426,
+            121.492032
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004666,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113572,
+            121.491729
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1M"
+        },
+        {
+          "id": 11200009,
+          "title": "臺北市河濱休憩點",
+          "category": "nature",
+          "location": "大業二抽水站下游",
+          "coords": [
+            25.11398882,
+            121.4939889
+          ],
+          "address": "大業二抽水站下游",
+          "layoutType": "自行車道堤頂休憩涼亭",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400242,
+          "title": "基隆河6C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114642,
+            121.493431
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400243,
+          "title": "基隆河6D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114076,
+            121.49412
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b73ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11821482076986,
+        "lng": 121.48889596258024
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 322922,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.11669252,
+            121.488963
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b3bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.121891951603406,
+        "lng": 121.49320728017996
+      },
+      "categories": {
+        "culture": 2,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 322923,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12168366,
+            121.4938349
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322924,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12176306,
+            121.492583
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9000085,
+          "title": "八仙1",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.121767,
+            121.4921
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b0fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.121055107205763,
+        "lng": 121.48998280969856
+      },
+      "categories": {
+        "culture": 2,
+        "nature": 2,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 322925,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12187886,
+            121.4907562
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322927,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12195018,
+            121.4894455
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602590,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1217,
+            121.4905
+          ],
+          "address": "臺北市北投區八仙里大度路1段150巷口對面中島往西第6株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603300,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1215,
+            121.49
+          ],
+          "address": "臺北市北投區八仙里大度路一段(北投192綠地自行車道)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300168,
+          "title": "臺北市政府環境保護局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12,
+            121.49
+          ],
+          "address": "臺北市北投區大度路150巷11號（臺北市政府環境保護局士林區清潔隊）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b37ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.12556893987254,
+        "lng": 121.49751883632484
+      },
+      "categories": {
+        "culture": 2,
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 322994,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12566383,
+            121.4987282
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 322999,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區八仙里",
+          "coords": [
+            25.12640693,
+            121.4984781
+          ],
+          "address": "",
+          "layoutType": "地上式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300756,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.12622,
+            121.498829
+          ],
+          "address": "大業路260號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300763,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.125723,
+            121.498367
+          ],
+          "address": "大業路245號路口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2603126,
+          "title": "大才企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.125288,
+            121.49907
+          ],
+          "address": "臺北市北投區大業路166號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000474,
+          "title": "鳳甲美術館-N-大業路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1264999,
+            121.4983249
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5500650,
+          "title": "優力國際安全認證有限公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.126384,
+            121.498596
+          ],
+          "address": "大業路260號1F",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "警衛室旁逃生疏散樓梯口牆邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "警衛室旁逃生疏散樓梯口牆邊"
+        },
+        {
+          "id": 5501047,
+          "title": "誠隆汽車股份有限公司北投分公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.126846,
+            121.497744
+          ],
+          "address": "大業路265號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "展示中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展示中心"
+        },
+        {
+          "id": 6001022,
+          "title": "關渡大業路加油站",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.124701,
+            121.498572
+          ],
+          "address": "臺北市北投區大業路157號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "富叡股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b6bffff",
+      "res": 9,
+      "count": 102,
+      "center": {
+        "lat": 25.113370859412047,
+        "lng": 121.489946649722
+      },
+      "categories": {
+        "other": 6,
+        "nature": 96
+      },
+      "points": [
+        {
+          "id": 900350,
+          "title": "社子島濕地解說小築",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11314,
+            121.48974
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 902842,
+          "title": "社子島濕地解說小築",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11314,
+            121.48974
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001043,
+          "title": "社子島濕地解說小築",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11314,
+            121.48974
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001962,
+          "title": "社子島濕地解說小築",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11314,
+            121.48974
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000136,
+          "title": "社子島基隆河側58號",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.113012,
+            121.49057
+          ],
+          "address": "社子濕地(頭)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000137,
+          "title": "社子島基隆河側59號",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.113256,
+            121.489423
+          ],
+          "address": "社子濕地(尾)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004641,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112932,
+            121.49163
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004667,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112798,
+            121.491317
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "2主幹-67.5/38(測量1.3M/1.4M)",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "2主幹-67.5/38(測量1.3M/1.4M)"
+        },
+        {
+          "id": 10004668,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112785,
+            121.491359
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "4主幹-76.5/48/27/23(測量1.4M/13.M/1.3M/1.3M)",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "4主幹-76.5/48/27/23(測量1.4M/13.M/1.3M/1.3M)"
+        },
+        {
+          "id": 10004670,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112751,
+            121.491447
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1M"
+        },
+        {
+          "id": 10004671,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112808,
+            121.491481
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004683,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113262,
+            121.491102
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004684,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113018,
+            121.491416
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004685,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113,
+            121.491437
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "分支多，旁有一構樹過近",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "分支多，旁有一構樹過近"
+        },
+        {
+          "id": 10004686,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112995,
+            121.491446
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004687,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112983,
+            121.491452
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "算2主-25/20",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "算2主-25/20"
+        },
+        {
+          "id": 10004688,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112949,
+            121.491482
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004689,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112943,
+            121.491491
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004690,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112935,
+            121.491499
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004691,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113102,
+            121.49145
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6分支多",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6分支多"
+        },
+        {
+          "id": 10004692,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113037,
+            121.491519
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6分支多",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6分支多"
+        },
+        {
+          "id": 10004693,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112985,
+            121.491564
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "2主-41.5/31.5",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "2主-41.5/31.5"
+        },
+        {
+          "id": 10004694,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112921,
+            121.491523
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "分支多，2主-19/21",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "分支多，2主-19/21"
+        },
+        {
+          "id": 10004695,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112862,
+            121.491584
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.7M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量0.7M"
+        },
+        {
+          "id": 10004696,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112882,
+            121.491563
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "2主-19/35.5",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "2主-19/35.5"
+        },
+        {
+          "id": 10004726,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113187,
+            121.490467
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.1M"
+        },
+        {
+          "id": 10004727,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113154,
+            121.490492
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1M"
+        },
+        {
+          "id": 10004728,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113047,
+            121.490785
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.2M"
+        },
+        {
+          "id": 10004729,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113247,
+            121.490237
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004730,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113222,
+            121.49018
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.2M"
+        },
+        {
+          "id": 10004731,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113277,
+            121.490066
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004732,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113266,
+            121.489921
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "3主幹-32/29/33",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "3主幹-32/29/33"
+        },
+        {
+          "id": 10004733,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113255,
+            121.49004
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004734,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113337,
+            121.4896
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "3主幹-39/49/28(測量1.4M/1.4M/1.4M)",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "3主幹-39/49/28(測量1.4M/1.4M/1.4M)"
+        },
+        {
+          "id": 10004735,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113359,
+            121.489598
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "4主幹-35.5/35.5/30.5/39",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "4主幹-35.5/35.5/30.5/39"
+        },
+        {
+          "id": 10004736,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11338,
+            121.489579
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004737,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113382,
+            121.489502
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004738,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113402,
+            121.489167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004739,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113462,
+            121.48917
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004740,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113465,
+            121.489135
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004741,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113428,
+            121.488821
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004742,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113453,
+            121.488808
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004743,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113433,
+            121.488791
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004744,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113455,
+            121.488759
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004745,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113437,
+            121.488739
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004746,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113432,
+            121.488705
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1M"
+        },
+        {
+          "id": 10004747,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113442,
+            121.488618
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1M"
+        },
+        {
+          "id": 10004764,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114187,
+            121.488678
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004765,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114187,
+            121.488692
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004766,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11421,
+            121.488782
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "有藤蔓攀附，全包測量1.4M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "有藤蔓攀附，全包測量1.4M"
+        },
+        {
+          "id": 10004767,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11418,
+            121.488823
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004768,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114165,
+            121.488837
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004769,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114164,
+            121.488816
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004770,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114209,
+            121.488879
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004771,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114206,
+            121.488889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004772,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114209,
+            121.488901
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004773,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114202,
+            121.488929
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.2M"
+        },
+        {
+          "id": 10004774,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114216,
+            121.488938
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.2M"
+        },
+        {
+          "id": 10004775,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114189,
+            121.488965
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "2主幹-35.5/21",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "2主幹-35.5/21"
+        },
+        {
+          "id": 10004776,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114236,
+            121.489025
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004777,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114229,
+            121.489046
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜測量1.2M"
+        },
+        {
+          "id": 10004778,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114222,
+            121.48904
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004779,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114216,
+            121.489044
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004780,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114218,
+            121.489032
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004781,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114206,
+            121.489118
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004782,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114208,
+            121.489134
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "3主幹-23/27/29.5",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "3主幹-23/27/29.5"
+        },
+        {
+          "id": 10004783,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11426,
+            121.489309
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜4主幹-28/33/57/23.5",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜4主幹-28/33/57/23.5"
+        },
+        {
+          "id": 10004784,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114265,
+            121.48932
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004785,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114251,
+            121.489322
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜測量1.2M"
+        },
+        {
+          "id": 10004786,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114241,
+            121.48933
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004787,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114247,
+            121.489336
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6多細株算做一點位",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6多細株算做一點位"
+        },
+        {
+          "id": 10004788,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114254,
+            121.489341
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.1M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.1M"
+        },
+        {
+          "id": 10004789,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114243,
+            121.489525
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004790,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114207,
+            121.489922
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004791,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114196,
+            121.489937
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004792,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11419,
+            121.48995
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.2M"
+        },
+        {
+          "id": 10004793,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11419,
+            121.489976
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004794,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114207,
+            121.489981
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.3M稍下方平均處",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量1.3M稍下方平均處"
+        },
+        {
+          "id": 10004795,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114204,
+            121.489997
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004796,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114203,
+            121.49001
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜2主幹-25/21",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜2主幹-25/21"
+        },
+        {
+          "id": 10004797,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114201,
+            121.490035
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10004798,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114198,
+            121.490049
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10004799,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114207,
+            121.490051
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004800,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114212,
+            121.489941
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004801,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114165,
+            121.490282
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004802,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114,
+            121.490853
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004803,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113929,
+            121.491057
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004804,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113906,
+            121.491079
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004805,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113887,
+            121.491133
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004806,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113875,
+            121.491167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004807,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11387,
+            121.491173
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004808,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113868,
+            121.491167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004809,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113868,
+            121.491161
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004810,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113818,
+            121.491279
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004811,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113802,
+            121.49131
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004812,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113756,
+            121.491409
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10004813,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113807,
+            121.491109
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 11200031,
+          "title": "臺北市河濱休憩點",
+          "category": "nature",
+          "location": "新舊防潮堤濕地2",
+          "coords": [
+            25.11316999,
+            121.4903595
+          ],
+          "address": "新舊防潮堤濕地2",
+          "layoutType": "自行車道堤頂休憩涼亭",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11200032,
+          "title": "臺北市河濱休憩點",
+          "category": "nature",
+          "location": "新舊防潮堤濕地1",
+          "coords": [
+            25.11279691,
+            121.491232
+          ],
+          "address": "新舊防潮堤濕地1",
+          "layoutType": "自行車道堤頂休憩涼亭",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400941,
+          "title": "社子33",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113394,
+            121.488625
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400942,
+          "title": "社子34",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113287,
+            121.489656
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400943,
+          "title": "社子35",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113062,
+            121.49056
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12473215180376,
+        "lng": 121.49429420140794
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502031,
+          "title": "臺北市政府環境保護局士林區清潔隊停車場(大度)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12364462,
+            121.4934382
+          ],
+          "address": "大度路1段150巷11號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b2bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.119888466153483,
+        "lng": 121.49534491227114
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 8000142,
+          "title": "略",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.12125081,
+            121.4957727
+          ],
+          "address": "臺北市北投區大度路1段167號",
+          "layoutType": "墜落、滾落",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "達宸工程實業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.127901655894192,
+        "lng": 121.486794569527
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 9600132,
+          "title": "舊水磨坑攔汙柵",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1268,
+            121.4876
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4b4bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.113700590542017,
+        "lng": 121.48136074201429
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400022,
+          "title": "基隆河3D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113952,
+            121.48026
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400023,
+          "title": "基隆河3E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11407,
+            121.481219
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400024,
+          "title": "基隆河4A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114204,
+            121.482042
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

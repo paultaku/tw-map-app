@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
 import { Place } from '@/services/dataProvider';
+import type { BBox, GridCell } from '@/types/location';
 
 // Import Leaflet MarkerCluster plugin and styles
 import 'leaflet.markercluster';
@@ -18,6 +19,10 @@ interface MapComponentProps {
   flyToCoords: [number, number] | null;
   flyToZoom?: number;
   onFlyComplete: () => void;
+  // H3 aggregate count bubbles (zoomed-out view); empty in detail view.
+  aggregateCells?: GridCell[];
+  // Fired (current viewport bbox + zoom) on moveend/zoomend and once after init.
+  onViewportChange?: (bbox: BBox, zoom: number) => void;
 }
 
 const tileLayerUrls = {
@@ -49,6 +54,8 @@ export default function MapComponent({
   flyToCoords,
   flyToZoom,
   onFlyComplete,
+  aggregateCells = [],
+  onViewportChange,
 }: MapComponentProps) {
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
@@ -56,12 +63,18 @@ export default function MapComponent({
   const tileLayerInstanceRef = useRef<L.TileLayer | null>(null);
   const markersRef = useRef<{ [key: number]: L.Marker }>({});
   const markerClusterGroupRef = useRef<L.MarkerClusterGroup | null>(null);
+  const aggregateGroupRef = useRef<L.LayerGroup | null>(null);
 
-  // Use a ref for onMouseMove to prevent the map initialization effect from re-running when onMouseMove updates
+  // Refs for callbacks so the init effect doesn't need to re-run when they change.
   const onMouseMoveRef = useRef(onMouseMove);
   useEffect(() => {
     onMouseMoveRef.current = onMouseMove;
   }, [onMouseMove]);
+
+  const onViewportChangeRef = useRef(onViewportChange);
+  useEffect(() => {
+    onViewportChangeRef.current = onViewportChange;
+  }, [onViewportChange]);
 
   // 1. Initialize Map (Only runs once on mount)
   useEffect(() => {
@@ -92,6 +105,7 @@ export default function MapComponent({
       maxClusterRadius: 45, // Grouping radius in pixels
       spiderfyOnMaxZoom: true,
       disableClusteringAtZoom: 16, // Don't cluster when zoomed in deep
+      chunkedLoading: true, // Add markers in chunks so a dense viewport doesn't block the main thread
     });
     mapInstance.addLayer(markerClusterGroup);
     markerClusterGroupRef.current = markerClusterGroup;
@@ -104,10 +118,24 @@ export default function MapComponent({
       onMouseMoveRef.current(e.latlng.lat, e.latlng.lng);
     });
 
-    // Invalidate size after layout pass to handle Next.js client-side rendering/hydration timing
+    // Report viewport changes so the page can load the matching H3 grid (debounced upstream).
+    const fireViewport = () => {
+      if (!mapInstanceRef.current) return;
+      const b = mapInstance.getBounds();
+      onViewportChangeRef.current?.(
+        { minLat: b.getSouth(), maxLat: b.getNorth(), minLng: b.getWest(), maxLng: b.getEast() },
+        mapInstance.getZoom(),
+      );
+    };
+    mapInstance.on('moveend', fireViewport);
+    mapInstance.on('zoomend', fireViewport);
+
+    // Invalidate size after layout pass to handle Next.js client-side rendering/hydration timing,
+    // then fire the initial viewport load (bounds are correct only after sizing).
     const timer = setTimeout(() => {
       if (mapInstanceRef.current) {
         mapInstanceRef.current.invalidateSize();
+        fireViewport();
       }
     }, 200);
 
@@ -126,6 +154,7 @@ export default function MapComponent({
       markersRef.current = {};
       tileLayerInstanceRef.current = null;
       markerClusterGroupRef.current = null;
+      aggregateGroupRef.current = null;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -406,6 +435,40 @@ export default function MapComponent({
 
     onFlyComplete();
   }, [mapInitialized, flyToCoords, flyToZoom, onFlyComplete]);
+
+  // 5. Render H3 aggregate count bubbles (zoomed-out view). Tapping one zooms in,
+  //    which crosses the detail threshold and switches to individual markers.
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map || !mapInitialized) return;
+
+    let group = aggregateGroupRef.current;
+    if (!group) {
+      group = L.layerGroup().addTo(map);
+      aggregateGroupRef.current = group;
+    }
+    const g = group;
+    g.clearLayers();
+
+    aggregateCells.forEach((cell) => {
+      const size = cell.count >= 100 ? 56 : cell.count >= 20 ? 46 : 38;
+      const icon = L.divIcon({
+        className: 'h3-aggregate-bubble',
+        html: `<div style="
+            width:${size}px;height:${size}px;display:flex;align-items:center;justify-content:center;
+            border-radius:9999px;background:rgba(37,99,235,0.85);color:#fff;font-weight:700;
+            font-size:${cell.count >= 100 ? 13 : 12}px;border:3px solid rgba(255,255,255,0.85);
+            box-shadow:0 4px 12px rgba(0,0,0,0.45);">${cell.count}</div>`,
+        iconSize: [size, size],
+        iconAnchor: [size / 2, size / 2],
+      });
+      const marker = L.marker([cell.center.lat, cell.center.lng], { icon });
+      marker.on('click', () => {
+        map.flyTo([cell.center.lat, cell.center.lng], Math.min(map.getZoom() + 3, 18));
+      });
+      g.addLayer(marker);
+    });
+  }, [mapInitialized, aggregateCells]);
 
   return <div ref={mapRef} className="w-full h-full" />;
 }

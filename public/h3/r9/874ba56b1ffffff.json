@@ -1,0 +1,87 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56b16bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.178858899451036,
+        "lng": 121.53535624002009
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 324598,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17787995,
+            121.5348572
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 324636,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市北投區湖田里",
+          "coords": [
+            25.17801844,
+            121.5362099
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56b143ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.1820268714871,
+        "lng": 121.52785308145114
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 8800001,
+          "title": "鞍部點",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.182664,
+            121.527797
+          ],
+          "address": "北投區竹子湖路111號附近",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

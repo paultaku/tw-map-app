@@ -1,8 +1,7 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import dynamic from 'next/dynamic';
-import { useQuery } from '@tanstack/react-query';
 import {
   Card
 } from '@heroui/react';
@@ -18,7 +17,10 @@ import {
   Cigarette,
   ChevronDown
 } from 'lucide-react';
-import { Place, COUNTIES, getPlacesByCounty } from '@/services/dataProvider';
+import { Place, COUNTIES } from '@/services/dataProvider';
+import { fetchGridPlaces } from '@/services/gridProvider';
+import { useDebouncedCallback } from '@/hooks/useDebouncedCallback';
+import type { BBox, GridCell } from '@/types/location';
 
 // Dynamically import MapComponent to prevent SSR window reference errors
 const MapComponent = dynamic(() => import('@/components/MapComponent'), {
@@ -35,6 +37,19 @@ const CATEGORY_LABELS: Record<string, string> = {
 
 const getCategoryLabel = (category: string) => CATEGORY_LABELS[category] ?? category;
 
+// Cap how many cards the sidebar renders. The map still shows every point (clustered);
+// this only bounds DOM size so a dense viewport (thousands of points) doesn't jank the list.
+const LIST_RENDER_CAP = 300;
+
+// Build a Google Maps link for a place — prefer address (better label), fall back to coordinates.
+const getGoogleMapsUrl = (place: Place) => {
+  const [lat, lng] = place.coords;
+  const query = place.address
+    ? `${place.location ?? ''} ${place.address}`.trim()
+    : `${lat},${lng}`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+};
+
 export default function Home() {
   const [selectedLocationId, setSelectedLocationId] = useState<number | null>(null);
   const [lastSelectedPlace, setLastSelectedPlace] = useState<Place | null>(null);
@@ -50,45 +65,39 @@ export default function Home() {
   const [flyToZoom, setFlyToZoom] = useState<number | null>(null);
   const [selectedCountyId, setSelectedCountyId] = useState<string>('all');
   const [isCountyDropdownOpen, setIsCountyDropdownOpen] = useState<boolean>(false);
-  const [selectedDatasetId, setSelectedDatasetId] = useState<string>('');
-  const [isDatasetDropdownOpen, setIsDatasetDropdownOpen] = useState<boolean>(false);
 
-  // Fetch dataset options from the generated mapping JSON
-  const { data: datasetOptions = [] } = useQuery<Array<{ value: string; label: string }>>({
-    queryKey: ['datasetOptions'],
-    queryFn: async () => {
-      try {
-        const res = await fetch('/data-set-mapping.json');
-        if (!res.ok) throw new Error('Failed to fetch dataset mapping');
-        const json = await res.json();
-        return json.options || [];
-      } catch (err) {
-        console.error(err);
-        return [];
-      }
-    }
-  });
+  // Viewport-driven H3 data source (dev: static public/h3/*, prod: Firestore).
+  // Detail (zoomed-in) → individual places; aggregate (zoomed-out) → count bubbles.
+  const [places, setPlaces] = useState<Place[]>([]);
+  const [aggregateCells, setAggregateCells] = useState<GridCell[]>([]);
 
-  // TanStack Query to manage/retrieve location list
-  const { data: places = [] } = useQuery<Place[]>({
-    queryKey: ['places', selectedCountyId, selectedDatasetId],
-    queryFn: async () => {
-      if (selectedCountyId === 'taipei' && selectedDatasetId) {
-        try {
-          const res = await fetch(`/taipei/data/${selectedDatasetId}.json`);
-          if (!res.ok) {
-            throw new Error(`Failed to fetch dataset ${selectedDatasetId}`);
-          }
-          const datasetJson = await res.json();
-          return datasetJson.data || [];
-        } catch (error) {
-          console.error('Error loading dataset:', error);
-          return [];
-        }
+  // Drop out-of-order responses when the user keeps panning/zooming.
+  const reqIdRef = useRef(0);
+  const loadViewport = async (bbox: BBox, zoom: number) => {
+    const mine = ++reqIdRef.current;
+    try {
+      const result = await fetchGridPlaces(bbox, zoom);
+      if (mine !== reqIdRef.current) return;
+      if (result.mode === 'detail') {
+        setPlaces(result.places);
+        setAggregateCells([]);
+      } else {
+        setPlaces([]);
+        setAggregateCells(result.cells);
       }
-      return getPlacesByCounty(selectedCountyId);
+    } catch (e) {
+      console.error('Viewport grid load failed:', e);
     }
-  });
+  };
+  // Debounce so continuous drag/zoom only triggers one load after it settles.
+  const handleViewportChange = useDebouncedCallback(
+    (bbox: BBox, zoom: number) => loadViewport(bbox, zoom),
+    300,
+  );
+
+  // Total points represented by the current aggregate view (for list/handle copy).
+  const aggregateTotal = aggregateCells.reduce((sum, c) => sum + c.count, 0);
+  const inAggregate = aggregateCells.length > 0 && places.length === 0;
 
   // Sync lastSelectedPlace with selectedPlace to persist it during slide-out transition
   useEffect(() => {
@@ -135,29 +144,15 @@ export default function Home() {
 
   const handleCountyChange = (countyId: string) => {
     setSelectedCountyId(countyId);
-    setSelectedDatasetId('');
     setIsCountyDropdownOpen(false);
-    setIsDatasetDropdownOpen(false);
 
+    // County selector now just flies the map there; data follows the viewport (H3).
     const county = COUNTIES.find(c => c.id === countyId);
     if (county) {
       setFlyToCoords(county.center);
       setFlyToZoom(county.zoom);
     }
     setSelectedLocationId(null);
-  };
-
-  const handleDatasetChange = (datasetId: string) => {
-    setSelectedDatasetId(datasetId);
-    setIsDatasetDropdownOpen(false);
-    setSelectedLocationId(null);
-
-    // Auto-fly to Taipei center when switching datasets to let the user see the new pins
-    const taipeiCounty = COUNTIES.find(c => c.id === 'taipei');
-    if (taipeiCounty) {
-      setFlyToCoords(taipeiCounty.center);
-      setFlyToZoom(taipeiCounty.zoom);
-    }
   };
 
   return (
@@ -179,7 +174,11 @@ export default function Home() {
           <span className="h-1.5 w-10 rounded-full bg-slate-600" />
           <span className="flex items-center gap-1.5 text-[11px] font-semibold text-slate-400">
             <ChevronDown className={`w-3.5 h-3.5 transition-transform duration-200 ${isSheetExpanded ? '' : 'rotate-180'}`} />
-            {isSheetExpanded ? '收合清單' : `${filteredPlaces.length} 個地點 · 點此展開`}
+            {isSheetExpanded
+              ? '收合清單'
+              : inAggregate
+                ? `此範圍約 ${aggregateTotal} 個地點 · 放大查看`
+                : `${filteredPlaces.length} 個地點 · 點此展開`}
           </span>
         </button>
 
@@ -255,72 +254,6 @@ export default function Home() {
               </>
             )}
           </div>
-
-          {/* Dataset Selector (Only for Taipei City) */}
-          {selectedCountyId === 'taipei' && (
-            <div className="relative mt-3">
-              <span className="text-[10px] text-slate-500 uppercase tracking-widest font-bold block mb-1.5 px-0.5">
-                選擇資料集
-              </span>
-
-              {/* Dropdown Button */}
-              <button
-                onClick={() => setIsDatasetDropdownOpen(!isDatasetDropdownOpen)}
-                className="w-full flex items-center justify-between bg-slate-900/55 hover:bg-slate-900/85 border border-slate-800/85 focus:border-blue-500 rounded-xl px-4 py-3 md:py-2.5 text-xs font-semibold transition-all cursor-pointer outline-none text-slate-200"
-              >
-                <div className="flex items-center gap-2">
-                  <MapIcon className="w-3.5 h-3.5 text-purple-400" />
-                  <span className="line-clamp-1 max-w-[240px]">
-                    {selectedDatasetId
-                      ? datasetOptions.find(opt => opt.value === selectedDatasetId)?.label
-                      : '預設景點與指定吸菸區'}
-                  </span>
-                </div>
-                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${isDatasetDropdownOpen ? 'rotate-180' : ''}`} />
-              </button>
-
-              {/* Dropdown Menu */}
-              {isDatasetDropdownOpen && (
-                <>
-                  {/* Backdrop to close dropdown on click outside */}
-                  <div
-                    className="fixed inset-0 z-40"
-                    onClick={() => setIsDatasetDropdownOpen(false)}
-                  />
-                  <div className="absolute top-[calc(100%+6px)] left-0 right-0 z-50 bg-[#0e1726]/95 border border-slate-850 rounded-xl shadow-xl max-h-[220px] overflow-y-auto p-1.5 flex flex-col gap-0.5 backdrop-blur-md animate-in fade-in-50 duration-150">
-                    {/* Default Option */}
-                    <button
-                      onClick={() => handleDatasetChange('')}
-                      className={`w-full flex items-center justify-between px-3.5 py-2.5 md:py-1.5 rounded-lg transition-colors cursor-pointer text-left ${
-                        !selectedDatasetId
-                          ? 'bg-blue-600/15 text-blue-400 font-bold'
-                          : 'text-slate-300 hover:bg-slate-800/50 hover:text-slate-100'
-                      }`}
-                    >
-                      <span className="text-[11px] font-semibold">預設景點與指定吸菸區</span>
-                      {!selectedDatasetId && <div className="w-1.5 h-1.5 rounded-full bg-blue-500" />}
-                    </button>
-
-                    {/* Mapping Options */}
-                    {datasetOptions.map(option => (
-                      <button
-                        key={option.value}
-                        onClick={() => handleDatasetChange(option.value)}
-                        className={`w-full flex items-center justify-between px-3.5 py-2.5 md:py-1.5 rounded-lg transition-colors cursor-pointer text-left ${
-                          selectedDatasetId === option.value
-                            ? 'bg-blue-600/15 text-blue-400 font-bold'
-                            : 'text-slate-300 hover:bg-slate-800/50 hover:text-slate-100'
-                        }`}
-                      >
-                        <span className="text-[11px] font-semibold line-clamp-1 max-w-[240px]">{option.label}</span>
-                        {selectedDatasetId === option.value && <div className="w-1.5 h-1.5 rounded-full bg-blue-500" />}
-                      </button>
-                    ))}
-                  </div>
-                </>
-              )}
-            </div>
-          )}
         </section>
 
         {/* Search */}
@@ -340,9 +273,14 @@ export default function Home() {
         {/* Scrollable Places List */}
         <section className="flex-grow overflow-y-auto overscroll-contain px-6 py-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] flex flex-col gap-2">
           {filteredPlaces.length === 0 ? (
-            <div className="text-center py-8 text-slate-500 text-sm">找不到地點。</div>
+            <div className="text-center py-8 text-slate-500 text-sm">
+              {inAggregate
+                ? `此範圍約有 ${aggregateTotal} 個地點，放大地圖以檢視清單。`
+                : '找不到地點。'}
+            </div>
           ) : (
-            filteredPlaces.map(place => (
+            <>
+            {filteredPlaces.slice(0, LIST_RENDER_CAP).map(place => (
               <div
                 key={place.id}
                 onClick={() => handleSelectLocation(place.id)}
@@ -370,7 +308,13 @@ export default function Home() {
                   </span>
                 </p>
               </div>
-            ))
+            ))}
+            {filteredPlaces.length > LIST_RENDER_CAP && (
+              <div className="text-center py-3 text-[11px] text-slate-500">
+                顯示前 {LIST_RENDER_CAP} / {filteredPlaces.length} 筆，請放大地圖或使用搜尋縮小範圍。
+              </div>
+            )}
+            </>
           )}
         </section>
 
@@ -390,7 +334,7 @@ export default function Home() {
                 <div className="text-right">
                   <span className="text-[10px] text-slate-500 uppercase tracking-widest block mb-0.5">顯示中地點</span>
                   <span className="font-semibold text-slate-300">
-                    {activeCount} / {totalCount}
+                    {inAggregate ? `約 ${aggregateTotal}` : `${activeCount} / ${totalCount}`}
                   </span>
                 </div>
               </div>
@@ -515,8 +459,8 @@ export default function Home() {
               )}
             </div>
 
-            {/* Sticky Action Button at the bottom */}
-            <div className="p-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] border-t border-slate-800/80 bg-slate-950/40 shrink-0">
+            {/* Sticky Action Buttons at the bottom */}
+            <div className="p-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] border-t border-slate-800/80 bg-slate-950/40 shrink-0 flex flex-col gap-2.5">
               <button
                 onClick={() => {
                   setFlyToCoords(lastSelectedPlace.coords);
@@ -525,8 +469,17 @@ export default function Home() {
                 className="w-full text-xs font-semibold py-3 px-4 rounded-xl bg-gradient-to-r from-blue-600 to-cyan-500 hover:from-blue-500 hover:to-cyan-400 active:scale-98 transition-all text-white shadow-lg shadow-blue-500/15 flex items-center justify-center gap-2 cursor-pointer outline-none"
               >
                 <Locate className="w-4 h-4" />
-                飛往此地點
+                前往
               </button>
+              <a
+                href={getGoogleMapsUrl(lastSelectedPlace)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full text-xs font-semibold py-3 px-4 rounded-xl bg-slate-800/70 hover:bg-slate-700/70 border border-slate-700/60 active:scale-98 transition-all text-slate-200 flex items-center justify-center gap-2 cursor-pointer outline-none"
+              >
+                <MapPin className="w-4 h-4" />
+                從 Google Map 開啟
+              </a>
             </div>
           </>
         )}
@@ -538,6 +491,8 @@ export default function Home() {
       <main className="absolute inset-0 isolate h-full w-full md:relative md:inset-auto md:flex-grow md:h-full">
         <MapComponent
           locations={filteredPlaces}
+          aggregateCells={aggregateCells}
+          onViewportChange={handleViewportChange}
           selectedLocationId={selectedLocationId}
           onSelectLocation={handleSelectLocation}
           activeTileLayer={activeTileLayer}

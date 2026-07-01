@@ -1,0 +1,749 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56824bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.15114602734857,
+        "lng": 121.55670647429055
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200495,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.15086,
+            121.55664
+          ],
+          "address": "臺北市士林區菁山路101巷71弄36-2號",
+          "layoutType": "",
+          "hours": "1816",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba568253ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.155989490472336,
+        "lng": 121.55565557133234
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 200505,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1545,
+            121.55581
+          ],
+          "address": "臺北市士林區新園街巷底",
+          "layoutType": "",
+          "hours": "2020",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310353,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區陽明里",
+          "coords": [
+            25.15451617,
+            121.5558029
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56825bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.153149858168312,
+        "lng": 121.55456763519557
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 200506,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.15207,
+            121.55424
+          ],
+          "address": "臺北市士林區新園街75巷口",
+          "layoutType": "",
+          "hours": "2022",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310355,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區陽明里",
+          "coords": [
+            25.15184827,
+            121.5538426
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310357,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區陽明里",
+          "coords": [
+            25.15234295,
+            121.5541531
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310359,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區陽明里",
+          "coords": [
+            25.1527153,
+            121.5546544
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56824fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.15198185875001,
+        "lng": 121.55993333958656
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 310128,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15175537,
+            121.5587951
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310170,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15167759,
+            121.5604118
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310172,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15156083,
+            121.5612246
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310175,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15175247,
+            121.5595897
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56827bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.15281763785275,
+        "lng": 121.56316031712097
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 310171,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.1515224,
+            121.5620556
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310174,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15195422,
+            121.5620781
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56820fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.158496957224358,
+        "lng": 121.56533647815488
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 310176,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15859681,
+            121.565233
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56820bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.15766118729031,
+        "lng": 121.56210939697871
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 310177,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.15619876,
+            121.5621636
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56828fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.165343754823684,
+        "lng": 121.56214652505425
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 310178,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.16573556,
+            121.5636158
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 310179,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.16520998,
+            121.5634433
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5682b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.169018857400822,
+        "lng": 121.56646177800397
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 310180,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.16830567,
+            121.5654993
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5682a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.167015319378944,
+        "lng": 121.56860088609996
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 310234,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市士林區菁山里",
+          "coords": [
+            25.16715673,
+            121.569983
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5682bbffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.166179563278142,
+        "lng": 121.56537364946782
+      },
+      "categories": {
+        "smoking": 1,
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 500024,
+          "title": "冷水坑遊客服務站東南側、服務站一樓平臺處",
+          "category": "smoking",
+          "location": "臺北市士林區",
+          "coords": [
+            25.16551,
+            121.56417
+          ],
+          "address": "菁山路101巷170號",
+          "layoutType": "戶外開放式吸菸區",
+          "hours": "24小時開放",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "內政部國家公園署陽明山國家公園管理處",
+          "phone": "(02)28613601-602",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1600695,
+          "title": "冷水坑遊客中心(冷擎步道)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.165661,
+            121.563846
+          ],
+          "address": "臺北市士林區菁山路101巷170號",
+          "layoutType": "",
+          "hours": "0:00~24:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "陽明山國家公園管理處",
+          "phone": "28610036",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700545,
+          "title": "嶼食有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.16565297,
+            121.5640457
+          ],
+          "address": "臺北市中山區菁山路101巷170號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000602,
+          "title": "冷水坑服務站-S-菁山路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1660122,
+            121.5639874
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5500170,
+          "title": "內政部國家公園署陽明山國家公園管理處冷水坑遊客服務站",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.165613,
+            121.56391
+          ],
+          "address": "菁山路101巷170號(冷水坑遊客服務站)",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "冷水坑遊客服務站一樓展場內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "冷水坑遊客服務站一樓展場內"
+        },
+        {
+          "id": 5501223,
+          "title": "七星公園-雙層涼亭(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.16567508,
+            121.5640096
+          ],
+          "address": "",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "七星公園-雙層涼亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "七星公園-雙層涼亭"
+        },
+        {
+          "id": 5501241,
+          "title": "內政部國家公園署陽明山國家公園管理處冷水坑遊客服務站",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.165613,
+            121.56391
+          ],
+          "address": "菁山路101巷170號(冷水坑遊客服務站)",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "冷水坑公共溫泉浴室-男浴室走道(進入入口處)\n(114年12月9日起溫泉浴室整修未開放，開放時間另行公告)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "冷水坑公共溫泉浴室-男浴室走道(進入入口處)\n(114年12月9日起溫泉浴室整修未開放，開放時間另行公告)"
+        },
+        {
+          "id": 5501456,
+          "title": "雞心崙觀景平台(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.16564164,
+            121.5639497
+          ],
+          "address": "",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "雞心崙觀景平台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "雞心崙觀景平台"
+        },
+        {
+          "id": 5501475,
+          "title": "七星山主峰(冷水坑遊客服務站)-(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.16564018,
+            121.5639337
+          ],
+          "address": "",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "七星山主峰及七星山東峰間步道三岔路口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "七星山主峰及七星山東峰間步道三岔路口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba568247ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.154821564132675,
+        "lng": 121.56102135718919
+      },
+      "categories": {
+        "smoking": 1,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 500027,
+          "title": "菁山自然中心後門殘障車位對面",
+          "category": "smoking",
+          "location": "臺北市士林區",
+          "coords": [
+            25.15583,
+            121.56166
+          ],
+          "address": "菁山路101巷85號",
+          "layoutType": "戶外開放式吸菸區",
+          "hours": "24小時開放",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "內政部國家公園署陽明山國家公園管理處",
+          "phone": "(02)28613601-602",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5500435,
+          "title": "菁山自然中心",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1556714,
+            121.5617056
+          ],
+          "address": "台北市士林區菁山路101巷85號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "自大門往教室的方向，在飲水機旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "自大門往教室的方向，在飲水機旁邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5682d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.163671980902407,
+        "lng": 121.55569261294127
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501222,
+          "title": "七星山公園-七星山公園廁所旁(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.16405687,
+            121.5570392
+          ],
+          "address": "",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "七星公園長形涼亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "七星公園長形涼亭"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

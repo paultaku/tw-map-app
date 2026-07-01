@@ -1,5 +1,4 @@
 import { initializeApp, getApps, getApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
@@ -17,6 +16,14 @@ const firebaseConfig = {
 const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
 
 export const auth = getAuth(app);
-export const analytics = getAnalytics(app);
 export const db = getFirestore(app);
+
+// Analytics is browser-only and unsupported in some environments (and needs measurementId).
+// Initialise it lazily and defensively so that importing `db` / `auth` is always safe.
+export async function initAnalytics() {
+  if (typeof window === "undefined") return null;
+  const { getAnalytics, isSupported } = await import("firebase/analytics");
+  return (await isSupported()) ? getAnalytics(app) : null;
+}
+
 export default app;

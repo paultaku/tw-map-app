@@ -1,0 +1,4479 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da2c7ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 24.97202571386198,
+        "lng": 121.58699265772245
+      },
+      "categories": {
+        "other": 7,
+        "nightmarket": 1,
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 100023,
+          "title": "指南路",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970748,
+            121.587178
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100525,
+          "title": "指南路",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970748,
+            121.587178
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 202521,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97112,
+            121.58778
+          ],
+          "address": "臺北市文山區指南路3段38巷19之1號〈美加〉",
+          "layoutType": "",
+          "hours": "1838",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321176,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97104436,
+            121.5876132
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300790,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970748,
+            121.587178
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2702617,
+          "title": "美加茶園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.971563,
+            121.587661
+          ],
+          "address": "臺北市文山區指南路3段38巷19號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900521,
+          "title": "烏鐵月光賞茶故事館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.971325,
+            121.58792
+          ],
+          "address": "臺北市文山區指南路三段38巷25之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2936-1479/ 0937-820-360(周先生)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901579,
+          "title": "Wutie Chado",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.971325,
+            121.58792
+          ],
+          "address": "No. 25",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 7000344,
+          "title": "烏鐵月光賞茶故事館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.971325,
+            121.58792
+          ],
+          "address": "臺北市文山區指南路三段38巷25之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da257ffff",
+      "res": 9,
+      "count": 18,
+      "center": {
+        "lat": 24.967168775469307,
+        "lng": 121.58804330245626
+      },
+      "categories": {
+        "other": 11,
+        "nightmarket": 3,
+        "culture": 2,
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 100030,
+          "title": "指南路",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968292,
+            121.587896
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100532,
+          "title": "指南路",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968292,
+            121.587896
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 202518,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96708,
+            121.58687
+          ],
+          "address": "臺北市文山區指南路3段38巷22至26號〈大觀園〉",
+          "layoutType": "",
+          "hours": "1832",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202519,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96823,
+            121.58791
+          ],
+          "address": "臺北市文山區指南路3段38巷16之4號〈三玄宮〉",
+          "layoutType": "",
+          "hours": "1834",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321178,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96712398,
+            121.5872361
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321179,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96826511,
+            121.5879698
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300782,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968699,
+            121.587764
+          ],
+          "address": "指南路3段38巷16-2號(緣續緣茶莊斜對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300793,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968292,
+            121.587896
+          ],
+          "address": "指南路3段38巷18-2號旁(貓空纜車站公車站牌對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300796,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96716,
+            121.587359
+          ],
+          "address": "指南路3段38巷22-1號(大觀園)斜對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2702369,
+          "title": "貓空大觀園餐館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967193,
+            121.587228
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷22之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702466,
+          "title": "森活多一點甜工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96806,
+            121.588358
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16-7號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702473,
+          "title": "榮門客棧茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967103,
+            121.586824
+          ],
+          "address": "臺北市文山區指南路３段３８巷22號之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702491,
+          "title": "貓空小木屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.966861,
+            121.586678
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷28號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702695,
+          "title": "觀鼎休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968139,
+            121.588016
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16之5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700142,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9683,
+            121.5882
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "35",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700147,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9672,
+            121.5874
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000120,
+          "title": "貓空纜車站-N-指南路三段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9685662,
+            121.5880269
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100116,
+          "title": "指南路3段38巷35號(貓空纜車貓空站前)",
+          "category": "nightmarket",
+          "location": "文山",
+          "coords": [
+            24.968699,
+            121.587846
+          ],
+          "address": "貓空纜車(貓空站)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2bbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.976539950317445,
+        "lng": 121.59453477584354
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 202475,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97686,
+            121.59456
+          ],
+          "address": "臺北市文山區新光路2段74巷13號(週一、週五收運)",
+          "layoutType": "",
+          "hours": "1452",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321211,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97525341,
+            121.5949552
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321217,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97581124,
+            121.5931326
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321219,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97545484,
+            121.5940353
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da20bffff",
+      "res": 9,
+      "count": 39,
+      "center": {
+        "lat": 24.968003110155614,
+        "lng": 121.59127020836473
+      },
+      "categories": {
+        "nightmarket": 3,
+        "culture": 2,
+        "other": 34
+      },
+      "points": [
+        {
+          "id": 202487,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96718,
+            121.59077
+          ],
+          "address": "臺北市文山區指南路3段38巷33號（紅瓦屋）",
+          "layoutType": "",
+          "hours": "1530",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202488,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96713,
+            121.59103
+          ],
+          "address": "臺北市文山區指南路3段38巷33之6號（雙橡園）",
+          "layoutType": "",
+          "hours": "1533",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202489,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96869,
+            121.59177
+          ],
+          "address": "臺北市文山區指南路3段38巷37之1號（大茶壺）",
+          "layoutType": "",
+          "hours": "1535",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321206,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.9670119,
+            121.5907376
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321207,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96845031,
+            121.5918722
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702368,
+          "title": "小日子咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路3段38巷33號前100公尺",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702373,
+          "title": "貓空閒咖啡館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967789,
+            121.591551
+          ],
+          "address": "臺北市文山區指南里指南路3段３８巷３３之７號（對面）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702376,
+          "title": "迺乾茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969128,
+            121.591682
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３７號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702412,
+          "title": "奉陪品茗餐飲",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968675,
+            121.591787
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷37之1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702496,
+          "title": "阿義師的大茶壺茶餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968675,
+            121.591787
+          ],
+          "address": "臺北市文山區指南路3段38巷37之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702542,
+          "title": "旅途咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33號旁約42公尺建物",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702642,
+          "title": "清泉四哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南路3段38巷33-1號B1到3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702827,
+          "title": "松園茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96706,
+            121.591132
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之5號(對面的找茶屋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702841,
+          "title": "正大休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96706,
+            121.591132
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702842,
+          "title": "清泉大哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３３之１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702914,
+          "title": "清泉二哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３３之１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702915,
+          "title": "雙橡園茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967338,
+            121.591099
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702921,
+          "title": "山中茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路3段38巷33號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900523,
+          "title": "阿義師的大茶壺茶餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969128,
+            121.591682
+          ],
+          "address": "臺北市文山區指南路三段38巷37-1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2939-5615/0916793473",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900524,
+          "title": "紅木屋休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路三段38巷33號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2939-9706",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900525,
+          "title": "貓空閒",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路三段38巷33-37號空地",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0953-304-776/0918-889-891(楊小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900529,
+          "title": "清泉廣場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路3段38巷33-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2938-3222",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900551,
+          "title": "找茶屋 FOUND.YOUR.TEA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路 3 段 38 巷 33-5 號正對面 ( 找茶屋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29398622",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900698,
+          "title": "目覺北城",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路三段38巷33-7號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29390888",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900699,
+          "title": "正大休閒茶園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路三段38巷33-5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29384060",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900744,
+          "title": "小日子咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路三段38巷33號前100公尺",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23017070",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900775,
+          "title": "山上咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路3段38巷33-7號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29370148",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901581,
+          "title": "Master A-Yi's Big Teapot Tea Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969128,
+            121.591682
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhinan Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 3",
+          "notes": "Zhinan Rd."
+        },
+        {
+          "id": 6901582,
+          "title": "Red Wood House",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "No. 33",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 6901583,
+          "title": "Cat's Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "space No. 33-37",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 116",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City 116"
+        },
+        {
+          "id": 6901587,
+          "title": "Qingquan Square",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "No. 33-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 6901609,
+          "title": "FOUND.YOUR.TEA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "Directly opposite No. 33-5",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan District",
+          "image": "",
+          "management": "",
+          "phone": "Zhanzhi Road",
+          "notes": "Wenshan District"
+        },
+        {
+          "id": 6901756,
+          "title": "See The Northern City",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "3F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhinan Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 3",
+          "notes": "Zhinan Rd."
+        },
+        {
+          "id": 6901757,
+          "title": "Jheng Da Tea Garden",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "No. 33-5",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 6901802,
+          "title": "Lazy Day Cafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "Lane 38",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901833,
+          "title": "Mountain Coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "116",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Section 3",
+          "image": "",
+          "management": "",
+          "phone": "Lane 38",
+          "notes": "Section 3"
+        },
+        {
+          "id": 7000346,
+          "title": "阿義師的大茶壺茶餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969128,
+            121.591682
+          ],
+          "address": "臺北市文山區指南路三段38巷37-1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000347,
+          "title": "紅木屋休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路三段38巷33號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000363,
+          "title": "找茶屋 FOUND.YOUR.TEA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "台北市文山區指南路 3 段 38 巷 33-5 號正對面 ( 找茶屋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da203ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.970848805130267,
+        "lng": 121.59235837536046
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2,
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 202490,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97041,
+            121.59216
+          ],
+          "address": "臺北市文山區指南路3段38巷37之2號（天恩宮）",
+          "layoutType": "",
+          "hours": "1537",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321209,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97069916,
+            121.5922677
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321210,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97026065,
+            121.5935028
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300799,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970737,
+            121.592337
+          ],
+          "address": "指南路3段38巷37-2號(天恩宮轉角)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300800,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970725,
+            121.592422
+          ],
+          "address": "指南路3段38巷37-2號(天恩宮轉角)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 7300019,
+          "title": "木柵第六公墓",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97188361,
+            121.5937659
+          ],
+          "address": "",
+          "layoutType": "列管公墓",
+          "hours": "全日",
+          "description": "無",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "無"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da20fffff",
+      "res": 9,
+      "count": 20,
+      "center": {
+        "lat": 24.96883739294372,
+        "lng": 121.59449722629662
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2,
+        "other": 14,
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 202491,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96922,
+            121.59413
+          ],
+          "address": "臺北市文山區指南路3段40巷8之2號（茶藝推廣中心）",
+          "layoutType": "",
+          "hours": "1539",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321205,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96780555,
+            121.595534
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321208,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96932122,
+            121.5937569
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300802,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96889,
+            121.595573
+          ],
+          "address": "指南路3段40巷8-4號對面停車場 (貓空公車壺穴站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300803,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968972,
+            121.595369
+          ],
+          "address": "指南路3段40巷8-4號對面停車場 (貓空公車壺穴站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300804,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968069,
+            121.595365
+          ],
+          "address": "指南路3段40巷8號喜相逢對面天空小步道(貓空公車站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300805,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967979,
+            121.595343
+          ],
+          "address": "指南路3段40巷8號喜相逢對面天空小步道(貓空公車站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300806,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967923,
+            121.595465
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300807,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967899,
+            121.595448
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2702543,
+          "title": "相逢居茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968043,
+            121.595096
+          ],
+          "address": "臺北市文山區指南路3段40巷12號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702844,
+          "title": "貓空山水客茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968575,
+            121.595277
+          ],
+          "address": "臺北市文山區指南路3段40巷8-5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702892,
+          "title": "黛小夫羊行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968575,
+            121.595277
+          ],
+          "address": "臺北市文山區指南里指南路3段40巷8之5號1樓至2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400299,
+          "title": "臺北市鐵觀音包種茶研發推廣中心",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9691,
+            121.5943
+          ],
+          "address": "指南路三段40巷8-2號",
+          "layoutType": "",
+          "hours": "周二至周日9:00-17:00\n(春節除夕、初一公休)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700134,
+          "title": "起點",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9687,
+            121.5956
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "45",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700135,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9693,
+            121.594
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "45",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700137,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9686,
+            121.5955
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "15",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000799,
+          "title": "茶葉推廣中心-入口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9692006,
+            121.5943224
+          ],
+          "address": "",
+          "layoutType": "觀光名勝",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000800,
+          "title": "茶葉推廣中心-後院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9690115,
+            121.5941621
+          ],
+          "address": "",
+          "layoutType": "觀光名勝",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501576,
+          "title": "臺北市鐵觀音包種茶研發推廣中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.96910948,
+            121.5943158
+          ],
+          "address": "指南路三段40巷8-2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大廳左側，視聽教室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大廳左側，視聽教室旁"
+        },
+        {
+          "id": 6000889,
+          "title": "茶研發推廣中心",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.969071,
+            121.59429
+          ],
+          "address": "臺北市文山區指南路三段40巷8之2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "茶研發推廣中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da277ffff",
+      "res": 9,
+      "count": 16,
+      "center": {
+        "lat": 24.96682585558884,
+        "lng": 121.59663610790943
+      },
+      "categories": {
+        "nightmarket": 3,
+        "culture": 4,
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 202492,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96771,
+            121.59597
+          ],
+          "address": "臺北市文山區指南路3段40巷18之1號（金盆茶園公車迴轉處）",
+          "layoutType": "",
+          "hours": "1541",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202493,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96721,
+            121.59629
+          ],
+          "address": "臺北市文山區指南路3段40巷20之3號（煎茶院）",
+          "layoutType": "",
+          "hours": "1543",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202494,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96721,
+            121.59629
+          ],
+          "address": "臺北市文山區指南路3段40巷20之3號（八月桂花香）",
+          "layoutType": "",
+          "hours": "1548",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321201,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96584097,
+            121.5972595
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321202,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96638718,
+            121.5979069
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321203,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96714976,
+            121.596353
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321204,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96683942,
+            121.5967574
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300808,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.965694,
+            121.59733
+          ],
+          "address": "指南路3段40巷20-3號旁(公車涼亭站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300809,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.965761,
+            121.597392
+          ],
+          "address": "指南路3段40巷20-3號旁(公車涼亭站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300820,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967737,
+            121.597179
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300821,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967737,
+            121.597179
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2702382,
+          "title": "邀月茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "臺北市文山區指南里指南路3段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702558,
+          "title": "寒舍茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "臺北市文山區指南路3段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900532,
+          "title": "邀月茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "台北市文山區指南路三段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29392025/0926-976-786",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901590,
+          "title": "Yaoyue Teahouse",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "No. 6",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 7000350,
+          "title": "邀月茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "台北市文山區指南路三段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da223ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.97050580277678,
+        "lng": 121.6009515981722
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 202495,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97034,
+            121.60101
+          ],
+          "address": "臺北市文山區指南路3段40巷32之1號（茗華園）",
+          "layoutType": "",
+          "hours": "1553",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321228,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97014183,
+            121.602631
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321234,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97017835,
+            121.6005033
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321235,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97027572,
+            121.6014414
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321238,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96950127,
+            121.5995445
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da233ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.972517310463495,
+        "lng": 121.59881262672752
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 202497,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97323,
+            121.60023
+          ],
+          "address": "臺北市文山區指南路3段167巷8號〈因緣〉",
+          "layoutType": "",
+          "hours": "1558",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321215,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97262436,
+            121.5977008
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321242,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97231153,
+            121.5996193
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321243,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97240822,
+            121.5986882
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702786,
+          "title": "映月茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.973154,
+            121.600171
+          ],
+          "address": "臺北市文山區指南里指南路3段167巷8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da28fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.9757056281127,
+        "lng": 121.59130771467827
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202498,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97677,
+            121.59226
+          ],
+          "address": "臺北市文山區指南路3段157巷（峰園茶行）",
+          "layoutType": "",
+          "hours": "1600",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321189,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97563004,
+            121.5901874
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321218,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97639201,
+            121.5923008
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700132,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9756,
+            121.5903
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "35",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97403682795792,
+        "lng": 121.58485392844085
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202501,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97526,
+            121.58602
+          ],
+          "address": "臺北市文山區指南路3段38巷11之2號（有緣茶藝）",
+          "layoutType": "",
+          "hours": "1607",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2d3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.9732023500322,
+        "lng": 121.58162720339801
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 1,
+        "other": 1,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202509,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97314,
+            121.58126
+          ],
+          "address": "臺北市文山區指南路3段34巷13至19號〈滿庭香〉",
+          "layoutType": "",
+          "hours": "1814",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321154,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97334797,
+            121.581153
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300787,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.972586,
+            121.580207
+          ],
+          "address": "指南路3段38巷17號前30公尺轉彎處(田寮橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 3700145,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9721,
+            121.5802
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "25",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2cbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.968345657841624,
+        "lng": 121.58267783849257
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 202510,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968311,
+            121.582198
+          ],
+          "address": "臺北市文山區指南路3段34巷21至37號〈松清園〉",
+          "layoutType": "",
+          "hours": "1816",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321182,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96861334,
+            121.5830628
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321183,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96861546,
+            121.5831855
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321187,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96838952,
+            121.5826923
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2dbffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 24.970356801618024,
+        "lng": 121.58053919910394
+      },
+      "categories": {
+        "nightmarket": 3,
+        "culture": 4,
+        "nature": 2,
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 202511,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96956,
+            121.58154
+          ],
+          "address": "臺北市文山區指南路3段34巷29至33號〈第八鄰長〉",
+          "layoutType": "",
+          "hours": "1818",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202513,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96929,
+            121.58045
+          ],
+          "address": "臺北市文山區指南路3段34巷36至33之5號〈順天宮〉",
+          "layoutType": "",
+          "hours": "1822",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202515,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96895,
+            121.58067
+          ],
+          "address": "臺北市文山區指南路3段34巷47之1號〈原味〉",
+          "layoutType": "",
+          "hours": "1826",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321147,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96887763,
+            121.5806279
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321148,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96947705,
+            121.5803517
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321149,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96959063,
+            121.581555
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321155,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97114083,
+            121.5800381
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700143,
+          "title": "起點",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9694,
+            121.5805
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "50",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700146,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9695,
+            121.5809
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "5",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 4000206,
+          "title": "臺北市文山區指南社區發展協會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9694358,
+            121.5814427
+          ],
+          "address": "臺北市文山區指南里指南路三段34巷29號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "人民團體科",
+          "phone": "0932-125086",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000760,
+          "title": "樟山寺-W-指南路三段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9711895,
+            121.5799233
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da253ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.966334388896968,
+        "lng": 121.58481650858589
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2,
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 202517,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96643,
+            121.58641
+          ],
+          "address": "臺北市文山區指南路3段38巷30號〈春茶香〉",
+          "layoutType": "",
+          "hours": "1830",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321180,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96596273,
+            121.5832825
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321181,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96644555,
+            121.5862956
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702440,
+          "title": "六季香茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965865,
+            121.583457
+          ],
+          "address": "臺北市文山區指南路３段３４巷５３－１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702484,
+          "title": "春茶鄉茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.966436,
+            121.586378
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷30號1樓、2樓及地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702919,
+          "title": "晨曦茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965644,
+            121.583307
+          ],
+          "address": "臺北市文山區指南路3段34巷53號(含道路對面50坪10桌)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900814,
+          "title": "張迺妙茶師紀念館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965644,
+            121.583307
+          ],
+          "address": "台北市文山區指南路三段34巷53-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29382579",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901872,
+          "title": "Tea Master Chang Nai-Miao Memorial Hall",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965644,
+            121.583307
+          ],
+          "address": "No. 53-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2cfffff",
+      "res": 9,
+      "count": 21,
+      "center": {
+        "lat": 24.96918009216014,
+        "lng": 121.58590457207131
+      },
+      "categories": {
+        "nightmarket": 3,
+        "culture": 1,
+        "other": 16,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 202520,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96897,
+            121.58759
+          ],
+          "address": "臺北市文山區指南路3段38巷16之2號〈緣續緣〉",
+          "layoutType": "",
+          "hours": "1836",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202522,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97005,
+            121.58672
+          ],
+          "address": "臺北市文山區指南路3段38巷14號〈三姊妹〉",
+          "layoutType": "",
+          "hours": "1840",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202523,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96859,
+            121.58515
+          ],
+          "address": "臺北市文山區指南路3段38巷14之3號〈談天園〉",
+          "layoutType": "",
+          "hours": "1842",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321184,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96887247,
+            121.5858355
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300780,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.969724,
+            121.587202
+          ],
+          "address": "指南路3段38巷16-1號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300783,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9703,
+            121.586901
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300784,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970234,
+            121.587059
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300785,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970253,
+            121.587032
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300786,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970353,
+            121.586898
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300791,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970065,
+            121.587286
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300792,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.969188,
+            121.587445
+          ],
+          "address": "指南路3段38巷16-2號(緣續緣茶莊斜對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 2702567,
+          "title": "傳生茶園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969656,
+            121.587372
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16之1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702620,
+          "title": "上暘茶莊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969321,
+            121.587365
+          ],
+          "address": "臺北市文山區指南路3段38巷16之2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702641,
+          "title": "四爺的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969321,
+            121.587365
+          ],
+          "address": "臺北市文山區指南路三段38巷16之2號二樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702696,
+          "title": "光羽塩茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968706,
+            121.585734
+          ],
+          "address": "臺北市文山區指南路3段38巷14之2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702897,
+          "title": "新談天園茶行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968581,
+            121.58514
+          ],
+          "address": "臺北市文山區指南路3段38巷14之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800616,
+          "title": "緣續緣休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969321,
+            121.587365
+          ],
+          "address": "臺北市文山區指南路3段38巷16之2號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700144,
+          "title": "迄點",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9677,
+            121.5858
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "15",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900522,
+          "title": "光羽塩",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.970065,
+            121.586751
+          ],
+          "address": "臺北市文山區指南路三段38巷14-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2939-4050",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901580,
+          "title": "Lytea",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.970065,
+            121.586751
+          ],
+          "address": "No. 14-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 7000345,
+          "title": "光羽塩",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.970065,
+            121.586751
+          ],
+          "address": "臺北市文山區指南路三段38巷14-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.9711912836819,
+        "lng": 121.58376587238348
+      },
+      "categories": {
+        "nightmarket": 1,
+        "culture": 2,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 202524,
+          "title": "木柵分隊",
+          "category": "nightmarket",
+          "location": "臺北市文山區",
+          "coords": [
+            24.97028,
+            121.58313
+          ],
+          "address": "臺北市文山區指南路3段34巷24號",
+          "layoutType": "",
+          "hours": "1844",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321185,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97095292,
+            121.5823894
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321186,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97045801,
+            121.583049
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1200080,
+          "title": "114年度臺北市山坡地溪溝改善及設施維護工程",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.97086,
+            121.58232
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da21bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.970014474593754,
+        "lng": 121.58913141769887
+      },
+      "categories": {
+        "culture": 1,
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 321177,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96977189,
+            121.5886441
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300779,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970264,
+            121.588291
+          ],
+          "address": "指南路3段38巷23號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300794,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970228,
+            121.587514
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300795,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970177,
+            121.587436
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 5502649,
+          "title": "貓空纜車貓空站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.968914,
+            121.588297
+          ],
+          "address": "指南路3段38巷35號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站1樓"
+        },
+        {
+          "id": 8300268,
+          "title": "臺北大眾捷運股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.97,
+            121.59
+          ],
+          "address": "臺北市文山區指南路三段38巷35號(售電北南區-貓纜)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da28bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.974871253988802,
+        "lng": 121.58808076553917
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 321188,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.9763312,
+            121.5875648
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da293ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.979727671762628,
+        "lng": 121.5870301070546
+      },
+      "categories": {
+        "culture": 2,
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 321191,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.98022967,
+            121.5875957
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321192,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.98088526,
+            121.5865783
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5501610,
+          "title": "指南宮管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979845,
+            121.586632
+          ],
+          "address": "萬壽路115號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "茶亭內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "茶亭內"
+        },
+        {
+          "id": 6000912,
+          "title": "指南宮",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.979891,
+            121.586823
+          ],
+          "address": "臺北市文山區萬壽路115號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市指南宮管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da283ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.977716712527005,
+        "lng": 121.58916889552131
+      },
+      "categories": {
+        "culture": 1,
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 321193,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97895924,
+            121.5895345
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300816,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978638,
+            121.589617
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300817,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978636,
+            121.589587
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300818,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978579,
+            121.589485
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 5502648,
+          "title": "貓空纜車指南宮站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979041,
+            121.589698
+          ],
+          "address": "指南路3段157巷200號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站1樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da29bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97688229065605,
+        "lng": 121.58594200666461
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 321195,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97664465,
+            121.5850814
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2abffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.974528692977852,
+        "lng": 121.59667368594954
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 321212,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97425678,
+            121.5974047
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321213,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97451777,
+            121.5956433
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321214,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97384648,
+            121.5965533
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321216,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.973103,
+            121.5969441
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da217ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97369441852209,
+        "lng": 121.59344656452012
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 321220,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97417537,
+            121.5930255
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da287ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.97855108247992,
+        "lng": 121.59239589641489
+      },
+      "categories": {
+        "culture": 4,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 321221,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97726112,
+            121.5922866
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321222,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.9787945,
+            121.5915239
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321223,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.9781586,
+            121.5916942
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321224,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97885904,
+            121.5906411
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700133,
+          "title": "迄點",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.979,
+            121.5909
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da227ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.97133992979743,
+        "lng": 121.60417895208657
+      },
+      "categories": {
+        "culture": 5,
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 321225,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97022079,
+            121.6034826
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321226,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96993542,
+            121.6045852
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321227,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97062045,
+            121.6051468
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321239,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97159555,
+            121.6029363
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321240,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97134405,
+            121.6037346
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1300813,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970465,
+            121.605389
+          ],
+          "address": "指南路3段40巷草湳橋-4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da22bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.96766003871626,
+        "lng": 121.59986329810212
+      },
+      "categories": {
+        "culture": 5
+      },
+      "points": [
+        {
+          "id": 321230,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96659763,
+            121.598746
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321231,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96804858,
+            121.5992817
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321232,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96664956,
+            121.59953
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321233,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96749491,
+            121.5991244
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321236,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96871607,
+            121.5991204
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da23bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.96967162382149,
+        "lng": 121.59772435623736
+      },
+      "categories": {
+        "culture": 1,
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 321237,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.96912333,
+            121.598806
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3700136,
+          "title": "無",
+          "category": "nature",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9698,
+            121.5967
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "35",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "可",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da237ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.973351485235906,
+        "lng": 121.60203992040363
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 321241,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97197762,
+            121.6022353
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 321244,
+          "title": "大臺北地區消防栓分布點位圖",
+          "category": "culture",
+          "location": "臺北市文山區指南里",
+          "coords": [
+            24.97227853,
+            121.6009206
+          ],
+          "address": "",
+          "layoutType": "地下式消防栓",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da247ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.965157333611778,
+        "lng": 121.590182063533
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300797,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.966635,
+            121.589731
+          ],
+          "address": "指南路3段38巷33號紅木屋前120公尺處(樟湖幹147A對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300798,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.966631,
+            121.589696
+          ],
+          "address": "指南路3段38巷33號紅木屋前120公尺處(樟湖幹147A對面)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T00:56:09.339Z"
+}

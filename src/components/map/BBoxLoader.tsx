@@ -16,7 +16,9 @@ export function BBoxLoader({ onLoaded }: { onLoaded: (locations: Location[]) => 
 
   // 用 ref 保存最新 onLoaded，避免重建 effect / 產生 stale closure
   const onLoadedRef = useRef(onLoaded);
-  onLoadedRef.current = onLoaded;
+  useEffect(() => {
+    onLoadedRef.current = onLoaded;
+  }, [onLoaded]);
 
   // 依目前視角過濾並回報
   const applyBBox = () => {

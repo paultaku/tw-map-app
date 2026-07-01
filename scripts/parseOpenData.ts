@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { latLngToCell, cellToLatLng, cellToParent } from 'h3-js';
 
 // Define types
 interface OpenDataItem {
@@ -14,6 +15,41 @@ interface OpenDataItem {
   "資料最後更新時間"?: string;
   [key: string]: any;
 }
+
+// Standardized place object (mirrors src/services/dataProvider Place)
+interface Place {
+  id: number;
+  title: string;
+  category: string;
+  location: string;
+  coords: [number, number]; // [lat, lng] WGS84
+  address: string;
+  layoutType: string;
+  hours: string;
+  description: string;
+  image: string;
+  management: string;
+  phone: string;
+  notes: string;
+}
+
+// H3 grid bucket (Bucket Pattern): one document per H3 cell, keyed by the H3 index.
+interface GridBucket {
+  h3: string;
+  res: number;
+  count: number;                       // pre-computed point count for the cell
+  center: { lat: number; lng: number }; // cell centroid, for rendering the aggregated marker
+  categories: Record<string, number>;  // per-category counts within the cell
+  points?: Place[];                    // included only for the high-resolution detail grid
+}
+
+// H3 resolutions: 7 ≈ 5 km edge (aggregation / zoomed-out), 9 ≈ 0.17 km edge (detail / zoomed-in)
+const RES_AGGREGATE = 7;
+const RES_DETAIL = 9;
+
+// Firestore collection names — document ID is the H3 index
+const COLLECTION_AGGREGATE = 'grids_r7';
+const COLLECTION_DETAIL = 'grids_r9';
 
 // Support __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -204,7 +240,7 @@ function getWgs84Coords(row: Record<string, string>): [number, number] | null {
 }
 
 // Maps a raw Chinese CSV row into a standardized English Place object
-function mapRowToPlace(row: Record<string, string>, datasetName: string, id: number): any {
+function mapRowToPlace(row: Record<string, string>, datasetName: string, id: number): Place | null {
   // 1. Determine category dynamically
   let category = 'other';
   if (datasetName.includes('吸菸') || datasetName.includes('菸')) {
@@ -335,6 +371,9 @@ function mapRowToPlace(row: Record<string, string>, datasetName: string, id: num
 }
 
 async function main() {
+  // Push H3 buckets to Firestore only when explicitly requested (needs GOOGLE_APPLICATION_CREDENTIALS).
+  const shouldUpload = process.argv.includes('--upload');
+
   const sourcePath = path.resolve(__dirname, '../src/source/taipei/Open Data.json');
   const outputDir = path.resolve(__dirname, '../public/taipei/data');
 
@@ -363,6 +402,9 @@ async function main() {
     console.log(`Created output directory: ${outputDir}`);
   }
 
+  // Accumulates every valid place across all datasets, for H3 grid aggregation below
+  const allPlaces: Place[] = [];
+
   // Process each filtered dataset
   for (let idx = 0; idx < filtered.length; idx++) {
     const item = filtered[idx];
@@ -374,7 +416,7 @@ async function main() {
 
     console.log(`\n[${idx + 1}/${filtered.length}] Processing Dataset: ${datasetId} - ${datasetName}`);
     
-    const allData: any[] = [];
+    const allData: Place[] = [];
     let success = false;
     let localId = (idx + 1) * 100000; // Generate globally unique IDs to prevent Leaflet key collisions
 
@@ -407,7 +449,7 @@ async function main() {
         // Map keys to standard English schema and filter out invalid rows
         const mappedRows = rows
           .map(row => mapRowToPlace(row, datasetName, localId++))
-          .filter((row): row is any => row !== null);
+          .filter((row): row is Place => row !== null);
 
         console.log(`  Successfully mapped ${mappedRows.length} valid Place objects.`);
         allData.push(...mappedRows);
@@ -427,12 +469,119 @@ async function main() {
 
       fs.writeFileSync(outputPath, JSON.stringify(outputJson, null, 2), 'utf-8');
       console.log(`  Saved to: ${outputPath}`);
+
+      allPlaces.push(...allData);
     } else {
       console.log(`  Skipped saving dataset ${datasetId} because no CSV resources were successfully loaded.`);
     }
   }
 
+  // ----- H3 grid aggregation (Bucket Pattern) -----
+  console.log(`\nBuilding H3 grids from ${allPlaces.length} places...`);
+
+  const detailBuckets = buildBuckets(allPlaces, RES_DETAIL, true);        // res 9 — keeps full points
+  const aggregateBuckets = buildBuckets(allPlaces, RES_AGGREGATE, false); // res 7 — counts only
+
+  console.log(`  Resolution ${RES_DETAIL} (detail):    ${detailBuckets.length} cells`);
+  console.log(`  Resolution ${RES_AGGREGATE} (aggregate): ${aggregateBuckets.length} cells`);
+
+  // Local JSON snapshots for the dev data source (production reads Firestore instead).
+  const h3Dir = path.resolve(__dirname, '../public/h3');
+  const ts = new Date().toISOString();
+
+  // Aggregate grid (res 7): one small file, loaded whole on the client.
+  writeJson(path.join(h3Dir, `${COLLECTION_AGGREGATE}.json`), { cells: aggregateBuckets, updatedAt: ts });
+
+  // Detail grid (res 9): sharded by parent r7 cell so the client only fetches the viewport's
+  // shards (the static analog of the Firestore `in` query — avoids one giant multi-MB file).
+  const r9Dir = path.join(h3Dir, 'r9');
+  fs.rmSync(r9Dir, { recursive: true, force: true });
+  const shards = new Map<string, GridBucket[]>();
+  for (const bucket of detailBuckets) {
+    const parent = cellToParent(bucket.h3, RES_AGGREGATE);
+    let arr = shards.get(parent);
+    if (!arr) { arr = []; shards.set(parent, arr); }
+    arr.push(bucket);
+  }
+  for (const [parent, cells] of shards) {
+    writeJson(path.join(r9Dir, `${parent}.json`), { cells, updatedAt: ts });
+  }
+  console.log(`  Wrote r7 grid (${aggregateBuckets.length} cells) + ${shards.size} r9 shards to: ${h3Dir}`);
+
+  // Firestore upload (opt-in: requires --upload and GOOGLE_APPLICATION_CREDENTIALS)
+  if (shouldUpload) {
+    console.log('\nUploading H3 grids to Firestore (Bucket Pattern, doc ID = H3 index)...');
+    await uploadBucketsToFirestore(COLLECTION_DETAIL, detailBuckets);
+    await uploadBucketsToFirestore(COLLECTION_AGGREGATE, aggregateBuckets);
+    console.log('  Firestore upload complete.');
+  } else {
+    console.log('\nSkipped Firestore upload. Re-run with --upload (and GOOGLE_APPLICATION_CREDENTIALS set) to push.');
+  }
+
   console.log('\nAll processing completed!');
+}
+
+// Groups places into H3 cells (Bucket Pattern). `includePoints` keeps the raw points
+// for the high-resolution detail grid; the low-resolution grid stores aggregates only.
+function buildBuckets(places: Place[], res: number, includePoints: boolean): GridBucket[] {
+  const byCell = new Map<string, GridBucket>();
+
+  for (const place of places) {
+    const [lat, lng] = place.coords;
+    const h3 = latLngToCell(lat, lng, res);
+
+    let bucket = byCell.get(h3);
+    if (!bucket) {
+      const [centerLat, centerLng] = cellToLatLng(h3);
+      bucket = {
+        h3,
+        res,
+        count: 0,
+        center: { lat: centerLat, lng: centerLng },
+        categories: {},
+      };
+      if (includePoints) bucket.points = [];
+      byCell.set(h3, bucket);
+    }
+
+    bucket.count += 1;
+    bucket.categories[place.category] = (bucket.categories[place.category] || 0) + 1;
+    bucket.points?.push(place); // no-op when points is undefined (aggregate grid)
+  }
+
+  return [...byCell.values()];
+}
+
+// Writes JSON to disk, creating parent directories as needed.
+function writeJson(filePath: string, data: unknown): void {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+// Writes one document per H3 cell (doc ID = H3 index) using batched commits.
+// firebase-admin is imported lazily so the default run needs no credentials.
+async function uploadBucketsToFirestore(collectionName: string, buckets: GridBucket[]): Promise<void> {
+  const { initializeApp, applicationDefault, getApps } = await import('firebase-admin/app');
+  const { getFirestore } = await import('firebase-admin/firestore');
+
+  if (getApps().length === 0) {
+    initializeApp({
+      credential: applicationDefault(), // reads GOOGLE_APPLICATION_CREDENTIALS
+      projectId: process.env.FIREBASE_PROJECT_ID || process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+    });
+  }
+  const db = getFirestore();
+
+  const BATCH_LIMIT = 450; // Firestore allows max 500 writes per batch
+  for (let i = 0; i < buckets.length; i += BATCH_LIMIT) {
+    const slice = buckets.slice(i, i + BATCH_LIMIT);
+    const batch = db.batch();
+    for (const bucket of slice) {
+      batch.set(db.collection(collectionName).doc(bucket.h3), bucket);
+    }
+    await batch.commit();
+    console.log(`  ${collectionName}: wrote ${Math.min(i + BATCH_LIMIT, buckets.length)}/${buckets.length} cells`);
+  }
 }
 
 main().catch(err => {
