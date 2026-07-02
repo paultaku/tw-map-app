@@ -1,0 +1,559 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5ddbffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.012561902879405,
+        "lng": 121.53563487410409
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 2700125,
+          "title": "福康事業有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.013266,
+            121.535572
+          ],
+          "address": "臺北市中正區羅斯福路4段118號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700526,
+          "title": "尚品餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.01197,
+            121.53577
+          ],
+          "address": "臺北市中正區汀州路三段295號297號1樓及B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700542,
+          "title": "西町股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012892,
+            121.536485
+          ],
+          "address": "臺北市大安區羅斯福路4段85號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700554,
+          "title": "蘇杭企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012892,
+            121.536485
+          ],
+          "address": "臺北市大安區羅斯福路4段85號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701266,
+          "title": "寶雅國際股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.013123,
+            121.534508
+          ],
+          "address": "臺北市中正區汀州路三段184之4號至184之16號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701289,
+          "title": "百富通股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012892,
+            121.536485
+          ],
+          "address": "臺北市大安區羅斯福路4段85號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701598,
+          "title": "國業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012892,
+            121.536485
+          ],
+          "address": "臺北市大安區羅斯福路4段85號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701974,
+          "title": "金石堂圖書股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012969,
+            121.534887
+          ],
+          "address": "臺北市中正區汀州路三段184號B1及192號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701976,
+          "title": "瑪德蓮股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012477,
+            121.535053
+          ],
+          "address": "臺北市中正區汀州路三段192號B1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702163,
+          "title": "康國國際有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.012968,
+            121.535837
+          ],
+          "address": "臺北市中正區羅斯福路四段134號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5db3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.021591258364136,
+        "lng": 121.55071236993662
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2700208,
+          "title": "臺灣富禮納思股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.021996,
+            121.549122
+          ],
+          "address": "臺北市大安區敦化南路2段269、271號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701873,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.021653,
+            121.551267
+          ],
+          "address": "臺北市大安區樂業街87號1F、B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702079,
+          "title": "清婧有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.022255,
+            121.549903
+          ],
+          "address": "臺北市大安區基隆路2段266號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5da7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02041792864774,
+        "lng": 121.55607668265962
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2700917,
+          "title": "雞窩食品股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.020077,
+            121.557363
+          ],
+          "address": "臺北市信義區和平東路三段377號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701657,
+          "title": "台灣屈臣氏個人用品商店股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.020583,
+            121.554619
+          ],
+          "address": "臺北市大安區安居街27號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d93ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.021928895266726,
+        "lng": 121.54212264807366
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2701192,
+          "title": "三商餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.021647,
+            121.54357
+          ],
+          "address": "臺北市大安區復興南路2段277、279號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702731,
+          "title": "夢庵商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.021629,
+            121.542373
+          ],
+          "address": "臺北市大安區辛亥路二段207號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dc7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.014232820066105,
+        "lng": 121.54208579687443
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701318,
+          "title": "安心食品服務股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.013743,
+            121.540623
+          ],
+          "address": "臺北市大安區基隆路4段43號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.017912110157802,
+        "lng": 121.54639896437266
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701338,
+          "title": "安心食品服務股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.017413,
+            121.544946
+          ],
+          "address": "臺北市大安區基隆路3段85號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d4bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.003691747326464,
+        "lng": 121.5409614976695
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701815,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.004286,
+            121.540353
+          ],
+          "address": "臺北市文山區興隆路一段15號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00335332310712,
+        "lng": 121.5495508565053
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701917,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.003764,
+            121.55025
+          ],
+          "address": "臺北市文山區福興路62號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dcbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.01055338818004,
+        "lng": 121.53777286747119
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702017,
+          "title": "龍祥育樂多媒體股份有限公司台北分公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.010805,
+            121.536644
+          ],
+          "address": "臺北市文山區羅斯福路四段２００號３樓、４樓、５樓、５樓之１至之４",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d53ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.008544748263194,
+        "lng": 121.53991089165413
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702393,
+          "title": "圈圈吧餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.007646,
+            121.538667
+          ],
+          "address": "臺北市文山區羅斯福路五段31之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.030Z"
+}

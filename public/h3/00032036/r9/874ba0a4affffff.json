@@ -1,0 +1,889 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4a97ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.028610802853272,
+        "lng": 121.56793117440733
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1000239,
+          "title": "台北市災害應變中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02868,
+            121.56672
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003050,
+          "title": "台北市災害應變中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02868,
+            121.56672
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003158,
+          "title": "信義國中",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02953,
+            121.56817
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a8fffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.023758292864507,
+        "lng": 121.56898187786122
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1000258,
+          "title": "吳興公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02383,
+            121.56767
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000259,
+          "title": "吳興公車總站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02388,
+            121.56984
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000837,
+          "title": "松仁路305號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02306,
+            121.57036
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003075,
+          "title": "吳興公車總站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02388,
+            121.56984
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003115,
+          "title": "松仁路305號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02306,
+            121.57036
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003144,
+          "title": "吳興公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02383,
+            121.56767
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a9bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.024932021319735,
+        "lng": 121.56361687482575
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1000261,
+          "title": "吳興街260巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02606,
+            121.5631
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003101,
+          "title": "吳興街260巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02606,
+            121.5631
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ad7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.02208821466852,
+        "lng": 121.56252905590638
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1000262,
+          "title": "吳興街284巷36弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02236,
+            121.56268
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001453,
+          "title": "吳興街284巷(廣安宮)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02326,
+            121.56329
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003106,
+          "title": "吳興街284巷36弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02236,
+            121.56268
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003122,
+          "title": "吳興街284巷(廣安宮)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02326,
+            121.56329
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a83ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.025767082170976,
+        "lng": 121.5668432815172
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1000263,
+          "title": "吳興街394巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02474,
+            121.56741
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003116,
+          "title": "吳興街394巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02474,
+            121.56741
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ad3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02125309763015,
+        "lng": 121.5593028131872
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1000272,
+          "title": "和平東路三段341巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02188,
+            121.55891
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003128,
+          "title": "和平東路三段341巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02188,
+            121.55891
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4acbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.016400356238666,
+        "lng": 121.56035348459734
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1000273,
+          "title": "和平東路三段530巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.01545,
+            121.56134
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001812,
+          "title": "黎和公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.01663,
+            121.56011
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003038,
+          "title": "和平東路三段530巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.01545,
+            121.56134
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a43ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.012382282935878,
+        "lng": 121.56463040958619
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1000274,
+          "title": "和平東路三段631巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0132,
+            121.56335
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003037,
+          "title": "和平東路三段631巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0132,
+            121.56335
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4adbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.018409205056074,
+        "lng": 121.55821506824444
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1000398,
+          "title": "富陽臥龍街口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0187,
+            121.55688
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000697,
+          "title": "捷運麟光站(2號出口)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0181,
+            121.55929
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001659,
+          "title": "捷運麟光站(2號出口)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0181,
+            121.55929
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1001783,
+          "title": "富陽臥龍街口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0187,
+            121.55688
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a87ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.02660209104284,
+        "lng": 121.57006980036711
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1000834,
+          "title": "松仁路253巷3弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02678,
+            121.56884
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000835,
+          "title": "松仁路253巷4弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02559,
+            121.56954
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003045,
+          "title": "松仁路253巷3弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02678,
+            121.56884
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003137,
+          "title": "松仁路253巷4弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02559,
+            121.56954
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a17ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.021749378326575,
+        "lng": 121.57112050494825
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1000836,
+          "title": "松仁路281巷66弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02261,
+            121.57178
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1000973,
+          "title": "泰和里民活動中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.57027
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003087,
+          "title": "泰和里民活動中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.57027
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003135,
+          "title": "松仁路281巷66弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02261,
+            121.57178
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a03ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.018905420923097,
+        "lng": 121.57003257500287
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1000972,
+          "title": "泰和公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0193,
+            121.57105
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1003076,
+          "title": "泰和公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0193,
+            121.57105
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.027775746243677,
+        "lng": 121.56470471592154
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1003157,
+          "title": "莊敬路341巷3弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.02864,
+            121.56482
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:44.280Z"
+}

@@ -1,0 +1,1823 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6e5bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.073606828314634,
+        "lng": 121.52411443236008
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600290,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0724,
+            121.5246
+          ],
+          "address": "臺北市中山區圓山里中山北路三段181號市立美術館停車場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600418,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0747,
+            121.5238
+          ],
+          "address": "臺北市中山區圓山里中山北路三段66號(兒童育樂中心舊址)遊樂場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處、臺北市政府觀光傳播局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600851,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0736,
+            121.5238
+          ],
+          "address": "臺北市中山區圓山里中山北路三段66號兒童育樂中心中山北路大門口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處、臺北市政府警察局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ecfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.079290604276075,
+        "lng": 121.52628908417883
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600419,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0784,
+            121.525
+          ],
+          "address": "臺北市中山區劍潭里劍潭公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e2fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.078622064318097,
+        "lng": 121.54346823738439
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600421,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0793,
+            121.5423
+          ],
+          "address": "臺北市中山區劍潭里北安路400巷1弄10號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603089,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0783,
+            121.542
+          ],
+          "address": "臺北市中山區劍潭里北安國中操場與司令台旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立北安國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603339,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0776,
+            121.5436
+          ],
+          "address": "臺北市中山區劍潭里明水路325號北安國中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e57ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.07728475562809,
+        "lng": 121.52842715234723
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600422,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0771,
+            121.5272
+          ],
+          "address": "臺北市中山區劍潭里北安路47號旁北安公園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600424,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0775,
+            121.5269
+          ],
+          "address": "臺北市中山區劍潭里八二三炮戰紀念公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603651,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0786,
+            121.529
+          ],
+          "address": "臺北市中山區劍潭里北安路55號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局、臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e53ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.076448757214667,
+        "lng": 121.52520174717368
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600423,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0772,
+            121.5263
+          ],
+          "address": "臺北市中山區劍潭里八二三炮戰紀念公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e37ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.083470054713786,
+        "lng": 121.54241749267777
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 600507,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0847,
+            121.5423
+          ],
+          "address": "臺北市中山區劍潭里通北街31巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602897,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0847,
+            121.5427
+          ],
+          "address": "臺北市中山區劍潭里通北街145巷(國防部後門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e4bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.071600824528094,
+        "lng": 121.5262524412047
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 600510,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0714,
+            121.527
+          ],
+          "address": "臺北市中山區圓山里民族公園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600511,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0713,
+            121.5268
+          ],
+          "address": "臺北市中山區圓山里民族公園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600512,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0715,
+            121.5271
+          ],
+          "address": "臺北市中山區圓山里民族公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600881,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0713,
+            121.527
+          ],
+          "address": "臺北市中山區圓山里民族公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602823,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0724,
+            121.5255
+          ],
+          "address": "臺北市中山區圓山里中山北路三段181號(台北市立美術館停車場內)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處（臺北市立美術館管理）",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602824,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0714,
+            121.5249
+          ],
+          "address": "臺北市中山區圓山里中山北路三段181號(台北市立美術館停車場內)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e7bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073272682457855,
+        "lng": 121.53270338121375
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600518,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0724,
+            121.5314
+          ],
+          "address": "臺北市中山區復華里濱江街5號林安泰古厝",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e9bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.086979621026156,
+        "lng": 121.5263257281199
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600563,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0878,
+            121.5277
+          ],
+          "address": "臺北市士林區福林里中山北路五段282巷底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e93ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.089821144907997,
+        "lng": 121.5274131020375
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 600565,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0903,
+            121.5278
+          ],
+          "address": "臺北市士林區福林里中山北路五段376號派出所對面路旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600566,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0899,
+            121.529
+          ],
+          "address": "臺北市士林區福林里中山北路五段378巷崗哨斜對面路旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601161,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0906,
+            121.5262
+          ],
+          "address": "臺北市士林區仁勇里文林路235號士林分局大樓後方",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602434,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0896,
+            121.5277
+          ],
+          "address": "臺北市士林區福林里中山北路5段378巷口往南第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603349,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0902,
+            121.5278
+          ],
+          "address": "臺北市士林區福林里中山北路五段378巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603350,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0903,
+            121.5277
+          ],
+          "address": "臺北市士林區福林里中山北路五段378巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ecbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.078454558142056,
+        "lng": 121.52306373951934
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 600654,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0785,
+            121.5244
+          ],
+          "address": "臺北市中山區劍潭里中山北路四段16號劍潭青年活動中心內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公共場所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600690,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.079,
+            121.5226
+          ],
+          "address": "臺北市士林區明勝里通河街2巷26弄9號大門旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e0fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.078956596441458,
+        "lng": 121.53487829974647
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 601193,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0781,
+            121.5353
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601194,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0781,
+            121.5356
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601195,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0781,
+            121.5357
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601199,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0798,
+            121.5355
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海寓所上層建物右側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局(財團法人基督教中華信望愛基金會代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e77ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.076950527054862,
+        "lng": 121.53701651974093
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 601196,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.078,
+            121.5367
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601197,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.078,
+            121.5375
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭旁近海總大門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601198,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0781,
+            121.5376
+          ],
+          "address": "臺北市中山區劍潭里北安路305號(七海潭旁近海總大門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602005,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0783,
+            121.5364
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602006,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0783,
+            121.5366
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602007,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0783,
+            121.5367
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路305號(七海潭近北安路側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e2bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.077786321705528,
+        "lng": 121.54024232241207
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 601232,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0778,
+            121.5411
+          ],
+          "address": "臺北市中山區劍潭里中山區明水路325號(北安國中)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立北安國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601730,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0778,
+            121.5401
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路392號(靠明水路圍籬內)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601731,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0788,
+            121.5407
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路392號(空軍司令部對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602258,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0778,
+            121.5405
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路400巷底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602259,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0777,
+            121.5408
+          ],
+          "address": "臺北市中山區劍潭里中山區北安路400巷底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603337,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0778,
+            121.5407
+          ],
+          "address": "臺北市中山區劍潭里明水路323號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603338,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0777,
+            121.5414
+          ],
+          "address": "臺北市中山區劍潭里明水路325號北安國中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立北安國民中學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e27ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.08146396744534,
+        "lng": 121.544555863257
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 601234,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0818,
+            121.5446
+          ],
+          "address": "臺北市中山區大直里中山區崇實路旁(近培英公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601235,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0816,
+            121.5446
+          ],
+          "address": "臺北市中山區大直里中山區崇實路旁(近培英公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082634268697785,
+        "lng": 121.53919158633305
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601313,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0839,
+            121.5404
+          ],
+          "address": "臺北市中山區劍潭里中山區通北街31巷18弄11號民宅內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e97ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.090657173864283,
+        "lng": 121.53063865411252
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 601914,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0919,
+            121.5307
+          ],
+          "address": "臺北市士林區福林里臺北市士林區福林路60號(西式庭園園區)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601916,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0911,
+            121.5297
+          ],
+          "address": "臺北市士林區福林里臺北市士林區福林路60號(園藝所辦公室周圍)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ed3ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.083301925686513,
+        "lng": 121.52201304039818
+      },
+      "categories": {
+        "nature": 10
+      },
+      "points": [
+        {
+          "id": 602463,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0832,
+            121.5206
+          ],
+          "address": "臺北市士林區承德里劍潭路73號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602464,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0829,
+            121.5206
+          ],
+          "address": "臺北市士林區承德里劍潭路80號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602465,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0833,
+            121.5208
+          ],
+          "address": "臺北市士林區承德里劍潭路73號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602466,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.084,
+            121.5225
+          ],
+          "address": "臺北市士林區承德里劍潭路23號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602467,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0831,
+            121.5204
+          ],
+          "address": "臺北市士林區承德里劍潭路81號斜對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602468,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0836,
+            121.5213
+          ],
+          "address": "臺北市士林區承德里劍潭路55巷口往西第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602470,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0835,
+            121.521
+          ],
+          "address": "臺北市士林區承德里劍潭路55巷口往西第6株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602966,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0834,
+            121.5212
+          ],
+          "address": "臺北市士林區承德里劍潭路62號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602969,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0829,
+            121.5205
+          ],
+          "address": "臺北市士林區承德里劍潭路80號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602971,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0836,
+            121.5214
+          ],
+          "address": "臺北市士林區承德里劍潭路51號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6eabffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.084640182941918,
+        "lng": 121.53705330703472
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602884,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0844,
+            121.5386
+          ],
+          "address": "臺北市中山區劍潭里通北街133巷北側斜坡上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602896,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0849,
+            121.5386
+          ],
+          "address": "臺北市中山區劍潭里通北街145巷3弄口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602899,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0861,
+            121.537
+          ],
+          "address": "臺北市中山區劍潭里中山區通北街165巷2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署、私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6eafffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.085476016683455,
+        "lng": 121.540279152911
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 602885,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0843,
+            121.5393
+          ],
+          "address": "臺北市中山區劍潭里通北街133巷23號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602900,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0848,
+            121.5402
+          ],
+          "address": "臺北市中山區劍潭里中山區通北街31巷22弄25號後方山坡上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ebbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.086645971885886,
+        "lng": 121.53491505856167
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602886,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0866,
+            121.5361
+          ],
+          "address": "臺北市中山區劍潭里通北街146巷94弄11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ea3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.08748185335211,
+        "lng": 121.53814084396191
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 602887,
+          "title": "錫蘭橄欖",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0875,
+            121.5374
+          ],
+          "address": "臺北市中山區劍潭里通北街165巷登山步道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "農業部林業及自然保育署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602898,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0873,
+            121.5395
+          ],
+          "address": "臺北市中山區劍潭里通北街145巷3弄(天主教大直公墓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人天主教會台北教區",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ec3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.08129632762963,
+        "lng": 121.5241510468607
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602962,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0809,
+            121.5245
+          ],
+          "address": "臺北市中山區劍潭里中山北路4段67號前/圓山風景區步道口往南第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603047,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0806,
+            121.5245
+          ],
+          "address": "臺北市中山區劍潭里中山北路4段67號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局大地工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603073,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0824,
+            121.5251
+          ],
+          "address": "臺北市士林區承德里R15劍潭站汽車停車場(車位131號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府捷運工程局(臺北大眾捷運股份有限公司代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ed7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.084138015262177,
+        "lng": 121.52523837639424
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 603043,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0843,
+            121.5257
+          ],
+          "address": "臺北市信義區新仁里光復南路133號 (松山文創園區內辦公廳舍中庭)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603347,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0834,
+            121.5256
+          ],
+          "address": "臺北市士林區福林里中山北路五段46號(安全島)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "交通部台灣鐵路管理局(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603348,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0833,
+            121.5253
+          ],
+          "address": "臺北市士林區承德里中山北路五段65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e3bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.079792438817087,
+        "lng": 121.538104041943
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 603631,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0797,
+            121.5366
+          ],
+          "address": "臺北市中山區劍潭里北安路305號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局(海軍司令部人事軍務處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603632,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0795,
+            121.5365
+          ],
+          "address": "臺北市中山區劍潭里北安路305號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局(海軍司令部人事軍務處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.071266457940148,
+        "lng": 121.53484154190129
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603667,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0714,
+            121.5364
+          ],
+          "address": "臺北市中山區大佳里濱江街142號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局衛生下水道工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6e6fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.072102261182618,
+        "lng": 121.53806724089526
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 603668,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0722,
+            121.5368
+          ],
+          "address": "臺北市中山區大佳里濱江街142號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局衛生下水道工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603669,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.071,
+            121.5376
+          ],
+          "address": "臺北市中山區大佳里濱江街142號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局衛生下水道工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

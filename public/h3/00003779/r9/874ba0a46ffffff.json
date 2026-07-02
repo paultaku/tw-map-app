@@ -1,0 +1,1887 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4627ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.035818202444403,
+        "lng": 121.50675679253264
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000695,
+          "title": "內政部移民署",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.035826,
+            121.507934
+          ],
+          "address": "臺北市中正區廣州街15號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "內政部移民署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000734,
+          "title": "聯合醫院和平婦幼院區(和平)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.035528,
+            121.506879
+          ],
+          "address": "臺北市中正區廣州街14號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立聯合醫院和平婦幼院區(和平)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a462fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03297512512072,
+        "lng": 121.50566984028048
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000714,
+          "title": "丹堤咖啡延平南店",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.033603,
+            121.50718
+          ],
+          "address": "臺北市中正區中華路二段75巷24號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "丹堤咖啡食品股份有限公司延平南分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03247324825318,
+        "lng": 121.493859650171
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001401,
+          "title": "新糖廍公園地下停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033596,
+            121.494246
+          ],
+          "address": "臺北市萬華區大理街160巷2號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "新糖廍公園地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "other": 14
+      },
+      "points": [
+        {
+          "id": 6001402,
+          "title": "萬華車站(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033445,
+            121.501321
+          ],
+          "address": "臺北市萬華區康定路321號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺鐵公司北區營運處臺北運務段萬華站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001413,
+          "title": "萬華車站地下停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033488,
+            121.499701
+          ],
+          "address": "臺北市萬華區康定路382號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "好停企業有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001437,
+          "title": "龍山商場(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034913,
+            121.499821
+          ],
+          "address": "臺北市萬華區和平西路三段120號萬華行政中心地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處臺北市公有龍山商場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001439,
+          "title": "華越文化廣場(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034913,
+            121.499821
+          ],
+          "address": "臺北市萬華區和平西路三段120號萬華行政中心地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處華越文化廣場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001496,
+          "title": "臺北市勞動力重建運用處",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033339,
+            121.501472
+          ],
+          "address": "臺北市萬華區艋舺大道101號4-5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市勞動力重建運用處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001497,
+          "title": "臺北市勞動局勞動權益中心",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035011,
+            121.499812
+          ],
+          "address": "臺北市萬華區艋舺大道101號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市勞動局勞動權益中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001498,
+          "title": "臺北市動產質借處龍山分處",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034816,
+            121.499739
+          ],
+          "address": "臺北市萬華區和平西路三段120號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市動產質借處龍山分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001500,
+          "title": "建成地政事務所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034816,
+            121.499739
+          ],
+          "address": "臺北市萬華區和平西路三段120號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市建成地政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001504,
+          "title": "萬華區戶政事務所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034816,
+            121.499739
+          ],
+          "address": "臺北市萬華區和平西路三段120號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區戶政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001508,
+          "title": "萬華區公所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034816,
+            121.499739
+          ],
+          "address": "臺北市萬華區和平西路三段120號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001509,
+          "title": "臺北市稅捐稽徵處萬華分處",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034816,
+            121.499739
+          ],
+          "address": "臺北市萬華區和平西路三段120號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市稅捐稽徵處萬華分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001515,
+          "title": "康定路派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035082,
+            121.500333
+          ],
+          "address": "臺北市萬華區和平西路三段112號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局 康定路派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001519,
+          "title": "臺北市就業服務處",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033478,
+            121.501417
+          ],
+          "address": "臺北市萬華區艋舺大道101號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市就業服務處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001520,
+          "title": "臺北市勞動檢查處",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033483,
+            121.501364
+          ],
+          "address": "臺北市萬華區艋舺大道101號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市勞動檢查處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a462bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.032138960179584,
+        "lng": 121.50244543786722
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001405,
+          "title": "莒光立體停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.031184,
+            121.503462
+          ],
+          "address": "臺北市萬華區莒光路137號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "莒光立體停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001438,
+          "title": "雙園超市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0322,
+            121.502
+          ],
+          "address": "臺北市萬華區興寧街2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "雙園超市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001507,
+          "title": "臺北市立圖書館西園分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.032201,
+            121.50173
+          ],
+          "address": "臺北市萬華區興寧街6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館西園分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001516,
+          "title": "莒光路派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.031071,
+            121.502735
+          ],
+          "address": "臺北市萬華區莒光路171號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局莒光派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001536,
+          "title": "萬華1號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.030978,
+            121.502545
+          ],
+          "address": "臺北市萬華區莒光路183巷9弄18號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4607ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.036152572463696,
+        "lng": 121.49817058586827
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001406,
+          "title": "捷運龍山寺站(板南線)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035449,
+            121.499579
+          ],
+          "address": "臺北市萬華區西園路一段153號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運龍山寺站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001415,
+          "title": "艋舺龍山文創",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036085,
+            121.499544
+          ],
+          "address": "臺北市萬華區西園路一段145號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "艋舺龍山文創",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001448,
+          "title": "龍山寺地下街",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036085,
+            121.499544
+          ],
+          "address": "臺北市萬華區西園路一段145號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "龍山寺地下商場管理中心(中興電工)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001534,
+          "title": "吉野家西園店",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035761,
+            121.499219
+          ],
+          "address": "臺北市萬華區西園路一段214號之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣吉野家股份有限公司西園分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001546,
+          "title": "仁濟醫院",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03666,
+            121.497895
+          ],
+          "address": "臺北市萬華區廣州街243號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人台灣省私立台北仁濟院附設仁濟醫院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026786979389797,
+        "lng": 121.49168618289642
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001407,
+          "title": "雙園國中地下停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.027622,
+            121.491177
+          ],
+          "address": "臺北市萬華區西園路二段320巷55弄3號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處雙園國中地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001411,
+          "title": "萬板地下停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.028427,
+            121.491151
+          ],
+          "address": "臺北市萬華區萬板地下停車場華翠高架橋下環南市場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處萬板地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001431,
+          "title": "公有環南綜合市場(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.029942,
+            121.489814
+          ],
+          "address": "臺北市萬華區環河南路二段245號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有環南綜合市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001467,
+          "title": "華中河濱公園53號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.027644,
+            121.488411
+          ],
+          "address": "華翠橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4663ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028459576332395,
+        "lng": 121.49813432160592
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001412,
+          "title": "萬華國中地下停車場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02908,
+            121.498909
+          ],
+          "address": "臺北市萬華區西藏路207號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處萬華國中地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6001420,
+          "title": "剝皮寮歷史街區",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036659,
+            121.500545
+          ],
+          "address": "臺北市萬華區廣州街與康定路口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "剝皮寮歷史街區",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001422,
+          "title": "中油桂林路加油站",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038559,
+            121.501033
+          ],
+          "address": "臺北市萬華區桂林路103號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司桂林路加油站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001429,
+          "title": "艋舺公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036659,
+            121.500545
+          ],
+          "address": "臺北市萬華區廣州街西園路交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001451,
+          "title": "艋舺龍山寺",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036815,
+            121.499936
+          ],
+          "address": "臺北市萬華區廣州街211號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人臺北市艋舺龍山寺",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4637ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.037825041391397,
+        "lng": 121.50461926081998
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001421,
+          "title": "臺北市鄉土教育中心",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0366,
+            121.5032
+          ],
+          "address": "臺北市萬華區廣州街101號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市鄉土教育中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001449,
+          "title": "家樂福桂林店",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037841,
+            121.506171
+          ],
+          "address": "臺北市萬華區桂林路1號1-4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "家福股份有限公司台北桂林分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4657ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.031636880241766,
+        "lng": 121.49063564578903
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001423,
+          "title": "中油環河南路加油站",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.032811,
+            121.491769
+          ],
+          "address": "臺北市萬華區環河南路二段274之2號及177之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司環河南路加油站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001446,
+          "title": "統一超商臺北市雙環門市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.032052,
+            121.49154
+          ],
+          "address": "臺北市萬華區環河南路二段207號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市雙環門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.026452552513188,
+        "lng": 121.50027170369371
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6001424,
+          "title": "山隆萬大加油站",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.027184,
+            121.500686
+          ],
+          "address": "臺北市萬華區萬大路207號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "山隆通運股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001441,
+          "title": "統一超商臺北市萬和門市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.027944,
+            121.500354
+          ],
+          "address": "臺北市萬華區萬大路182-184號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001442,
+          "title": "統一超商臺北市新艋舺門市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.025272,
+            121.500292
+          ],
+          "address": "臺北市萬華區萬大路292號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001523,
+          "title": "麥當勞台北萬大二店",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.026885,
+            121.500662
+          ],
+          "address": "臺北市萬華區萬大路215號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北萬大二分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46afffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.03983175508963,
+        "lng": 121.50248176000473
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001427,
+          "title": "老松公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038635,
+            121.502686
+          ],
+          "address": "臺北市萬華區桂林路老松國小對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001434,
+          "title": "公有直興市場(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.039302,
+            121.501754
+          ],
+          "address": "臺北市萬華區康定路172巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有直興市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001452,
+          "title": "祖師廟",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.040223,
+            121.50266
+          ],
+          "address": "臺北市萬華區康定路81號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "艋舺清水巖祖師廟",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001495,
+          "title": "臺北市萬華新移民會館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.040698,
+            121.50174
+          ],
+          "address": "臺北市萬華區長沙街二段171號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "民政局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001506,
+          "title": "臺北市立圖書館龍山分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038547,
+            121.50238
+          ],
+          "address": "臺北市萬華區桂林路65巷6號2、3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館龍山分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46abffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.038995498816725,
+        "lng": 121.49925742688205
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001428,
+          "title": "青山公園廣場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.039497,
+            121.498392
+          ],
+          "address": "臺北市萬華區華西街15號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001510,
+          "title": "龍山派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038601,
+            121.499611
+          ],
+          "address": "臺北市萬華區桂林路135號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局萬華分局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001430,
+          "title": "和平青草園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0328,
+            121.4981
+          ],
+          "address": "臺北市萬華區艋舺大道西園路二段交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001511,
+          "title": "大理街派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034418,
+            121.498278
+          ],
+          "address": "臺北市萬華區大理街99號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局 大理街派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001522,
+          "title": "統一星巴克艋舺門市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.033532,
+            121.498397
+          ],
+          "address": "臺北市萬華區西園路一段306巷24號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克台灣總公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.025616327635806,
+        "lng": 121.49704751749545
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001433,
+          "title": "東園市場(署)",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.025129,
+            121.497799
+          ],
+          "address": "臺北市萬華區民和街87巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "東園市場自治會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001541,
+          "title": "萬華9號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.025768,
+            121.496864
+          ],
+          "address": "臺北市萬華區東園街85巷4弄3號之1旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6001453,
+          "title": "龍山河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.043034,
+            121.499701
+          ],
+          "address": "貴陽疏散門前方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001454,
+          "title": "龍山河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.043034,
+            121.499701
+          ],
+          "address": "貴陽疏散門前方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001455,
+          "title": "龍山河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.043034,
+            121.499701
+          ],
+          "address": "貴陽疏散門前方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001535,
+          "title": "萬華16號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.041313,
+            121.499454
+          ],
+          "address": "臺北市萬華區環河南路一段286號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46bbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.041002039551415,
+        "lng": 121.49712001756265
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001456,
+          "title": "龍山河濱公園70號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.041367,
+            121.498321
+          ],
+          "address": "貴陽疏散門前方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001457,
+          "title": "龍山河濱公園71號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.041367,
+            121.498321
+          ],
+          "address": "貴陽疏散門前方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03648641920194,
+        "lng": 121.48958510242542
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001458,
+          "title": "龍山河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037564,
+            121.490416
+          ],
+          "address": "華江雁鴨公園平台",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市動物保護處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46c3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0356499557722,
+        "lng": 121.4863612192921
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001459,
+          "title": "雙園河濱公園68號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03569,
+            121.486922
+          ],
+          "address": "華江橋下自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001460,
+          "title": "雙園河濱公園69號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035728,
+            121.486935
+          ],
+          "address": "華江橋下自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001461,
+          "title": "雙園河濱公園72號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034637,
+            121.486687
+          ],
+          "address": "華江橋上游棒壘球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46cfffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.033643480629195,
+        "lng": 121.488498417073
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6001462,
+          "title": "雙園河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034454,
+            121.488404
+          ],
+          "address": "華江橋下兒童遊戲場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001463,
+          "title": "雙園河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034454,
+            121.488404
+          ],
+          "address": "華江橋下兒童遊戲場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001464,
+          "title": "雙園河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034454,
+            121.488404
+          ],
+          "address": "華江橋下兒童遊戲場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001465,
+          "title": "雙園河濱公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034454,
+            121.488404
+          ],
+          "address": "華江橋下兒童遊戲場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4653ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.030800460469255,
+        "lng": 121.48741175391952
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001466,
+          "title": "雙園河濱公園54號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0312,
+            121.48758
+          ],
+          "address": "萬板橋下游自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.025950603285533,
+        "lng": 121.48846228229304
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001468,
+          "title": "華中河濱公園52號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.026503,
+            121.489403
+          ],
+          "address": "華翠橋上游羽球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a467bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.0276233037428,
+        "lng": 121.49491019600555
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001502,
+          "title": "臺北市立圖書館萬華分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.027922,
+            121.495703
+          ],
+          "address": "臺北市萬華區東園街19號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館萬華分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001512,
+          "title": "西園路派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.028179,
+            121.495661
+          ],
+          "address": "臺北市萬華區東園街17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局 西園路派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001524,
+          "title": "麥當勞台北西園二店",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.028306,
+            121.495143
+          ],
+          "address": "臺北市萬華區西園路二段240號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北西園Ⅱ分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001531,
+          "title": "拿坡里西園店",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.028162,
+            121.494962
+          ],
+          "address": "臺北市萬華區西園路二段244號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "拿帕里股份有限公司西園分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001547,
+          "title": "私立西園醫院",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02775,
+            121.494479
+          ],
+          "address": "臺北市萬華區西園路二段278號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私立西園醫院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4677ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03130274343967,
+        "lng": 121.49922114791217
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001505,
+          "title": "國稅局萬華稽徵所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.030197,
+            121.499932
+          ],
+          "address": "臺北市萬華區萬大路90巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部臺北國稅局萬華稽徵所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a461bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.034479896350202,
+        "lng": 121.4917223608344
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001517,
+          "title": "華江派出所",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034287,
+            121.493173
+          ],
+          "address": "臺北市萬華區環河南路二段196號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局 華江派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001518,
+          "title": "臺北市立圖書館柳鄉閱覽室",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037012,
+            121.495346
+          ],
+          "address": "臺北市萬華區環河南路二段102號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館柳鄉民眾閱覽室",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.042674595703705,
+        "lng": 121.50356867509312
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001543,
+          "title": "國立臺灣大學醫學院附設醫院北護分院",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.041618,
+            121.503322
+          ],
+          "address": "臺北市萬華區內江街87號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學醫學院附設醫院北護分院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

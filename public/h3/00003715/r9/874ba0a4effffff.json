@@ -1,0 +1,3101 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4e4fffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.024435000144507,
+        "lng": 121.55180000381542
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 200910,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02329,
+            121.55142
+          ],
+          "address": "臺北市大安區基隆路2段211號",
+          "layoutType": "",
+          "hours": "2132",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201028,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02572,
+            121.55218
+          ],
+          "address": "臺北市大安區樂利路89號前",
+          "layoutType": "",
+          "hours": "1900",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201181,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02507,
+            121.55324
+          ],
+          "address": "臺北市大安區基隆路2段184巷口",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201182,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02459,
+            121.55216
+          ],
+          "address": "臺北市大安區和平東路3段129號前",
+          "layoutType": "",
+          "hours": "2146",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201193,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02441,
+            121.55014
+          ],
+          "address": "臺北市大安區和平東路3段66號",
+          "layoutType": "",
+          "hours": "2152",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201194,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02438,
+            121.55076
+          ],
+          "address": "臺北市大安區和平東路3段78號",
+          "layoutType": "",
+          "hours": "2157",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201195,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02393,
+            121.55201
+          ],
+          "address": "臺北市大安區基隆路2段192號",
+          "layoutType": "",
+          "hours": "2210",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201196,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0232,
+            121.55117
+          ],
+          "address": "臺北市大安區基隆路2段228號(新增)",
+          "layoutType": "",
+          "hours": "2215",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eb3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041495734693715,
+        "lng": 121.55832627286124
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200927,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04158,
+            121.55747
+          ],
+          "address": "臺北市大安區忠孝東路4段343號前",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e83ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.039825100640915,
+        "lng": 121.55187396835886
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200931,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03876,
+            121.55065
+          ],
+          "address": "臺北市大安區安和路1段33號前",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201198,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03924,
+            121.55303
+          ],
+          "address": "臺北市大安區忠孝東路4段216巷39號前",
+          "layoutType": "",
+          "hours": "1720",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201199,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03973,
+            121.55298
+          ],
+          "address": "臺北市大安區忠孝東路4段216巷29號",
+          "layoutType": "",
+          "hours": "1738",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201205,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04088,
+            121.55181
+          ],
+          "address": "臺北市大安區忠孝東路4段170巷5弄20號",
+          "layoutType": "",
+          "hours": "2010",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e9bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03898970565136,
+        "lng": 121.54864798444986
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200932,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03976,
+            121.54974
+          ],
+          "address": "臺北市大安區安和路1段7號前",
+          "layoutType": "",
+          "hours": "2112",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201206,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03988,
+            121.54747
+          ],
+          "address": "臺北市大安區敦化南路1段252巷13號前",
+          "layoutType": "",
+          "hours": "2145",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201207,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03856,
+            121.54835
+          ],
+          "address": "臺北市大安區仁愛路4段99號前",
+          "layoutType": "",
+          "hours": "2155",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201208,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03812,
+            121.54723
+          ],
+          "address": "臺北市大安區仁愛路4段69號前",
+          "layoutType": "",
+          "hours": "2203",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ebbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03865248330501,
+        "lng": 121.55723850590495
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200972,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03843,
+            121.55728
+          ],
+          "address": "臺北市大安區光復南路348號前",
+          "layoutType": "",
+          "hours": "1805",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201012,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03752,
+            121.55587
+          ],
+          "address": "臺北市大安區仁愛路4段378號前",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201013,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03749,
+            121.55704
+          ],
+          "address": "臺北市大安區仁愛路4段410號前",
+          "layoutType": "",
+          "hours": "1825",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201202,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03843,
+            121.55728
+          ],
+          "address": "臺北市大安區光復南路348號（第2次收集）",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e87ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04066044365908,
+        "lng": 121.55510006450082
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200973,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04142,
+            121.55543
+          ],
+          "address": "臺北市大安區忠孝東路4段301號前",
+          "layoutType": "",
+          "hours": "1940",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200974,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0415,
+            121.55407
+          ],
+          "address": "臺北市大安區忠孝東路4段285號前",
+          "layoutType": "",
+          "hours": "1950",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e97ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.04266827876235,
+        "lng": 121.55296165387449
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200975,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04351,
+            121.55198
+          ],
+          "address": "臺北市大安區敦化南路1段161巷77號前",
+          "layoutType": "",
+          "hours": "2002",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200979,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04223,
+            121.55311
+          ],
+          "address": "臺北市大安區忠孝東路4段223巷10弄1-6號",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200980,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04254,
+            121.5517
+          ],
+          "address": "臺北市大安區敦化南路1段187巷48號",
+          "layoutType": "",
+          "hours": "2158",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201200,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04156,
+            121.55204
+          ],
+          "address": "臺北市大安區忠孝東路4段209號",
+          "layoutType": "",
+          "hours": "1750",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e93ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.041832888012404,
+        "lng": 121.54973561814971
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200981,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04258,
+            121.55058
+          ],
+          "address": "臺北市大安區敦化南路1段187巷27號",
+          "layoutType": "",
+          "hours": "2205",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201201,
+          "title": "敦化分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04162,
+            121.54976
+          ],
+          "address": "臺北市大安區忠孝東路4段151號",
+          "layoutType": "",
+          "hours": "1758",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ec3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.033303095700884,
+        "lng": 121.5464727835959
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200982,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03319,
+            121.54706
+          ],
+          "address": "臺北市大安區信義路4段74號前",
+          "layoutType": "",
+          "hours": "1810",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200994,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03322,
+            121.54548
+          ],
+          "address": "臺北市大安區信義路4段60號前(信維市場)",
+          "layoutType": "",
+          "hours": "2132",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201056,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03431,
+            121.54599
+          ],
+          "address": "臺北市大安區大安路1段231號前",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201065,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03347,
+            121.54513
+          ],
+          "address": "臺北市大安區信義路4段55號前",
+          "layoutType": "",
+          "hours": "1921",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e53ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.028451570710466,
+        "lng": 121.54752344810699
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200983,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02874,
+            121.54799
+          ],
+          "address": "臺北市大安區四維路160巷2號旁",
+          "layoutType": "",
+          "hours": "1830",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201187,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02821,
+            121.54703
+          ],
+          "address": "臺北市大安區四維路170巷20號",
+          "layoutType": "",
+          "hours": "2035",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecfffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03129507578262,
+        "lng": 121.54861104489814
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200984,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02994,
+            121.54853
+          ],
+          "address": "臺北市大安區敦化南路2段62號旁",
+          "layoutType": "",
+          "hours": "1845",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200985,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03097,
+            121.54797
+          ],
+          "address": "臺北市大安區四維路與四維路154巷交叉口前",
+          "layoutType": "",
+          "hours": "1851",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201060,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0328293,
+            121.5485608
+          ],
+          "address": "臺北市大安區敦化南路2段6號",
+          "layoutType": "",
+          "hours": "1733",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201174,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03213,
+            121.54908
+          ],
+          "address": "臺北市大安區敦化南路2段37巷口",
+          "layoutType": "",
+          "hours": "1925",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4edbffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.032467640327113,
+        "lng": 121.5432470155768
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200988,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03277,
+            121.5435
+          ],
+          "address": "臺北市大安區復興南路2段10號",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200989,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03103,
+            121.54345
+          ],
+          "address": "臺北市大安區復興南路2段80號前",
+          "layoutType": "",
+          "hours": "1936",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200992,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03133,
+            121.54364
+          ],
+          "address": "臺北市大安區復興南路2段45號前",
+          "layoutType": "",
+          "hours": "2116",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200993,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03257,
+            121.54367
+          ],
+          "address": "臺北市大安區復興南路2段13號前",
+          "layoutType": "",
+          "hours": "2124",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201055,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03247,
+            121.54367
+          ],
+          "address": "臺北市大安區復興南路2段13之1號前（二次收集）",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0304596681386,
+        "lng": 121.54538521644197
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200990,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02935,
+            121.54603
+          ],
+          "address": "臺北市大安區大安路2段99號",
+          "layoutType": "",
+          "hours": "2050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200991,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03127,
+            121.54596
+          ],
+          "address": "臺北市大安區大安路2段90號前",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ed3ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.035310990376374,
+        "lng": 121.54433455309123
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 200995,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03533,
+            121.54602
+          ],
+          "address": "臺北市大安區大安路1段205號前",
+          "layoutType": "",
+          "hours": "2152",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201058,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03602,
+            121.54512
+          ],
+          "address": "臺北市大安區東豐街24號旁（東豐公園）",
+          "layoutType": "",
+          "hours": "1722",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201061,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03406,
+            121.5437
+          ],
+          "address": "臺北市大安區復興南路1段321號前",
+          "layoutType": "",
+          "hours": "1850",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201062,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03506,
+            121.54373
+          ],
+          "address": "臺北市大安區復興南路1段297號前",
+          "layoutType": "",
+          "hours": "1854",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201064,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03602,
+            121.54511
+          ],
+          "address": "臺北市大安區東豐街24號旁（東豐公園）（二次收集）",
+          "layoutType": "",
+          "hours": "1909",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201141,
+          "title": "新生分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03599,
+            121.54333
+          ],
+          "address": "臺北市大安區復興南路1段342號前",
+          "layoutType": "",
+          "hours": "1839",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201142,
+          "title": "新生分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03534,
+            121.54344
+          ],
+          "address": "臺北市大安區復興南路1段360號前",
+          "layoutType": "",
+          "hours": "1846",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ec7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034138499137462,
+        "lng": 121.54969866387056
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201009,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03526,
+            121.54905
+          ],
+          "address": "臺北市大安區敦化南路1段303之1號前",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201014,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03335,
+            121.55065
+          ],
+          "address": "臺北市大安區信義路4段165號前",
+          "layoutType": "",
+          "hours": "2000",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201059,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03347,
+            121.54855
+          ],
+          "address": "臺北市大安區敦化南路1段376號前",
+          "layoutType": "",
+          "hours": "1728",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ed7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.036146441543004,
+        "lng": 121.54756037293191
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201010,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03655,
+            121.54915
+          ],
+          "address": "臺北市大安區敦化南路1段263號前",
+          "layoutType": "",
+          "hours": "1810",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201066,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03503,
+            121.54811
+          ],
+          "address": "臺北市大安區四維路66巷2號旁（德安公園）",
+          "layoutType": "",
+          "hours": "1937",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201067,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03724,
+            121.5482
+          ],
+          "address": "臺北市大安區四維路8號前",
+          "layoutType": "",
+          "hours": "1952",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201068,
+          "title": "瑞安分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03605,
+            121.54861
+          ],
+          "address": "臺北市大安區敦化南路1段294號前",
+          "layoutType": "",
+          "hours": "1959",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e8bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.036981840761428,
+        "lng": 121.55078630502418
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 201011,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03757,
+            121.55224
+          ],
+          "address": "臺北市大安區仁愛路4段232號前",
+          "layoutType": "",
+          "hours": "1815",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e1bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.032130431488273,
+        "lng": 121.55183698559915
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201015,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03332,
+            121.55162
+          ],
+          "address": "臺北市大安區信義路4段203號前",
+          "layoutType": "",
+          "hours": "2005",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201016,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03326,
+            121.55256
+          ],
+          "address": "臺北市大安區信義路4段225號前",
+          "layoutType": "",
+          "hours": "2015",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201024,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03265,
+            121.55157
+          ],
+          "address": "臺北市大安區信義路4段186巷與文昌街口",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201025,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03215,
+            121.55256
+          ],
+          "address": "臺北市大安區安和路2段21號前",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201032,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03246,
+            121.55225
+          ],
+          "address": "臺北市大安區安和路2段12號前",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201033,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03108,
+            121.55221
+          ],
+          "address": "臺北市大安區安和路2段52號前",
+          "layoutType": "",
+          "hours": "2110",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201175,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03308,
+            121.55166
+          ],
+          "address": "臺北市大安區信義路4段188號前",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e03ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.032965735243447,
+        "lng": 121.55506303853045
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 201017,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03323,
+            121.5558
+          ],
+          "address": "臺北市大安區信義路4段307號前",
+          "layoutType": "",
+          "hours": "2020",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201018,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03417,
+            121.5564
+          ],
+          "address": "臺北市大安區延吉街256號前",
+          "layoutType": "",
+          "hours": "2028",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201023,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03183,
+            121.55429
+          ],
+          "address": "臺北市大安區通化街17-5號前",
+          "layoutType": "",
+          "hours": "2241",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201026,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03292,
+            121.55547
+          ],
+          "address": "臺北市大安區信義路4段374號加油站前",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201177,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03292,
+            121.55547
+          ],
+          "address": "臺北市大安區信義路4段374號加油站前",
+          "layoutType": "",
+          "hours": "1940",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e17ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03580915015039,
+        "lng": 121.556150761128
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201019,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03566,
+            121.55571
+          ],
+          "address": "臺北市大安區延吉街241巷2弄17號光信公園前",
+          "layoutType": "",
+          "hours": "2035",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201020,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03643,
+            121.5574
+          ],
+          "address": "臺北市大安區光復南路422號前",
+          "layoutType": "",
+          "hours": "2040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e43ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.026443348044996,
+        "lng": 121.5496617105666
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201021,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02538,
+            121.55018
+          ],
+          "address": "臺北市大安區安和路2段225號前",
+          "layoutType": "",
+          "hours": "2215",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201035,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02492,
+            121.55008
+          ],
+          "address": "臺北市大安區安和路2段186號前",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201168,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02538,
+            121.55018
+          ],
+          "address": "臺北市大安區安和路2段225號前",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201169,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02648,
+            121.55026
+          ],
+          "address": "臺北市大安區安和路2段187號前",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201173,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02546,
+            121.54902
+          ],
+          "address": "臺北市大安區敦化南路2段263號前",
+          "layoutType": "",
+          "hours": "1915",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201188,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02626,
+            121.54848
+          ],
+          "address": "臺北市大安區敦化南路2段126號(鳳雛公園)",
+          "layoutType": "",
+          "hours": "2051",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201189,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02545,
+            121.54848
+          ],
+          "address": "臺北市大安區敦化南路2段148號",
+          "layoutType": "",
+          "hours": "2101",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e47ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02727866022692,
+        "lng": 121.55288765987407
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201022,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0283,
+            121.55385
+          ],
+          "address": "臺北市大安區通化街167號前",
+          "layoutType": "",
+          "hours": "2224",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201029,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02833,
+            121.55387
+          ],
+          "address": "臺北市大安區通化街167號前",
+          "layoutType": "",
+          "hours": "1905",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e07ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.033800987035967,
+        "lng": 121.55828920367743
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201027,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03272,
+            121.55727
+          ],
+          "address": "臺北市大安區光復南路606號",
+          "layoutType": "",
+          "hours": "1715",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201178,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03272,
+            121.55727
+          ],
+          "address": "臺北市大安區光復南路606號",
+          "layoutType": "",
+          "hours": "1945",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203336,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03463,
+            121.55969
+          ],
+          "address": "臺北市信義區基隆路1段380巷5號旁(中興公園)",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203431,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0326,
+            121.55751
+          ],
+          "address": "臺北市信義區光復南路487號",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203435,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03421,
+            121.55768
+          ],
+          "address": "臺北市信義區光復南路459號",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203436,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03515,
+            121.55832
+          ],
+          "address": "臺北市信義區光復南路477之36號對面",
+          "layoutType": "",
+          "hours": "2125",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e0bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03012223859776,
+        "lng": 121.55397533811244
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201030,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03054,
+            121.5525
+          ],
+          "address": "臺北市安和路2段69巷2號",
+          "layoutType": "",
+          "hours": "1945",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201036,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03054,
+            121.5525
+          ],
+          "address": "臺北市安和路2段69巷2號",
+          "layoutType": "",
+          "hours": "2146",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e13ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034973850624695,
+        "lng": 121.55292465638611
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201031,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03416,
+            121.55227
+          ],
+          "address": "臺北市大安區安和路1段104號前",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201171,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03463,
+            121.55262
+          ],
+          "address": "臺北市大安區安和路1段129號前",
+          "layoutType": "",
+          "hours": "1728",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201172,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03616,
+            121.55274
+          ],
+          "address": "臺北市大安區安和路1段91號前",
+          "layoutType": "",
+          "hours": "1745",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e57ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.029286930623833,
+        "lng": 121.55074933699262
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201034,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02905,
+            121.55051
+          ],
+          "address": "臺北市大安區安和路2段92號前",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201170,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02929,
+            121.55139
+          ],
+          "address": "臺北市大安區安和路2段123號前",
+          "layoutType": "",
+          "hours": "1715",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e4bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.023599683765298,
+        "lng": 121.54857410632117
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201107,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02456,
+            121.54814
+          ],
+          "address": "臺北市大安區和平東路3段56號",
+          "layoutType": "",
+          "hours": "2033",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201108,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02372,
+            121.54992
+          ],
+          "address": "臺北市大安區樂業街19號",
+          "layoutType": "",
+          "hours": "2046",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201109,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02283,
+            121.54984
+          ],
+          "address": "臺北市大安區樂業街50號",
+          "layoutType": "",
+          "hours": "2052",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e0fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03095749462002,
+        "lng": 121.55720145145186
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201179,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03031,
+            121.55728
+          ],
+          "address": "臺北市大安區光復南路676號前",
+          "layoutType": "",
+          "hours": "1949",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203337,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03093,
+            121.55816
+          ],
+          "address": "臺北市信義區基隆路2段72號前",
+          "layoutType": "",
+          "hours": "1845",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203452,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03133,
+            121.55862
+          ],
+          "address": "臺北市信義區基隆路2段39巷口",
+          "layoutType": "",
+          "hours": "2148",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e73ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.028113920468215,
+        "lng": 121.5561137214051
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201180,
+          "title": "安和分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02837,
+            121.55671
+          ],
+          "address": "臺北市大安區基隆路2段140號前",
+          "layoutType": "",
+          "hours": "2130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203443,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02824,
+            121.55691
+          ],
+          "address": "臺北市信義區基隆路2段131號前",
+          "layoutType": "",
+          "hours": "1807",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203451,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02824,
+            121.55691
+          ],
+          "address": "臺北市信義區基隆路2段131號前",
+          "layoutType": "",
+          "hours": "2137",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e5bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.025607983934616,
+        "lng": 121.54643587349727
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201186,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02637,
+            121.54519
+          ],
+          "address": "臺北市大安區和平東路2段311巷50號前",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201190,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02473,
+            121.54664
+          ],
+          "address": "臺北市大安區和平東路2段365號(新增)",
+          "layoutType": "",
+          "hours": "2107",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201191,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02488,
+            121.54517
+          ],
+          "address": "臺北市大安區和平東路2段315號(新增)",
+          "layoutType": "",
+          "hours": "2121",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201192,
+          "title": "臥龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02459,
+            121.54726
+          ],
+          "address": "臺北市大安區和平東路3段22號",
+          "layoutType": "",
+          "hours": "2143",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ea7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04032291790982,
+        "lng": 121.56369115561681
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203338,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.04107,
+            121.56344
+          ],
+          "address": "臺北市信義區忠孝東路4段556號",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203340,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.04129,
+            121.56398
+          ],
+          "address": "臺北市信義區忠孝東路4段563號",
+          "layoutType": "",
+          "hours": "2155",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e2bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.029784285080297,
+        "lng": 121.56256618107946
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 203353,
+          "title": "吳興分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0304577,
+            121.563428
+          ],
+          "address": "臺北市信義區莊敬路239巷10號對面(信義國小後門)",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203471,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02901,
+            121.56137
+          ],
+          "address": "臺北市信義區吳興街156巷6號前",
+          "layoutType": "",
+          "hours": "1830",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203474,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02901,
+            121.56136
+          ],
+          "address": "臺北市信義區吳興街156巷6號前",
+          "layoutType": "",
+          "hours": "2135",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e2fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03061938942677,
+        "lng": 121.56579257919363
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203365,
+          "title": "吳興分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.031,
+            121.56534
+          ],
+          "address": "臺北市信義區松智路31巷口",
+          "layoutType": "",
+          "hours": "2107",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203404,
+          "title": "吳興分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03006,
+            121.56532
+          ],
+          "address": "臺北市信義區松智路33巷口",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e23ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032627850761,
+        "lng": 121.56365401473121
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203366,
+          "title": "吳興分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0320656,
+            121.5632627
+          ],
+          "address": "臺北市信義區松勤街47號(松勤路信義國小正對面)",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e3bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0317926986785,
+        "lng": 121.56042767699634
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203367,
+          "title": "吳興分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03197,
+            121.56179
+          ],
+          "address": "臺北市信義區松勤街50號前(莊敬路松勤路口)",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203444,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03059,
+            121.55951
+          ],
+          "address": "臺北市信義區基隆路2段39巷口(玉山銀行前)",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ea3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03948772660585,
+        "lng": 121.56046477466433
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203370,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03953,
+            121.56161
+          ],
+          "address": "臺北市信義區逸仙路26巷1號前",
+          "layoutType": "",
+          "hours": "2050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eb7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04233097373262,
+        "lng": 121.56155259342545
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203371,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.04112,
+            121.56191
+          ],
+          "address": "臺北市信義區逸仙路與忠孝東路4段500號",
+          "layoutType": "",
+          "hours": "2102",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e7bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.02527026459412,
+        "lng": 121.55502601353714
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 203385,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02443,
+            121.55532
+          ],
+          "address": "臺北市信義區崇德街79巷口(黎順里公園)",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203388,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02443,
+            121.55532
+          ],
+          "address": "臺北市信義區崇德街79巷口(黎順里公園)",
+          "layoutType": "",
+          "hours": "2015",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203442,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02571,
+            121.55497
+          ],
+          "address": "臺北市信義區基隆路2段155號前",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203450,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02571,
+            121.55497
+          ],
+          "address": "臺北市信義區基隆路2段155號前",
+          "layoutType": "",
+          "hours": "2130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eabffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03664439770242,
+        "lng": 121.55937697808157
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203432,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03691,
+            121.5577
+          ],
+          "address": "臺北市信義區光復南路417號之8",
+          "layoutType": "",
+          "hours": "1815",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203433,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03711,
+            121.55923
+          ],
+          "address": "臺北市信義區仁愛路4段452巷3號(正和里里民活動中心)",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03463618685366,
+        "lng": 121.56151548102545
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203437,
+          "title": "三張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03544,
+            121.56025
+          ],
+          "address": "臺北市信義區基隆路1段364巷6號",
+          "layoutType": "",
+          "hours": "2135",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e67ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.026940637655855,
+        "lng": 121.56147836960484
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203470,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0266,
+            121.5613
+          ],
+          "address": "臺北市信義區吳興街220巷59弄口",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203473,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0266,
+            121.5613
+          ],
+          "address": "臺北市信義區吳興街220巷59弄口",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e77ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.028949128756718,
+        "lng": 121.5593398951451
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203472,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02834,
+            121.5589
+          ],
+          "address": "臺北市信義區吳興街156巷67號(含三興國小)",
+          "layoutType": "",
+          "hours": "1855",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203475,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0285,
+            121.56068
+          ],
+          "address": "臺北市信義區吳興街156巷67號前",
+          "layoutType": "",
+          "hours": "2155",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e6fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.024096908501274,
+        "lng": 121.56039058030734
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203476,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02479,
+            121.56008
+          ],
+          "address": "臺北市信義區信安街103巷22之6號前",
+          "layoutType": "",
+          "hours": "1755",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e63ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02610547710195,
+        "lng": 121.55825213547183
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203477,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02567,
+            121.55698
+          ],
+          "address": "臺北市信義區信安街93號前",
+          "layoutType": "",
+          "hours": "1810",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203478,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0269,
+            121.55815
+          ],
+          "address": "臺北市信義區信安街52號前",
+          "layoutType": "",
+          "hours": "1818",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023261743727737,
+        "lng": 121.55716439797665
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203479,
+          "title": "六張犁分隊",
+          "category": "nightmarket",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02302,
+            121.55846
+          ],
+          "address": "臺北市信義區崇德街206巷口",
+          "layoutType": "",
+          "hours": "1830",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

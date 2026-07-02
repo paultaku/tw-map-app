@@ -1,0 +1,1555 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d32a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.071910681372255,
+        "lng": 121.6164928940189
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2600269,
+          "title": "森好有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070844,
+            121.617417
+          ],
+          "address": "臺北市內湖區康樂街72巷17弄31號2樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604035,
+          "title": "品式力有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070482,
+            121.616427
+          ],
+          "address": "臺北市內湖區康樂街72巷17弄84號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3267ffff",
+      "res": 9,
+      "count": 19,
+      "center": {
+        "lat": 25.05853081249295,
+        "lng": 121.61427763950475
+      },
+      "categories": {
+        "other": 19
+      },
+      "points": [
+        {
+          "id": 2600284,
+          "title": "饌元股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057623,
+            121.613068
+          ],
+          "address": "臺北市南港區三重路19之9號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2600338,
+          "title": "根茂國際投資股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057623,
+            121.613068
+          ],
+          "address": "臺北市南港區三重路19之9號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2600896,
+          "title": "中國信託育樂股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059335,
+            121.614993
+          ],
+          "address": "臺北市南港區經貿二路188號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601102,
+          "title": "神雋股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057258,
+            121.614402
+          ],
+          "address": "臺北市南港區三重路66號12樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601506,
+          "title": "神瑞人工智慧股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601580,
+          "title": "嘉實投資股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059335,
+            121.614993
+          ],
+          "address": "臺北市南港區經貿二路188號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601595,
+          "title": "榮華投資股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059335,
+            121.614993
+          ],
+          "address": "臺北市南港區經貿二路188號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601689,
+          "title": "富泰動力股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058544,
+            121.613743
+          ],
+          "address": "臺北市南港區三重路19之11號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601755,
+          "title": "杉和實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號14樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601779,
+          "title": "美村餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057623,
+            121.613068
+          ],
+          "address": "臺北市南港區三重路19之9號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602199,
+          "title": "宜華投資股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059335,
+            121.614993
+          ],
+          "address": "臺北市南港區經貿二路188號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602259,
+          "title": "宇知人工智慧股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602864,
+          "title": "瞬像股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058544,
+            121.613743
+          ],
+          "address": "臺北市南港區三重路19之11號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602971,
+          "title": "宇知人工智慧股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603013,
+          "title": "台灣若美科技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059373,
+            121.613491
+          ],
+          "address": "臺北市南港區園區街6之10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603173,
+          "title": "宇知人工智慧股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603198,
+          "title": "西門子歌美颯離岸風力再生能源股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057258,
+            121.614402
+          ],
+          "address": "臺北市南港區三重路66號16樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604086,
+          "title": "內克薩數位股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058551,
+            121.613229
+          ],
+          "address": "臺北市南港區三重路19之13號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604427,
+          "title": "能知有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058544,
+            121.613743
+          ],
+          "address": "臺北市南港區三重路19之11號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3253ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.060044275018686,
+        "lng": 121.60031481897444
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2600331,
+          "title": "邁寶生技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061344,
+            121.599895
+          ],
+          "address": "臺北市內湖區潭美街537號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2600820,
+          "title": "合流科技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061081,
+            121.599988
+          ],
+          "address": "臺北市內湖區潭美街535號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d322bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06137382599358,
+        "lng": 121.61536633093318
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2600875,
+          "title": "龍臨實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060537,
+            121.616054
+          ],
+          "address": "臺北市南港區經貿二路189號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601358,
+          "title": "台灣紅牛股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060568,
+            121.615564
+          ],
+          "address": "臺北市南港區經貿二路197號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604085,
+          "title": "大聯大供應鏈服務股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060537,
+            121.616054
+          ],
+          "address": "臺北市南港區經貿二路189號22樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2605098,
+          "title": "天保康股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060568,
+            121.615564
+          ],
+          "address": "臺北市南港區經貿二路197號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3263ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.057696411487886,
+        "lng": 121.61104947392822
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2600879,
+          "title": "實璒醫藥生技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058478,
+            121.611987
+          ],
+          "address": "臺北市南港區園區街3號12樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601159,
+          "title": "崧大投資股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056912,
+            121.611919
+          ],
+          "address": "臺北市南港區園區街3之2號4樓之3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602216,
+          "title": "開酷科技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056912,
+            121.611919
+          ],
+          "address": "臺北市南港區園區街3之2號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602290,
+          "title": "太學中科股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057765,
+            121.611839
+          ],
+          "address": "臺北市南港區園區街3之1號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.071076250516175,
+        "lng": 121.61326458169881
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2601043,
+          "title": "酷聲勢音樂股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07064,
+            121.613319
+          ],
+          "address": "臺北市內湖區康寧路3段189巷32號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603044,
+          "title": "國堂有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069597,
+            121.613236
+          ],
+          "address": "臺北市內湖區東湖路33巷18號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3297ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.074257814281616,
+        "lng": 121.60575742578986
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2601134,
+          "title": "特格實業有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.073701,
+            121.606273
+          ],
+          "address": "臺北市內湖區成功路5段460號6樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601256,
+          "title": "史賓樂有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.073701,
+            121.606273
+          ],
+          "address": "臺北市內湖區成功路5段460號6樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32bbffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.070241767415922,
+        "lng": 121.61003638133917
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 2601152,
+          "title": "雲雀國際股份有限公司內湖分公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070209,
+            121.611273
+          ],
+          "address": "臺北市內湖區康寧路3段72號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601179,
+          "title": "勝帷股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069565,
+            121.609457
+          ],
+          "address": "臺北市內湖區民權東路6段296巷121號地下1層之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602785,
+          "title": "阿尼米運動工程有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069565,
+            121.609457
+          ],
+          "address": "臺北市內湖區民權東路6段296巷121號地下1層之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603219,
+          "title": "湖園實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070209,
+            121.611273
+          ],
+          "address": "臺北市內湖區康寧路3段72號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603378,
+          "title": "港墘加油站股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070209,
+            121.611273
+          ],
+          "address": "臺北市內湖區康寧路3段72號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604305,
+          "title": "睿智文教事業有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070209,
+            121.611273
+          ],
+          "address": "臺北市內湖區康寧路3段72號4樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604684,
+          "title": "金烏國際智聯股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070118,
+            121.6095
+          ],
+          "address": "臺北市內湖區康寧路3段56巷31號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3273ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.059704980690462,
+        "lng": 121.60891000826248
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2601465,
+          "title": "惠瑜達股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059737,
+            121.610275
+          ],
+          "address": "臺北市南港區重陽路455號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2601468,
+          "title": "廣川有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059605,
+            121.610442
+          ],
+          "address": "臺北市南港區重陽路459號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d326bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05485331156303,
+        "lng": 121.60996085640431
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2601478,
+          "title": "聯華聯合液化石油氣股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055045,
+            121.611418
+          ],
+          "address": "臺北市南港區南港路1段209號A棟8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3243ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05803592658688,
+        "lng": 121.60245413349713
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2601558,
+          "title": "康鮮國際股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058164,
+            121.603275
+          ],
+          "address": "臺北市南港區重陽路263巷3號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603437,
+          "title": "樂芙資訊股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05743,
+            121.603031
+          ],
+          "address": "臺北市南港區重陽路200號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603642,
+          "title": "銀展創藝股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057438,
+            121.603137
+          ],
+          "address": "臺北市南港區重陽路202號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2605163,
+          "title": "如霖國際有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057283,
+            121.603378
+          ],
+          "address": "臺北市南港區重陽路218之2號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3287ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.072249853491115,
+        "lng": 121.60789688823684
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2601641,
+          "title": "典華餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070948,
+            121.607007
+          ],
+          "address": "臺北市內湖區民權東路6段280巷36號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602982,
+          "title": "鎏鑫科技有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.073187,
+            121.609271
+          ],
+          "address": "臺北市內湖區康寧路3段75巷32號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2604649,
+          "title": "益敏企業有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07128,
+            121.60732
+          ],
+          "address": "臺北市內湖區民權東路6段296巷57號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d326fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.05568771701701,
+        "lng": 121.61318897024029
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2601962,
+          "title": "光元股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056522,
+            121.61359
+          ],
+          "address": "臺北市南港區三重路19之2號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602813,
+          "title": "迪芬尼聲學科技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05608,
+            121.613866
+          ],
+          "address": "臺北市南港區三重路19之2、19之3號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603310,
+          "title": "歐也空間室內裝修設計股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057126,
+            121.612944
+          ],
+          "address": "臺北市南港區三重路19之6號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d328fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.069407232083638,
+        "lng": 121.60680829295464
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2602103,
+          "title": "長耀股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069118,
+            121.60688
+          ],
+          "address": "臺北市內湖區民權東路6段280巷69弄58號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d324bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.055192895313798,
+        "lng": 121.60136564905115
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2602478,
+          "title": "啟興企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055067,
+            121.602093
+          ],
+          "address": "臺北市南港區興南街64巷26弄6號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2602822,
+          "title": "伯灝不動產顧問有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056145,
+            121.601136
+          ],
+          "address": "臺北市南港區興南街47號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2605009,
+          "title": "李太白有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055924,
+            121.60048
+          ],
+          "address": "臺北市南港區興南街63號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3283ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.071415270408096,
+        "lng": 121.604668860091
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2602581,
+          "title": "德威應用科技有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071705,
+            121.604355
+          ],
+          "address": "臺北市內湖區民權東路6段445號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603201,
+          "title": "瓦特科研股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071826,
+            121.603876
+          ],
+          "address": "臺北市內湖區民權東路6段423巷9弄15號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603707,
+          "title": "愛搜尋數位科技有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07177,
+            121.604845
+          ],
+          "address": "臺北市內湖區民權東路6段272號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06823355605836,
+        "lng": 121.61217590509162
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2602654,
+          "title": "益享有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068304,
+            121.612796
+          ],
+          "address": "臺北市內湖區東湖路16巷10號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d325bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.057201321265314,
+        "lng": 121.59922636411564
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2603128,
+          "title": "鴻益企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056601,
+            121.59773
+          ],
+          "address": "臺北市南港區向陽路162巷102號11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2603822,
+          "title": "綠邁士科技股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056549,
+            121.599481
+          ],
+          "address": "臺北市南港區重陽路120號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d324fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05602745288615,
+        "lng": 121.60459347868674
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2604176,
+          "title": "汝得寶有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056649,
+            121.603324
+          ],
+          "address": "臺北市南港區興南街58號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d327bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05686195828157,
+        "lng": 121.6078214203173
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2604512,
+          "title": "潤鼎不動產有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057351,
+            121.606174
+          ],
+          "address": "臺北市南港區興中路80巷12號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3247ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05887047973265,
+        "lng": 121.6056820148843
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2605016,
+          "title": "雲光台有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057773,
+            121.605708
+          ],
+          "address": "臺北市南港區重陽路316號3樓之5",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062887146823215,
+        "lng": 121.60140329600151
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2605063,
+          "title": "相元鋼鐵有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063136,
+            121.60004
+          ],
+          "address": "臺北市內湖區安康路139之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:48.554Z"
+}

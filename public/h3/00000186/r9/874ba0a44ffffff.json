@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4477ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051202627548125,
+        "lng": 121.50682955352971
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 6700005,
+          "title": "延平",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0525,
+            121.5072
+          ],
+          "address": "臺北市大同區環河北路1段63號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "其他開放時間06：00~19：00",
+          "image": "",
+          "management": "",
+          "phone": "(02)25521952",
+          "notes": "其他開放時間06：00~19：00"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4467ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04919622401664,
+        "lng": 121.50896717306017
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 6700029,
+          "title": "萬華\r\n停車場",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.05034,
+            121.50975
+          ],
+          "address": "臺北市萬華區鄭州路及環河北路1段交口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "開放時間06：00~23：00，淡3號疏散門外",
+          "image": "",
+          "management": "",
+          "phone": "(02)25521063",
+          "notes": "開放時間06：00~23：00，淡3號疏散門外"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:59.313Z"
+}

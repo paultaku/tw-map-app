@@ -1,0 +1,859 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a407bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03347612415675,
+        "lng": 121.51748143670997
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1700097,
+          "title": "中正紀念堂站出口1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033345,
+            121.517599
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700098,
+          "title": "中正紀念堂站出口2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032406,
+            121.518261
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700100,
+          "title": "中正紀念堂站出口4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033525,
+            121.51796
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a406bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03146881403999,
+        "lng": 121.51961918216206
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700099,
+          "title": "中正紀念堂站出口3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032281,
+            121.519
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4047ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.035483309029846,
+        "lng": 121.51534372212427
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1700101,
+          "title": "中正紀念堂站出口5",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0352207,
+            121.5170711
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700102,
+          "title": "中正紀念堂站出口6",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03588,
+            121.516543
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700103,
+          "title": "中正紀念堂站出口7",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034565,
+            121.515983
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4053ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03665431146776,
+        "lng": 121.50998135925883
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1700104,
+          "title": "小南門站出口1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036434,
+            121.509752
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700105,
+          "title": "小南門站出口2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035736,
+            121.509865
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4043ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03464729955804,
+        "lng": 121.51211898242354
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1700106,
+          "title": "小南門站出口3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035309,
+            121.510988
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700107,
+          "title": "小南門站出口4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035226,
+            121.511455
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a401bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04033335609659,
+        "lng": 121.51429311658907
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700116,
+          "title": "台大醫院站出口1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040913,
+            121.515731
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4003ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041169357299943,
+        "lng": 121.51751796001166
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700117,
+          "title": "台大醫院站出口2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041224,
+            121.516589
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4013ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.043176261863184,
+        "lng": 121.5153802169599
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1700118,
+          "title": "台大醫院站出口3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042808,
+            121.516632
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700119,
+          "title": "台大醫院站出口4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042876,
+            121.516299
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.046019085943207,
+        "lng": 121.51646733952258
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1700120,
+          "title": "台北車站M5",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046755,
+            121.516246
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700121,
+          "title": "台北車站M6",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046234,
+            121.516787
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700123,
+          "title": "台北車站M8",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045948,
+            121.517479
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700126,
+          "title": "台北車站M3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046337,
+            121.517882
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700127,
+          "title": "台北車站M4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046485,
+            121.517345
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40bbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.046855078835186,
+        "lng": 121.5196922866635
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1700122,
+          "title": "台北車站M7",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046077,
+            121.518643
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700125,
+          "title": "台北車站M2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048159,
+            121.51908
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4087ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048861828323084,
+        "lng": 121.51755448427706
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700124,
+          "title": "台北車站M1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048232,
+            121.518193
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40abffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044848204088776,
+        "lng": 121.52183011991251
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1700209,
+          "title": "善導寺站出口1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045097,
+            121.523009
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700210,
+          "title": "善導寺站出口2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044796,
+            121.523053
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40afffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.045684097368703,
+        "lng": 121.52505523995666
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1700211,
+          "title": "善導寺站出口3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044568,
+            121.523734
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700213,
+          "title": "善導寺站出口5",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044256,
+            121.52482
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700214,
+          "title": "善導寺站出口6",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044632,
+            121.524898
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4033ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04284120408611,
+        "lng": 121.5239679840188
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700212,
+          "title": "善導寺站出口4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044111,
+            121.524217
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40c3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.041504112164333,
+        "lng": 121.50893076361847
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1700343,
+          "title": "西門站出口1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042137,
+            121.507566
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700344,
+          "title": "西門站出口2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041545,
+            121.508435
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700345,
+          "title": "西門站出口3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041789,
+            121.508888
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700346,
+          "title": "西門站出口4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042203,
+            121.509006
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1700347,
+          "title": "西門站出口5",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042935,
+            121.508789
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.043510796039982,
+        "lng": 121.50679317255126
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1700348,
+          "title": "西門站出口6",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042573,
+            121.507602
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:45.729Z"
+}

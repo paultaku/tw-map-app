@@ -1,0 +1,87 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a636bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06541437981487,
+        "lng": 121.51226479482227
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900035,
+          "title": "大同運動中心",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0648,
+            121.5135
+          ],
+          "address": "臺北市大同區大龍街51號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900397,
+          "title": "大同運動中心",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0648,
+            121.5135
+          ],
+          "address": "臺北市大同區大龍街51號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a632bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.071934667032362,
+        "lng": 121.51766406285584
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900041,
+          "title": "GroupFitness 好團健身空間圓山館",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0727,
+            121.5186
+          ],
+          "address": "臺北市大同區承德路三段244號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

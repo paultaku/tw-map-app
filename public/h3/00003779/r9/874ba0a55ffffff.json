@@ -1,0 +1,595 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a55a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0227729973635,
+        "lng": 121.49596073558091
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001447,
+          "title": "統一超商臺北市寶昌門市",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.023676,
+            121.495313
+          ],
+          "address": "臺北市萬華區寶興街186號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市寶昌門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001542,
+          "title": "聯合醫院萬華門診部",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02315,
+            121.497547
+          ],
+          "address": "臺北市萬華區東園街152號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立聯合醫院萬華門診部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55b3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.023943722599494,
+        "lng": 121.49059948255542
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001469,
+          "title": "華中河濱公園51號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.024332,
+            121.490326
+          ],
+          "address": "光復橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001470,
+          "title": "華中河濱公園50號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.024332,
+            121.490326
+          ],
+          "address": "光復橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.021100384254936,
+        "lng": 121.48951280441203
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001471,
+          "title": "華中河濱公園49號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.021594,
+            121.490881
+          ],
+          "address": "光復橋上游足球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02193671667992,
+        "lng": 121.49273671374692
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001472,
+          "title": "華中河濱公園48號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.020781,
+            121.491853
+          ],
+          "address": "華中足球場水防道路旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5507ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.016249803411416,
+        "lng": 121.4905633202758
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001473,
+          "title": "華中河濱公園47號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.01643,
+            121.491356
+          ],
+          "address": "華中網球場停車場後方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001474,
+          "title": "華中河濱公園46號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.01643,
+            121.491356
+          ],
+          "address": "華中網球場停車場後方自行車道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001479,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.016925,
+            121.492003
+          ],
+          "address": "遊憩區靠網球場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001480,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.016925,
+            121.492003
+          ],
+          "address": "遊憩區靠網球場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001481,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.016925,
+            121.492003
+          ],
+          "address": "遊憩區靠網球場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5533ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.01708609214608,
+        "lng": 121.4937872383399
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 6001475,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017942,
+            121.493128
+          ],
+          "address": "遊憩區旁靠近水防道路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001476,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017942,
+            121.493128
+          ],
+          "address": "遊憩區旁靠近水防道路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001477,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017998,
+            121.49309
+          ],
+          "address": "遊憩區旁靠近水防道路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001478,
+          "title": "華中河濱景觀公廁",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017998,
+            121.49309
+          ],
+          "address": "遊憩區旁靠近水防道路",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001484,
+          "title": "華中2號疏散門旁1號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017987,
+            121.493413
+          ],
+          "address": "堤內橋下迴轉道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北農產運銷股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001485,
+          "title": "華中2號疏散門旁2號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.017987,
+            121.493413
+          ],
+          "address": "堤內橋下迴轉道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北農產運銷股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001486,
+          "title": "華中2號疏散門旁3號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.016472,
+            121.495276
+          ],
+          "address": "堤內水源快速道路旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北農產運銷股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a552bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.012235105822217,
+        "lng": 121.49483775667474
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001482,
+          "title": "華中河濱公園45號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.012435,
+            121.495224
+          ],
+          "address": "華中橋下網球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001483,
+          "title": "華中河濱公園44號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.012934,
+            121.495195
+          ],
+          "address": "華中橋下網球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5523ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.015078758251736,
+        "lng": 121.49592450168787
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001487,
+          "title": "華中2號疏散門旁4號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.016526,
+            121.495496
+          ],
+          "address": "堤內土地公廟旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北農產運銷股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5527ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.015914947542626,
+        "lng": 121.49914859284384
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001488,
+          "title": "華中河濱公園43號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.01572,
+            121.500643
+          ],
+          "address": "華中自行車道5.5公里處旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55afffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.01992958552905,
+        "lng": 121.49487397586235
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001538,
+          "title": "萬華3號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.019703,
+            121.494998
+          ],
+          "address": "臺北市萬華區武成街70巷21號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001539,
+          "title": "萬華4號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.020434,
+            121.494499
+          ],
+          "address": "臺北市萬華區武成街104巷25弄底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001540,
+          "title": "萬華5號",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.020084,
+            121.493998
+          ],
+          "address": "臺北市萬華區武成街149號對面巷底(108巷25號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

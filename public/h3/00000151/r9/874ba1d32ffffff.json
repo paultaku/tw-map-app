@@ -1,0 +1,703 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d3297ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.074257814281616,
+        "lng": 121.60575742578986
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7201590,
+          "title": "東成診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07322148,
+            121.6050904
+          ],
+          "address": "臺北市內湖區民權東路六段495號２樓之1、之2，495號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201673,
+          "title": "麗康診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07365308,
+            121.6042101
+          ],
+          "address": "臺北市內湖區金湖路362號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201677,
+          "title": "展欣眼科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0736293,
+            121.6048792
+          ],
+          "address": "臺北市內湖區金湖路382號（1樓）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201722,
+          "title": "弘康復健科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07400547,
+            121.6054806
+          ],
+          "address": "臺北市內湖區成功路五段八十一號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201727,
+          "title": "日新診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07480519,
+            121.6071179
+          ],
+          "address": "臺北市內湖區成功路五段446號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3237ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.067059607014752,
+        "lng": 121.61754378028165
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 7201593,
+          "title": "藍曾小兒科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06801111,
+            121.6166862
+          ],
+          "address": "臺北市內湖區東湖路１３２號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201596,
+          "title": "東湖眼科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0681825,
+            121.6168857
+          ],
+          "address": "臺北市內湖區東湖路137號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201598,
+          "title": "東湖謝耳鼻喉科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06790027,
+            121.6171427
+          ],
+          "address": "臺北市內湖區東湖路148號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201601,
+          "title": "東湖皮膚專科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06810172,
+            121.6173914
+          ],
+          "address": "臺北市內湖區東湖路153號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201694,
+          "title": "佳霖診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06814536,
+            121.6171948
+          ],
+          "address": "臺北市內湖區東湖路147號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201704,
+          "title": "保安診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0681695,
+            121.6170323
+          ],
+          "address": "臺北市內湖區東湖路141之1號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201716,
+          "title": "慈銨診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06730922,
+            121.6158159
+          ],
+          "address": "臺北市內湖區五分街95號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32abffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.06823355605836,
+        "lng": 121.61217590509162
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7201595,
+          "title": "汎美皮膚科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06866178,
+            121.6123575
+          ],
+          "address": "臺北市內湖區東湖路4號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201644,
+          "title": "林威廷身心精神科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06865272,
+            121.6125576
+          ],
+          "address": "臺北市內湖區東湖路10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201723,
+          "title": "大愛眼科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06893921,
+            121.6129388
+          ],
+          "address": "臺北市內湖區東湖路15號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32bbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.070241767415922,
+        "lng": 121.61003638133917
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7201605,
+          "title": "祐生復健科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0713795,
+            121.6095827
+          ],
+          "address": "臺北市內湖區康寧路三段54之7號、54之11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201654,
+          "title": "東湖張耳鼻喉科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07031467,
+            121.6116979
+          ],
+          "address": "臺北市內湖區康寧路三段１６９號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201726,
+          "title": "魏之明小兒科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07143062,
+            121.6094932
+          ],
+          "address": "臺北市內湖區康寧路三段54之6號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32afffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.06906799140591,
+        "lng": 121.61540416567163
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7201627,
+          "title": "富康復健科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06935938,
+            121.6154206
+          ],
+          "address": "臺北市內湖區東湖路113巷15號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201632,
+          "title": "詠盛診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06907176,
+            121.6140163
+          ],
+          "address": "臺北市內湖區東湖路43巷3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201655,
+          "title": "鍾兆智婦產科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0688325,
+            121.6148184
+          ],
+          "address": "臺北市內湖區東湖路６５號１Ｆ，２Ｆ及地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201659,
+          "title": "施耳鼻喉科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06826026,
+            121.6165718
+          ],
+          "address": "臺北市內湖區東湖路127號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201711,
+          "title": "徐醫師診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06885812,
+            121.6143451
+          ],
+          "address": "臺北市內湖區東湖路５３號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3287ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.072249853491115,
+        "lng": 121.60789688823684
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201669,
+          "title": "葫洲診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0725892,
+            121.6075911
+          ],
+          "address": "臺北市內湖區康寧路三段35、37號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d326fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05568771701701,
+        "lng": 121.61318897024029
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201731,
+          "title": "南港復健科診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05533164,
+            121.6117343
+          ],
+          "address": "臺北市南港區南港路一段172號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201762,
+          "title": "翊群耳鼻喉科診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05575805,
+            121.6126131
+          ],
+          "address": "臺北市南港區興東街29之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d324fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05602745288615,
+        "lng": 121.60459347868674
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201733,
+          "title": "開馨診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05470165,
+            121.6048022
+          ],
+          "address": "臺北市南港區南港路二段38巷6之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201746,
+          "title": "劉聖亞診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05581325,
+            121.6057259
+          ],
+          "address": "臺北市南港區興華路８２號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3277ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06053942944816,
+        "lng": 121.612138113617
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201735,
+          "title": "艾萊診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05974737,
+            121.6113961
+          ],
+          "address": "臺北市南港區重陽路472之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201739,
+          "title": "星源未來診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.0604779,
+            121.6111165
+          ],
+          "address": "臺北市南港區重陽路479號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3273ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.059704980690462,
+        "lng": 121.60891000826248
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201736,
+          "title": "稚顏美學診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.0596418,
+            121.6105103
+          ],
+          "address": "臺北市南港區重陽路461號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

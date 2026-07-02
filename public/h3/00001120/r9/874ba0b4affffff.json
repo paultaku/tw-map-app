@@ -1,0 +1,469 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b4ab3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.125718944058484,
+        "lng": 121.46853704790628
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500127,
+          "title": "臺北市北投區公所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12453876,
+            121.4688592
+          ],
+          "address": "立功街9號11樓-1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "立功街9號11樓-1",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "立功街9號11樓-1"
+        },
+        {
+          "id": 5501756,
+          "title": "臺北捷運關渡站R25",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.125651,
+            121.46712
+          ],
+          "address": "大度路3段296巷51號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "關渡站二月台樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡站二月台樓梯旁"
+        },
+        {
+          "id": 5502201,
+          "title": "臺北市北投區戶政事務所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12453876,
+            121.4688592
+          ],
+          "address": "立功街9號11樓之3",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入本所大門口後，往右側方向前進，在服務櫃檯前方。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入本所大門口後，往右側方向前進，在服務櫃檯前方。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a33ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11887317935144,
+        "lng": 121.47172490867244
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500280,
+          "title": "關渡自然公園",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.119378,
+            121.471433
+          ],
+          "address": "關渡路55號",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "電梯口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "電梯口旁"
+        },
+        {
+          "id": 5501398,
+          "title": "關渡自然公園",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.119378,
+            121.471433
+          ],
+          "address": "關渡路55號",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "園區入口票亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "園區入口票亭"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a13ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11920157275695,
+        "lng": 121.46314046806256
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500421,
+          "title": "財團法人台北市關渡宮",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1179329,
+            121.4632106
+          ],
+          "address": "知行路360號",
+          "layoutType": "宗教聚會場所",
+          "hours": "詳見官方網站",
+          "description": "正殿金紙服務處前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "正殿金紙服務處前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a8bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.121204300577897,
+        "lng": 121.46100341433326
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500467,
+          "title": "台北市河濱自行車租借站關渡站",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12242,
+            121.461888
+          ],
+          "address": "知行路上，關渡宮北側，關渡碼頭旁。",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "關渡租車站主貨櫃內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡租車站主貨櫃內"
+        },
+        {
+          "id": 5501472,
+          "title": "大河之戀皇后號",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.120927,
+            121.461921
+          ],
+          "address": "關渡碼頭",
+          "layoutType": "客船",
+          "hours": "詳見官方網站",
+          "description": "大河之戀皇后號",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大河之戀皇后號"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a8fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.12204165180989,
+        "lng": 121.46422691449463
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500496,
+          "title": "馬偕學校財團法人馬偕醫護管理專科學校(關渡校區)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12194737,
+            121.4645596
+          ],
+          "address": "聖景路92號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "慈輝樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "慈輝樓1樓"
+        },
+        {
+          "id": 5501334,
+          "title": "馬偕學校財團法人馬偕醫護管理專科學校(關渡校區)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12194737,
+            121.4645596
+          ],
+          "address": "聖景路92號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "關渡校區警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡校區警衛室"
+        },
+        {
+          "id": 5501344,
+          "title": "馬偕學校財團法人馬偕醫護管理專科學校(關渡校區)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12194737,
+            121.4645596
+          ],
+          "address": "聖景路92號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "關渡校區慈輝樓4樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡校區慈輝樓4樓"
+        },
+        {
+          "id": 5501776,
+          "title": "馬偕學校財團法人馬偕醫護管理專科學校(關渡校區)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.12194737,
+            121.4645596
+          ],
+          "address": "聖景路92號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "關渡校區綜合大樓2樓大廳(電梯口旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡校區綜合大樓2樓大廳(電梯口旁)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4abbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.122878951118427,
+        "lng": 121.46745052732439
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500755,
+          "title": "臺北市政府警察局北投分局關渡派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.122997,
+            121.465947
+          ],
+          "address": "關渡里大度路3段305號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "面對派出所內值班台右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "面對派出所內值班台右側"
+        },
+        {
+          "id": 5502033,
+          "title": "臺北市政府環境保護局北投區清潔隊關渡分隊",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.122937,
+            121.467323
+          ],
+          "address": "大渡路3段臨250號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4ab7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.126556187181652,
+        "lng": 121.4717608253232
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500886,
+          "title": "好市多股份有限公司北投分公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.126936,
+            121.471839
+          ],
+          "address": "立德路117號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "賣場B1 國泰ATM旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "賣場B1 國泰ATM旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a6fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.108348936648483,
+        "lng": 121.47060244985596
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501077,
+          "title": "台北海洋科技大學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.108098,
+            121.471255
+          ],
+          "address": "延平北路9段212號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "樂群樓101教室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "樂群樓101教室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a17ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.120038876293453,
+        "lng": 121.4663640289543
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502003,
+          "title": "臺北市立關渡國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.119885,
+            121.467145
+          ],
+          "address": "知行路212號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學務處與羽球場間的走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學務處與羽球場間的走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4aa3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.123716198491284,
+        "lng": 121.47067425280805
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502058,
+          "title": "臺北市政府環境保護局直屬隊機動二分隊",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.122762,
+            121.471399
+          ],
+          "address": "大度路150巷11號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "一樓大門入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓大門入口處"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

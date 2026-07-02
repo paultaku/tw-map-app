@@ -1,0 +1,1547 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a462fffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.03297512512072,
+        "lng": 121.50566984028048
+      },
+      "categories": {
+        "nature": 12
+      },
+      "points": [
+        {
+          "id": 600004,
+          "title": "光臘樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0318,
+            121.5057
+          ],
+          "address": "臺北市中正區廈安里大埔街25巷10號東側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600005,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0319,
+            121.505
+          ],
+          "address": "臺北市中正區廈安里大埔街25巷1號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署(北區分署/安宏股份有限公司代管至181/04/28)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600006,
+          "title": "象牙樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0316,
+            121.5051
+          ],
+          "address": "臺北市中正區廈安里大埔街46號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600007,
+          "title": "臺灣海桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0316,
+            121.5053
+          ],
+          "address": "臺北市中正區廈安里大埔街46號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600008,
+          "title": "月橘 (七里香)",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0317,
+            121.5053
+          ],
+          "address": "臺北市中正區廈安里大埔街46號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600009,
+          "title": "水黃皮",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0317,
+            121.5054
+          ],
+          "address": "臺北市中正區廈安里大埔街27巷7號西側綠地",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署(北區分署/安宏股份有限公司代管至181/04/28)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600010,
+          "title": "水黃皮",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0316,
+            121.5057
+          ],
+          "address": "臺北市中正區廈安里大埔街27巷9號圍牆邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600011,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0318,
+            121.5047
+          ],
+          "address": "臺北市中正區廈安里大埔街42號空地最內部牆邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600034,
+          "title": "掌葉蘋婆",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0319,
+            121.5063
+          ],
+          "address": "臺北市中正區廈安里和平西路二段134巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "植心園公寓大廈管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600609,
+          "title": "大葉雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0335,
+            121.5054
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號龍山國小變電室旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601256,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0316,
+            121.5056
+          ],
+          "address": "臺北市中正區廈安里中正區大埔街27巷7與9號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601257,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0315,
+            121.5056
+          ],
+          "address": "臺北市中正區廈安里中正區大埔街27巷7與9號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a7ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.042674595703705,
+        "lng": 121.50356867509312
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600592,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0428,
+            121.5027
+          ],
+          "address": "臺北市萬華區西門里西門國小(成都路98號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區西門國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600593,
+          "title": "錫蘭橄欖",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0431,
+            121.504
+          ],
+          "address": "臺北市萬華區西門里西門國小(成都路98號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區西門國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600594,
+          "title": "麵包樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0431,
+            121.5042
+          ],
+          "address": "臺北市萬華區西門里西門國小(成都路98號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區西門國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600595,
+          "title": "銀杏",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0432,
+            121.5032
+          ],
+          "address": "臺北市萬華區西門里西門國小(成都路98號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區西門國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600596,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.043,
+            121.5033
+          ],
+          "address": "臺北市萬華區西門里成都路98號西門國小操場司令台右邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區西門國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601014,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0421,
+            121.5029
+          ],
+          "address": "臺北市萬華區西門里內江街89號污水處理室旁邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺北護理健康大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602132,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0422,
+            121.5031
+          ],
+          "address": "臺北市萬華區西門里萬華區內江街89號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺北護理健康大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600597,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0346,
+            121.4992
+          ],
+          "address": "臺北市萬華區富福里萬華51號公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602672,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0345,
+            121.4991
+          ],
+          "address": "臺北市萬華區富福里51號公園(大理街56號對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602673,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0348,
+            121.4992
+          ],
+          "address": "臺北市萬華區富福里51號公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 600598,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0326,
+            121.4974
+          ],
+          "address": "臺北市萬華區和平里艋舺公園(前仁濟療養院區)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601179,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.034,
+            121.4957
+          ],
+          "address": "臺北市萬華區糖蔀里大理街140號(華江段出租住宅基地)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣糖業股份有限公司(東吳大學代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601180,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0337,
+            121.4957
+          ],
+          "address": "臺北市萬華區糖蔀里大理街140號(華江段出租住宅基地)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣糖業股份有限公司(東吳大學代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603855,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0328,
+            121.4973
+          ],
+          "address": "臺北市萬華區和平里和平青草園 (萬華402號公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603856,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0324,
+            121.4971
+          ],
+          "address": "臺北市萬華區和平里和平青草園 (萬華402號公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4663ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.028459576332395,
+        "lng": 121.49813432160592
+      },
+      "categories": {
+        "nature": 10
+      },
+      "points": [
+        {
+          "id": 600600,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0285,
+            121.4983
+          ],
+          "address": "臺北市萬華區日善里西藏路201號萬華國中體育館旁校方編號A-15-45",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600601,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0285,
+            121.4984
+          ],
+          "address": "臺北市萬華區日善里萬華國中(西藏路201號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600602,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0281,
+            121.4977
+          ],
+          "address": "臺北市萬華區日善里西藏路213號華江高中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立華江高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600603,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0295,
+            121.498
+          ],
+          "address": "臺北市萬華區雙園里西藏路424號南海實驗幼稚園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區雙園國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601188,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0289,
+            121.4987
+          ],
+          "address": "臺北市萬華區日善里西藏路201號(萬華國中)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601189,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0286,
+            121.4986
+          ],
+          "address": "臺北市萬華區日善里西藏路201號(萬華國中)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601190,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0274,
+            121.4979
+          ],
+          "address": "臺北市萬華區日善里西藏路201號(萬華國中後方靠西園國小與華江高中圍牆綠地右邊牆角)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601191,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0281,
+            121.498
+          ],
+          "address": "臺北市萬華區日善里西藏路201號(萬華國中與華江高中圍牆步道旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601192,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0274,
+            121.4981
+          ],
+          "address": "臺北市萬華區日善里西藏路201號(萬華國中後方靠西園國小與華江高中圍牆綠地中間偏左位置)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立萬華國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602978,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.029,
+            121.4968
+          ],
+          "address": "臺北市萬華區日善里西藏路456號往448號方向華江高中旁第9株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4607ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.036152572463696,
+        "lng": 121.49817058586827
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600604,
+          "title": "菩提樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0355,
+            121.4967
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600605,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0361,
+            121.4968
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號 龍山國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600610,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0367,
+            121.4968
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號龍山國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4603ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.035316260299084,
+        "lng": 121.49494641710433
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 600606,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0359,
+            121.4957
+          ],
+          "address": "臺北市萬華區青山里和平西路二段235號龍山國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600608,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0366,
+            121.4959
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號龍山國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601013,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0345,
+            121.4953
+          ],
+          "address": "臺北市萬華區糖蔀里台北市萬華區大理街175巷27號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人台北市私立愛愛院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602277,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0366,
+            121.4956
+          ],
+          "address": "臺北市萬華區青山里萬華區和平西路3段235號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603145,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0355,
+            121.496
+          ],
+          "address": "臺北市萬華區青山里和平西路三段龍山國小旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處、私人(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603146,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0355,
+            121.4956
+          ],
+          "address": "臺北市萬華區青山里和平西路三段龍山國小旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處、私人(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600607,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0367,
+            121.4957
+          ],
+          "address": "臺北市萬華區青山里和平西路三段235號龍山國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602979,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0382,
+            121.495
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往北第7株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603135,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0381,
+            121.4949
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往北第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603136,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0382,
+            121.495
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往北第2株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603137,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0383,
+            121.4951
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往南第9株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603138,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0383,
+            121.4953
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往南第5株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603139,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0384,
+            121.4954
+          ],
+          "address": "臺北市萬華區柳鄉里桂林路246巷進桂林路口槽化島往南第1株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.025616327635806,
+        "lng": 121.49704751749545
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600614,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0267,
+            121.4968
+          ],
+          "address": "臺北市萬華區日善里東園街65號日善公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600615,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0264,
+            121.4968
+          ],
+          "address": "臺北市萬華區日善里東園街65號日善公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601258,
+          "title": "番石榴",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0269,
+            121.4969
+          ],
+          "address": "臺北市萬華區日善里萬華區東園街65號(交通部公路總局)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "交通部公路總局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601259,
+          "title": "白玉蘭",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0262,
+            121.4965
+          ],
+          "address": "臺北市萬華區日善里萬華區東園街65號(交通部公路總局)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601372,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0266,
+            121.4968
+          ],
+          "address": "臺北市萬華區日善里東園街65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601373,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0265,
+            121.4966
+          ],
+          "address": "臺北市萬華區日善里東園街65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601374,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0264,
+            121.4966
+          ],
+          "address": "臺北市萬華區日善里東園街65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(萬華區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4623ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034982041599108,
+        "lng": 121.50353233824625
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600616,
+          "title": "狹葉堇寶蓮",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0347,
+            121.5051
+          ],
+          "address": "臺北市萬華區富福里南寧路46號龍山國中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立龍山國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601971,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0347,
+            121.5023
+          ],
+          "address": "臺北市萬華區富福里萬華區大理街27號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602660,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0358,
+            121.5043
+          ],
+          "address": "臺北市萬華區富福里南寧路48巷口旁(龍山國中旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立龍山國民中學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600617,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0381,
+            121.5022
+          ],
+          "address": "臺北市萬華區福音里桂林路64號老松國小近西側門段的花圃中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區老松國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601723,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0371,
+            121.5019
+          ],
+          "address": "臺北市萬華區福音里萬華區康定路173巷(剝皮寮歷史街區西側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區老松國民小學 (文化基金會代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603872,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0369,
+            121.5025
+          ],
+          "address": "臺北市萬華區福音里萬華區康定路173巷(剝皮寮歷史街區)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區老松國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a461bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034479896350202,
+        "lng": 121.4917223608344
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600622,
+          "title": "小葉欖仁",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0343,
+            121.4922
+          ],
+          "address": "臺北市萬華區華江里環河南路二段250巷42弄2號華江國小華北大樓合作社前花圃",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區華江國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600623,
+          "title": "小葉欖仁",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0343,
+            121.4921
+          ],
+          "address": "臺北市萬華區華江里環河南路二段250巷42弄2號華江國小華北大樓體育器材室前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區華江國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600624,
+          "title": "木棉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0335,
+            121.4917
+          ],
+          "address": "臺北市萬華區華江里環河南路二段250巷42弄2號華江國小運動場邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區華江國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4627ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.035818202444403,
+        "lng": 121.50675679253264
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600850,
+          "title": "大葉桉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0348,
+            121.5053
+          ],
+          "address": "臺北市萬華區富福里南寧路46號龍山國中",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立龍山國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602543,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0371,
+            121.5077
+          ],
+          "address": "臺北市中正區建國里愛國西路9號前近慢車道138綠地上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603860,
+          "title": "蒲桃",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0348,
+            121.5054
+          ],
+          "address": "臺北市萬華區富福里南寧路46號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立龍山國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4613ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.037322830860706,
+        "lng": 121.49280909807788
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601943,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0362,
+            121.4916
+          ],
+          "address": "臺北市萬華區柳鄉里萬華區桂林路246巷66號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局衛生下水道工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4667ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0292957971464,
+        "lng": 121.50135855968297
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603147,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0293,
+            121.4997
+          ],
+          "address": "臺北市萬華區日善里西藏路萬華國中旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

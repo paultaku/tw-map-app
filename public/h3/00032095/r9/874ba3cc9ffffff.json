@@ -1,0 +1,55 @@
+{
+  "cells": [
+    {
+      "h3": "894ba3cc923ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 23.90485030736751,
+        "lng": 121.60329663757278
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6901026,
+          "title": "花蓮遊客中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            23.904634,
+            121.60238
+          ],
+          "address": "花蓮縣壽豐鄉鹽寮村大坑5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "03-867-1326/089-841-520 #1303嚴小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902084,
+          "title": "Hualien Visitor Center",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            23.904634,
+            121.60238
+          ],
+          "address": "No. 5",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Hualien County 974",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

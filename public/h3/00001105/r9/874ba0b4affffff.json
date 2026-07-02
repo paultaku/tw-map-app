@@ -1,0 +1,637 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b4a13ffff",
+      "res": 9,
+      "count": 18,
+      "center": {
+        "lat": 25.11920157275695,
+        "lng": 121.46314046806256
+      },
+      "categories": {
+        "nature": 18
+      },
+      "points": [
+        {
+          "id": 10400014,
+          "title": "Hemidactylus frenatus",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.118655832540288,
+            121.46245891690312
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2052",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400207,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119098868339027,
+            121.46224242686236
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400231,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119125891616946,
+            121.4622623610118
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400232,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.11974015539997,
+            121.46214567628869
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400233,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119712405322147,
+            121.46236373040334
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400267,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.11834342099716,
+            121.46247231796582
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400285,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.11819555864167,
+            121.46240760385692
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400286,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.118882106741346,
+            121.46227136014951
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400287,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119333806938037,
+            121.46217389679624
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400288,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119532512613493,
+            121.46214489533557
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400289,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119532512613493,
+            121.46214489533557
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400290,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.11968601799323,
+            121.4621355563821
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400291,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119884784201172,
+            121.46208672239604
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400343,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.117954519623932,
+            121.46261116791734
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400344,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.118010116090147,
+            121.46252788317054
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400345,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.11817676869898,
+            121.46250005102367
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400346,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.119454544601894,
+            121.46222234568502
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400347,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.12017676683438,
+            121.46211122298102
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a1bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.116361411843318,
+        "lng": 121.46205404384325
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 10400078,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.117472080264136,
+            121.4628114421698
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "902",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400341,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.117204533312556,
+            121.4629445001314
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400342,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.117426782631675,
+            121.46283338449972
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a8bffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.121204300577897,
+        "lng": 121.46100341433326
+      },
+      "categories": {
+        "nature": 8
+      },
+      "points": [
+        {
+          "id": 10400122,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.121682465189796,
+            121.4617265742937
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400186,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.120876858908797,
+            121.46241769412671
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400187,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.120371001806348,
+            121.46199999790491
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400203,
+          "title": "Takydromus viridipunctatus",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.120534644980328,
+            121.462138748116
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400293,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.12223198949696,
+            121.46211538286559
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400294,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.121599609448463,
+            121.46225183463122
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400348,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.120398925244896,
+            121.46200010289667
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400350,
+          "title": "Naja atra",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.122037836169135,
+            121.46225011176267
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4a83ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.12404430198434,
+        "lng": 121.46208983103692
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 10400158,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.122566568319417,
+            121.46193814385303
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400292,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.122566386709725,
+            121.4619976423224
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400349,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "關渡水岸公園",
+          "coords": [
+            25.122815599664236,
+            121.46177783715035
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:11.107Z"
+}

@@ -1,0 +1,793 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4d4bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.04934953237406,
+        "lng": 121.57877397869244
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200553,
+          "title": "臺北市立聯合醫院附設松山門診部",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.0496778,
+            121.5773136
+          ],
+          "address": "臺北市松山區八德路4段694號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201347,
+          "title": "松山班廷建興診所",
+          "category": "other",
+          "location": "63000020",
+          "coords": [
+            25.0488109,
+            121.5796529
+          ],
+          "address": "臺北市信義區市民大道6段318號(實際營業地址：1樓、2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201757,
+          "title": "奕賢骨科外科診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.0503981,
+            121.580148
+          ],
+          "address": "臺北市南港區八德路四段774、776號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d5bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05135762411295,
+        "lng": 121.57663511583465
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200558,
+          "title": "趙耳鼻喉科診所",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05017444,
+            121.5753698
+          ],
+          "address": "臺北市松山區八德路四段６４９號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d9bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06473672689091,
+        "lng": 121.57884866817184
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201615,
+          "title": "菁英診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0658866,
+            121.5796771
+          ],
+          "address": "臺北市內湖區行忠路58號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201707,
+          "title": "馬丁健康管理診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06492889,
+            121.5778238
+          ],
+          "address": "臺北市內湖區行忠路28巷1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d97ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.06841430230741,
+        "lng": 121.58316400324006
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 7201626,
+          "title": "全心圓診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06898586,
+            121.582215
+          ],
+          "address": "臺北市內湖區瑞光路26巷36弄2號3樓及2之1號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201628,
+          "title": "禾馨內湖婦幼診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06774006,
+            121.5816571
+          ],
+          "address": "臺北市內湖區民權東路六段42號5樓(之1、之2、之3)、6樓(之1、之2、之3)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201635,
+          "title": "禾馨民權婦幼診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06774006,
+            121.5816571
+          ],
+          "address": "臺北市內湖區民權東路六段42號2樓(之1、之2、之3)、3樓(之1、之2、之3)、4樓(之1、之2、之3)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201668,
+          "title": "小禾馨民權小兒專科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06741881,
+            121.581769
+          ],
+          "address": "臺北市內湖區行忠路191號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201671,
+          "title": "禾馨眼科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0674468,
+            121.5821069
+          ],
+          "address": "臺北市內湖區行忠路195號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201679,
+          "title": "全新圓診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06898586,
+            121.582215
+          ],
+          "address": "臺北市內湖區瑞光路26巷36弄2號2樓、2之1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06038304438285,
+        "lng": 121.59172034946467
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201630,
+          "title": "連安診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0602036,
+            121.5912065
+          ],
+          "address": "臺北市內湖區內湖區路一段619號及619號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4dbbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06439892389812,
+        "lng": 121.58744211494574
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201634,
+          "title": "永長欣診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06459988,
+            121.5858158
+          ],
+          "address": "臺北市內湖區行善路397號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4db7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.068076416010282,
+        "lng": 121.5917578676588
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201640,
+          "title": "曜暘診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06924667,
+            121.5927345
+          ],
+          "address": "臺北市內湖區民權東路六段123巷8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d57ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.055035574404467,
+        "lng": 121.58095024501381
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201642,
+          "title": "新明診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.05481386,
+            121.5802351
+          ],
+          "address": "臺北市內湖區新明路386號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4dc3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.059051322520776,
+        "lng": 121.57667243158795
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201643,
+          "title": "美特博霖健康管理診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.05877035,
+            121.5757406
+          ],
+          "address": "臺北市內湖區新湖一路88號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063564023282048,
+        "lng": 121.58421481079742
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201667,
+          "title": "維克多診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06391278,
+            121.5856027
+          ],
+          "address": "臺北市內湖區行善路385號3樓之6",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d17ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.061556193905083,
+        "lng": 121.58635385240201
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201670,
+          "title": "伊凡維納診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06225537,
+            121.5877013
+          ],
+          "address": "臺北市內湖區金莊路26號3樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201708,
+          "title": "宸諾i醫診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06285963,
+            121.5872252
+          ],
+          "address": "臺北市內湖區石潭路65號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4dcfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.057043511096865,
+        "lng": 121.57881132293933
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201678,
+          "title": "唯有健康診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0577453,
+            121.5774138
+          ],
+          "address": "臺北市內湖區行善路116號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d87ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.066406675742158,
+        "lng": 121.58530304373858
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201681,
+          "title": "理真診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0657051,
+            121.5865253
+          ],
+          "address": "臺北市內湖區金豐街16號(1樓)及18號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d93ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.067579306206703,
+        "lng": 121.57993681972624
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201684,
+          "title": "禾馨民權內科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0676751,
+            121.5815452
+          ],
+          "address": "臺北市內湖區民權東路6段40號(1樓含夾層)及42號1樓(含夾層)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201697,
+          "title": "禾馨內湖內科診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0673897,
+            121.5816592
+          ],
+          "address": "臺北市內湖區行忠路189號(1樓含夾層)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4dd3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.061059008673865,
+        "lng": 121.57453357096497
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201690,
+          "title": "雅斯翠診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0605596,
+            121.5757651
+          ],
+          "address": "臺北市內湖區新湖二路87號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d13ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.060721288896666,
+        "lng": 121.58312660002947
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201696,
+          "title": "樂善診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0603428,
+            121.5817182
+          ],
+          "address": "臺北市內湖區行善路260號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d83ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.065571727383357,
+        "lng": 121.5820757999037
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201705,
+          "title": "芮森醫學診所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06530469,
+            121.5806744
+          ],
+          "address": "臺北市內湖區新湖三路215號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d4fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.050184454844622,
+        "lng": 121.5820010239529
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201745,
+          "title": "陳志鑫診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.05091949,
+            121.5814279
+          ],
+          "address": "臺北市南港區八德路四段８１２號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.049011012739246,
+        "lng": 121.58736719552284
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201747,
+          "title": "希文耳鼻喉科診所",
+          "category": "other",
+          "location": "63000090",
+          "coords": [
+            25.04878541,
+            121.587729
+          ],
+          "address": "臺北市南港區忠孝東路六段234號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

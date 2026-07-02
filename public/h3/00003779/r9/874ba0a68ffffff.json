@@ -1,0 +1,575 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a68cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08514147055327,
+        "lng": 121.54886964223262
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000438,
+          "title": "大直計程車服務站",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.084421,
+            121.549935
+          ],
+          "address": "臺北市中山區北安路676號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "大直計程車服務站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a686fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.077951426748417,
+        "lng": 121.56065027769037
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000440,
+          "title": "濱江國中地下停車場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.078575,
+            121.561806
+          ],
+          "address": "臺北市中山區樂群二路266巷1號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處濱江國中地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a680bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.083970869897783,
+        "lng": 121.55423443731145
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000443,
+          "title": "捷運劍南路站(文湖線)",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.084787,
+            121.555462
+          ],
+          "address": "臺北市中山區北安路798號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運劍南路站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a685bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.079457754880398,
+        "lng": 121.54669426464332
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000444,
+          "title": "捷運大直站(文湖線)",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.079446,
+            121.547078
+          ],
+          "address": "臺北市中山區北安路534之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運大直站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000481,
+          "title": "公有大直市場(署)",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.079657,
+            121.545138
+          ],
+          "address": "臺北市中山區北安路476號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有大直市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6857ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.083135287828526,
+        "lng": 121.55100813370166
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000463,
+          "title": "中油大直加油站",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.084249,
+            121.550653
+          ],
+          "address": "臺北市中山區明水路661號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司大直站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000478,
+          "title": "永直公園",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.081731,
+            121.550495
+          ],
+          "address": "臺北市中山區北安路608巷4弄底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處圓山管理所永直公園",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6873ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081964514144065,
+        "lng": 121.55637301999379
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000491,
+          "title": "美麗華百樂園",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.082837,
+            121.557293
+          ],
+          "address": "臺北市中山區敬業三路20號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "美麗華城市發展股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6853ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.082299653673644,
+        "lng": 121.54778194234528
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000505,
+          "title": "臺北市立圖書館大直分館",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.08185,
+            121.546687
+          ],
+          "address": "臺北市中山區大直街25號3、4、5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館大直分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000546,
+          "title": "摩斯漢堡北安店",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.081459,
+            121.548786
+          ],
+          "address": "臺北市中山區北安路586號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司北安分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000547,
+          "title": "麥當勞台北北安店",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.083014,
+            121.549194
+          ],
+          "address": "臺北市中山區北安路626號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北北安分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6867ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08079346760032,
+        "lng": 121.56173817011768
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000532,
+          "title": "臺北時代廣場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.080524,
+            121.560638
+          ],
+          "address": "臺北市中山區樂群二路265巷18號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北時代廣場管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a68cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08430578866967,
+        "lng": 121.54564351131584
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000545,
+          "title": "摩斯漢堡實踐大學店",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.08385,
+            121.546383
+          ],
+          "address": "臺北市中山區大直街59號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司實踐大學分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a681bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.085977100352423,
+        "lng": 121.55209588541348
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000562,
+          "title": "中山23號",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.086345,
+            121.55055
+          ],
+          "address": "臺北市中山區北安路729巷附近往自強遂道機慢車道旁登山步道入口左側進入60公尺",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6803ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08681267805496,
+        "lng": 121.5553222408439
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000563,
+          "title": "中山8號",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.086312,
+            121.555828
+          ],
+          "address": "臺北市中山區北安路805巷6號劍潭古寺旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a682bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.08363542651212,
+        "lng": 121.56282608472618
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000738,
+          "title": "西康地下停車場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084768,
+            121.563698
+          ],
+          "address": "臺北市內湖區內湖路一段203巷25號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "西康地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000803,
+          "title": "家樂福便利購超市內湖一分公司",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08383,
+            121.562834
+          ],
+          "address": "臺北市內湖區內湖路一段155號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "家樂福便利購超市內湖一分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a683bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08564187773082,
+        "lng": 121.56068738123311
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000761,
+          "title": "中油西湖加油站",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.085012,
+            121.559845
+          ],
+          "address": "臺北市內湖區內湖路一段59號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司西湖站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6823ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.086477303470257,
+        "lng": 121.56391402151571
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000812,
+          "title": "統一超商臺北市金湖門市",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.086508,
+            121.564118
+          ],
+          "address": "臺北市內湖區文湖街83號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市金湖門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a682fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08447080451732,
+        "lng": 121.56605278539817
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000841,
+          "title": "臺北市立圖書館西中分館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084846,
+            121.566588
+          ],
+          "address": "臺北市內湖區內湖路一段285巷66號1-2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館西中分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

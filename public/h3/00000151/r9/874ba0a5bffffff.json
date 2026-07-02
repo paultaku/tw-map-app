@@ -1,0 +1,413 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5bafffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.983596435020942,
+        "lng": 121.56234344473586
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201771,
+          "title": "普仁診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98387026,
+            121.5620737
+          ],
+          "address": "臺北市文山區興隆路四段１７１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201783,
+          "title": "平安耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98227495,
+            121.562749
+          ],
+          "address": "臺北市文山區木新路三段１０６號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201827,
+          "title": "合康復健科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9826033,
+            121.5625156
+          ],
+          "address": "臺北市文山區興隆路四段217號(實際營業場所1樓、2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201828,
+          "title": "邱成湦皮膚專科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.984231,
+            121.5619385
+          ],
+          "address": "臺北市文山區興隆路4段163號(1樓及夾層)、163之1號(1樓及夾層)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5ba3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.985606529628587,
+        "lng": 121.56020511154604
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201777,
+          "title": "洪佑承小兒專科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98502532,
+            121.5613659
+          ],
+          "address": "臺北市文山區興隆路四段64之2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201789,
+          "title": "長欣婦產科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98541546,
+            121.5612284
+          ],
+          "address": "臺北市文山區興隆路四段六十號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201817,
+          "title": "李信成眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98583012,
+            121.5610281
+          ],
+          "address": "臺北市文山區興隆路四段54之7號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201857,
+          "title": "澤文診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98541766,
+            121.5615441
+          ],
+          "address": "臺北市文山區興隆路四段１３３號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b07ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.979916418913785,
+        "lng": 121.55802974677911
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201780,
+          "title": "春林復健科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98121088,
+            121.5590874
+          ],
+          "address": "臺北市文山區木新路三段229號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201806,
+          "title": "徐文治診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9810823,
+            121.5585788
+          ],
+          "address": "臺北市文山區木新路三段２４９號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5babffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.98276151504737,
+        "lng": 121.55911741807529
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 7201785,
+          "title": "高鳴傑 眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98125838,
+            121.5592733
+          ],
+          "address": "臺北市文山區木新路三段223號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201791,
+          "title": "世誠耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9842167,
+            121.5594471
+          ],
+          "address": "臺北市文山區忠順街一段107號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201805,
+          "title": "吳錫賢診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98158131,
+            121.5597488
+          ],
+          "address": "臺北市文山區木新路三段２０８號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201835,
+          "title": "健鑫診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98401128,
+            121.5592866
+          ],
+          "address": "臺北市文山區忠順街一段28號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201836,
+          "title": "樂群耳鼻喉科家醫科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98164729,
+            121.5600221
+          ],
+          "address": "臺北市文山區木新路三段202號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201842,
+          "title": "大豐耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98150908,
+            121.559425
+          ],
+          "address": "臺北市文山區木新路三段220號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.980751342990697,
+        "lng": 121.56125572164615
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201804,
+          "title": "健誠診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98210056,
+            121.5619753
+          ],
+          "address": "臺北市文山區木新路三段１２４號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5bb7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.988451462643813,
+        "lng": 121.56129282719122
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201814,
+          "title": "徐慧玲診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98834033,
+            121.5604984
+          ],
+          "address": "臺北市文山區興隆路四段97號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

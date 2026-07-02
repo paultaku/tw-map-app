@@ -1,0 +1,423 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b484bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12772156427968,
+        "lng": 121.4663998739966
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500412,
+          "title": "臺北市北投區關渡國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.126631,
+            121.466292
+          ],
+          "address": "中央北路4段581號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "川堂右手邊走道牆柱上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "川堂右手邊走道牆柱上"
+        },
+        {
+          "id": 5502307,
+          "title": "舞動陽光有限公司關渡國小",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1263557,
+            121.4661942
+          ],
+          "address": "中央北路四段581號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "關渡國小正門直走到底，運動中心櫃台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "關渡國小正門直走到底，運動中心櫃台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4857ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.133401149144607,
+        "lng": 121.4685729223484
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5500418,
+          "title": "國立臺北藝術大學_展演中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.132457,
+            121.469349
+          ],
+          "address": "學園路1號展演中心",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "展演中心靠近舞蹈系館的入口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展演中心靠近舞蹈系館的入口"
+        },
+        {
+          "id": 5500436,
+          "title": "城市學校財團法人臺北城市科技大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133617,
+            121.468879
+          ],
+          "address": "學園路2號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "財經大樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "財經大樓大廳"
+        },
+        {
+          "id": 5500448,
+          "title": "國立臺北藝術大學_游泳館大門外",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.132518,
+            121.469682
+          ],
+          "address": "學園路1號游泳館大門外",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "游泳館大門外牆面壁掛",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "游泳館大門外牆面壁掛"
+        },
+        {
+          "id": 5500912,
+          "title": "城市學校財團法人臺北城市科技大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133617,
+            121.468879
+          ],
+          "address": "學園路2號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "愛園大樓2樓宿舍旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "愛園大樓2樓宿舍旁"
+        },
+        {
+          "id": 5501342,
+          "title": "城市學校財團法人臺北城市科技大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133617,
+            121.468879
+          ],
+          "address": "學園路2號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "圖資大樓3樓大門入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "圖資大樓3樓大門入口處"
+        },
+        {
+          "id": 5501625,
+          "title": "城市學校財團法人臺北城市科技大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133617,
+            121.468879
+          ],
+          "address": "學園路2號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "行政大樓一樓學務處旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓一樓學務處旁"
+        },
+        {
+          "id": 5502408,
+          "title": "國立臺北藝術大學_衛生保健組",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.132518,
+            121.469682
+          ],
+          "address": "學園路1號衛生保健組",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "活動中心2樓衛生保健組辦公室外走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心2樓衛生保健組辦公室外走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4843ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.130561397669496,
+        "lng": 121.4674863870663
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500502,
+          "title": "國立臺北藝術大學_警衛室",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.130315,
+            121.466847
+          ],
+          "address": "學園路1號警衛室",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "本校校門口收費崗哨內之警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校校門口收費崗哨內之警衛室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4803ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.137078096699486,
+        "lng": 121.47288335234963
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501151,
+          "title": "國立臺北藝術大學(女生第一宿舍)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.136049,
+            121.471599
+          ],
+          "address": "學園路1號 女生第一宿舍",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "女生第一宿舍出入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "女生第一宿舍出入口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b483bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.135912840062122,
+        "lng": 121.47824472196827
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501156,
+          "title": "臺北市立桃源國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.134647,
+            121.4773
+          ],
+          "address": "中央北路4段48號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "文軒樓2樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "文軒樓2樓"
+        },
+        {
+          "id": 5502203,
+          "title": "臺北市立桃源國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.134647,
+            121.4773
+          ],
+          "address": "中央北路4段48號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本校育才樓一樓，健康中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校育才樓一樓，健康中心內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4827ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.137587040674042,
+        "lng": 121.48469315145176
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501754,
+          "title": "臺北捷運復興崗站R23",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.137474,
+            121.485444
+          ],
+          "address": "中央北路3段53巷10號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "復興崗站一月台樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "復興崗站一月台樓梯旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4873ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.13223591882154,
+        "lng": 121.4739340369858
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501755,
+          "title": "臺北捷運忠義站R24",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.130969,
+            121.47341
+          ],
+          "address": "中央北路4段301號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "一月台樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一月台樓梯旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b482fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.134747310662927,
+        "lng": 121.48360635653607
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502315,
+          "title": "臺北捷運北投會館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.13455,
+            121.483311
+          ],
+          "address": "大業路527巷88號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "北投會館捷之旅1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "北投會館捷之旅1樓大廳"
+        },
+        {
+          "id": 5502316,
+          "title": "臺北捷運北投會館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.13455,
+            121.483311
+          ],
+          "address": "大業路527巷88號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "北投會館B1層健身房門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "北投會館B1層健身房門口"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

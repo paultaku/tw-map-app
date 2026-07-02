@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a45d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063408364055952,
+        "lng": 121.51440256272926
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 6700004,
+          "title": "建成",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06284,
+            121.51439
+          ],
+          "address": "臺北市大同區民權西路臨194之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "開放時間06：00~16：30加油站旁",
+          "image": "",
+          "management": "",
+          "phone": "(02)25535107",
+          "notes": "開放時間06：00~16：30加油站旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4563ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.054212286849754,
+        "lng": 121.5283171409053
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 6700014,
+          "title": "中山",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05412,
+            121.52748
+          ],
+          "address": "臺北市中山區新生北路2段臨30-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "開放時間06：00~16：00",
+          "image": "",
+          "management": "",
+          "phone": "(02)25110958",
+          "notes": "開放時間06：00~16：00"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:59.313Z"
+}

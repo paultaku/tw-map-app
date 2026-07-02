@@ -1,0 +1,759 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6b07ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.073601290986105,
+        "lng": 121.57352006354412
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201908,
+          "title": "內湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0735333,
+            121.5743432
+          ],
+          "address": "臺北市內湖區港墘路221巷2號",
+          "layoutType": "",
+          "hours": "2210",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201924,
+          "title": "內湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07397,
+            121.57352
+          ],
+          "address": "臺北市內湖區港墘路221巷2號",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201953,
+          "title": "內湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07397,
+            121.57352
+          ],
+          "address": "臺北市內湖區港墘路221巷2號鄰舊宗路",
+          "layoutType": "",
+          "hours": "1620",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201954,
+          "title": "內湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07397,
+            121.57352
+          ],
+          "address": "臺北市內湖區港墘路221巷2號鄰舊宗路",
+          "layoutType": "",
+          "hours": "1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201959,
+          "title": "內湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07397,
+            121.57352
+          ],
+          "address": "臺北市內湖區港墘路221巷2號",
+          "layoutType": "",
+          "hours": "2145",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201978,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07438,
+            121.57386
+          ],
+          "address": "臺北市內湖區港墘路221巷2號",
+          "layoutType": "",
+          "hours": "1635",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b37ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.07527151748747,
+        "lng": 121.57997418068533
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201938,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07452,
+            121.58085
+          ],
+          "address": "臺北市內湖區陽光街186號",
+          "layoutType": "",
+          "hours": "1802",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201939,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07409,
+            121.57926
+          ],
+          "address": "臺北市內湖區江南街71巷66號",
+          "layoutType": "",
+          "hours": "1811",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201943,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07532,
+            121.57871
+          ],
+          "address": "臺北市內湖區瑞光路253巷30號",
+          "layoutType": "",
+          "hours": "2014",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201950,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07454,
+            121.57913
+          ],
+          "address": "臺北市內湖區瑞光路235巷30號",
+          "layoutType": "",
+          "hours": "2200",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201972,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07562,
+            121.57957
+          ],
+          "address": "臺北市內湖區江南街71巷75弄22號",
+          "layoutType": "",
+          "hours": "2005",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201974,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07552,
+            121.58117
+          ],
+          "address": "臺北市內湖區文德路22巷74弄10號",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b2fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07042180359156,
+        "lng": 121.58102499345546
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 201949,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07126,
+            121.58006
+          ],
+          "address": "臺北市內湖區瑞光路112巷50號對面",
+          "layoutType": "",
+          "hours": "2152",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bafffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.07727869065421,
+        "lng": 121.57783520273354
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201969,
+          "title": "文德分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0774,
+            121.57947
+          ],
+          "address": "臺北市內湖區文德路22巷9弄2號",
+          "layoutType": "",
+          "hours": "1806",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201979,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07697,
+            121.57864
+          ],
+          "address": "臺北市內湖區江南街65巷16號",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202015,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07778,
+            121.57704
+          ],
+          "address": "臺北市內湖區港墘路127巷16弄2號",
+          "layoutType": "",
+          "hours": "1905",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ba7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.080120869037287,
+        "lng": 121.578923361594
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201984,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0808,
+            121.57798
+          ],
+          "address": "臺北市內湖區港墘路83號",
+          "layoutType": "",
+          "hours": "2200",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202017,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07882,
+            121.57926
+          ],
+          "address": "臺北市內湖區內湖路2段11號",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b97ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.082464180265013,
+        "lng": 121.56819158003694
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201990,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0829,
+            121.5667
+          ],
+          "address": "臺北市內湖區內湖路1段285巷19號",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202027,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08223,
+            121.56865
+          ],
+          "address": "臺北市內湖區內湖路1段337號",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bb7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08212783935861,
+        "lng": 121.57678438475725
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202014,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08139,
+            121.57605
+          ],
+          "address": "臺北市內湖區內湖路1段629巷42號",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6babffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.076443555734475,
+        "lng": 121.57460814843816
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 202016,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07725,
+            121.57571
+          ],
+          "address": "臺北市內湖區港墘路151號",
+          "layoutType": "",
+          "hours": "2040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202028,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07578,
+            121.57579
+          ],
+          "address": "臺北市內湖區瑞光路309號",
+          "layoutType": "",
+          "hours": "2200",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bb3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.081292661112037,
+        "lng": 121.57355733901778
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 202018,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0812,
+            121.5723
+          ],
+          "address": "臺北市內湖區內湖路1段441號",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202021,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08049,
+            121.57444
+          ],
+          "address": "臺北市內湖區內湖路1段625號",
+          "layoutType": "",
+          "hours": "1810",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081628849994885,
+        "lng": 121.56496481898317
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202026,
+          "title": "西湖分隊",
+          "category": "nightmarket",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08289,
+            121.56449
+          ],
+          "address": "臺北市內湖區內湖路1段215號",
+          "layoutType": "",
+          "hours": "2020",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b4fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0642388006008,
+        "lng": 121.56702920695406
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203228,
+          "title": "上塔悠分隊",
+          "category": "nightmarket",
+          "location": "臺北市松山區",
+          "coords": [
+            25.06281,
+            121.5672
+          ],
+          "address": "臺北市松山區富錦街581巷口",
+          "layoutType": "",
+          "hours": "2155",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203266,
+          "title": "上塔悠分隊",
+          "category": "nightmarket",
+          "location": "臺北市松山區",
+          "coords": [
+            25.06439,
+            121.56585
+          ],
+          "address": "臺北市松山區撫遠街379巷口",
+          "layoutType": "",
+          "hours": "2040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bcbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.070260212532354,
+        "lng": 121.56061317512686
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203260,
+          "title": "上塔悠分隊",
+          "category": "nightmarket",
+          "location": "臺北市松山區",
+          "coords": [
+            25.07057,
+            121.56223
+          ],
+          "address": "臺北市松山區濱江街863號",
+          "layoutType": "",
+          "hours": "1648",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b57ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06908850053217,
+        "lng": 121.565978435863
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203261,
+          "title": "上塔悠分隊",
+          "category": "nightmarket",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0678,
+            121.56659
+          ],
+          "address": "臺北市松山區撫遠街405巷15號之1",
+          "layoutType": "",
+          "hours": "1657",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b43ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.066246063191226,
+        "lng": 121.56489049891938
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203310,
+          "title": "上塔悠分隊",
+          "category": "nightmarket",
+          "location": "臺北市松山區",
+          "coords": [
+            25.06602,
+            121.5656
+          ],
+          "address": "臺北市松山區撫遠街403巷8號(距離垃圾收集點15公尺)",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

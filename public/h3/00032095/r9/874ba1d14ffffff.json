@@ -1,0 +1,421 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d148bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.054513202777493,
+        "lng": 121.61855678319127
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900542,
+          "title": "魚籃書坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053998,
+            121.617213
+          ],
+          "address": "台北市南港區富康街26號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-26515911",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900705,
+          "title": "幸福海螺曲奇",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054285,
+            121.617608
+          ],
+          "address": "台北市南港區富康街1巷4號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27835499",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901600,
+          "title": "Yulan Bookshop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053998,
+            121.617213
+          ],
+          "address": "No. 26",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.617213",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.617213"
+        },
+        {
+          "id": 6901763,
+          "title": "Conch Baking",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054285,
+            121.617608
+          ],
+          "address": "115",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Fukang St",
+          "image": "",
+          "management": "",
+          "phone": "Lane 1",
+          "notes": "Fukang St"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d14d7ffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.05367889728019,
+        "lng": 121.61532849719349
+      },
+      "categories": {
+        "other": 12
+      },
+      "points": [
+        {
+          "id": 6900711,
+          "title": "Logos Coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054763,
+            121.616371
+          ],
+          "address": "台北市南港區研究院路一段2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27865095",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900747,
+          "title": "潮味決南港研究院店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05283,
+            121.616086
+          ],
+          "address": "台北市南港區研究院路一段70號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27828808",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900773,
+          "title": "Timchi’s 週末肉桂捲",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053917,
+            121.615155
+          ],
+          "address": "台北市南港區中南街50號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900961,
+          "title": "喀啦咖啡吧",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053917,
+            121.615291
+          ],
+          "address": "台北市南港區中南街43號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0921-614239",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900963,
+          "title": "李萌 Leemon",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054138,
+            121.615288
+          ],
+          "address": "台北市南港區中南街31號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0909-227621",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901000,
+          "title": "METTA咖啡素食",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05449,
+            121.615388
+          ],
+          "address": "台北市南港區市民大道八段583號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27823838",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901769,
+          "title": "Logos Coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054763,
+            121.616371
+          ],
+          "address": "115",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Yanjiuyuan Rd",
+          "image": "",
+          "management": "",
+          "phone": "Section 1",
+          "notes": "Yanjiuyuan Rd"
+        },
+        {
+          "id": 6901805,
+          "title": "Chau Wei Jiue Nangang Academia Sinica Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05283,
+            121.616086
+          ],
+          "address": "No. 70",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Nangang District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901831,
+          "title": "Timchi's Weekend Cinnamon",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053917,
+            121.615155
+          ],
+          "address": "No. 50",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "115014",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "115014"
+        },
+        {
+          "id": 6902019,
+          "title": "CARA Coffee Bar",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053917,
+            121.615291
+          ],
+          "address": "No. 43",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.615291",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.615291"
+        },
+        {
+          "id": 6902021,
+          "title": "Leemon",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054138,
+            121.615288
+          ],
+          "address": "No. 31",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.615288",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.615288"
+        },
+        {
+          "id": 6902058,
+          "title": "METTA Coffee & Vegetarian",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05449,
+            121.615388
+          ],
+          "address": "1st Floor",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Nangang District",
+          "image": "",
+          "management": "",
+          "phone": "Civic Boulevard",
+          "notes": "Nangang District"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d149bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.056522070268617,
+        "lng": 121.61641719603128
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900962,
+          "title": "宇啡商行Real cafė",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055071,
+            121.616377
+          ],
+          "address": "台北市南港區南港路一段43號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-26532693",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902020,
+          "title": "Real Cafė",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055071,
+            121.616377
+          ],
+          "address": "No. 43",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Nangang District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d14c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05083564233288,
+        "lng": 121.61423982051897
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900964,
+          "title": "給冷鴿手作甜點",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051883,
+            121.61536
+          ],
+          "address": "台北市南港區中南街127號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-26517080",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902022,
+          "title": "Geilengge Homemade Desserts\nCategories",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051883,
+            121.61536
+          ],
+          "address": "No. 127",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.61536",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.61536"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

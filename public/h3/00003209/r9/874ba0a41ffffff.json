@@ -1,0 +1,557 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4153ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.042505622594636,
+        "lng": 121.53255647343336
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100029,
+          "title": "忠孝東路3段8號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.042094,
+            121.533724
+          ],
+          "address": "凱統飯店(捷運忠孝新生站3號出口)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a416fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.038154258702583,
+        "lng": 121.54542211278851
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100032,
+          "title": "仁愛路4段10號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.037512,
+            121.545224
+          ],
+          "address": "聯合醫院仁愛院區",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100033,
+          "title": "仁愛路4段61號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.038294,
+            121.546595
+          ],
+          "address": "宏恩醫院",
+          "layoutType": "",
+          "hours": "8~20",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a416bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.037318759806745,
+        "lng": 121.54219635338937
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100034,
+          "title": "仁愛路3段136號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.037611,
+            121.541145
+          ],
+          "address": "芙蓉大廈",
+          "layoutType": "",
+          "hours": "週一至週五8~19",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4177ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04300505968164,
+        "lng": 121.54437143568549
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100036,
+          "title": "忠孝東路4段49巷",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.042343,
+            121.545257
+          ],
+          "address": "SOGO百貨忠孝館",
+          "layoutType": "",
+          "hours": "11~22",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a410bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044176958682687,
+        "lng": 121.53900751718275
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100049,
+          "title": "市民大道3段178號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.044565,
+            121.537932
+          ],
+          "address": "忠泰美術館",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a419bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.053041252777543,
+        "lng": 121.53368060292914
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100053,
+          "title": "松江路127號前",
+          "category": "nightmarket",
+          "location": "中山",
+          "coords": [
+            25.053383,
+            121.533139
+          ],
+          "address": "味全大樓(捷運松江南京站7號出口)",
+          "layoutType": "",
+          "hours": "周一至周五9~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4107ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.047855498604118,
+        "lng": 121.54332075228746
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100056,
+          "title": "長安東路2段175號",
+          "category": "nightmarket",
+          "location": "中山",
+          "coords": [
+            25.048338,
+            121.542376
+          ],
+          "address": "長安東路遼寧街口",
+          "layoutType": "",
+          "hours": "周一至周五9~17",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100140,
+          "title": "復興北路15號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.049048,
+            121.544268
+          ],
+          "address": "中興百貨",
+          "layoutType": "",
+          "hours": "周一至周五11~23",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4123ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046683573207268,
+        "lng": 121.5486849249764
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100133,
+          "title": "敦化南路1段108號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.045949,
+            121.548411
+          ],
+          "address": "臺北富邦銀行敦南分行",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a413bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.045848086996294,
+        "lng": 121.54545901010873
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100134,
+          "title": "復興南路1段39號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.046099,
+            121.544239
+          ],
+          "address": "微風廣場購物中心",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100144,
+          "title": "微風廣場東側巷道",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.045325,
+            121.545549
+          ],
+          "address": "微風廣場",
+          "layoutType": "",
+          "hours": "10~22",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05437667828615,
+        "lng": 121.5487218664778
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100135,
+          "title": "敦化北路150號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.054752,
+            121.548603
+          ],
+          "address": "FRIDAY餐廳",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100143,
+          "title": "敦化北路197號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.055346,
+            121.549451
+          ],
+          "address": "長庚醫院",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05069836662136,
+        "lng": 121.54440831925304
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100141,
+          "title": "復興北路55號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.050411,
+            121.544182
+          ],
+          "address": "合作金庫儲蓄部",
+          "layoutType": "",
+          "hours": "週一至週五8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4133ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048691032544312,
+        "lng": 121.54654660671524
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100145,
+          "title": "八德路2段台安醫院前",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.048146,
+            121.547438
+          ],
+          "address": "台安醫院",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056383857293092,
+        "lng": 121.546583519736
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100146,
+          "title": "民生東路3段156號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.057248,
+            121.547788
+          ],
+          "address": "宏泰世紀大樓(勞委會)",
+          "layoutType": "",
+          "hours": "9~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.053541152855548,
+        "lng": 121.54549590840259
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100148,
+          "title": "復興北路臨7號出口",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.052334,
+            121.544197
+          ],
+          "address": "捷運南京復興站",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051533896312126,
+        "lng": 121.54763422550496
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100155,
+          "title": "松山區南京東路三段333號",
+          "category": "nightmarket",
+          "location": "松山",
+          "coords": [
+            25.051872,
+            121.547387
+          ],
+          "address": "柯達大飯店台北南京館",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:17.020Z"
+}

@@ -1,0 +1,657 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6bb7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.08212783935861,
+        "lng": 121.57678438475725
+      },
+      "categories": {
+        "nature": 8
+      },
+      "points": [
+        {
+          "id": 600520,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0808,
+            121.5763
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(內湖區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600524,
+          "title": "樹杞",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0809,
+            121.5763
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600525,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.081,
+            121.5764
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600527,
+          "title": "山埔姜",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0809,
+            121.5764
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600529,
+          "title": "樹杞",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.081,
+            121.5765
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之2號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600531,
+          "title": "樹杞",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.081,
+            121.5764
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之3號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600534,
+          "title": "樹杞",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.081,
+            121.5764
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600535,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.081,
+            121.5767
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之2號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ba3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.079285738529823,
+        "lng": 121.57569625550921
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 600522,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0807,
+            121.5762
+          ],
+          "address": "臺北市內湖區港都里內湖路一段667巷9之1號(港墘公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601389,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0795,
+            121.5772
+          ],
+          "address": "臺北市內湖區港富里內湖路與港墘路交叉口圓環靠內湖路一段705號側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601390,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0797,
+            121.5767
+          ],
+          "address": "臺北市內湖區港富里內湖路與港墘路交叉口圓環靠內湖路一段691巷側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601391,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0793,
+            121.5765
+          ],
+          "address": "臺北市內湖區港富里內湖路與港墘路交叉口圓環靠內湖商工側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b4fffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 25.0642388006008,
+        "lng": 121.56702920695406
+      },
+      "categories": {
+        "nature": 13
+      },
+      "points": [
+        {
+          "id": 600646,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0633,
+            121.5681
+          ],
+          "address": "臺北市松山區新益里三民公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600647,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0631,
+            121.5679
+          ],
+          "address": "臺北市松山區新益里三民公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603275,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.065,
+            121.5675
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603276,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0645,
+            121.5672
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603277,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.064,
+            121.5669
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603278,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0643,
+            121.567
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603279,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0646,
+            121.5671
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603280,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0643,
+            121.567
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603281,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.064,
+            121.5669
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603282,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0644,
+            121.5668
+          ],
+          "address": "臺北市松山區莊敬里撫遠街389巷29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603622,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0633,
+            121.5681
+          ],
+          "address": "臺北市松山區新益里三民公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603623,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0633,
+            121.5679
+          ],
+          "address": "臺北市松山區新益里三民公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603624,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0632,
+            121.5679
+          ],
+          "address": "臺北市松山區新益里三民公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b43ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.066246063191226,
+        "lng": 121.56489049891938
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602664,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0648,
+            121.5646
+          ],
+          "address": "臺北市松山區莊敬里撫遠街394巷25號側邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bd7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07594469511106,
+        "lng": 121.56278895269405
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603178,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0746,
+            121.5633
+          ],
+          "address": "臺北市中山區金泰里美堤河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b2bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06958675974983,
+        "lng": 121.57779787027029
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603664,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0711,
+            121.5779
+          ],
+          "address": "臺北市內湖區湖元里瑞光公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081628849994885,
+        "lng": 121.56496481898317
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603665,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0803,
+            121.5646
+          ],
+          "address": "臺北市內湖區西康里洲子一號公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b9bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0787868135216,
+        "lng": 121.56387687474839
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603666,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.08,
+            121.5645
+          ],
+          "address": "臺北市內湖區西康里洲子一號公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

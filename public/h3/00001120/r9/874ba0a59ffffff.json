@@ -1,0 +1,1405 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5913ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.001004966115833,
+        "lng": 121.56027929611399
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500088,
+          "title": "臺北市立萬芳高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.000625,
+            121.558914
+          ],
+          "address": "興隆路3段115巷1號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "臺北市立萬芳高級中學警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市立萬芳高級中學警衛室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.001344134611525,
+        "lng": 121.55168906431932
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500089,
+          "title": "臺北市文山區戶政事務所（景美辦事處）",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001643,
+            121.551576
+          ],
+          "address": "興隆路二段160號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於三樓戶政事務所民眾等待區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於三樓戶政事務所民眾等待區"
+        },
+        {
+          "id": 5500761,
+          "title": "臺北市政府警察局文山第二分局興隆派出所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001512,
+            121.551187
+          ],
+          "address": "興隆路2段156號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "在興隆派出所大門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在興隆派出所大門口"
+        },
+        {
+          "id": 5501126,
+          "title": "臺北市立圖書館文山分館",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001497,
+            121.551575
+          ],
+          "address": "興隆路2段160號7樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "服務櫃臺前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務櫃臺前方"
+        },
+        {
+          "id": 5502139,
+          "title": "臺北市文山區興德國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001622,
+            121.55077
+          ],
+          "address": "興隆路二段235號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心外柱子旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心外柱子旁"
+        },
+        {
+          "id": 5502282,
+          "title": "興隆公園地下停車場",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.000594,
+            121.551195
+          ],
+          "address": "仙岩路128號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a591bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.99816043281112,
+        "lng": 121.5591915731847
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500108,
+          "title": "臺北市文山運動中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997017,
+            121.559673
+          ],
+          "address": "興隆路三段222號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "三樓游泳池管理室、垃圾筒旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三樓游泳池管理室、垃圾筒旁"
+        },
+        {
+          "id": 5501002,
+          "title": "臺北市文山區興華國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99975,
+            121.558903
+          ],
+          "address": "興隆路3段125巷6號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "學校健康中心內，一進門正前方窗台處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學校健康中心內，一進門正前方窗台處"
+        },
+        {
+          "id": 5501195,
+          "title": "臺北市文山運動中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997017,
+            121.559673
+          ],
+          "address": "興隆路三段222號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "六樓綜合球場門口右側消防栓旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "六樓綜合球場門口右側消防栓旁邊"
+        },
+        {
+          "id": 5501263,
+          "title": "臺北市文山運動中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997017,
+            121.559673
+          ],
+          "address": "興隆路三段222號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "2樓健身房",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2樓健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59cfffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.997325382002508,
+        "lng": 121.55596557228749
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500213,
+          "title": "中國科技大學臺北校區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997535,
+            121.554239
+          ],
+          "address": "興隆路3段56號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中山育樂館2樓舞台左前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中山育樂館2樓舞台左前方"
+        },
+        {
+          "id": 5500831,
+          "title": "中國科技大學臺北校區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997535,
+            121.554239
+          ],
+          "address": "興隆路3段56號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "格致樓3樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "格致樓3樓"
+        },
+        {
+          "id": 5500836,
+          "title": "中國科技大學臺北校區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997535,
+            121.554239
+          ],
+          "address": "興隆路3段56號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "自強樓1樓電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "自強樓1樓電梯旁"
+        },
+        {
+          "id": 5502578,
+          "title": "中國科技大學臺北校區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997535,
+            121.554239
+          ],
+          "address": "興隆路3段56號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中正樓2樓系辦公室門外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中正樓2樓系辦公室門外"
+        },
+        {
+          "id": 5502610,
+          "title": "中國科技大學臺北校區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.997535,
+            121.554239
+          ],
+          "address": "興隆路3段56號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國科技大學格致樓1樓大廳正門電視牆旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國科技大學格致樓1樓大廳正門電視牆旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5903ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 24.998995431738415,
+        "lng": 121.56241768626528
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 5500725,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "樂群樓2樓電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "樂群樓2樓電梯旁"
+        },
+        {
+          "id": 5500726,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "游泳池",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "游泳池"
+        },
+        {
+          "id": 5500727,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "大禮堂1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大禮堂1樓"
+        },
+        {
+          "id": 5500729,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "三民樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三民樓1樓"
+        },
+        {
+          "id": 5500842,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "莊敬樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "莊敬樓1樓"
+        },
+        {
+          "id": 5500844,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "後操場司令台內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "後操場司令台內"
+        },
+        {
+          "id": 5500846,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "民族樓3樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民族樓3樓"
+        },
+        {
+          "id": 5500847,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "樹人樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "樹人樓1樓"
+        },
+        {
+          "id": 5500848,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中興樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中興樓1樓"
+        },
+        {
+          "id": 5501598,
+          "title": "臺灣警察專科學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998038,
+            121.561478
+          ],
+          "address": "興隆路三段153號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "醫務室外傷處理室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "醫務室外傷處理室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.989286374378512,
+        "lng": 121.56451895743632
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500751,
+          "title": "臺北市政府警察局文山第一分局木柵派出所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.988789,
+            121.563546
+          ],
+          "address": "木柵路二段202號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "於木柵派出所大門旁(由外面對大門，門內右邊)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "於木柵派出所大門旁(由外面對大門，門內右邊)"
+        },
+        {
+          "id": 5501423,
+          "title": "有道工作室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.987783,
+            121.564992
+          ],
+          "address": "木柵路三段48巷1弄7號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "自大門進入前方左側靠牆處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "自大門進入前方左側靠牆處"
+        },
+        {
+          "id": 5502296,
+          "title": "慧誠老人養護所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98918745,
+            121.5631236
+          ],
+          "address": "木柵路二段163號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "慧誠老人安養護中心(所)大門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "慧誠老人安養護中心(所)大門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59abffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.002674903753082,
+        "lng": 121.56673173803055
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500763,
+          "title": "臺北市政府警察局交通警察大隊文山一分隊",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.002266,
+            121.566897
+          ],
+          "address": "萬美街1段50號3樓",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "設置辦公室值班台前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "設置辦公室值班台前方"
+        },
+        {
+          "id": 5500790,
+          "title": "臺北市政府警察局文山第一分局萬芳派出所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.002266,
+            121.566897
+          ],
+          "address": "萬美街1段50號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "派出所值班台前，門口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "派出所值班台前，門口左側"
+        },
+        {
+          "id": 5502140,
+          "title": "臺北市文山區萬芳國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.003231,
+            121.567433
+          ],
+          "address": "萬和街1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "走進校門上到穿堂的右側牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "走進校門上到穿堂的右側牆壁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a598fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.003849417794292,
+        "lng": 121.56136704121893
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500937,
+          "title": "臺北市政府公務人員訓練處",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004577,
+            121.56104
+          ],
+          "address": "萬美街2段21巷20號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "B區-體育館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "B區-體育館"
+        },
+        {
+          "id": 5501509,
+          "title": "萬美社區管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.003439,
+            121.562612
+          ],
+          "address": "萬美街2段2巷1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1號1樓樓梯間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1號1樓樓梯間"
+        },
+        {
+          "id": 5502141,
+          "title": "臺北市政府公務人員訓練處",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004577,
+            121.56104
+          ],
+          "address": "萬美街2段21巷20號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "C區-客服中心前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "C區-客服中心前"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a594fffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.99046135460767,
+        "lng": 121.55915449514079
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5500958,
+          "title": "臺北市私立再興小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990051,
+            121.559309
+          ],
+          "address": "興隆路四段2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學務處前穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學務處前穿堂"
+        },
+        {
+          "id": 5501715,
+          "title": "臺北市私立再興高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990528,
+            121.558974
+          ],
+          "address": "興隆路四段二號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "知新樓地下3樓球場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "知新樓地下3樓球場"
+        },
+        {
+          "id": 5501716,
+          "title": "臺北市私立再興高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990528,
+            121.558974
+          ],
+          "address": "興隆路四段二號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "秀榮大樓5樓電梯前牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "秀榮大樓5樓電梯前牆壁"
+        },
+        {
+          "id": 5501717,
+          "title": "臺北市私立再興高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990528,
+            121.558974
+          ],
+          "address": "興隆路四段二號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "電梯前牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "電梯前牆壁"
+        },
+        {
+          "id": 5501718,
+          "title": "臺北市私立再興小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990051,
+            121.559309
+          ],
+          "address": "興隆路四段2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "圖書館前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "圖書館前"
+        },
+        {
+          "id": 5502265,
+          "title": "文山雅筑社區管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990773,
+            121.559839
+          ],
+          "address": "興隆路四段29巷4弄1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502266,
+          "title": "明興社區巷弄長照站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9894423,
+            121.5600007
+          ],
+          "address": "興隆路4段61號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "長照站門口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "長照站門口處"
+        },
+        {
+          "id": 5502268,
+          "title": "太子新城建設",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990387,
+            121.559581
+          ],
+          "address": "興隆路四段33號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "壁掛於修車行走廊上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "壁掛於修車行走廊上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00350979470278,
+        "lng": 121.56995812722143
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501090,
+          "title": "臺北市立圖書館萬芳民眾閱覽室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.002215,
+            121.569178
+          ],
+          "address": "萬美街一段25號1樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "閱覽室1樓入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "閱覽室1樓入口右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a592fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.996645638581075,
+        "lng": 121.57314736291057
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501174,
+          "title": "臺北市立木柵高級工業職業學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.996002,
+            121.571925
+          ],
+          "address": "木柵路四段77號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "行政大樓1樓健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓1樓健康中心"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.99933482090922,
+        "lng": 121.55382730291515
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501488,
+          "title": "Power Bank運動教室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9995279,
+            121.554033
+          ],
+          "address": "辛亥路五段35號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "場館進出口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場館進出口左側"
+        },
+        {
+          "id": 5502312,
+          "title": "全球動競健康有限公司",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.000676,
+            121.554242
+          ],
+          "address": "興隆路二段252號B1",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃檯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5927ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.999490314312485,
+        "lng": 121.57423530043418
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501661,
+          "title": "臺北捷運木柵站BR02",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998241,
+            121.573145
+          ],
+          "address": "木柵路4段135號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "木柵站1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "木柵站1樓大廳"
+        },
+        {
+          "id": 5502192,
+          "title": "博嘉運動公園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.000284,
+            121.575257
+          ],
+          "address": "木柵路4段159巷16號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "游泳池櫃台B1",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "游泳池櫃台B1"
+        },
+        {
+          "id": 5502206,
+          "title": "博嘉運動公園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.000284,
+            121.575257
+          ],
+          "address": "木柵路4段159巷16號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "服務台1F",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務台1F"
+        },
+        {
+          "id": 5502365,
+          "title": "BELIEF_IT運動工作室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9990355,
+            121.574283
+          ],
+          "address": "和平東路四段389號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "運動工作室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "運動工作室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a593bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.997820671453127,
+        "lng": 121.56778239278782
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501662,
+          "title": "臺北捷運萬芳社區站BR03",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998605,
+            121.568058
+          ],
+          "address": "萬芳路60號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "萬芳社區站1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "萬芳社區站1樓大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59c7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.00016991945262,
+        "lng": 121.55705324341756
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501663,
+          "title": "臺北捷運萬芳醫院站BR04",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.999386,
+            121.558152
+          ],
+          "address": "興隆路3段113號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "萬芳醫院站3樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "萬芳醫院站3樓大廳"
+        },
+        {
+          "id": 5501797,
+          "title": "More Fit 萬芳店",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00015598,
+            121.5563562
+          ],
+          "address": "興隆路三段71號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "進門後座位區與訓練區中間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進門後座位區與訓練區中間"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a599bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.005023659250146,
+        "lng": 121.55600260810088
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501664,
+          "title": "臺北捷運辛亥站BR05",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.005475,
+            121.557107
+          ],
+          "address": "辛亥路4段128號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "辛亥站1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辛亥站1樓大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5983ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.005858749492624,
+        "lng": 121.55922865220705
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502176,
+          "title": "臺北市文山區辛亥國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.006502,
+            121.559178
+          ],
+          "address": "辛亥路4段103號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "警衛室門口(校門口右側)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "警衛室門口(校門口右側)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a597bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.99129631407941,
+        "lng": 121.5623805650108
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5502251,
+          "title": "南方桃花源社區管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990486,
+            121.563053
+          ],
+          "address": "木柵路二段109巷27弄2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "27弄巷口三角牆",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "27弄巷口三角牆"
+        },
+        {
+          "id": 5502252,
+          "title": "敦南莊子社區管理室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.991445,
+            121.563018
+          ],
+          "address": "木柵路二段109巷100弄1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室內"
+        },
+        {
+          "id": 5502267,
+          "title": "臺北市文山區明興里辦公處",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990145,
+            121.562851
+          ],
+          "address": "木柵路二段109巷25弄6號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "明興里辦公處門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "明興里辦公處門口"
+        },
+        {
+          "id": 5502288,
+          "title": "觀星台北社區管理委員會(D棟閱報室)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.992593,
+            121.561685
+          ],
+          "address": "木柵路二段109巷100弄66號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "觀星台北社區D棟閱報室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "觀星台北社區D棟閱報室內"
+        },
+        {
+          "id": 5502289,
+          "title": "幸福社區管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990285,
+            121.561821
+          ],
+          "address": "木柵路二段109巷25弄69號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "壁掛於69號門口前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "壁掛於69號門口前"
+        },
+        {
+          "id": 5502290,
+          "title": "觀星台北社區C棟閱報室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.992453,
+            121.562121
+          ],
+          "address": "木柵路二段109巷100弄30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "觀星台北社區C棟閱報室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "觀星台北社區C棟閱報室內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.990121234239535,
+        "lng": 121.56774519983678
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502351,
+          "title": "真適能運動俱樂部",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.988862,
+            121.567192
+          ],
+          "address": "木柵路三段77號10樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "台北市文山區木柵路三段77號10樓，大門進入向右轉到窗戶旁邊，另一邊有消防栓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市文山區木柵路三段77號10樓，大門進入向右轉到窗戶旁邊，另一邊有消防栓"
+        },
+        {
+          "id": 5502361,
+          "title": "臺北市立文山特殊教育學校",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99154,
+            121.567807
+          ],
+          "address": "秀明路一段169號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "置於本校大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於本校大廳"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

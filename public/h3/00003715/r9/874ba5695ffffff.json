@@ -1,0 +1,569 @@
+{
+  "cells": [
+    {
+      "h3": "894ba569543ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.148133485816672,
+        "lng": 121.53520916400882
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 202950,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1486,
+            121.53371
+          ],
+          "address": "臺北市北投區紗帽路14號",
+          "layoutType": "",
+          "hours": "2057",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203016,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14779,
+            121.53687
+          ],
+          "address": "臺北市北投區湖底路18之14號(回收車)",
+          "layoutType": "",
+          "hours": "1847",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203019,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14902,
+            121.53481
+          ],
+          "address": "臺北市北投區紗帽路9號(回收車)",
+          "layoutType": "",
+          "hours": "1902",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569567ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.1486382194739,
+        "lng": 121.54702655197862
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 202951,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14839,
+            121.54859
+          ],
+          "address": "臺北市北投區紗帽路111號",
+          "layoutType": "",
+          "hours": "2101",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202952,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14923,
+            121.54836
+          ],
+          "address": "臺北市北投區紗帽路117號",
+          "layoutType": "",
+          "hours": "2103",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56952bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.151477943062577,
+        "lng": 121.54811436225638
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 202953,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15064,
+            121.54738
+          ],
+          "address": "臺北市北投區紗帽路140號(養老院)",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202954,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15176,
+            121.5465
+          ],
+          "address": "臺北市北投區勝利街口",
+          "layoutType": "",
+          "hours": "2107",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202955,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15238,
+            121.5473
+          ],
+          "address": "臺北市北投區湖山路1段11巷口",
+          "layoutType": "",
+          "hours": "2109",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202958,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1524,
+            121.54734
+          ],
+          "address": "臺北市北投區湖山路1段17號",
+          "layoutType": "",
+          "hours": "2114",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56959bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.160658464669375,
+        "lng": 121.53419506772852
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202959,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.16064,
+            121.53276
+          ],
+          "address": "臺北市北投區東昇路201號",
+          "layoutType": "",
+          "hours": "2116",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5695d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.156982793505247,
+        "lng": 121.52988145615431
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 202960,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1563,
+            121.5302
+          ],
+          "address": "臺北市北投區東昇路80-89號",
+          "layoutType": "",
+          "hours": "2118",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202993,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15581,
+            121.52877
+          ],
+          "address": "臺北市北投區東昇路86號",
+          "layoutType": "",
+          "hours": "1743",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202994,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15649,
+            121.53002
+          ],
+          "address": "臺北市北投區東昇路108號(頂湖)",
+          "layoutType": "",
+          "hours": "1747",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5695dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.154143366989857,
+        "lng": 121.5287939200611
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202992,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15291,
+            121.52801
+          ],
+          "address": "臺北市北投區東昇路61巷口(涼亭)",
+          "layoutType": "",
+          "hours": "1741",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569513ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.156652217782124,
+        "lng": 121.53847210584165
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 202995,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15785,
+            121.53873
+          ],
+          "address": "臺北市北投區湖山路2段46－50號",
+          "layoutType": "",
+          "hours": "1756",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569503ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.154648906268477,
+        "lng": 121.540610671145
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 202996,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15427,
+            121.5404
+          ],
+          "address": "臺北市北投區觀雲樓(回收車)",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 202997,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15421,
+            121.54024
+          ],
+          "address": "臺北市北投區湖山路1段31號",
+          "layoutType": "",
+          "hours": "1802",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56950bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.151809333454562,
+        "lng": 121.53952297201616
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203012,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.15173,
+            121.54089
+          ],
+          "address": "臺北市北投區湖山路1段25之1至43號",
+          "layoutType": "",
+          "hours": "1837",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569557ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.150973145295925,
+        "lng": 121.53629678909257
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203013,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1508,
+            121.53698
+          ],
+          "address": "臺北市北投區湖底路56號(湖山亭餐廳)(回收車)",
+          "layoutType": "",
+          "hours": "1841",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203020,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14967,
+            121.5354
+          ],
+          "address": "臺北市北投區紗帽路11號(回收車)",
+          "layoutType": "",
+          "hours": "1903",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569547ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.148969678477005,
+        "lng": 121.53843529508036
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203014,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14803,
+            121.53767
+          ],
+          "address": "臺北市北投區湖底路76號",
+          "layoutType": "",
+          "hours": "1844",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56954fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.146129941349304,
+        "lng": 121.53734764033769
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203015,
+          "title": "陽明分隊",
+          "category": "nightmarket",
+          "location": "臺北市北投區",
+          "coords": [
+            25.14653,
+            121.53746
+          ],
+          "address": "臺北市北投區湖底路70號",
+          "layoutType": "",
+          "hours": "1845",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

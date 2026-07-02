@@ -1,0 +1,645 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a49b7ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.054018853918794,
+        "lng": 121.6067328545379
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6001335,
+          "title": "台灣高鐵南港站",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.053189,
+            121.607064
+          ],
+          "address": "臺北市南港區南港路一段313號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣高速鐵路股份有限公司南港站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001336,
+          "title": "南港車站(署)",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.053575,
+            121.607334
+          ],
+          "address": "臺北市南港區南港路一段313號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺鐵公司北區營運處臺北運務段南港站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001372,
+          "title": "臺北市稅捐稽徵處南港分處",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市稅捐稽徵處南港分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001373,
+          "title": "南港區戶政事務所",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區戶政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001374,
+          "title": "國稅局南港稽徵所",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部臺北國稅局南港稽徵所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001375,
+          "title": "南港區健康服務中心",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "南港區健康服務中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001378,
+          "title": "南港社福中心",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.053763,
+            121.607935
+          ],
+          "address": "臺北市南港區市民大道八段367號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "南港社福中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001379,
+          "title": "臺北市立圖書館南港分館",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.053795,
+            121.607951
+          ],
+          "address": "臺北市南港區南港路一段350號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館南港分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001380,
+          "title": "南港區公所",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001400,
+          "title": "聯合醫院南港門診部",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054509,
+            121.606697
+          ],
+          "address": "臺北市南港區南港路一段360號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立聯合醫院南港門診部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49a3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.051175667615745,
+        "lng": 121.60564431092442
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001341,
+          "title": "南港轉運站西站",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.052512,
+            121.606056
+          ],
+          "address": "臺北市南港區忠孝東路7段359號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國光客運汽車股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001346,
+          "title": "捷運南港站(板南線)",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.051814,
+            121.606042
+          ],
+          "address": "臺北市南港區忠孝東路七段380號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運南港站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001350,
+          "title": "臺北市南港極限運動訓練中心",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.051513,
+            121.607235
+          ],
+          "address": "臺北市南港區忠孝東路七段382號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "威整合運動股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a499bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.050680501682663,
+        "lng": 121.59382196706194
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6001344,
+          "title": "捷運昆陽站(板南線)",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.050461,
+            121.593268
+          ],
+          "address": "臺北市南港區忠孝東路六段451號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運昆陽站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001388,
+          "title": "吉野家昆陽分公司",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.050177,
+            121.59383
+          ],
+          "address": "臺北市南港區忠孝東路六段442號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣吉野家股份有限公司昆陽分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001389,
+          "title": "摩斯漢堡昆陽店",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.050196,
+            121.593891
+          ],
+          "address": "臺北市南港區忠孝東路六段444號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司昆陽分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001393,
+          "title": "頂呱呱昆陽店",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.049865,
+            121.592324
+          ],
+          "address": "臺北市南港區忠孝東路六段392號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "吟桂股份有限公司頂呱呱昆陽分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4987ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05234978210826,
+        "lng": 121.60027718677267
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001351,
+          "title": "臺北流行音樂中心",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.052654,
+            121.598575
+          ],
+          "address": "臺北市南港區市民大道八段99號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北流行音樂中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05318434409649,
+        "lng": 121.60350496465581
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001357,
+          "title": "中油南港加油站",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054153,
+            121.604504
+          ],
+          "address": "臺北市南港區南港路二段50號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司南港站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49c3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04499401199559,
+        "lng": 121.5916453160472
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001360,
+          "title": "南港公園(署)",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.046018,
+            121.591209
+          ],
+          "address": "臺北市南港區東新街170-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處南港公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0470025749959,
+        "lng": 121.58950624043672
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001366,
+          "title": "統一超商臺北市聯坊門市",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.046466,
+            121.588323
+          ],
+          "address": "臺北市南港區東新街118巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市聯坊門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05201012968716,
+        "lng": 121.60887226104539
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001367,
+          "title": "環球購物中心南港車站店",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.052571,
+            121.607496
+          ],
+          "address": "臺北市南港區忠孝東路七段371號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "冠樺生活股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001370,
+          "title": "CITYLINK南港店",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.052252,
+            121.607221
+          ],
+          "address": "臺北市南港區忠孝東路七段369號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "潤泰創新國際股份有限公司CITYLINK南港店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4993ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05352362368688,
+        "lng": 121.59491032582355
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001381,
+          "title": "南港分局",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054011,
+            121.594733
+          ],
+          "address": "臺北市南港區向陽路150號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局南港分局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001385,
+          "title": "北原會館",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.0536,
+            121.5946
+          ],
+          "address": "臺北市南港區向陽路49號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館 北原會館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4983ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051515167966272,
+        "lng": 121.59704952090318
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001390,
+          "title": "麥當勞忠孝八店",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.050735,
+            121.595663
+          ],
+          "address": "臺北市南港區忠孝東路六段438號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司忠孝八分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4997ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05435828557664,
+        "lng": 121.5981379314252
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001394,
+          "title": "南港11號",
+          "category": "other",
+          "location": "臺北市南港區",
+          "coords": [
+            25.054299,
+            121.597149
+          ],
+          "address": "臺北市南港區南港路二段240號右側新福宮前左側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

@@ -1,0 +1,505 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4adbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.018409205056074,
+        "lng": 121.55821506824444
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6000311,
+          "title": "捷運麟光站(文湖線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.018481,
+            121.558729
+          ],
+          "address": "臺北市大安區和平東路三段410號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運麟光站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000334,
+          "title": "中油富陽街加油站",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.019026,
+            121.55693
+          ],
+          "address": "臺北市大安區富陽街133號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司富陽街站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000342,
+          "title": "福州山公園66號",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.017407,
+            121.558392
+          ],
+          "address": "臺北市大安區臥龍街195巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001269,
+          "title": "統一超商臺北市麟運門市",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.018611,
+            121.558903
+          ],
+          "address": "臺北市信義區和平東路三段461號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a93ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.027775746243677,
+        "lng": 121.56470471592154
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6001232,
+          "title": "臺北市災害應變中心地下停車場",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.028661,
+            121.566118
+          ],
+          "address": "臺北市信義區莊敬路391巷11弄2號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處臺北市災害應變中心地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001292,
+          "title": "松山地政事務所",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.028577,
+            121.56589
+          ],
+          "address": "臺北市信義區莊敬路391巷11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市松山地政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001304,
+          "title": "吳興街派出所",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.026683,
+            121.56385
+          ],
+          "address": "臺北市信義區吳興街262號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局吳興街派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001311,
+          "title": "摩斯漢堡北醫吳興店",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.027517,
+            121.563549
+          ],
+          "address": "臺北市信義區吳興街243號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司北醫吳興店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001334,
+          "title": "臺北醫學大學附設醫院",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.026905,
+            121.563637
+          ],
+          "address": "臺北市信義區吳興街252號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北醫學大學附設醫院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a97ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028610802853272,
+        "lng": 121.56793117440733
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001264,
+          "title": "統一超商臺北市北府門市",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.028386,
+            121.568208
+          ],
+          "address": "臺北市信義區松仁路162號164號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a83ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.025767082170976,
+        "lng": 121.5668432815172
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6001266,
+          "title": "統一超商臺北市信醫門市",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.025798,
+            121.566363
+          ],
+          "address": "臺北市信義區吳興街348號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001312,
+          "title": "摩斯漢堡信義莊敬店",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.026992,
+            121.567905
+          ],
+          "address": "臺北市信義區莊敬路469號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司信義莊敬店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a8fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.023758292864507,
+        "lng": 121.56898187786122
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6001267,
+          "title": "統一超商臺北市富比世門市",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.024493,
+            121.569424
+          ],
+          "address": "臺北市信義區松仁路246號248號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001293,
+          "title": "臺北市立圖書館六合分館",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.024613,
+            121.568915
+          ],
+          "address": "臺北市信義區松仁路240巷19號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館六合分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6001319,
+          "title": "信義1號",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.022681,
+            121.569751
+          ],
+          "address": "臺北市信義區吳興街583巷1弄28號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a9bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.024932021319735,
+        "lng": 121.56361687482575
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001288,
+          "title": "松山寺",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.023881,
+            121.564086
+          ],
+          "address": "臺北市信義區吳興街284巷17號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人台北市松山寺",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4abbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0245932539978,
+        "lng": 121.57220845706759
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001320,
+          "title": "信義23號",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.025609,
+            121.572326
+          ],
+          "address": "臺北市信義區信義路五段150巷56之34號後方山上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4acbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.016400356238666,
+        "lng": 121.56035348459734
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001321,
+          "title": "信義24號",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.016317,
+            121.560185
+          ],
+          "address": "臺北市信義區和平東路三段627巷67弄4號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ab3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02743704792316,
+        "lng": 121.57329643136079
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001330,
+          "title": "信義公園6號",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.027319,
+            121.57467
+          ],
+          "address": "臺北市信義區象山市立療養院後山永春亭",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4aa3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.025428163138415,
+        "lng": 121.57543514840714
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6001332,
+          "title": "信義公園8號",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.026467,
+            121.576028
+          ],
+          "address": "臺北市信義區象山逸賢亭旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

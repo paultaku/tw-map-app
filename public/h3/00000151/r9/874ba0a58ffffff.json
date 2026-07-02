@@ -1,0 +1,785 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5887ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.000847429929745,
+        "lng": 121.53987407087284
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201770,
+          "title": "慈慧內科眼科聯合診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00073282,
+            121.5392507
+          ],
+          "address": "臺北市文山區羅斯福路五段264號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201825,
+          "title": "林坤霖耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00019261,
+            121.5394761
+          ],
+          "address": "臺北市文山區羅斯福路六段14號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201844,
+          "title": "和沛身心醫學診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00178228,
+            121.5388171
+          ],
+          "address": "臺北市文山區羅斯福路五段232號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201851,
+          "title": "楊向榮耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00199197,
+            121.5391709
+          ],
+          "address": "臺北市文山區羅斯福路五段２２３號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a580fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.99114002471749,
+        "lng": 121.54197524911102
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201772,
+          "title": "陳建業診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990568,
+            121.5409631
+          ],
+          "address": "臺北市文山區景文街86號(1樓、2樓)、107號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201788,
+          "title": "漂亮101皮膚科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99132843,
+            121.5418346
+          ],
+          "address": "臺北市文山區景美街20號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201802,
+          "title": "山林診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99161937,
+            121.5405585
+          ],
+          "address": "臺北市文山區羅斯福路6段407號2樓、2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201893,
+          "title": "景美醫院",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99001925,
+            121.5405334
+          ],
+          "address": "臺北市文山區羅斯福路六段280號、文山區育英街2巷18號、文山區羅斯福路六段276巷1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a58a7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.000508936467277,
+        "lng": 121.54846329643854
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7201773,
+          "title": "林建輝小兒科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99974909,
+            121.5479979
+          ],
+          "address": "臺北市文山區興隆路二段７０號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201775,
+          "title": "景升診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9993805,
+            121.5470788
+          ],
+          "address": "臺北市文山區興隆路二段９３之１號(實際營業事實為1樓及地下1樓）、95巷1號2樓、95巷3號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201826,
+          "title": "東翰診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.0002272,
+            121.548193
+          ],
+          "address": "臺北市文山區興隆路二段139號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201833,
+          "title": "芳馨診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99960679,
+            121.5478266
+          ],
+          "address": "臺北市文山區興隆路二段62號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201853,
+          "title": "景美蔡登元婦產科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00082992,
+            121.5494378
+          ],
+          "address": "臺北市文山區興隆路二段１８９號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a58a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.999673686468256,
+        "lng": 121.54523764079161
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201774,
+          "title": "瀚霖眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9991036,
+            121.5462388
+          ],
+          "address": "臺北市文山區興隆路二段６７號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201837,
+          "title": "仁荔健康診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99846549,
+            121.5449553
+          ],
+          "address": "臺北市文山區興隆路一段258號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201849,
+          "title": "仁耀診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99895988,
+            121.5443862
+          ],
+          "address": "臺北市文山區興隆路一段２７３號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201855,
+          "title": "興隆內科小兒科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99889874,
+            121.5455079
+          ],
+          "address": "臺北市文山區興隆路二段１７號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a58abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.996829214119398,
+        "lng": 121.54415015471803
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201782,
+          "title": "官世英診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99705168,
+            121.5448381
+          ],
+          "address": "臺北市文山區景興路四十五號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5803ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.99314935016506,
+        "lng": 121.53983725106309
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 7201790,
+          "title": "黃偉志小兒科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99238468,
+            121.5401038
+          ],
+          "address": "臺北市文山區萬慶街12號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201794,
+          "title": "佳鴻診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99186893,
+            121.5401836
+          ],
+          "address": "臺北市文山區羅斯福路6段256號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201834,
+          "title": "德康耳鼻喉科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99179059,
+            121.5401521
+          ],
+          "address": "臺北市文山區羅斯福路六段260號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201840,
+          "title": "慶如診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9925464,
+            121.5399011
+          ],
+          "address": "臺北市文山區萬慶街18號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201841,
+          "title": "風寀時尚診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9923717,
+            121.5403799
+          ],
+          "address": "臺北市文山區羅斯福路六段236號(實際營業地址：1樓及夾層)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201846,
+          "title": "黃兆宜曙光診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99360455,
+            121.5414239
+          ],
+          "address": "臺北市文山區景文街1號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5817ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.99599390817679,
+        "lng": 121.54092466313767
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201795,
+          "title": "誠心身心醫學診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99654765,
+            121.5408451
+          ],
+          "address": "臺北市文山區羅斯福路6段138號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201818,
+          "title": "景安診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99665928,
+            121.5408227
+          ],
+          "address": "臺北市文山區羅斯福路六段136號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a58bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.99883838462667,
+        "lng": 121.54201209739315
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201803,
+          "title": "瑞杏診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9980534,
+            121.5411483
+          ],
+          "address": "臺北市文山區羅斯福路六段１５９巷１弄１２號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5833ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.994819918410283,
+        "lng": 121.54628824284217
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7201811,
+          "title": "林醫師診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99405608,
+            121.5447854
+          ],
+          "address": "臺北市文山區景興路１４５號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201813,
+          "title": "瑞萱診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99564111,
+            121.5468639
+          ],
+          "address": "臺北市文山區景華街一二四號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201815,
+          "title": "震杰小兒科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99443483,
+            121.5448068
+          ],
+          "address": "臺北市文山區景興路129號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a580bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.990304710605038,
+        "lng": 121.53874986116949
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7201812,
+          "title": "景福眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99013544,
+            121.5394906
+          ],
+          "address": "臺北市文山區羅斯福路六段318號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201839,
+          "title": "璟美眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99094547,
+            121.5398218
+          ],
+          "address": "臺北市文山區羅斯福路6段292號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5807ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.993984660197928,
+        "lng": 121.54306269082447
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201820,
+          "title": "定安診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99346395,
+            121.5446632
+          ],
+          "address": "臺北市文山區景興路165號(實際營業為第一層)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a583bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.991975287020402,
+        "lng": 121.54520074931278
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201838,
+          "title": "旭明眼科診所",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99179651,
+            121.5439433
+          ],
+          "address": "臺北市文山區景興路203號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

@@ -1,0 +1,629 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a44b7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06457816088187,
+        "lng": 121.50903999482563
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 10400032,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.064827280369954,
+            121.5085846139781
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1558",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400085,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.064827413088633,
+            121.50854496721914
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1022",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400127,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.064493445161258,
+            121.50852376489385
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400284,
+          "title": "Hemidactylus frenatus",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.065865163070985,
+            121.50868801828054
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4473ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.050366387763525,
+        "lng": 121.50360501289879
+      },
+      "categories": {
+        "nature": 10
+      },
+      "points": [
+        {
+          "id": 10400059,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.051080530614414,
+            121.50496992958082
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1014",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400060,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.050638456201185,
+            121.50487892232694
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1029",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400061,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.050638456201185,
+            121.50487892232694
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1029",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400086,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.05126102424172,
+            121.5049904905021
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1034",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400103,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.0507106800056,
+            121.50487921815203
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400109,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.05062040024997,
+            121.50487884837085
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400126,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.0507106800056,
+            121.50487921815203
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400133,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04944784952729,
+            121.50454699624093
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400280,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.051143956959816,
+            121.50490081431627
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400281,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.051143956959816,
+            121.50490081431627
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4463ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.04836003194654,
+        "lng": 121.50574257185575
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 10400062,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.048501358966018,
+            121.50410705954475
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1043",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400087,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.049437504854836,
+            121.50494337760583
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1036",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400088,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.049437801199286,
+            121.50485418348708
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1039",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400089,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.048636614266623,
+            121.5041571652881
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400090,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.048636614266623,
+            121.5041571652881
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400278,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04869981011941,
+            121.50415742374145
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400279,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04869981011941,
+            121.50415742374145
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a447bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.04752378802378,
+        "lng": 121.50251808310057
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10400091,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.047275951788823,
+            121.50337858802435
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1043",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400102,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.047294040579597,
+            121.50336875146186
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400104,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.047293974924234,
+            121.50338857203711
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400125,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.047294040579597,
+            121.50336875146186
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400356,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.047290723537696,
+            121.50338895517784
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4477ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.051202627548125,
+        "lng": 121.50682955352971
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400177,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.052374554146983,
+            121.5067790017101
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400224,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.0516122916549,
+            121.50523969882414
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4433ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.056887573643767,
+        "lng": 121.50900358346253
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400282,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.05771557011435,
+            121.50786146979303
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400283,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.05771557011435,
+            121.50786146979303
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:11.107Z"
+}

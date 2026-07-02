@@ -1,0 +1,3401 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a42c7ffff",
+      "res": 9,
+      "count": 17,
+      "center": {
+        "lat": 25.022438129168535,
+        "lng": 121.5045465605835
+      },
+      "categories": {
+        "nature": 17
+      },
+      "points": [
+        {
+          "id": 600000,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0232,
+            121.5056
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1.2號草坪與3.4號草坪之間(1 號草坪近獅誼亭前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600327,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0234,
+            121.5055
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1.2號草坪與3.4號草坪之間(獅誼亭)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600328,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0236,
+            121.5048
+          ],
+          "address": "臺北市萬華區騰雲里青年公園2號公廁旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600329,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0229,
+            121.5032
+          ],
+          "address": "臺北市萬華區騰雲里青年公園3號門對面至工務所後方三號門步道邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600331,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0222,
+            121.503
+          ],
+          "address": "臺北市萬華區騰雲里青年公園4號公廁旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600332,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0227,
+            121.5039
+          ],
+          "address": "臺北市萬華區騰雲里青年公園4號公廁旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600343,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0225,
+            121.5062
+          ],
+          "address": "臺北市萬華區騰雲里青年公園正門與1號草坪區之間近女子池(花鍾旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600344,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0224,
+            121.5031
+          ],
+          "address": "臺北市萬華區騰雲里青年公園民族亭旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600345,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0226,
+            121.5049
+          ],
+          "address": "臺北市萬華區騰雲里青年公園民族亭區(4號草坪近傘塔及音樂台處）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600350,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0215,
+            121.5039
+          ],
+          "address": "臺北市萬華區騰雲里青年公園盆栽區(苗圃旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600357,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0219,
+            121.5049
+          ],
+          "address": "臺北市萬華區騰雲里青年公園音樂台(園工隊西區旁停車場)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600359,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.022,
+            121.5048
+          ],
+          "address": "臺北市萬華區騰雲里青年公園第二閱覽室鐵椅旁(園工隊西區停車場空地旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600361,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0222,
+            121.5049
+          ],
+          "address": "臺北市萬華區騰雲里青年公園棒球長靠青年路邊（音樂台座椅後方近傘塔處)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600362,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0236,
+            121.5043
+          ],
+          "address": "臺北市萬華區騰雲里青年公園棒球場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600363,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0237,
+            121.5047
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600364,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.021,
+            121.5044
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600842,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0229,
+            121.5054
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1.2號草坪與3.4號草坪之間(4號近1 號中間段)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4227ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.021766823041546,
+        "lng": 121.52172037920451
+      },
+      "categories": {
+        "nature": 10
+      },
+      "points": [
+        {
+          "id": 600018,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0212,
+            121.5208
+          ],
+          "address": "臺北市中正區河堤里中正區同安街109巷",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600019,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0211,
+            121.5209
+          ],
+          "address": "臺北市中正區河堤里中正區同安街109巷",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600020,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0212,
+            121.521
+          ],
+          "address": "臺北市中正區河堤里中正區同安街109巷",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600026,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.5204
+          ],
+          "address": "臺北市中正區河堤里同安街107號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600027,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0214,
+            121.5205
+          ],
+          "address": "臺北市中正區河堤里同安街107號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600028,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0212,
+            121.5204
+          ],
+          "address": "臺北市中正區河堤里同安街107號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600029,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.5204
+          ],
+          "address": "臺北市中正區河堤里同安街107號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601170,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.021,
+            121.5207
+          ],
+          "address": "臺北市中正區河堤里同安街與水源路交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602903,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0228,
+            121.5209
+          ],
+          "address": "臺北市中正區河堤里同安街87-1號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署(北區分署/建義建設開發股份有限公司代管至181.5.23)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602904,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0226,
+            121.5208
+          ],
+          "address": "臺北市中正區河堤里同安街87-1號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程管理處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4297ffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 25.03096808339899,
+        "lng": 121.50780737320909
+      },
+      "categories": {
+        "nature": 13
+      },
+      "points": [
+        {
+          "id": 600033,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.031,
+            121.5081
+          ],
+          "address": "臺北市中正區廈安里和平西路二段106-2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處、臺灣土地銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600035,
+          "title": "檸檬桉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0311,
+            121.5084
+          ],
+          "address": "臺北市中正區南門里和平西路二段61號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600036,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0308,
+            121.509
+          ],
+          "address": "臺北市中正區南門里和平西路二段61號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600039,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0319,
+            121.5072
+          ],
+          "address": "臺北市中正區南門里和平西路二段83號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600049,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0315,
+            121.5085
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600055,
+          "title": "落羽杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0317,
+            121.5084
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600057,
+          "title": "落羽杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0318,
+            121.5084
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600075,
+          "title": "落羽杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0312,
+            121.5084
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600119,
+          "title": "大葉巴克豆",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0311,
+            121.5089
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600120,
+          "title": "菲律賓紫檀",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0309,
+            121.5091
+          ],
+          "address": "臺北市中正區南門里中正區南海路53號(台北植物園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600837,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0315,
+            121.5079
+          ],
+          "address": "臺北市中正區南門里和平西路二段61-1號門前介於人行道與私人土地之間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所、財政部國有財產署、臺北市政府工務局新建工程處、臺灣土地銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600838,
+          "title": "印度紫檀",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.031,
+            121.5086
+          ],
+          "address": "臺北市中正區南門里和平西路二段61號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601973,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0306,
+            121.508
+          ],
+          "address": "臺北市中正區龍興里臺北市中正區三元街67號（木材利用組後方）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會林業試驗所、臺北市政府捷運工程局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42b3ffff",
+      "res": 9,
+      "count": 17,
+      "center": {
+        "lat": 25.029796934133593,
+        "lng": 121.51316957300216
+      },
+      "categories": {
+        "nature": 17
+      },
+      "points": [
+        {
+          "id": 600135,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0312,
+            121.513
+          ],
+          "address": "臺北市中正區龍光里南海路56號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600136,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0313,
+            121.5129
+          ],
+          "address": "臺北市中正區龍光里南海路56號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600139,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0293,
+            121.5128
+          ],
+          "address": "臺北市中正區龍光里南海路56號寧波西街側圍牆旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600140,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0305,
+            121.5132
+          ],
+          "address": "臺北市中正區龍光里南海路56號操場邊緣，科學館門口前方",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600158,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.031,
+            121.5144
+          ],
+          "address": "臺北市中正區龍光里重慶南路二段66號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "教育部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601516,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0305,
+            121.5142
+          ],
+          "address": "臺北市中正區龍光里泉州街9巷7號圍牆邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602030,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0296,
+            121.514
+          ],
+          "address": "臺北市中正區龍光里寧波西街106-6號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602031,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0296,
+            121.5139
+          ],
+          "address": "臺北市中正區龍光里寧波西街106-4號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602766,
+          "title": "白玉蘭",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0297,
+            121.5141
+          ],
+          "address": "臺北市中正區龍光里中正區寧波西街103號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602857,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0299,
+            121.5136
+          ],
+          "address": "臺北市中正區龍光里南海路56號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602902,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0307,
+            121.5142
+          ],
+          "address": "臺北市中正區龍光里泉州街5巷北側廢棄建築內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603093,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0308,
+            121.5125
+          ],
+          "address": "臺北市中正區龍光里南海路56號莊敬樓教務處門口前(右側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603094,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0307,
+            121.5125
+          ],
+          "address": "臺北市中正區龍光里南海路56號莊敬樓教務處門口前(右側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603095,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0307,
+            121.5122
+          ],
+          "address": "臺北市中正區龍光里南海路56號莊敬樓教務處門口前(左側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603096,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0308,
+            121.5124
+          ],
+          "address": "臺北市中正區龍光里南海路56號紅樓輔導室門前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603097,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0302,
+            121.5116
+          ],
+          "address": "臺北市中正區龍光里南海路56號明道樓靠停車場側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立建國高級中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603274,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0286,
+            121.5132
+          ],
+          "address": "臺北市中正區南門里和平西路二段25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署、臺北市政府工務局新建工程處、臺灣銀行股份有限公司(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42abffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.024946206796557,
+        "lng": 121.51422015730843
+      },
+      "categories": {
+        "nature": 14
+      },
+      "points": [
+        {
+          "id": 600145,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0255,
+            121.5129
+          ],
+          "address": "臺北市中正區永功里泉州街32號豐年新村",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局(國防部憲兵指揮部代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600184,
+          "title": "第倫桃",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0251,
+            121.5143
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小大門入口旁步道與南側教室間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600185,
+          "title": "第倫桃",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0252,
+            121.5142
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小大門入口旁步道與南側教室間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600186,
+          "title": "第倫桃",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0252,
+            121.5141
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小大門入口旁步道與南側教室間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600187,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.025,
+            121.5154
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小東南側圍牆旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600188,
+          "title": "水黃皮",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.5156
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小東側圍牆邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600189,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0251,
+            121.5155
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小東側圍牆邊，靠近東南側門",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600190,
+          "title": "大葉桉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.025,
+            121.5142
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號(螢橋國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600191,
+          "title": "苦楝",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.025,
+            121.514
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小南側圍牆邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600192,
+          "title": "大葉合歡",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0257,
+            121.5145
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小操場北側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600193,
+          "title": "大葉合歡",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0254,
+            121.5141
+          ],
+          "address": "臺北市中正區螢雪里詔安街29號螢橋國小操場西南角",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區螢橋國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603055,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0254,
+            121.5129
+          ],
+          "address": "臺北市中正區永功里詔安街臨35號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局 (國防部憲兵指揮部代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603405,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0258,
+            121.5134
+          ],
+          "address": "臺北市中正區永功里泉州街32號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局(國防部憲兵指揮部代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603406,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0257,
+            121.5129
+          ],
+          "address": "臺北市中正區永功里泉州街32號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部軍備局(國防部憲兵指揮部代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4237ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.023774538666,
+        "lng": 121.519582631358
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 600146,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0235,
+            121.5187
+          ],
+          "address": "臺北市中正區網溪里牯嶺公園(廈門街113巷北側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈管理處(臺北市中正區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600194,
+          "title": "大葉雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0232,
+            121.5208
+          ],
+          "address": "臺北市中正區網溪里雙吉榕公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602883,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0231,
+            121.5189
+          ],
+          "address": "臺北市中正區網溪里牯嶺公園（牯嶺街139號對面）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府捷運工程局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603010,
+          "title": "楓香",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0239,
+            121.5188
+          ],
+          "address": "臺北市中正區螢圃里廈門街99巷17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "柏魯實業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603620,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0232,
+            121.5185
+          ],
+          "address": "臺北市中正區網溪里牯嶺公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市中正區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42a7ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.028625512367455,
+        "lng": 121.51853203717208
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600147,
+          "title": "大葉羅漢松",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0277,
+            121.5179
+          ],
+          "address": "臺北市中正區南福里牯嶺街60巷2號東側庭園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600148,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0276,
+            121.5178
+          ],
+          "address": "臺北市中正區南福里牯嶺街60巷2號西側庭園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600200,
+          "title": "麵包樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0278,
+            121.5171
+          ],
+          "address": "臺北市中正區南福里福州街26號台大校長宿舍大門西側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601515,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0276,
+            121.5188
+          ],
+          "address": "臺北市中正區南福里牯嶺街81巷巷口大門右後方(靠南昌路二段4巷側-台灣銀行南菜園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601982,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0281,
+            121.5177
+          ],
+          "address": "臺北市中正區南福里中正區牯嶺街及福州街交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602222,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0279,
+            121.5184
+          ],
+          "address": "臺北市中正區南福里中正區牯嶺街81巷大門右後方",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602829,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.028,
+            121.5181
+          ],
+          "address": "臺北市中正區南福里南昌路2段2巷2號大門後方",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣銀行股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.030632900005582,
+        "lng": 121.51639432138543
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600149,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0314,
+            121.5158
+          ],
+          "address": "臺北市中正區龍福里牯嶺街9巷4號大門左側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立臺灣大學、財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4293ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.030131966172664,
+        "lng": 121.50458291022224
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 600181,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0314,
+            121.5055
+          ],
+          "address": "臺北市中正區廈安里廈安里小公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600599,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0298,
+            121.5036
+          ],
+          "address": "臺北市萬華區新忠里西藏路107號位在西藏路與中華路二段300巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601857,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0302,
+            121.5059
+          ],
+          "address": "臺北市中正區忠勤里臺北市中正區中華路段307巷17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市中正區忠義國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602026,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0297,
+            121.503
+          ],
+          "address": "臺北市萬華區新忠里西藏路113號前(復華花園新城前的行道樹)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602826,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0298,
+            121.5063
+          ],
+          "address": "臺北市中正區忠勤里中華路二段307巷17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府捷運工程局、臺北市政府社會局、臺北市中正區忠義國民小學(全權管理)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a428fffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.02611760244053,
+        "lng": 121.50885794761699
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600198,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0263,
+            121.5099
+          ],
+          "address": "臺北市中正區永昌里寧波西街181巷36號對面，永昌公園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市中正區代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600199,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0263,
+            121.5098
+          ],
+          "address": "臺北市中正區永昌里寧波西街181巷42號對面，永昌公園內，靠近老人亭",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市中正區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600358,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.025,
+            121.5074
+          ],
+          "address": "臺北市萬華區騰雲里青年公園國興路郵局對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601983,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0271,
+            121.5086
+          ],
+          "address": "臺北市中正區永昌里中正區詔安街250巷4號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602895,
+          "title": "大葉雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0261,
+            121.5101
+          ],
+          "address": "臺北市中正區永昌里永昌公園靠近遊樂場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市中正區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603619,
+          "title": "白玉蘭",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0266,
+            121.5088
+          ],
+          "address": "臺北市中正區永昌里詔安街234巷17號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603693,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0267,
+            121.5075
+          ],
+          "address": "臺北市中正區永昌里中華路2段365號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程管理處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a428bffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.0252815288442,
+        "lng": 121.50563347593202
+      },
+      "categories": {
+        "nature": 14
+      },
+      "points": [
+        {
+          "id": 600330,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0242,
+            121.5053
+          ],
+          "address": "臺北市萬華區騰雲里青年公園3號草坪與2 號草坪間近蓮花池",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600333,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0252,
+            121.5041
+          ],
+          "address": "臺北市萬華區騰雲里青年公園5號公廁旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600334,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.5053
+          ],
+          "address": "臺北市萬華區騰雲里青年公園二號門表演台前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600335,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.5051
+          ],
+          "address": "臺北市萬華區騰雲里青年公園二號門表演台前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600336,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.5056
+          ],
+          "address": "臺北市萬華區騰雲里青年公園二號門表演台前(龍泉亭旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600337,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0251,
+            121.5068
+          ],
+          "address": "臺北市萬華區騰雲里青年公園二號門後方(花架旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600342,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0241,
+            121.5061
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600347,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.024,
+            121.5048
+          ],
+          "address": "臺北市萬華區騰雲里青年公園長春橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600348,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0241,
+            121.5048
+          ],
+          "address": "臺北市萬華區騰雲里青年公園長春橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600349,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.505
+          ],
+          "address": "臺北市萬華區騰雲里青年公園青年社區對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600368,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0253,
+            121.5042
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600841,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0242,
+            121.5055
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1.2號草坪與3.4號草坪之間(2號草坪近蓮花池)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603117,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0256,
+            121.505
+          ],
+          "address": "臺北市萬華區騰雲里青年公園2B出入口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603118,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0251,
+            121.5073
+          ],
+          "address": "臺北市萬華區騰雲里青年公園高爾夫球場地下停車場汽車出入口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42d7ffff",
+      "res": 9,
+      "count": 16,
+      "center": {
+        "lat": 25.02444540345781,
+        "lng": 121.502409116688
+      },
+      "categories": {
+        "nature": 16
+      },
+      "points": [
+        {
+          "id": 600338,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0246,
+            121.5033
+          ],
+          "address": "臺北市萬華區騰雲里青年公園中正新城對面(工寮機房旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600339,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0243,
+            121.503
+          ],
+          "address": "臺北市萬華區騰雲里青年公園中正新城對面(機房旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600340,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0245,
+            121.5031
+          ],
+          "address": "臺北市萬華區騰雲里青年公園中正新城對面(機房旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600341,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0246,
+            121.5032
+          ],
+          "address": "臺北市萬華區騰雲里青年公園中正新城對面(機房旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600346,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0245,
+            121.5032
+          ],
+          "address": "臺北市萬華區騰雲里青年公園民族亭區(中正新城對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600352,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0249,
+            121.5038
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600353,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0246,
+            121.5036
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600355,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.025,
+            121.5038
+          ],
+          "address": "臺北市萬華區騰雲里青年公園盆栽館旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600356,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0245,
+            121.5037
+          ],
+          "address": "臺北市萬華區騰雲里青年公園盆栽館旁(廣場花絮旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600365,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0242,
+            121.5031
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600367,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0241,
+            121.5031
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601139,
+          "title": "大葉桉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0246,
+            121.5039
+          ],
+          "address": "臺北市萬華區騰雲里青年路65號太陽圖書館暨節能展示館大門前方右側樓梯旁(青年公園內圓形涼亭旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601140,
+          "title": "木棉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0247,
+            121.5039
+          ],
+          "address": "臺北市萬華區騰雲里青年路65號太陽圖書館暨節能展示館大門前方(青年公園內圓形涼亭旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601141,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0248,
+            121.5038
+          ],
+          "address": "臺北市萬華區騰雲里青年路65號太陽圖書館暨節能展示館殘障坡道旁(青年公園內圓形涼亭旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603116,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.024,
+            121.5029
+          ],
+          "address": "臺北市萬華區騰雲里青年公園棒球場地下停車場入口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603127,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0233,
+            121.5028
+          ],
+          "address": "臺北市萬華區騰雲里青年路60號停車格旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.02360922629352,
+        "lng": 121.49918486989945
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 600611,
+          "title": "朴樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0232,
+            121.4982
+          ],
+          "address": "臺北市萬華區全德里東園街195號東園國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區東園國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600612,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0228,
+            121.498
+          ],
+          "address": "臺北市萬華區全德里東園街195號東園國小",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區東園國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600613,
+          "title": "菲律賓紫檀",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0231,
+            121.4979
+          ],
+          "address": "臺北市萬華區全德里東園街195號東園國小籃球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區東園國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4233ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.022938664124315,
+        "lng": 121.5163578137618
+      },
+      "categories": {
+        "nature": 8
+      },
+      "points": [
+        {
+          "id": 600844,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0231,
+            121.5179
+          ],
+          "address": "臺北市中正區網溪里廈門街123巷1號東側空地",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600845,
+          "title": "芒果",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0231,
+            121.518
+          ],
+          "address": "臺北市中正區網溪里廈門街123巷1號東側空地",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601058,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0222,
+            121.517
+          ],
+          "address": "臺北市中正區網溪里廈門街144巷底(中正橋旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601062,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0223,
+            121.5172
+          ],
+          "address": "臺北市中正區網溪里廈門街144巷4號入門前方第一棵",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601063,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0222,
+            121.5172
+          ],
+          "address": "臺北市中正區網溪里廈門街144巷4號入門前方第二棵",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603268,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0233,
+            121.5156
+          ],
+          "address": "臺北市中正區螢雪里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603269,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0232,
+            121.5158
+          ],
+          "address": "臺北市中正區螢雪里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603270,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.023,
+            121.5158
+          ],
+          "address": "臺北市中正區螢雪里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4213ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.023274206839815,
+        "lng": 121.50777098039968
+      },
+      "categories": {
+        "nature": 9
+      },
+      "points": [
+        {
+          "id": 600937,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0221,
+            121.5067
+          ],
+          "address": "臺北市萬華區騰雲里青年公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署(保活至113年6月交給臺北市工務局公園路燈工程管理處維管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603119,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0246,
+            121.5077
+          ],
+          "address": "臺北市萬華區凌霄里青年公園高爾夫球場地下停車場機車出入口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603120,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0244,
+            121.5079
+          ],
+          "address": "臺北市萬華區騰雲里青年公園高爾夫球場大門旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603121,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0227,
+            121.5081
+          ],
+          "address": "臺北市萬華區騰雲里青年公園東南側近騰雲人行陸橋",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603122,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0225,
+            121.5078
+          ],
+          "address": "臺北市萬華區騰雲里水源路42號停車格旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603262,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0222,
+            121.5085
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603263,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0223,
+            121.5087
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603264,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0224,
+            121.5089
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603265,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0225,
+            121.509
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4287ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02896091643619,
+        "lng": 121.5099449370268
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 601162,
+          "title": "白千層",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0294,
+            121.5103
+          ],
+          "address": "臺北市中正區龍興里和平西路二段100號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "農業部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601163,
+          "title": "檸檬桉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0296,
+            121.5102
+          ],
+          "address": "臺北市中正區龍興里和平西路二段100號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "行政院農業委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a429bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.027288725613822,
+        "lng": 121.50349600235803
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 601465,
+          "title": "掌葉蘋婆",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0272,
+            121.5028
+          ],
+          "address": "臺北市萬華區新安里西藏路125巷31號(新和國小125巷運動場區側門入口右前方)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區新和國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601466,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0272,
+            121.5026
+          ],
+          "address": "臺北市萬華區新安里西藏路125巷31號(新和國小125巷運動場區側門入口右前方)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區新和國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601467,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0277,
+            121.5027
+          ],
+          "address": "臺北市萬華區新安里西藏路125巷20號(中華電信第一客戶網路中心對面停車場內)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市萬華區新和國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.027789594214322,
+        "lng": 121.51530722825156
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601576,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0285,
+            121.5159
+          ],
+          "address": "臺北市中正區南福里重慶南路三段27巷2號(重慶南路三段與福州街口)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "新光人壽保險股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42cfffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.019594647912154,
+        "lng": 121.5034596674285
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602011,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0207,
+            121.503
+          ],
+          "address": "臺北市萬華區日祥里萬華區青年路184號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府都市發展局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602012,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0198,
+            121.5027
+          ],
+          "address": "臺北市萬華區日祥里萬華區青年路184號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府都市發展局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603689,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0203,
+            121.5043
+          ],
+          "address": "臺北市萬華區騰雲里水源路199號(青年公園)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4217ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.024110232719885,
+        "lng": 121.51099551264618
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602809,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0245,
+            121.5119
+          ],
+          "address": "臺北市中正區永功里中華路二段 487 號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府財政局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602868,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0244,
+            121.5101
+          ],
+          "address": "臺北市萬華區騰雲里中華路二段606巷側人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603267,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0233,
+            121.512
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a421bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.020430729647668,
+        "lng": 121.50668403537499
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 603123,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0217,
+            121.5067
+          ],
+          "address": "臺北市萬華區騰雲里青年公園駐警隊辦公室門口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603124,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0216,
+            121.5065
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1號出入口東側路燈旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603125,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0215,
+            121.5064
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1號出入口旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603126,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.5061
+          ],
+          "address": "臺北市萬華區騰雲里青年公園1號出入口西側殘障斜坡道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603259,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0211,
+            121.5069
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603260,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0212,
+            121.507
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603261,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0213,
+            121.5072
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4223ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02093099622013,
+        "lng": 121.51849550108314
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603237,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0205,
+            121.5199
+          ],
+          "address": "臺北市中正區網溪里古亭河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a422fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.01892320308635,
+        "lng": 121.52063321926714
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 603238,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0199,
+            121.5209
+          ],
+          "address": "臺北市中正區河堤里古亭河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603239,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0195,
+            121.5212
+          ],
+          "address": "臺北市中正區河堤里古亭河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603240,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0202,
+            121.5218
+          ],
+          "address": "臺北市中正區河堤里古亭河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4203ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.021266759602963,
+        "lng": 121.5099085157557
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603266,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0227,
+            121.5095
+          ],
+          "address": "臺北市萬華區騰雲里中正河濱公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局水利工程處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

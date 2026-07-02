@@ -1,0 +1,987 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a49b7ffff",
+      "res": 9,
+      "count": 15,
+      "center": {
+        "lat": 25.054018853918794,
+        "lng": 121.6067328545379
+      },
+      "categories": {
+        "other": 15
+      },
+      "points": [
+        {
+          "id": 5000161,
+          "title": "南港行政中心-W1-南港路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0544318,
+            121.6066407
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000531,
+          "title": "南港行政中心-E1-南港路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0542993,
+            121.6071343
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001758,
+          "title": "南港區行政大樓1F掛號櫃臺東北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0543308,
+            121.6065601
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001759,
+          "title": "南港區行政大樓南港區健康服務中心1F會議室門內西北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0543308,
+            121.6065601
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001760,
+          "title": "南港區行政大樓2F社會課與兵役課中間",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0544714,
+            121.6073487
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001761,
+          "title": "南港區行政大樓稅捐處南港分處3F印花稅服務臺",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0542781,
+            121.6062657
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001762,
+          "title": "南港區行政大樓南港戶政4F戶籍資料課前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0543308,
+            121.6065601
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001763,
+          "title": "南港區行政大樓6F收發文臺前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0545599,
+            121.6067896
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001764,
+          "title": "南港區行政大樓6F秘書室門口東北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0547059,
+            121.6066929
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001765,
+          "title": "南港區行政大樓南港區健康服務中心7F健康服務中心門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0545599,
+            121.6067896
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001766,
+          "title": "南港區行政大樓南港區健康服務中心7F會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0547059,
+            121.6066929
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001767,
+          "title": "南港區行政大樓8F人文課",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0547059,
+            121.6066929
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001768,
+          "title": "南港區行政大樓9F經建課西北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0547059,
+            121.6066929
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001769,
+          "title": "南港區行政大樓10F大禮堂中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054439,
+            121.6071689
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002176,
+          "title": "南港南港區民活動中心2F活動空間中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0535935,
+            121.6080288
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4993ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.05352362368688,
+        "lng": 121.59491032582355
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000165,
+          "title": "南港高中-N-向陽路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05294,
+            121.595252
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000166,
+          "title": "南港高中-S-向陽路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0528947,
+            121.5950176
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002974,
+          "title": "圖書館北原會館借還書工作站4F圖書室內",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0546645,
+            121.5951096
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05201012968716,
+        "lng": 121.60887226104539
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000168,
+          "title": "捷運南港站-W-忠孝東路七段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0524,
+            121.608352
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000791,
+          "title": "臺北市極限運動訓練中心-辦公室-頂樓",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0519488,
+            121.6073655
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49c3ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.04499401199559,
+        "lng": 121.5916453160472
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 5000401,
+          "title": "南港公園-W-東新街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045867,
+            121.592658
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000681,
+          "title": "南港公園-公廁-網球場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0454104,
+            121.5917806
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000979,
+          "title": "南港公園-3號廁所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0438592,
+            121.5909974
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001060,
+          "title": "南港公園-E-東新街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0459909,
+            121.5920633
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003199,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440384,
+            121.5910437
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003200,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440812,
+            121.5910011
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003201,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440484,
+            121.5910648
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003202,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-4",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440396,
+            121.5909924
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003203,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-5",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440423,
+            121.5909652
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003204,
+          "title": "公園處-駐外單位-南港所(含文山分隊新辦公室)-6",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440441,
+            121.5910356
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49b3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.05318434409649,
+        "lng": 121.60350496465581
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000537,
+          "title": "台肥新村-E-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0535744,
+            121.6028759
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000551,
+          "title": "台肥新村-E1-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0539474,
+            121.6035978
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000961,
+          "title": "南港東明住宅-甲區大廳(16號1F)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0546232,
+            121.6037855
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4953ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.0401418785792,
+        "lng": 121.59269610050188
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5000538,
+          "title": "南港花園社區四-S-福德街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0394914,
+            121.5935355
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000539,
+          "title": "南港花園社區一-S-福德街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0410637,
+            121.591608
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000564,
+          "title": "南港花園社區二-N-福德街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0400288,
+            121.5912299
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000565,
+          "title": "南港花園社區三-W-福德街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03885,
+            121.592483
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000566,
+          "title": "南港花園社區五-福德街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0399996,
+            121.5926114
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002199,
+          "title": "南港仁福區民活動中心1F里長辦公室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0397317,
+            121.5929662
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4997ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05435828557664,
+        "lng": 121.5981379314252
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000546,
+          "title": "東明里/臺北流行音樂中心-W1-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053827,
+            121.598724
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000553,
+          "title": "東明里/臺北流行音樂中心-E-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053527,
+            121.59896
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a499bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.050680501682663,
+        "lng": 121.59382196706194
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000552,
+          "title": "捷運昆陽站-E1-忠孝東路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0501003,
+            121.5930926
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4987ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05234978210826,
+        "lng": 121.60027718677267
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000558,
+          "title": "南港輪胎-W-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05347,
+            121.600685
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000561,
+          "title": "南港輪胎-E-南港路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0533083,
+            121.6008193
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.042150644339877,
+        "lng": 121.59055702379432
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000978,
+          "title": "南港公園-遊戲區廁所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0420081,
+            121.5909924
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4983ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051515167966272,
+        "lng": 121.59704952090318
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5003115,
+          "title": "臺北流行音樂中心1F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516116,
+            121.5976936
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

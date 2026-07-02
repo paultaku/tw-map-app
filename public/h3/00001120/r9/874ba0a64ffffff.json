@@ -1,0 +1,105 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6423ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.102845078918676,
+        "lng": 121.48882367299673
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500841,
+          "title": "臺北市立福安國民中學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.102855,
+            121.488071
+          ],
+          "address": "延平北路七段250號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "總務處外走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "總務處外走廊"
+        },
+        {
+          "id": 5500907,
+          "title": "臺北市立福安國民中學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.102855,
+            121.488071
+          ],
+          "address": "延平北路七段250號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "健康中心外走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心外走廊"
+        },
+        {
+          "id": 5502097,
+          "title": "臺北市政府環境保護局士林區清潔隊停車場(臨江)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.10185101,
+            121.489133
+          ],
+          "address": "延平北路7段224號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6417ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.106015938286493,
+        "lng": 121.48132469778362
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502419,
+          "title": "臺北市士林區富安國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.105869,
+            121.482442
+          ],
+          "address": "延平北路8段135號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學校穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學校穿堂"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

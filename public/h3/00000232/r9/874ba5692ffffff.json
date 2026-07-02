@@ -1,0 +1,2119 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56923bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11371903717824,
+        "lng": 121.5307487655046
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000000,
+          "title": "天母棒球場-N-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1133101,
+            121.5318822
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000009,
+          "title": "天母棒球場-S-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1141673,
+            121.5322068
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000786,
+          "title": "天母棒球場-2樓中庭1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1130135,
+            121.5320986
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926fffff",
+      "res": 9,
+      "count": 25,
+      "center": {
+        "lat": 25.106032512951156,
+        "lng": 121.53071206073864
+      },
+      "categories": {
+        "other": 25
+      },
+      "points": [
+        {
+          "id": 5000005,
+          "title": "雨農國小-W-雨聲街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1047015,
+            121.530236
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000012,
+          "title": "聯合醫院陽明院區-E-忠義街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1053931,
+            121.5305183
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000029,
+          "title": "雨農國小-E-忠誠路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1045422,
+            121.5306871
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000180,
+          "title": "蘭雅新城-N-忠誠路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.107076,
+            121.530151
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000188,
+          "title": "蘭雅新城-S-忠誠路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1071395,
+            121.5298407
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002402,
+          "title": "北市聯醫陽明院區B1F員工餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052695,
+            121.531749
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002403,
+          "title": "北市聯醫陽明院區B1F藥庫門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105342,
+            121.531736
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002404,
+          "title": "北市聯醫陽明院區B1F醫療事務室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052249,
+            121.5316146
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002406,
+          "title": "北市聯醫陽明院區1F急診內急診護理站前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1048724,
+            121.5314875
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002407,
+          "title": "北市聯醫陽明院區1F檢驗科內檢驗室內門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052354,
+            121.5317679
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002408,
+          "title": "北市聯醫陽明院區1F萊爾富門口右方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105342,
+            121.531736
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002410,
+          "title": "北市聯醫陽明院區2F16室牙科門口前方等候區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105246,
+            121.5313394
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002412,
+          "title": "北市聯醫陽明院區2F消化內科第36門診門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105372,
+            121.5315624
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002413,
+          "title": "北市聯醫陽明院區3F超音波室門口前方等候區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052354,
+            121.5317679
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002414,
+          "title": "北市聯醫陽明院區3F手術室內恢復室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052006,
+            121.5315044
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002415,
+          "title": "北市聯醫陽明院區3F加護病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052754,
+            121.5315211
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002418,
+          "title": "北市聯醫陽明院區5F5A病房護理站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052006,
+            121.5315044
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002419,
+          "title": "北市聯醫陽明院區5F產房內護理站西側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105038,
+            121.5316348
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002423,
+          "title": "北市聯醫陽明院區6F6B護理站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1054196,
+            121.5314229
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002424,
+          "title": "北市聯醫陽明院區6F6A護理站與605病房門口中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052006,
+            121.5315044
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002426,
+          "title": "北市聯醫陽明院區7F呼吸照護中心護理站櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1049691,
+            121.5315144
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002427,
+          "title": "北市聯醫陽明院區7F705病房門口與儀器室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052006,
+            121.5315044
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002428,
+          "title": "北市聯醫陽明院區8F護理之家護理站與活動室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1053421,
+            121.5317361
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002432,
+          "title": "北市聯醫陽明院區9F大禮堂會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1052006,
+            121.5315044
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002433,
+          "title": "北市聯醫陽明院區9F938與937病房中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1048724,
+            121.5314875
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569237ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.117395839829072,
+        "lng": 121.53506210352347
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000007,
+          "title": "市立臺北特教學校-N-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1172725,
+            121.5346782
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000008,
+          "title": "市立臺北特教學校-S-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.117116,
+            121.5342892
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569267ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.108873467653673,
+        "lng": 121.53179953814691
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000010,
+          "title": "蘭雅國中-S1-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1095358,
+            121.5303708
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000013,
+          "title": "蘭雅國中-N1-忠誠路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.109507,
+            121.5306476
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000226,
+          "title": "忠義街-忠義街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1081791,
+            121.5327254
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.10519640590073,
+        "lng": 121.52748642226405
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000011,
+          "title": "雨農國小-S1-忠誠路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1050735,
+            121.5285365
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000204,
+          "title": "雨農國小-N1-忠誠路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.105372,
+            121.5285489
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.11171434037651,
+        "lng": 121.5328870377472
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5000020,
+          "title": "天母棒球場-士東-E-士東路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1125028,
+            121.5322983
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000026,
+          "title": "天母棒球場-士東-士東路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.112691,
+            121.532394
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000782,
+          "title": "天母棒球場-2樓一壘看台區-前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1131573,
+            121.5330805
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000787,
+          "title": "天母棒球場-2樓中庭2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1130131,
+            121.5327673
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000788,
+          "title": "天母棒球場-3樓一壘看台區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.113177,
+            121.532889
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000790,
+          "title": "天母棒球場-1樓-售票亭",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1126825,
+            121.5328131
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002485,
+          "title": "士林老人服務暨日間照顧中心5F502教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1117487,
+            121.5324596
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692b7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.124245269109956,
+        "lng": 121.53187297809617
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5000025,
+          "title": "天母-S1-中山北路七段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.124198,
+            121.532455
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000238,
+          "title": "天母圓環-E-中山北路七段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.125032,
+            121.532356
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002205,
+          "title": "圖書館天母分館3F主題書展處右方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.123966,
+            121.533033
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002206,
+          "title": "圖書館天母分館4F自修區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1238724,
+            121.5329403
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002742,
+          "title": "士林天母區民活動中心4F舞台左邊機櫃後面",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.123966,
+            121.533033
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002784,
+          "title": "圖書館天母分館3F服務台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1235549,
+            121.5328753
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002785,
+          "title": "圖書館天母分館4F視聽室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1236773,
+            121.532986
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002786,
+          "title": "圖書館天母分館4F自修區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.123966,
+            121.533033
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56928bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11889608638919,
+        "lng": 121.52110863374558
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000130,
+          "title": "榮總-E1-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1185993,
+            121.5197318
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000131,
+          "title": "榮總-E2-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1186742,
+            121.5195514
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000439,
+          "title": "榮總一-W1-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.118753,
+            121.5205303
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11438277639164,
+        "lng": 121.51357074541606
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000138,
+          "title": "石牌國小-W-石牌路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11433,
+            121.5129207
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11255038658231,
+        "lng": 121.53611289227756
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000211,
+          "title": "士東路-W-士東路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1134517,
+            121.5367603
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d7ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.118059745107836,
+        "lng": 121.51788324603862
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 5000390,
+          "title": "保一總隊-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.118865,
+            121.517372
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000465,
+          "title": "永明派出所-E1-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.117374,
+            121.516616
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002242,
+          "title": "圖書館永明民眾閱覽室7F兒童圖書區前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1181439,
+            121.5174841
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002243,
+          "title": "圖書館永明民眾閱覽室8F座位區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1181873,
+            121.5174841
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002379,
+          "title": "北投區健康服務中心1F女洗手間門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1181858,
+            121.5172665
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002765,
+          "title": "北投區健康服務中心2F電梯出口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11814,
+            121.5173017
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002801,
+          "title": "北投永明區民活動中心9F門口前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.118066,
+            121.517175
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002802,
+          "title": "北投永明區民活動中心10F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.118065,
+            121.517173
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002814,
+          "title": "圖書館永明民眾閱覽室7F一般圖書區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1183916,
+            121.5173413
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002815,
+          "title": "圖書館永明民眾閱覽室8F自修區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1181247,
+            121.5175391
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569283ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.121736571039367,
+        "lng": 121.52219598502
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000442,
+          "title": "榮光新村-S-石牌路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.120244,
+            121.522644
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692c7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.116055519745263,
+        "lng": 121.52002130466707
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000443,
+          "title": "宏國新村-W-明德路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1154833,
+            121.5203913
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001077,
+          "title": "宏國新村",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1160213,
+            121.5202357
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.118564244151912,
+        "lng": 121.5296979865756
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000454,
+          "title": "三玉宮-E-天母東路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.11799,
+            121.5311
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569287ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12257285584691,
+        "lng": 121.5254215369969
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000599,
+          "title": "天北站-S-天母北路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1225893,
+            121.5267146
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12140479764385,
+        "lng": 121.53078547123926
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000600,
+          "title": "天母新村-S-中山北路七段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1212982,
+            121.5313672
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569257ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.111210442808353,
+        "lng": 121.52107205761071
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000642,
+          "title": "明德路-S-明德路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1104906,
+            121.5205968
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569223ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.11455513110614,
+        "lng": 121.53397455953942
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5000783,
+          "title": "天母棒球場-2樓一壘看台區-後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1133859,
+            121.5331056
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000784,
+          "title": "天母棒球場-2樓三壘看台區-前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.113491,
+            121.5330433
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000785,
+          "title": "天母棒球場-2樓三壘看台區-後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1136391,
+            121.5326681
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000789,
+          "title": "天母棒球場-3樓三壘看台區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1135128,
+            121.5326788
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000808,
+          "title": "天母棒球場-記者室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1134462,
+            121.5329249
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569247ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.109205889165892,
+        "lng": 121.52321014830288
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000871,
+          "title": "蘭雅國小-E-克強路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1089168,
+            121.5237058
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56921bffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.114051169047634,
+        "lng": 121.5221593941645
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 5000884,
+          "title": "奎山國中-N-明德路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1126737,
+            121.521901
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002244,
+          "title": "圖書館石牌分館3F自修室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1131039,
+            121.5220539
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002245,
+          "title": "圖書館石牌分館4F期刊區與綜合服務區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1131005,
+            121.522188
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002246,
+          "title": "圖書館石牌分館6F開架閱覽室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1132406,
+            121.5228903
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002247,
+          "title": "圖書館石牌分館7F外文書籍區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.112991,
+            121.5226169
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002248,
+          "title": "圖書館石牌分館8F參考資料區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1131163,
+            121.5221089
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002249,
+          "title": "圖書館石牌分館9F青少年閱覽室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.113109,
+            121.5221052
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002312,
+          "title": "圖書館石牌分館5F兒童閱覽區靠中央樓梯",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1129603,
+            121.5227456
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002313,
+          "title": "圖書館石牌分館10F洗手間門外",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1130243,
+            121.5225005
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569207ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.115723608647627,
+        "lng": 121.5286105241053
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5001037,
+          "title": "台北美國 / 日僑學校-N-中山北路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1157824,
+            121.5282274
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56920fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11288289114452,
+        "lng": 121.52752308382851
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5001053,
+          "title": "賴厝-N-中山北路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1136713,
+            121.5271377
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117223351748542,
+        "lng": 121.51465797075143
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5001082,
+          "title": "義理街口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.115959,
+            121.5147811
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569277ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.11087824206372,
+        "lng": 121.5296612955649
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5002279,
+          "title": "停管處蘭雅停車場B1F停車場管理室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1098596,
+            121.5288998
+          ],
+          "address": "",
+          "layoutType": "大眾運輸",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002838,
+          "title": "士東市場1F 112攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1116658,
+            121.5292932
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002839,
+          "title": "士東市場1F 119攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1118798,
+            121.5297475
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002840,
+          "title": "士東市場1F 76攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1119351,
+            121.5295966
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002841,
+          "title": "士東市場2F 178攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1120007,
+            121.5294883
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002842,
+          "title": "士東市場2F 171攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1120043,
+            121.5295547
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002843,
+          "title": "士東市場2F 228攤位旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1120004,
+            121.5295125
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569227ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11539117291608,
+        "lng": 121.5372004659184
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002551,
+          "title": "職能發展學院行政大樓1F電腦查詢台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.1149196,
+            121.537605
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

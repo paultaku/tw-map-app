@@ -43,13 +43,14 @@ interface GridBucket {
   points?: Place[];                    // included only for the high-resolution detail grid
 }
 
-// H3 resolutions: 7 ≈ 5 km edge (aggregation / zoomed-out), 9 ≈ 0.17 km edge (detail / zoomed-in)
+// H3 resolutions: 7 (aggregation / zoomed-out counts), 9 (detail / zoomed-in points)
 const RES_AGGREGATE = 7;
 const RES_DETAIL = 9;
 
-// Firestore collection names — document ID is the H3 index
-const COLLECTION_AGGREGATE = 'grids_r7';
-const COLLECTION_DETAIL = 'grids_r9';
+// Per-dataset output: public/h3/<datasetId>/{grids_r7.json, r9/<r7parent>.json}
+// and Firestore subcollections datasets/<datasetId>/{r7,r9} — document ID is the H3 index.
+const SUBCOLLECTION_AGGREGATE = 'r7';
+const SUBCOLLECTION_DETAIL = 'r9';
 
 // Support __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -373,9 +374,13 @@ function mapRowToPlace(row: Record<string, string>, datasetName: string, id: num
 async function main() {
   // Push H3 buckets to Firestore only when explicitly requested (needs GOOGLE_APPLICATION_CREDENTIALS).
   const shouldUpload = process.argv.includes('--upload');
+  // Optional: regenerate only one dataset, e.g. `--dataset 00001540`. Default: all datasets.
+  const datasetFilterIdx = process.argv.indexOf('--dataset');
+  const datasetFilter = datasetFilterIdx !== -1 ? process.argv[datasetFilterIdx + 1] : null;
 
   const sourcePath = path.resolve(__dirname, '../src/source/taipei/Open Data.json');
   const outputDir = path.resolve(__dirname, '../public/taipei/data');
+  const h3Root = path.resolve(__dirname, '../public/h3');
 
   console.log(`Reading Open Data file from: ${sourcePath}`);
   if (!fs.existsSync(sourcePath)) {
@@ -389,12 +394,18 @@ async function main() {
   console.log(`Total datasets found in Open Data: ${datasets.length}`);
 
   // 1. Filter out datasets that contain both "經度" and "緯度" in "主要欄位說明"
-  const filtered = datasets.filter(item => {
+  let filtered = datasets.filter(item => {
     const fieldsDesc = item["主要欄位說明"] || "";
     return fieldsDesc.includes("經度") && fieldsDesc.includes("緯度");
   });
 
   console.log(`Filtered datasets containing both '經度' and '緯度': ${filtered.length}`);
+
+  // Optional single-dataset regeneration.
+  if (datasetFilter) {
+    filtered = filtered.filter(item => (item["資料集編號"] || item["資料集id"]) === datasetFilter);
+    console.log(`--dataset ${datasetFilter}: ${filtered.length} matching dataset(s).`);
+  }
 
   // Create output directory if it doesn't exist
   if (!fs.existsSync(outputDir)) {
@@ -402,8 +413,15 @@ async function main() {
     console.log(`Created output directory: ${outputDir}`);
   }
 
-  // Accumulates every valid place across all datasets, for H3 grid aggregation below
-  const allPlaces: Place[] = [];
+  // H3 output is per-dataset. Clean stale output so regeneration is idempotent:
+  // a full run wipes public/h3/ (also removing any legacy global grid); a --dataset
+  // run wipes only that dataset's folder.
+  if (datasetFilter) {
+    fs.rmSync(path.join(h3Root, datasetFilter), { recursive: true, force: true });
+  } else {
+    fs.rmSync(h3Root, { recursive: true, force: true });
+  }
+  fs.mkdirSync(h3Root, { recursive: true });
 
   // Process each filtered dataset
   for (let idx = 0; idx < filtered.length; idx++) {
@@ -462,58 +480,30 @@ async function main() {
     if (success) {
       const outputFilename = `${datasetId}.json`;
       const outputPath = path.join(outputDir, outputFilename);
+      const ts = new Date().toISOString();
       const outputJson = {
         data: allData,
-        updateAt: new Date().toISOString()
+        updateAt: ts
       };
 
       fs.writeFileSync(outputPath, JSON.stringify(outputJson, null, 2), 'utf-8');
       console.log(`  Saved to: ${outputPath}`);
 
-      allPlaces.push(...allData);
+      // Build this dataset's own H3 grids (r7 aggregate counts + r9 detail points).
+      const { aggregateBuckets, detailBuckets } = writeDatasetGrids(h3Root, datasetId, allData, ts);
+      console.log(`  H3: r7 ${aggregateBuckets.length} cells, r9 ${detailBuckets.length} cells → ${path.join(h3Root, datasetId)}`);
+
+      if (shouldUpload) {
+        await uploadDatasetGrids(datasetId, aggregateBuckets, detailBuckets);
+      }
     } else {
       console.log(`  Skipped saving dataset ${datasetId} because no CSV resources were successfully loaded.`);
     }
   }
 
-  // ----- H3 grid aggregation (Bucket Pattern) -----
-  console.log(`\nBuilding H3 grids from ${allPlaces.length} places...`);
-
-  const detailBuckets = buildBuckets(allPlaces, RES_DETAIL, true);        // res 9 — keeps full points
-  const aggregateBuckets = buildBuckets(allPlaces, RES_AGGREGATE, false); // res 7 — counts only
-
-  console.log(`  Resolution ${RES_DETAIL} (detail):    ${detailBuckets.length} cells`);
-  console.log(`  Resolution ${RES_AGGREGATE} (aggregate): ${aggregateBuckets.length} cells`);
-
-  // Local JSON snapshots for the dev data source (production reads Firestore instead).
-  const h3Dir = path.resolve(__dirname, '../public/h3');
-  const ts = new Date().toISOString();
-
-  // Aggregate grid (res 7): one small file, loaded whole on the client.
-  writeJson(path.join(h3Dir, `${COLLECTION_AGGREGATE}.json`), { cells: aggregateBuckets, updatedAt: ts });
-
-  // Detail grid (res 9): sharded by parent r7 cell so the client only fetches the viewport's
-  // shards (the static analog of the Firestore `in` query — avoids one giant multi-MB file).
-  const r9Dir = path.join(h3Dir, 'r9');
-  fs.rmSync(r9Dir, { recursive: true, force: true });
-  const shards = new Map<string, GridBucket[]>();
-  for (const bucket of detailBuckets) {
-    const parent = cellToParent(bucket.h3, RES_AGGREGATE);
-    let arr = shards.get(parent);
-    if (!arr) { arr = []; shards.set(parent, arr); }
-    arr.push(bucket);
-  }
-  for (const [parent, cells] of shards) {
-    writeJson(path.join(r9Dir, `${parent}.json`), { cells, updatedAt: ts });
-  }
-  console.log(`  Wrote r7 grid (${aggregateBuckets.length} cells) + ${shards.size} r9 shards to: ${h3Dir}`);
-
-  // Firestore upload (opt-in: requires --upload and GOOGLE_APPLICATION_CREDENTIALS)
+  // ----- H3 grids are built per-dataset inside the loop above -----
   if (shouldUpload) {
-    console.log('\nUploading H3 grids to Firestore (Bucket Pattern, doc ID = H3 index)...');
-    await uploadBucketsToFirestore(COLLECTION_DETAIL, detailBuckets);
-    await uploadBucketsToFirestore(COLLECTION_AGGREGATE, aggregateBuckets);
-    console.log('  Firestore upload complete.');
+    console.log('\nFirestore upload complete (per-dataset subcollections datasets/<id>/{r7,r9}).');
   } else {
     console.log('\nSkipped Firestore upload. Re-run with --upload (and GOOGLE_APPLICATION_CREDENTIALS set) to push.');
   }
@@ -558,9 +548,47 @@ function writeJson(filePath: string, data: unknown): void {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
 }
 
-// Writes one document per H3 cell (doc ID = H3 index) using batched commits.
-// firebase-admin is imported lazily so the default run needs no credentials.
-async function uploadBucketsToFirestore(collectionName: string, buckets: GridBucket[]): Promise<void> {
+// Builds and writes one dataset's H3 grids under public/h3/<datasetId>/.
+//   grids_r7.json         — whole aggregate grid (counts only), loaded whole on the client
+//   r9/<r7parent>.json    — detail cells (with points) sharded by parent r7 cell
+// Returns the buckets so the caller can optionally push them to Firestore.
+function writeDatasetGrids(
+  h3Root: string,
+  datasetId: string,
+  places: Place[],
+  ts: string,
+): { aggregateBuckets: GridBucket[]; detailBuckets: GridBucket[] } {
+  const datasetDir = path.join(h3Root, datasetId);
+  const aggregateBuckets = buildBuckets(places, RES_AGGREGATE, false); // res 7 — counts only
+  const detailBuckets = buildBuckets(places, RES_DETAIL, true);        // res 9 — keeps full points
+
+  // Aggregate grid: one small file per dataset (written even when empty so the client
+  // gets a valid empty response instead of a 404).
+  writeJson(path.join(datasetDir, 'grids_r7.json'), { cells: aggregateBuckets, updatedAt: ts });
+
+  // Detail grid: sharded by parent r7 cell so the client fetches only the viewport's shards.
+  const shards = new Map<string, GridBucket[]>();
+  for (const bucket of detailBuckets) {
+    const parent = cellToParent(bucket.h3, RES_AGGREGATE);
+    let arr = shards.get(parent);
+    if (!arr) { arr = []; shards.set(parent, arr); }
+    arr.push(bucket);
+  }
+  for (const [parent, cells] of shards) {
+    writeJson(path.join(datasetDir, 'r9', `${parent}.json`), { cells, updatedAt: ts });
+  }
+
+  return { aggregateBuckets, detailBuckets };
+}
+
+// Writes one dataset's buckets to Firestore under datasets/<datasetId>/{r7,r9}
+// (doc ID = H3 index) using batched commits. firebase-admin is imported lazily so
+// the default (no --upload) run needs no credentials.
+async function uploadDatasetGrids(
+  datasetId: string,
+  aggregateBuckets: GridBucket[],
+  detailBuckets: GridBucket[],
+): Promise<void> {
   const { initializeApp, applicationDefault, getApps } = await import('firebase-admin/app');
   const { getFirestore } = await import('firebase-admin/firestore');
 
@@ -573,15 +601,21 @@ async function uploadBucketsToFirestore(collectionName: string, buckets: GridBuc
   const db = getFirestore();
 
   const BATCH_LIMIT = 450; // Firestore allows max 500 writes per batch
-  for (let i = 0; i < buckets.length; i += BATCH_LIMIT) {
-    const slice = buckets.slice(i, i + BATCH_LIMIT);
-    const batch = db.batch();
-    for (const bucket of slice) {
-      batch.set(db.collection(collectionName).doc(bucket.h3), bucket);
+  const writeTier = async (subcollection: string, buckets: GridBucket[]) => {
+    const parentDoc = db.collection('datasets').doc(datasetId);
+    for (let i = 0; i < buckets.length; i += BATCH_LIMIT) {
+      const slice = buckets.slice(i, i + BATCH_LIMIT);
+      const batch = db.batch();
+      for (const bucket of slice) {
+        batch.set(parentDoc.collection(subcollection).doc(bucket.h3), bucket);
+      }
+      await batch.commit();
     }
-    await batch.commit();
-    console.log(`  ${collectionName}: wrote ${Math.min(i + BATCH_LIMIT, buckets.length)}/${buckets.length} cells`);
-  }
+    console.log(`  Firestore datasets/${datasetId}/${subcollection}: ${buckets.length} cells`);
+  };
+
+  await writeTier(SUBCOLLECTION_DETAIL, detailBuckets);
+  await writeTier(SUBCOLLECTION_AGGREGATE, aggregateBuckets);
 }
 
 main().catch(err => {

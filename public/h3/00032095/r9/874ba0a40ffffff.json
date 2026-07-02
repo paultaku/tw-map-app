@@ -1,0 +1,4091 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a40b7ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.05053375386104,
+        "lng": 121.52400459465501
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6900024,
+          "title": "丹迪旅店天津店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051665,
+            121.523304
+          ],
+          "address": "104台北市中山區中山北路一段135巷13號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2541-5788",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900051,
+          "title": "皇家玫瑰旅館-中山館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050975,
+            121.52557
+          ],
+          "address": "臺北市中山區林森北路133巷8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2531-7333/02-8245-8288*5(施小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900064,
+          "title": "新純香 Guestea \nシンジュンコウ",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050795,
+            121.523308
+          ],
+          "address": "臺北市中山區中山北路一段105巷13-1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2543-2932",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900072,
+          "title": "紅記珠寶有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050428,
+            121.525049
+          ],
+          "address": "臺北市中山區林森北路109號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2523-0122",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900762,
+          "title": "閨蜜專屬",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05148,
+            121.525335
+          ],
+          "address": "台北市中山區林森北路147號B1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25222913",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901082,
+          "title": "Dandy Hotel Tianjin Branch",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051665,
+            121.523304
+          ],
+          "address": "No. 13",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhongshan N. Rd.",
+          "notes": "Zhongshan Dist."
+        },
+        {
+          "id": 6901109,
+          "title": "Royal Rose Hotel-Zhongshan Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050975,
+            121.52557
+          ],
+          "address": "No. 8",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 104",
+          "image": "",
+          "management": "",
+          "phone": "Zhongshan Dist.",
+          "notes": "Taipei City 104"
+        },
+        {
+          "id": 6901122,
+          "title": "Guestea シンジュンコウ",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050795,
+            121.523308
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongshan N. Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 1",
+          "notes": "Zhongshan N. Rd."
+        },
+        {
+          "id": 6901130,
+          "title": "Hong Ji Jewelry",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050428,
+            121.525049
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongshan Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901820,
+          "title": "Bestie Exclusive",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05148,
+            121.525335
+          ],
+          "address": "10454",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "NO.147",
+          "image": "",
+          "management": "",
+          "phone": "Linsen N Rd",
+          "notes": "NO.147"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.047691019835707,
+        "lng": 121.52291734618875
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900038,
+          "title": "烤司院炭烤吐司專賣",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048401,
+            121.52243
+          ],
+          "address": "臺北市中山區天津街16號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2563-8360/0931368167(王小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900075,
+          "title": "植健身",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048565,
+            121.523028
+          ],
+          "address": "臺北市中山區中山北路一段33巷25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2522-1152",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901096,
+          "title": "kzusandwich",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048401,
+            121.52243
+          ],
+          "address": "No. 16",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 104",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901133,
+          "title": "Fit Plant Gym",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048565,
+            121.523028
+          ],
+          "address": "NO.25",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "TAIPEI 10441 .Taiwan",
+          "image": "",
+          "management": "",
+          "phone": "ZHONGSHAN N. RD.",
+          "notes": "TAIPEI 10441 .Taiwan"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40b3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.0496978170433,
+        "lng": 121.52077948327583
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900079,
+          "title": "城市綠洲股份有限公司臺北分公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048656,
+            121.521272
+          ],
+          "address": "臺北市中山區中山北路一段21號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2564-3702",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900466,
+          "title": "新驛旅店 - 台北車站三館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050266,
+            121.519318
+          ],
+          "address": "臺北市大同區長安西路77號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-7732-7777",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900539,
+          "title": "皇家玫瑰旅館-站前館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049043,
+            121.520732
+          ],
+          "address": "台北市中山區華陰街3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-82458288",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901137,
+          "title": "Metroasis Co.",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048656,
+            121.521272
+          ],
+          "address": "Ltd. - Taipei branch",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongshan N. Rd. Zhongshan Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901524,
+          "title": "CityInn Hotel Taipei Station Branch 3",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050266,
+            121.519318
+          ],
+          "address": "No. 77",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 103",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901597,
+          "title": "Royal Rose Hotel - Taipei Station",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049043,
+            121.520732
+          ],
+          "address": "No. 3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 104001",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d3ffff",
+      "res": 9,
+      "count": 30,
+      "center": {
+        "lat": 25.043510796039982,
+        "lng": 121.50679317255126
+      },
+      "categories": {
+        "other": 30
+      },
+      "points": [
+        {
+          "id": 6900176,
+          "title": "新東陽西寧門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043144,
+            121.50595
+          ],
+          "address": "臺北市萬華區西寧南路74號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2312-1725/總公司02-2772-6222＃957(郭小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900217,
+          "title": "玉林雞腿大王",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043904,
+            121.50807
+          ],
+          "address": "臺北市萬華區中華路一段114巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2371-4920",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900220,
+          "title": "貳拾陸巷 Somebody Cafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042907,
+            121.505724
+          ],
+          "address": "臺北市萬華區成都路65號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2311-2371",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900243,
+          "title": "成都楊桃冰",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043149,
+            121.508152
+          ],
+          "address": "台北市萬華區中華路一段144-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-0309",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900544,
+          "title": "PAR.T帕拉彩虹好物店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042677,
+            121.505285
+          ],
+          "address": "台北市萬華區內江街55巷24號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23752112",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900784,
+          "title": "美觀園 台北城老舖烹派日料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043519,
+            121.50662
+          ],
+          "address": "台北市萬華區峨嵋街36號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "926121766",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900805,
+          "title": "瓦崎燒烤西門店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04257,
+            121.507131
+          ],
+          "address": "台北市萬華區成都路17號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23830333",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900806,
+          "title": "坐坐吧(西門紅樓限定店)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04205,
+            121.506905
+          ],
+          "address": "台北市萬華區成都路10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23080066",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900830,
+          "title": "來好 LAI HAO 西門分店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043123,
+            121.506142
+          ],
+          "address": "台北市萬華區西寧南路169號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23611996",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900860,
+          "title": "新大戈壁蒙古烤肉",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043016,
+            121.505272
+          ],
+          "address": "台北市萬華區成都路81號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23115656",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900900,
+          "title": "文林文具",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043424,
+            121.507767
+          ],
+          "address": "台北市萬華區峨眉街7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27128335",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900919,
+          "title": "珍珠之王",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043661,
+            121.508306
+          ],
+          "address": "台北市萬華區中華路一段122號-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0963-929799",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900930,
+          "title": "維格餅家西門武昌門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044343,
+            121.50827
+          ],
+          "address": "台北市萬華區武昌街二段8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-22919122\n分機2045",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900931,
+          "title": "維格餅家西門成都門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042652,
+            121.507917
+          ],
+          "address": "台北市萬華區成都路3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-22919122\n分機2045",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900932,
+          "title": "維格餅家西門西寧門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044937,
+            121.506668
+          ],
+          "address": "台北市萬華區西寧南路113號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-22919122\n分機2045",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901234,
+          "title": "Hsin Tung Yang Xining Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043144,
+            121.50595
+          ],
+          "address": "No. 74-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 108",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901275,
+          "title": "Yu Lin The King of Chicken Leg",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043904,
+            121.50807
+          ],
+          "address": "No. 9",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wanhua Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhonghua Rd.",
+          "notes": "Wanhua Dist."
+        },
+        {
+          "id": 6901278,
+          "title": "Somebody Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042907,
+            121.505724
+          ],
+          "address": "2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901301,
+          "title": "Chengdu Star Fruit Ice Shop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043149,
+            121.508152
+          ],
+          "address": "No. 144-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 108",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua Dist.",
+          "notes": "Taipei City 108"
+        },
+        {
+          "id": 6901602,
+          "title": "PAR.TLALA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042677,
+            121.505285
+          ],
+          "address": "No. 24",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901842,
+          "title": "Mei Guan Yuan",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043519,
+            121.50662
+          ],
+          "address": "No. 36",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "108",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "108"
+        },
+        {
+          "id": 6901863,
+          "title": "WaChi Grilled-Food Hot Pot Ximen Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04257,
+            121.507131
+          ],
+          "address": "2 F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 108",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua Dist.",
+          "notes": "Taipei City 108"
+        },
+        {
+          "id": 6901864,
+          "title": "Zuozuobar (Ximen Red House Pop-up Store)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04205,
+            121.506905
+          ],
+          "address": "No. 10",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.506905",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 108",
+          "notes": "121.506905"
+        },
+        {
+          "id": 6901888,
+          "title": "Lai Ho - Ximen Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043123,
+            121.506142
+          ],
+          "address": "No. 169",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "25.043123",
+          "image": "",
+          "management": "",
+          "phone": "121.506142",
+          "notes": "25.043123"
+        },
+        {
+          "id": 6901918,
+          "title": "Taipei DGB Mongolian Bar.B.Q",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043016,
+            121.505272
+          ],
+          "address": "4F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901958,
+          "title": "MANY Stationery",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043424,
+            121.507767
+          ],
+          "address": "No. 7",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 108",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901977,
+          "title": "King of Pearls",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043661,
+            121.508306
+          ],
+          "address": "No. 122",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901988,
+          "title": "Vigor Kobo- Ximen Wuchang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044343,
+            121.50827
+          ],
+          "address": "No. 8",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901989,
+          "title": "Vigor Kobo- Ximen Chengdu Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042652,
+            121.507917
+          ],
+          "address": "No. 3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.507917",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.507917"
+        },
+        {
+          "id": 6901990,
+          "title": "Vigor Kobo- Ximen Xining Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044937,
+            121.506668
+          ],
+          "address": "No. 113",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.506668",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.506668"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40dbffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.040667959542883,
+        "lng": 121.50570620558837
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6900205,
+          "title": "囍閱文旅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040707,
+            121.506936
+          ],
+          "address": "臺北市萬華區長沙街二段11號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2388-6235/0921-209-646(林先生)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900207,
+          "title": "丹居青旅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041311,
+            121.506698
+          ],
+          "address": "臺北市萬華區漢中街154號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0977-066-154旅店/0933-220-479許小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900216,
+          "title": "THE garden \n花園小酒館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041716,
+            121.506732
+          ],
+          "address": "臺北市萬華區成都路10巷31、33號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2311-0587",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900496,
+          "title": "U&S叔叔與妹妹-話畫創意店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040921,
+            121.504133
+          ],
+          "address": "臺北市萬華區隆昌街64號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0989-273-536(溫先生)/02-2559-7687",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900820,
+          "title": "小船故事館|桌遊咖啡廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040837,
+            121.506525
+          ],
+          "address": "台北市萬華區漢中街205號三樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23310566",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901263,
+          "title": "Hotel Attic",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040707,
+            121.506936
+          ],
+          "address": "10F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wanhua Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Changsha St.",
+          "notes": "Wanhua Dist."
+        },
+        {
+          "id": 6901265,
+          "title": "Dan Hostel",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041311,
+            121.506698
+          ],
+          "address": "No. 154",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 108",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901274,
+          "title": "THE garden",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041716,
+            121.506732
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wanhua Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Chengdu Rd.",
+          "notes": "Wanhua Dist."
+        },
+        {
+          "id": 6901554,
+          "title": "HuaHuaStore",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040921,
+            121.504133
+          ],
+          "address": "No. 64",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 108009",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901878,
+          "title": "Paper Boat Story House",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040837,
+            121.506525
+          ],
+          "address": "3 F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 108",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua Dist.",
+          "notes": "Taipei City 108"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40cbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.038661198130136,
+        "lng": 121.50784376697868
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900206,
+          "title": "本願豆花店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039365,
+            121.507032
+          ],
+          "address": "臺北市萬華區貴陽街二段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0988-576-776",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900807,
+          "title": "古舕咖啡-文化店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.038423,
+            121.508621
+          ],
+          "address": "台北市中正區延平南路127號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23880228",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901264,
+          "title": "Origin Tofu Pudding",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039365,
+            121.507032
+          ],
+          "address": "No. 1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 108",
+          "image": "",
+          "management": "",
+          "phone": "Wanhua Dist.",
+          "notes": "Taipei City 108"
+        },
+        {
+          "id": 6901865,
+          "title": "Good Time Coffee - Chinese Culture University Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.038423,
+            121.508621
+          ],
+          "address": "1 F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 10",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 10"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a407bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.03347612415675,
+        "lng": 121.51748143670997
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900245,
+          "title": "台北高仕蛋糕(中正旗艦店)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033854,
+            121.518818
+          ],
+          "address": "臺北市中正區愛國東路56.58號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2321-4300/0936-868-607老闆娘唐小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900247,
+          "title": "艾葳精品婚紗",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034036,
+            121.518418
+          ],
+          "address": "臺北市中正區愛國東路42號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2356-0388",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900410,
+          "title": "老大生香燭金紙春聯紅包燈籠",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032606,
+            121.518077
+          ],
+          "address": "臺北市羅斯福路一段8號72號攤",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0905-564-430/0908958569",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901303,
+          "title": "Kaoshieh Taipei Cake(Zhongzheng flagship store)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033854,
+            121.518818
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Aiguo E. Rd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901305,
+          "title": "Ivy Bride",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034036,
+            121.518418
+          ],
+          "address": "No. 42",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901468,
+          "title": "Laodasheng Festival and Prayer Goods",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032606,
+            121.518077
+          ],
+          "address": "Stall No. 72",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Roosevelt Road",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4087ffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.048861828323084,
+        "lng": 121.51755448427706
+      },
+      "categories": {
+        "other": 12
+      },
+      "points": [
+        {
+          "id": 6900246,
+          "title": "臺北地下街軟體世界二店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區市民大道一段100號\nB1電子三區 店號 076",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2556-7531",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900260,
+          "title": "李氏手工坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區市民大道一段100號(臺北地下街84B店鋪)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2555-8348",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900264,
+          "title": "漢霖珠寶",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區市民大道一段100號\n地下街108號店鋪",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2556-9431\n0938-187-988(林小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900266,
+          "title": "阿聯酋祭伺帝國有限公司中正分會",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區市民大道一段100號\n(臺北地下街97號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2550-3535",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900269,
+          "title": "梅鄉小舖-臺北門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區臺北地下街42號店舖",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2550-8866",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900585,
+          "title": "地下街軟體世界 一店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "臺北市中正區黎明里市民大道1段100號台北地下街93室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25594855",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901304,
+          "title": "Taipei City Mall Game Mall 2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "B1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Civic Blvd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901318,
+          "title": "Li Shr Workshop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "B1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Civic Blvd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901322,
+          "title": "Han Lin Jewelry",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "B1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Civic Blvd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901324,
+          "title": "Emirates Ritual Service Empire Co.",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "Ltd. Zhongzheng Branch",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Civic Blvd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 1",
+          "notes": "Civic Blvd."
+        },
+        {
+          "id": 6901327,
+          "title": "Mei Shian Shop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "B1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Civic Blvd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901643,
+          "title": "Software World Underground – Store 1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048445,
+            121.51748
+          ],
+          "address": "100",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Shimin Blvd",
+          "image": "",
+          "management": "",
+          "phone": "Section 1",
+          "notes": "Shimin Blvd"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041504112164333,
+        "lng": 121.50893076361847
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900248,
+          "title": "佢商名品",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042316,
+            121.509553
+          ],
+          "address": "臺北市中正區衡陽路93-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2371-9568",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900278,
+          "title": "德立莊酒店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042791,
+            121.509311
+          ],
+          "address": "台北市中正區秀山街4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2375-7777",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901306,
+          "title": "Giorgio Sedra",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042316,
+            121.509553
+          ],
+          "address": "No. 93-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901336,
+          "title": "Hotel PaPa Whale-Kunming Branch",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042791,
+            121.509311
+          ],
+          "address": "No. 4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408bffff",
+      "res": 9,
+      "count": 24,
+      "center": {
+        "lat": 25.045183041171885,
+        "lng": 121.51324250478051
+      },
+      "categories": {
+        "other": 24
+      },
+      "points": [
+        {
+          "id": 6900249,
+          "title": "良品牛肉麵",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045914,
+            121.513928
+          ],
+          "address": "臺北市中正區開封街一段10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2371-2644",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900250,
+          "title": "和洋百貨",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044385,
+            121.513341
+          ],
+          "address": "臺北市中正區重慶南路一段67號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2361-5009",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900251,
+          "title": "明星咖啡館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044143,
+            121.512782
+          ],
+          "address": "臺北市中正區武昌街一段5號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-5589",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900259,
+          "title": "天龍圖書-簡體字專賣店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044958,
+            121.513349
+          ],
+          "address": "台北市中正區重慶南路一段43號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-2033",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900261,
+          "title": "旅樂序精品旅館 - 站前五館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046111,
+            121.513132
+          ],
+          "address": "臺北市中正區重慶南路一段20號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2375-6777",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900268,
+          "title": "宇利攝影器材有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045238,
+            121.511928
+          ],
+          "address": "臺北市中正區漢口街一段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-5217",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900270,
+          "title": "新東陽武昌門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044014,
+            121.512429
+          ],
+          "address": "臺北市中正區武昌街一段20號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-7104/總公司02-2772-6222＃957(郭小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900274,
+          "title": "快樂數位影像器材有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04524,
+            121.511882
+          ],
+          "address": "臺北市中正區漢口街一段73-1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-1488/ 02 2331 0554",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900277,
+          "title": "新驛旅店 - 台北車站一館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046233,
+            121.514281
+          ],
+          "address": "臺北市中正區懷寧街7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2314-8008",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900292,
+          "title": "峰圃茶莊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045102,
+            121.512049
+          ],
+          "address": "臺北市中正區漢口街一段86號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2382-2922",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900299,
+          "title": "正陽照相器材有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0451,
+            121.511729
+          ],
+          "address": "臺北市中正區漢口街一段92號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-4769/0988-915-122(楊先生)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900571,
+          "title": "咖啡控",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045914,
+            121.51439
+          ],
+          "address": "台北市中正區開封街一段2-28號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0953-989-345",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901307,
+          "title": "LIANG PIN BEEF NOODLES",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045914,
+            121.513928
+          ],
+          "address": "No. 10",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901308,
+          "title": "Japanese & European Boutique WAYOU",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044385,
+            121.513341
+          ],
+          "address": "No. 67",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901309,
+          "title": "ASTORIA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044143,
+            121.512782
+          ],
+          "address": "2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Wuchang St.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901317,
+          "title": "Tenlong Books - Simplified Chinese books",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044958,
+            121.513349
+          ],
+          "address": "3F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Chongqing S. Rd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901319,
+          "title": "Hotel Relax V - Taipei Main Station Branch",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046111,
+            121.513132
+          ],
+          "address": "No. 20",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901326,
+          "title": "Yuli Photographic Equipment",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045238,
+            121.511928
+          ],
+          "address": "No. 71",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901328,
+          "title": "Hsin Tung Yang Wuchang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044014,
+            121.512429
+          ],
+          "address": "No. 20-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901332,
+          "title": "HappyDV",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04524,
+            121.511882
+          ],
+          "address": "No. 73-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng District Taipei City",
+          "notes": "Taiwan 100"
+        },
+        {
+          "id": 6901335,
+          "title": "CityInn Hotel -Taipei Station Branch 1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046233,
+            121.514281
+          ],
+          "address": "No. 7",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901350,
+          "title": "Feng Pu Tea Shop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045102,
+            121.512049
+          ],
+          "address": "No. 86",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901357,
+          "title": "Zhong Yan",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0451,
+            121.511729
+          ],
+          "address": "No. 92",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901629,
+          "title": "Coffeecon",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045914,
+            121.51439
+          ],
+          "address": "No. 2-28",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d7ffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.044346944533427,
+        "lng": 121.51001778245188
+      },
+      "categories": {
+        "other": 14
+      },
+      "points": [
+        {
+          "id": 6900254,
+          "title": "翔韻音響",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045401,
+            121.510465
+          ],
+          "address": "臺北市中正區延平南路62號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2382-1699",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900263,
+          "title": "概念電器",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045736,
+            121.509725
+          ],
+          "address": "臺北市中正區中華路一段29-4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-2712",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900294,
+          "title": "湯姆西服公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044367,
+            121.511392
+          ],
+          "address": "臺北市中正區博愛路90號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2311-5307",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900295,
+          "title": "雪王冰淇淋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04421,
+            121.51044
+          ],
+          "address": "臺北市中正區武昌街一段65號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-8415",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900297,
+          "title": "萬佳國際有限公司\n萬佳國際攝影器材",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045272,
+            121.511163
+          ],
+          "address": "臺北市中正區漢口街一段85號之3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2361-1323",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900810,
+          "title": "賀木堂酒業",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044881,
+            121.510481
+          ],
+          "address": "台北市中正區延平南路51號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23111578",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901048,
+          "title": "臺北市中山堂管理所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043108,
+            121.510127
+          ],
+          "address": "臺北市中正區延平南路98號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23813137#105俞先生",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901312,
+          "title": "Shining AV",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045401,
+            121.510465
+          ],
+          "address": "No. 62",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901321,
+          "title": "AV CONCEPTION",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045736,
+            121.509725
+          ],
+          "address": "No. 29-4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901352,
+          "title": "Tom Tailor",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044367,
+            121.511392
+          ],
+          "address": "No. 90",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901353,
+          "title": "Snow King Ice cream",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04421,
+            121.51044
+          ],
+          "address": "2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Wuchang St.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901355,
+          "title": "Wan Jia Camera",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045272,
+            121.511163
+          ],
+          "address": "No. 85-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901868,
+          "title": "Hometown Liquor Corporation",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044881,
+            121.510481
+          ],
+          "address": "1 F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6902106,
+          "title": "Taipei Zhongshan Hall Management Office",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043108,
+            121.510127
+          ],
+          "address": "No. 98",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40afffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.045684097368703,
+        "lng": 121.52505523995666
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900256,
+          "title": "鏡花園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045964,
+            121.524947
+          ],
+          "address": "臺北市中正區北平東路20之4號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2351-1358#51",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900283,
+          "title": "和逸飯店 台北忠孝館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044536,
+            121.525336
+          ],
+          "address": "臺北市中正區忠孝東路一段31號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-7725-3399",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900300,
+          "title": "禮德西服",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045124,
+            121.523588
+          ],
+          "address": "臺北市中正區林森北路1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2394-4437",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901314,
+          "title": "IPIX",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045964,
+            121.524947
+          ],
+          "address": "1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901341,
+          "title": "HOTEL COZZI Zhongxiao",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044536,
+            121.525336
+          ],
+          "address": "No.31",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901358,
+          "title": "Leader Tailor",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045124,
+            121.523588
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a409bffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.0471896952238,
+        "lng": 121.51110482347885
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6900262,
+          "title": "喬翊電器有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046378,
+            121.511174
+          ],
+          "address": "臺北中正區博愛路22號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-2626/ 02-2361-7733",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900296,
+          "title": "牧亞吉鮮屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046063,
+            121.511816
+          ],
+          "address": "臺北市中正區開封街一段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2381-4575/ 02 2311 8796/02-2311-4022",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900298,
+          "title": "世民酒店台北北門",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04736,
+            121.510583
+          ],
+          "address": "臺北市中正區中華路一段3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "070-1016-1061/0972-180-397(歐陽小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900301,
+          "title": "瘋台北青旅Fun Inn Taipei",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045732,
+            121.510729
+          ],
+          "address": "臺北市中正區延平南路21號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2382-1818/0931-872772",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901056,
+          "title": "國立臺灣博物館鐵道部園區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048679,
+            121.51133
+          ],
+          "address": "台北市大同區延平北路一段2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2314-2699*5456(公關部林小姐)02-23822699#5415舒小姐\n(代理林小姐)02-23822699#5456林小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901320,
+          "title": "Joy Electronics",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046378,
+            121.511174
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901354,
+          "title": "MIRUCOOL",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046063,
+            121.511816
+          ],
+          "address": "No. 71",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901356,
+          "title": "citizenM Taipei North Gate",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04736,
+            121.510583
+          ],
+          "address": "No.3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.510583",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100005 Taiwan (R.O.C.)",
+          "notes": "121.510583"
+        },
+        {
+          "id": 6901359,
+          "title": "Fun Inn Taipei",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045732,
+            121.510729
+          ],
+          "address": "2F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100001",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100001"
+        },
+        {
+          "id": 6902114,
+          "title": "National Taiwan Museum Railway Department Park",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048679,
+            121.51133
+          ],
+          "address": "No. 2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Datong Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40c7ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.04234021294183,
+        "lng": 121.51215543408048
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6900265,
+          "title": "點石齋圖章店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042857,
+            121.512776
+          ],
+          "address": "臺北市中正區沅陵街1-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2311-1606",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900273,
+          "title": "寶利亞精品服飾行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042873,
+            121.512328
+          ],
+          "address": "臺北市中正區沅陵街9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2314-7859",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900281,
+          "title": "JOLLY 衡陽店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042183,
+            121.511882
+          ],
+          "address": "臺北市中正區衡陽路60號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02 2388 9660/總公司謝小姐02-2221-9337#14",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900293,
+          "title": "全祥茶莊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042186,
+            121.51194
+          ],
+          "address": "臺北市中正區衡陽路58號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2311-8405/0971-224-524",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900303,
+          "title": "立川黃金鍋 衡陽店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042145,
+            121.51084
+          ],
+          "address": "臺北市中正區衡陽路88、90號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-1311",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901323,
+          "title": "Dainshizhai Stamps and Seals",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042857,
+            121.512776
+          ],
+          "address": "No. 1-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901331,
+          "title": "Poliya Boutique",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042873,
+            121.512328
+          ],
+          "address": "No. 9",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901339,
+          "title": "JOLLY Hengyang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042183,
+            121.511882
+          ],
+          "address": "1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901351,
+          "title": "Chuan Hsiang Export Co.",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042186,
+            121.51194
+          ],
+          "address": "Ltd.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901361,
+          "title": "Li Chuan Golden Hotpot - Hengyang store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042145,
+            121.51084
+          ],
+          "address": "No. 88",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40abffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044848204088776,
+        "lng": 121.52183011991251
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900267,
+          "title": "Easy coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044554,
+            121.523529
+          ],
+          "address": "臺北市中正區忠孝東路一段58號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2395-6102/0930-775-127賴小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901325,
+          "title": "Easy coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044554,
+            121.523529
+          ],
+          "address": "B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhongxiao E. Rd.",
+          "notes": "Zhongzheng Dist."
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a400bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03832637399997,
+        "lng": 121.51643082997236
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900271,
+          "title": "詩篇咖啡餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.037324,
+            121.516715
+          ],
+          "address": "臺北市中正區中山南路20號B1\n(國家圖書館B1餐廳)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2382-2666",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901329,
+          "title": "Psalms Cafe & Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.037324,
+            121.516715
+          ],
+          "address": "B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng District Taipei City",
+          "notes": "Taiwan 100"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4013ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.043176261863184,
+        "lng": 121.5153802169599
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 6900272,
+          "title": "石尚自然探索屋-恐龍餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043538,
+            121.514331
+          ],
+          "address": "臺北市中正區襄陽路25號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02 8661 0070",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900290,
+          "title": "台北天晴旅店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042721,
+            121.51398
+          ],
+          "address": "臺北市中正區懷寧街92-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2331-9391/0976-585-652曾小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901034,
+          "title": "國立臺灣博物館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043285,
+            121.515035
+          ],
+          "address": "臺北市中正區襄陽路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2314-2699*5456(公關部林小姐)02-23822699#5415舒小姐\n(代理林小姐)02-23822699#5456林小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901035,
+          "title": "國立臺灣博物館古生物館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043538,
+            121.514331
+          ],
+          "address": "臺北市中正區襄陽路25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2314-2699*5456(公關部林小姐)02-23822699#5415舒小姐\n(代理林小姐)02-23822699#5456林小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901330,
+          "title": "Shishang Discovery-Dino Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043538,
+            121.514331
+          ],
+          "address": "2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901348,
+          "title": "Taipei Sunny Hostel",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042721,
+            121.51398
+          ],
+          "address": "No.92-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6902092,
+          "title": "Taiwan Museum",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043285,
+            121.515035
+          ],
+          "address": "No. 2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6902093,
+          "title": "Land Bank Exhibition Hall of National TaiwanMuseum",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043538,
+            121.514331
+          ],
+          "address": "No. 25",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408fffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.046019085943207,
+        "lng": 121.51646733952258
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900275,
+          "title": "阮的肉干-台北車站店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.047176,
+            121.517058
+          ],
+          "address": "臺北市中正區北平西路3號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2361-0027",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900276,
+          "title": "新東陽 - 站前三越店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046226,
+            121.515302
+          ],
+          "address": "臺北市中正區忠孝西路一段66號B2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2382-4959/總公司02-2772-6222＃957(郭小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900288,
+          "title": "黑橋牌-微風台北車站專櫃",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.047176,
+            121.517058
+          ],
+          "address": "臺北市中正區北平西路3號B1\n(微風廣場臺北車站B1西區)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2388-3815/02-22983155#203張副課",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901333,
+          "title": "Yunye Meat Curd-Taipei Station counter",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.047176,
+            121.517058
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        },
+        {
+          "id": 6901334,
+          "title": "Hsin Tung Yang - Shin Kong Mitsukoshi Taipei Station Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046226,
+            121.515302
+          ],
+          "address": "B2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongzheng Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhongxiao W. Rd.",
+          "notes": "Zhongzheng Dist."
+        },
+        {
+          "id": 6901346,
+          "title": "Black Bridge - Breeze Taipei Station Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.047176,
+            121.517058
+          ],
+          "address": "B1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4037ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.043677049644582,
+        "lng": 121.52719316457426
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900284,
+          "title": "鬍鬚張台北華山店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044008,
+            121.525801
+          ],
+          "address": "臺北市中正區忠孝東路一段150號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2321-9599/總公司:02-2298-2185＃232(行企部劉副理)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900801,
+          "title": "北棲邸家",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043417,
+            121.528077
+          ],
+          "address": "台北市中正區忠孝東路二段40號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-33433587",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901342,
+          "title": "Formosa Chang- Taipei Huashan Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044008,
+            121.525801
+          ],
+          "address": "No. 150",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901859,
+          "title": "North House",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043417,
+            121.528077
+          ],
+          "address": "100",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhongxiao E Rd",
+          "image": "",
+          "management": "",
+          "phone": "Section 2",
+          "notes": "Zhongxiao E Rd"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4093ffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.05003236422189,
+        "lng": 121.51219188669924
+      },
+      "categories": {
+        "other": 12
+      },
+      "points": [
+        {
+          "id": 6900443,
+          "title": "王子戶外休閒生活館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050712,
+            121.511866
+          ],
+          "address": "臺北市大同區延平北路一段30號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2555-1583",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900489,
+          "title": "樹德百貨",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049959,
+            121.513638
+          ],
+          "address": "臺北市大同區重慶北路一段11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2556-6888/0932-385-575",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900502,
+          "title": "金埃及企業社\n(金埃及生活館)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049723,
+            121.513568
+          ],
+          "address": "臺北市大同區重慶北路一段3號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2559-4495/0932-268-498",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900588,
+          "title": "小石子商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513,
+            121.512254
+          ],
+          "address": "台北市大同區延平北路一段69巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25595376",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900797,
+          "title": "獨樂",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049551,
+            121.513699
+          ],
+          "address": "台北市大同區重慶北路一段1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2558-0836",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900898,
+          "title": "轉角金工",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050108,
+            121.513824
+          ],
+          "address": "台北市大同區重慶北路一段15巷3號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25505115",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901501,
+          "title": "Wangzi",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050712,
+            121.511866
+          ],
+          "address": "No. 30",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 103",
+          "image": "",
+          "management": "",
+          "phone": "Datong Dist.",
+          "notes": "Taipei City 103"
+        },
+        {
+          "id": 6901547,
+          "title": "Shute Department Store Wholesale",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049959,
+            121.513638
+          ],
+          "address": "No. 11",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 103",
+          "image": "",
+          "management": "",
+          "phone": "Datong Dist.",
+          "notes": "Taipei City 103"
+        },
+        {
+          "id": 6901560,
+          "title": "Love Money Incorporated",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049723,
+            121.513568
+          ],
+          "address": "No.3-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Datong District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901646,
+          "title": "Heybeads",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513,
+            121.512254
+          ],
+          "address": "NO.2 Lane 69",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "25.0513",
+          "image": "",
+          "management": "",
+          "phone": "121.512254",
+          "notes": "25.0513"
+        },
+        {
+          "id": 6901855,
+          "title": "DoSake Bistro",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049551,
+            121.513699
+          ],
+          "address": "103",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Chongqing N Rd",
+          "image": "",
+          "management": "",
+          "phone": "Section 1",
+          "notes": "Chongqing N Rd"
+        },
+        {
+          "id": 6901956,
+          "title": "T-Point Metal Art",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050108,
+            121.513824
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Chongqing N. Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 1",
+          "notes": "Chongqing N. Rd."
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4097ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.05086845255015,
+        "lng": 121.51541671275845
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6900444,
+          "title": "台北北門窩泊旅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052237,
+            121.51539
+          ],
+          "address": "臺北市大同區太原路92巷2-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2552-5068",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900459,
+          "title": "新驛旅店台北車站二館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051079,
+            121.516597
+          ],
+          "address": "臺北市大同區長安西路81號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2555-5577",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900501,
+          "title": "媚麗九九精品百貨行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050424,
+            121.514404
+          ],
+          "address": "臺北市大同區華陰街86號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02 2559-1897",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900589,
+          "title": "Insinger To Go",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050138,
+            121.516102
+          ],
+          "address": "台北市大同區華陰街133號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0920-005-053",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900802,
+          "title": "雨洋工坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051143,
+            121.515568
+          ],
+          "address": "台北市大同區長安西路196號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901502,
+          "title": "Beimen WOW Poshtel",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052237,
+            121.51539
+          ],
+          "address": "No. 2-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 103",
+          "image": "",
+          "management": "",
+          "phone": "Datong Dist.",
+          "notes": "Taipei City 103"
+        },
+        {
+          "id": 6901517,
+          "title": "CityInn Hotel Taipei Station Branch II",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051079,
+            121.516597
+          ],
+          "address": "No. 81",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 103",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901559,
+          "title": "Mayli99",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050424,
+            121.514404
+          ],
+          "address": "2F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 103",
+          "image": "",
+          "management": "",
+          "phone": "Datong Dist.",
+          "notes": "Taipei City 103"
+        },
+        {
+          "id": 6901647,
+          "title": "Insinger To Go",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050138,
+            121.516102
+          ],
+          "address": "No. 133",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "103",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "103"
+        },
+        {
+          "id": 6901860,
+          "title": "Rain & Shine",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051143,
+            121.515568
+          ],
+          "address": "103",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "No",
+          "image": "",
+          "management": "",
+          "phone": "Chang'an W Rd",
+          "notes": "No"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4063ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.034312034061713,
+        "lng": 121.52070634934184
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900548,
+          "title": "亞熱帶禮品店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034751,
+            121.521534
+          ],
+          "address": "台北市中正區中山南路21號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27005736/0932253102",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901606,
+          "title": "Subtropics",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034751,
+            121.521534
+          ],
+          "address": "No. 21",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "100",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "100"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.048526908932548,
+        "lng": 121.52614251808374
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900566,
+          "title": "遊域｜沉浸故事體驗館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049167,
+            121.527341
+          ],
+          "address": "台北市中山區林森北路85巷70號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25627875",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901624,
+          "title": "Game Zone – Experience the Stories",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049167,
+            121.527341
+          ],
+          "address": "10491",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Linsen N Rd",
+          "image": "",
+          "management": "",
+          "phone": "Lane 85",
+          "notes": "Linsen N Rd"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4017ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044012258916215,
+        "lng": 121.51860511224207
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900842,
+          "title": "九日咖啡 自家烘焙 北車店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044988,
+            121.517767
+          ],
+          "address": "台北市中正區青島西路11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23310366",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901900,
+          "title": "9 Days Coffee Main Station Branch",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044988,
+            121.517767
+          ],
+          "address": "No. 11",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.517767",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.517767"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a404fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.032640162403215,
+        "lng": 121.51425663646754
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6901036,
+          "title": "國立臺灣博物館南門館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033422,
+            121.515789
+          ],
+          "address": "臺北市中正區南昌路一段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2397-3666",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902094,
+          "title": "Taiwan Museum Nanmen Park",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033422,
+            121.515789
+          ],
+          "address": "No. 1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a404bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03180414881323,
+        "lng": 121.51103194862904
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6901037,
+          "title": "國立臺灣藝術教育館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032723,
+            121.511572
+          ],
+          "address": "臺北市中正區南海路47號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-231-10574#174(林先生)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902095,
+          "title": "National Taiwan Arts Education Center",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032723,
+            121.511572
+          ],
+          "address": "No. 47",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 100",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a403bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.039998229098362,
+        "lng": 121.5228807502703
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6901051,
+          "title": "臺北市家庭教育中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03901,
+            121.52224
+          ],
+          "address": "臺北市中正區仁愛路一段17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2351-4078 7樓綜合企劃科徐小姐/02-2351-4078#1712徐小姐",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6902109,
+          "title": "Taipei City Family Education Center",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03901,
+            121.52224
+          ],
+          "address": "No. 17",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 100",
+          "image": "",
+          "management": "",
+          "phone": "Zhongzheng Dist.",
+          "notes": "Taipei City 100"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

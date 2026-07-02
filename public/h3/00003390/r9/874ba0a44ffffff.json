@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a445bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04785735734937,
+        "lng": 121.493932065823
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7100000,
+          "title": "臺北市立龍山國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04833,
+            121.49388
+          ],
+          "address": "臺北市萬華區和平西路3段235號",
+          "layoutType": "",
+          "hours": "20230523",
+          "description": "無",
+          "image": "",
+          "management": "臺北市萬華區龍山國民小學",
+          "phone": "(02)23082977",
+          "notes": "無"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062572192838893,
+        "lng": 121.51117770217441
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7100008,
+          "title": "臺北市立大橋國民小學",
+          "category": "other",
+          "location": "65000020",
+          "coords": [
+            25.06333,
+            121.5125
+          ],
+          "address": "臺北市大同區重慶北路3段2號",
+          "layoutType": "",
+          "hours": "20230520",
+          "description": "籃球架",
+          "image": "",
+          "management": "臺北市大同區大橋國民小學",
+          "phone": "(02)25944413",
+          "notes": "籃球架"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.410Z"
+}

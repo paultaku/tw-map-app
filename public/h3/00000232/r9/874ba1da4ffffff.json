@@ -1,0 +1,995 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da477ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.000818857783578,
+        "lng": 121.58928133492334
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000635,
+          "title": "象頭埔-W-木柵路五段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0007138,
+            121.5895081
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000636,
+          "title": "象頭埔-E-木柵路五段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0008448,
+            121.5894839
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da447ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.99914972595995,
+        "lng": 121.58282740988058
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5000703,
+          "title": "動物園-遊園列車候車站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9980471,
+            121.5827101
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000705,
+          "title": "動物園-圖書館-戶外用餐區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9977721,
+            121.5823141
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000706,
+          "title": "動物園-小小綠手指",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9979262,
+            121.5822789
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000707,
+          "title": "動物園-入口處餐飲區-入口處廣場左側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9987135,
+            121.5817408
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000849,
+          "title": "動物園-入口-內側(中央舞台區)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9987459,
+            121.5812264
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000868,
+          "title": "動物園-兒童動物區-動物行為學院/兒童劇場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9993729,
+            121.5820405
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000891,
+          "title": "動物園-可愛動物區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9986746,
+            121.5825793
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001413,
+          "title": "動物園教育中心恐龍館B1F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9979611,
+            121.5817934
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da44fffff",
+      "res": 9,
+      "count": 15,
+      "center": {
+        "lat": 24.996304981160577,
+        "lng": 121.58173933920585
+      },
+      "categories": {
+        "other": 15
+      },
+      "points": [
+        {
+          "id": 5000704,
+          "title": "動物園-貓熊館-戶外行人區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9972987,
+            121.583223
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000843,
+          "title": "動物園-保育廊道入口（靠近教育中心側）",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9973968,
+            121.5810179
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000844,
+          "title": "動物園-保育廊道出口(靠近地圖、昆蟲館側)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9972598,
+            121.580897
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000850,
+          "title": "動物園-熱帶雨林區-穿山甲館-2F商品部",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9962683,
+            121.5830993
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000851,
+          "title": "動物園-熱帶雨林區-穿山甲館-3F",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9962485,
+            121.5829572
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000852,
+          "title": "動物園-熱帶雨林區-穿山甲館-4F",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9961674,
+            121.5829843
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002010,
+          "title": "動物園昆蟲館2F視聽室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.996687,
+            121.5807105
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002076,
+          "title": "動物園昆蟲館1F特展區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.996687,
+            121.5807105
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002120,
+          "title": "動物園貓熊館2F賣場門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9973838,
+            121.5830966
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002494,
+          "title": "動物園昆蟲館1F特展區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9965101,
+            121.5808037
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002660,
+          "title": "動物園教育中心B1F小教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9974376,
+            121.582405
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002661,
+          "title": "動物園教育中心B1F圖書館大門前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9972805,
+            121.5822927
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002662,
+          "title": "動物園教育中心B1F演講廳前門",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9975005,
+            121.5819497
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002663,
+          "title": "動物園教育中心1F大廳中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9977445,
+            121.5819557
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002664,
+          "title": "動物園行政大樓2F大型會議室正門",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9973069,
+            121.5822454
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da443ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.99831508210729,
+        "lng": 121.57960061546339
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5000708,
+          "title": "動物園-遊客中心-入口處廣場右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9983637,
+            121.5809971
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000845,
+          "title": "動物園-臺灣動物區-水獺",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9976089,
+            121.5801898
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000846,
+          "title": "動物園-臺灣動物區-梅花鹿涼亭",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9981386,
+            121.5806374
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000847,
+          "title": "動物園-臺灣區入口處(旅客服務中心右側廁所)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.998069,
+            121.5811581
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000848,
+          "title": "動物園-入口-外牆",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9987001,
+            121.5811064
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da46bffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 24.995129303377446,
+        "lng": 121.58710500868385
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 5000709,
+          "title": "動物園-節能屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9953554,
+            121.5857219
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000710,
+          "title": "動物園-河馬廣場餐飲區-左側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9953323,
+            121.5871924
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000711,
+          "title": "動物園-河馬廣場餐飲區-右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9953469,
+            121.5869714
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000712,
+          "title": "動物園-河馬教室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9948729,
+            121.5880336
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000713,
+          "title": "動物園-河馬浴場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9946276,
+            121.5878621
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000861,
+          "title": "動物園-非洲區-非洲象（涼亭編號37）",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9953267,
+            121.5883066
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000863,
+          "title": "動物園-非洲區-金剛猩猩(涼亭編號30)-1",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9936179,
+            121.5874757
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000864,
+          "title": "動物園-金剛猩猩(涼亭編號30)-2",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9936042,
+            121.5875005
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000865,
+          "title": "動物園-非洲區-獅子",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.994707,
+            121.5869889
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000866,
+          "title": "動物園-非洲區-長頸鹿",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9942584,
+            121.5861111
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da46fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.99596379978233,
+        "lng": 121.5903320357626
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5000714,
+          "title": "動物園-貓纜動物園站候車站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9949418,
+            121.5892989
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000854,
+          "title": "動物園-兩棲爬蟲館-民眾休息區及丹頂鶴",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9945662,
+            121.5899291
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000856,
+          "title": "動物園-兩棲爬蟲館-世界區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9945662,
+            121.5899291
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000857,
+          "title": "動物園-鳥園-水禽區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9959304,
+            121.589664
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000858,
+          "title": "動物園-鳥園-生態鳥",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9957538,
+            121.5894233
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da4a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.011362463247846,
+        "lng": 121.59040702781454
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002104,
+          "title": "臺北市殯葬管理處富德靈骨塔1F入門口左側服務中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0115438,
+            121.5914025
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da47bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.99713957726914,
+        "lng": 121.5849661939311
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002658,
+          "title": "動物園熊貓館3F321會議室舞台左方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9973908,
+            121.5832247
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da463ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.997974121420057,
+        "lng": 121.58819316072002
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002665,
+          "title": "動物園檢疫中心2F會議室靠右側走道",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9989055,
+            121.5873667
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

@@ -1,0 +1,665 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5927ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.999490314312485,
+        "lng": 121.57423530043418
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000868,
+          "title": "捷運木柵站(文湖線)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.998231,
+            121.573147
+          ],
+          "address": "臺北市文山區木柵路四段135號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運木柵站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a599bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.005023659250146,
+        "lng": 121.55600260810088
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000869,
+          "title": "捷運辛亥站(文湖線)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.005483,
+            121.557102
+          ],
+          "address": "臺北市文山區辛亥路四段128號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運辛亥站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59c7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.00016991945262,
+        "lng": 121.55705324341756
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6000870,
+          "title": "捷運萬芳醫院站(文湖線)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.999335,
+            121.558095
+          ],
+          "address": "臺北市文山區興隆路三段113號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運萬芳醫院站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000971,
+          "title": "麥當勞台北興隆店",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.0001,
+            121.555881
+          ],
+          "address": "臺北市文山區興隆路三段54號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北興隆分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000972,
+          "title": "摩斯漢堡興隆店",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.00015,
+            121.555676
+          ],
+          "address": "臺北市文山區興隆路三段44號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司興隆分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000989,
+          "title": "臺北市立萬芳醫院",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.999963,
+            121.558387
+          ],
+          "address": "臺北市文山區興隆路三段111號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立萬芳醫院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a593bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.997820671453127,
+        "lng": 121.56778239278782
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000871,
+          "title": "捷運萬芳社區站(文湖線)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.998581,
+            121.568323
+          ],
+          "address": "臺北市文山區萬芳路60號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運萬芳社區站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5983ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.005858749492624,
+        "lng": 121.55922865220705
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000876,
+          "title": "辛亥國小地下停車場",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.006322,
+            121.558556
+          ],
+          "address": "臺北市文山區辛亥路四段103號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處辛亥國小地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000895,
+          "title": "車容坊加油站辛亥站",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.006421,
+            121.558255
+          ],
+          "address": "臺北市文山區辛亥路四段100號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "車容坊股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.001344134611525,
+        "lng": 121.55168906431932
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6000879,
+          "title": "興隆公園地下停車場(署)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.000594,
+            121.551152
+          ],
+          "address": "臺北市文山區仙岩路128號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處興隆公園地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000900,
+          "title": "興隆公園(署)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.000594,
+            121.551152
+          ],
+          "address": "臺北市文山區仙岩路128號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處南港公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000948,
+          "title": "文山區戶政事務所(景美所)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.001719,
+            121.551672
+          ],
+          "address": "臺北市文山區興隆路二段160號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區戶政事務所景美所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000952,
+          "title": "臺北市立圖書館文山分館",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.001719,
+            121.551672
+          ],
+          "address": "臺北市文山區興隆路二段160號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館文山分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000956,
+          "title": "文山社福中心",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.001745,
+            121.551297
+          ],
+          "address": "臺北市文山區興隆路二段160號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "文山社福中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000964,
+          "title": "興隆派出所",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.001608,
+            121.551265
+          ],
+          "address": "臺北市文山區興隆路二段156號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局興隆派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a591bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.99816043281112,
+        "lng": 121.5591915731847
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000890,
+          "title": "文山運動中心",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.997447,
+            121.559417
+          ],
+          "address": "臺北市文山區興隆路三段222號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "文山運動中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.989286374378512,
+        "lng": 121.56451895743632
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000891,
+          "title": "中油木柵加油站",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9885,
+            121.5641
+          ],
+          "address": "臺北市文山區木柵路三段2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司木柵站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000957,
+          "title": "文山第一分局",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988908,
+            121.563244
+          ],
+          "address": "臺北市文山區木柵路二段202號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局文山第一分局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.002179280888903,
+        "lng": 121.5549149444194
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000896,
+          "title": "福華加油站",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.000901,
+            121.553971
+          ],
+          "address": "臺北市文山區興隆路二段244巷1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "金台企業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5933ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00066527390038,
+        "lng": 121.56887024891812
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000898,
+          "title": "萬芳公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.001252,
+            121.568252
+          ],
+          "address": "臺北市文山區萬和街2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處南港公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a592bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.995810838931817,
+        "lng": 121.5699209048042
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000914,
+          "title": "慈光寺",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.995122,
+            121.569087
+          ],
+          "address": "臺北市文山區萬芳路26巷5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "慈光寺",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a598fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.003849417794292,
+        "lng": 121.56136704121893
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000942,
+          "title": "臺北市政府公務人員訓練處",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.004577,
+            121.56104
+          ],
+          "address": "臺北市文山區萬美街二段21巷20號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府公務人員訓練處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.002674903753082,
+        "lng": 121.56673173803055
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000961,
+          "title": "萬芳派出所",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.002343,
+            121.567089
+          ],
+          "address": "臺北市文山區萬美街一段50號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局萬芳派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00350979470278,
+        "lng": 121.56995812722143
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000968,
+          "title": "臺北市立圖書館萬芳民眾閱覽室",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            25.002215,
+            121.569178
+          ],
+          "address": "臺北市文山區萬美街25號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館萬芳民眾閱覽室",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.990121234239535,
+        "lng": 121.56774519983678
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000981,
+          "title": "統一星巴克木柵門市",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988791,
+            121.566918
+          ],
+          "address": "臺北市文山區木柵路三段75號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克股份有限公司木柵門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

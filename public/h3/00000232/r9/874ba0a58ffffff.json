@@ -1,0 +1,945 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5807ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.993984660197928,
+        "lng": 121.54306269082447
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5000114,
+          "title": "景美國中-E-景中街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9927755,
+            121.5427451
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000127,
+          "title": "景美國中-景中街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.992922,
+            121.5425953
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000425,
+          "title": "景華公園-景興路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9945581,
+            121.5445704
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000700,
+          "title": "景華公園-停車場樓梯入口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9952688,
+            121.5433919
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5803ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.99314935016506,
+        "lng": 121.53983725106309
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000116,
+          "title": "捷運景美站-N-出口1-羅斯福路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.992334,
+            121.540763
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002149,
+          "title": "文山景行區民活動中心6F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9921261,
+            121.5407642
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5877ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.98913057407442,
+        "lng": 121.54411327796274
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000125,
+          "title": "世新大學-W-木柵路一段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9885542,
+            121.5441534
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a580bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.990304710605038,
+        "lng": 121.53874986116949
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000638,
+          "title": "滬江中學-S-羅斯福路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9910242,
+            121.5399399
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000737,
+          "title": "滬江中學-N-羅斯福路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9911092,
+            121.5402592
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5887ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.000847429929745,
+        "lng": 121.53987407087284
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000751,
+          "title": "萬隆-S-羅斯福路六段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000022,
+            121.539543
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a580fffff",
+      "res": 9,
+      "count": 19,
+      "center": {
+        "lat": 24.99114002471749,
+        "lng": 121.54197524911102
+      },
+      "categories": {
+        "other": 19
+      },
+      "points": [
+        {
+          "id": 5001075,
+          "title": "文山二分局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9924215,
+            121.5413028
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002112,
+          "title": "臺北市藝文推廣處社會教育館文化劇場5F行政辦公室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9919791,
+            121.5412049
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002113,
+          "title": "圖書館景新分館1F館樂齡中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9900351,
+            121.5417927
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002114,
+          "title": "圖書館景新分館10F會議室後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9901703,
+            121.5418989
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002115,
+          "title": "圖書館景新分館5F自修室內",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9901362,
+            121.5420431
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002116,
+          "title": "圖書館景新分館6F兒童閱覽區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9904195,
+            121.5421926
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002117,
+          "title": "圖書館景新分館7F電腦區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9901916,
+            121.5419063
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002118,
+          "title": "圖書館景新分館8F陽臺右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9903052,
+            121.5419114
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002119,
+          "title": "圖書館景新分館9F陽臺右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9902037,
+            121.5419288
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002388,
+          "title": "動質處景美分處1F大門",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9898625,
+            121.5408975
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002467,
+          "title": "臺北市藝文推廣處文山劇場1F電梯前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9921008,
+            121.5411994
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002499,
+          "title": "臺北市文山婦女暨家庭服務中心3F大教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9901606,
+            121.5421925
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002804,
+          "title": "圖書館景新分館5F自修室前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9900351,
+            121.5417927
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002805,
+          "title": "圖書館景新分館9F外文書區上方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9897579,
+            121.5417403
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002806,
+          "title": "圖書館景新分館10F視聽室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9902387,
+            121.541977
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002920,
+          "title": "景美市場1F入口轉角處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9898266,
+            121.5411701
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003001,
+          "title": "臺北市藝文推廣處文山劇場B3F化妝室走廊中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9920763,
+            121.5412455
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003066,
+          "title": "臺北市藝文推廣處文山劇場B2F中控室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9919578,
+            121.5412683
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003067,
+          "title": "臺北市藝文推廣處文山劇場B2F大廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9919669,
+            121.541274
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5883ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.000012028529163,
+        "lng": 121.53664870018991
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5002125,
+          "title": "文山萬福區民活動中心B1F舞臺前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0006268,
+            121.5360191
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002264,
+          "title": "古亭地政2F地政講堂門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0002784,
+            121.5359729
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002265,
+          "title": "古亭地政3F測量課洽公櫃臺前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0003255,
+            121.5359414
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002266,
+          "title": "古亭地政3F謄本櫃臺13號前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0008165,
+            121.5360688
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002267,
+          "title": "古亭地政4F人事機構門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0003228,
+            121.535932
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002268,
+          "title": "古亭地政4F會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0008342,
+            121.5360121
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a58a7ffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.000508936467277,
+        "lng": 121.54846329643854
+      },
+      "categories": {
+        "other": 11
+      },
+      "points": [
+        {
+          "id": 5002127,
+          "title": "文山興豐區民活動中心8F教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0000283,
+            121.5469361
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002128,
+          "title": "興隆市場1F17攤位與70攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9999236,
+            121.5472295
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002129,
+          "title": "興隆市場1F38攤位與43攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0000215,
+            121.5471055
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002130,
+          "title": "興隆市場1F51攤位與52攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0000531,
+            121.5472396
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002131,
+          "title": "興隆市場1F55攤位與56攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9998619,
+            121.5472288
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002748,
+          "title": "文山興隆區民活動中心4F外教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9999504,
+            121.5471917
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002749,
+          "title": "文山興隆區民活動中心4F外大廳中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9999892,
+            121.5470737
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002750,
+          "title": "文山興隆區民活動中心4F內大廳中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.9998922,
+            121.5472347
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003291,
+          "title": "文山銀髮人才服務據點2F大教室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000355,
+            121.5490035
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003292,
+          "title": "文山婦女支持培力中心5F大會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0002776,
+            121.5488164
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003293,
+          "title": "文山興安區民活動中心5F廁所前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0002834,
+            121.5493802
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

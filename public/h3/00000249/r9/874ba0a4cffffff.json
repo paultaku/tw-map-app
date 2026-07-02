@@ -1,0 +1,561 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4c2fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0505226018226,
+        "lng": 121.57340824302587
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1800014,
+          "title": "八德路與塔悠路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049938,
+            121.57224
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-隔日01:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800347,
+          "title": "八德路四段　　626號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04996,
+            121.57405
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800350,
+          "title": "松河街　　　　70號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050854,
+            121.57419
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c87ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.060560942850113,
+        "lng": 121.56271469156968
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800055,
+          "title": "三民路與166巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061865,
+            121.56313
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-08:20、11:30-12:30、15:30-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800224,
+          "title": "富錦街　　　　三民路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060938,
+            121.56322
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-08:20",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c17ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055710764673105,
+        "lng": 121.56376544032864
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800056,
+          "title": "三民路與延壽街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056887,
+            121.56358
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、11:50-12:30、15:50-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800238,
+          "title": "三民路　　　　43巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056122,
+            121.56366
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、11:50-12:30、15:50-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cd3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055212151715764,
+        "lng": 121.55194793680614
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800072,
+          "title": "民生東路4段80巷與15弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056257,
+            121.55297
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:30-08:00、12:00-12:30、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800358,
+          "title": "敦化北路199巷　民生國小",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056612,
+            121.55217
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "平日05:00-08:10、11:50-12:30、15:50-16:30、17:20-17:50、假日05:00-07:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cd7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056047573132236,
+        "lng": 121.55517411937296
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800073,
+          "title": "光復北路與延壽街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05625,
+            121.555626
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:30、16:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c03ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0528679223177,
+        "lng": 121.56267756247738
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800122,
+          "title": "三民路與3巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052,
+            121.56379
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-08:20、11:50-12:20、15:50-16:20、17:25-17:45",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c8bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056882942523387,
+        "lng": 121.55840041416373
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800163,
+          "title": "延壽街402巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05637,
+            121.55718
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-07:30、16:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cc7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.054040173395926,
+        "lng": 121.55731261774476
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800179,
+          "title": "光復北路與健康路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05365,
+            121.55661
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ccfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.051197322442505,
+        "lng": 121.55622484350627
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800188,
+          "title": "南京東路4段與寧安街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05161,
+            121.55511
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-23:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800344,
+          "title": "南京東四段　　179巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051582,
+            121.556435
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c5bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.045511375112152,
+        "lng": 121.55404936157103
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800337,
+          "title": "市民四段　　　八德路三段106巷(南側)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044373,
+            121.554596
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c4bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.043503617529904,
+        "lng": 121.55618780182834
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800338,
+          "title": "光復南路　　　102號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043533,
+            121.55774
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c53ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048354389676724,
+        "lng": 121.55513709144832
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800343,
+          "title": "八德路三段　　155巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048096,
+            121.55507
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cdbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.052369374012905,
+        "lng": 121.55086024401396
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800345,
+          "title": "南京東四段　　13巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051817,
+            121.54993
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.061732874473627,
+        "lng": 121.55734967513159
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800361,
+          "title": "民權東四段　　100號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.062033,
+            121.55632
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:45.938Z"
+}

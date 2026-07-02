@@ -1,0 +1,187 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d30cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.081950336385965,
+        "lng": 121.60579513273566
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500061,
+          "title": "慈濟內湖聯絡處環保站",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.083426,
+            121.605294
+          ],
+          "address": "成功路5段168號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室入口(血壓器旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室入口(血壓器旁)"
+        },
+        {
+          "id": 5500062,
+          "title": "慈濟內湖聯絡處人文館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.083426,
+            121.605294
+          ],
+          "address": "成功路5段168號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "人文館入口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "人文館入口左側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3043ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.077934850251097,
+        "lng": 121.61007414530187
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501140,
+          "title": "康寧學校財團法人康寧大學",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.076465,
+            121.610531
+          ],
+          "address": "康寧路3段75巷137號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "學生宿舍",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學生宿舍"
+        },
+        {
+          "id": 5501141,
+          "title": "康寧學校財團法人康寧大學",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.076465,
+            121.610531
+          ],
+          "address": "康寧路3段75巷137號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "體育館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "體育館"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d30dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.083957891511165,
+        "lng": 121.60365567244203
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501464,
+          "title": "大湖公園游泳池",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.08283517,
+            121.6039818
+          ],
+          "address": "成功路五段31號",
+          "layoutType": "大型公眾浴場",
+          "hours": "詳見官方網站",
+          "description": "二樓健身房",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "二樓健身房"
+        },
+        {
+          "id": 5501679,
+          "title": "臺北捷運大湖公園站BR20",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.083867,
+            121.60209
+          ],
+          "address": "成功路5段11號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "自動提款機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "自動提款機旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3033ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08612290044712,
+        "lng": 121.62193686821817
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501588,
+          "title": "內溝溪生態展示館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.087244,
+            121.622896
+          ],
+          "address": "康樂街236之3號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "明舉山親山步道",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "明舉山親山步道"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

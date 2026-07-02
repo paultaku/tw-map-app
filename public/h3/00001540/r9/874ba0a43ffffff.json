@@ -1,0 +1,835 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4353ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.022602598032925,
+        "lng": 121.5249453696913
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100008,
+          "title": "羅斯福路",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.022885,
+            121.525523
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100432,
+          "title": "羅斯福路",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.022885,
+            121.525523
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a431bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.026281851269236,
+        "lng": 121.52925775834476
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 100160,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02657,
+            121.527504
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100178,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026505,
+            121.528326
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100363,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02657,
+            121.527504
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100381,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026505,
+            121.528326
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a430fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02510961190536,
+        "lng": 121.5346210151986
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100161,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025722,
+            121.536181
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100364,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025722,
+            121.536181
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a433bffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.025945179455043,
+        "lng": 121.53784645500143
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 100163,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025691,
+            121.53868
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100164,
+          "title": "瑞安街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025627,
+            121.539077
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100166,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025973,
+            121.536437
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100176,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025553,
+            121.537434
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100366,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025691,
+            121.53868
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100367,
+          "title": "瑞安街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025627,
+            121.539077
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100369,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025973,
+            121.536437
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100379,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025553,
+            121.537434
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4317ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.029960962704305,
+        "lng": 121.53357038519829
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100165,
+          "title": "新生南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030343,
+            121.533551
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100368,
+          "title": "新生南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030343,
+            121.533551
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a439bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03314048654741,
+        "lng": 121.52606924083719
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 100167,
+          "title": "愛國東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031948,
+            121.525628
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100169,
+          "title": "愛國東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031802,
+            121.525438
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100370,
+          "title": "愛國東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031948,
+            121.525628
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100372,
+          "title": "愛國東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031802,
+            121.525438
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.027453818084645,
+        "lng": 121.5238947656444
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100168,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026881,
+            121.523637
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100371,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026881,
+            121.523637
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4377ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.023101580154325,
+        "lng": 121.53675903586429
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100173,
+          "title": "建國南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.024084,
+            121.53738
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100376,
+          "title": "建國南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.024084,
+            121.53738
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4373ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.022266008451716,
+        "lng": 121.53353364789355
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100188,
+          "title": "溫州街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.021862,
+            121.532633
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100391,
+          "title": "溫州街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.021862,
+            121.532633
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a437bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.019422323350852,
+        "lng": 121.53244630277351
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100190,
+          "title": "羅斯福路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.018915,
+            121.531326
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100393,
+          "title": "羅斯福路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.018915,
+            121.531326
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4337ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.029624208568432,
+        "lng": 121.54215950024528
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100193,
+          "title": "復興南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030503,
+            121.541635
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100396,
+          "title": "復興南路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030503,
+            121.541635
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a432fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.024772567907945,
+        "lng": 121.54321014868074
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100194,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0235719,
+            121.5424319
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100397,
+          "title": "和平東路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0235719,
+            121.5424319
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4357ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.023438321182127,
+        "lng": 121.52817047252897
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 100195,
+          "title": "師大路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.022434,
+            121.527519
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        },
+        {
+          "id": 100398,
+          "title": "師大路",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.022434,
+            121.527519
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "隨手清狗便，違者最高罰鍰新臺幣6",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "隨手清狗便，違者最高罰鍰新臺幣6"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.551Z"
+}

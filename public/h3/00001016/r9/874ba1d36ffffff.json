@@ -1,0 +1,821 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d367bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.070918977693076,
+        "lng": 121.5928462263172
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2700076,
+          "title": "好食城三總股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0718,
+            121.591982
+          ],
+          "address": "臺北市內湖區成功路2段325號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700087,
+          "title": "都城實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0718,
+            121.591982
+          ],
+          "address": "臺北市內湖區成功路2段325號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700117,
+          "title": "漢記股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0718,
+            121.591982
+          ],
+          "address": "臺北市內湖區成功路2段325號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700620,
+          "title": "明德素食園股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0718,
+            121.591982
+          ],
+          "address": "臺北市內湖區成功路2段325號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36bbffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.084295738883185,
+        "lng": 121.595060573572
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 2700426,
+          "title": "豆府股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084081,
+            121.594547
+          ],
+          "address": "臺北市內湖區成功路四段188號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700855,
+          "title": "囍瓦逸國際有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084199,
+            121.595941
+          ],
+          "address": "臺北市內湖區成功路4段203號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701002,
+          "title": "台鋼漢堡王股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.083355,
+            121.593582
+          ],
+          "address": "臺北市內湖區成功路4段178號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701011,
+          "title": "潤泰建設股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084081,
+            121.594547
+          ],
+          "address": "臺北市內湖區成功路四段188號1樓及2樓及2樓之1、金龍路6號8號及成功路4段188號B1~B3及5-7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701145,
+          "title": "京老滿餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084081,
+            121.594547
+          ],
+          "address": "臺北市內湖區成功路四段188號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701164,
+          "title": "瓦城泰統股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084081,
+            121.594547
+          ],
+          "address": "臺北市內湖區成功路四段188號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702223,
+          "title": "立誠文創實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.083355,
+            121.593582
+          ],
+          "address": "臺北市內湖區成功路4段178號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702556,
+          "title": "灶咖百味隱食坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084738,
+            121.593361
+          ],
+          "address": "臺北市內湖區金龍路54號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3617ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.081453582726574,
+        "lng": 121.59397215582398
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2700487,
+          "title": "路易莎職人咖啡股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082279,
+            121.592862
+          ],
+          "address": "臺北市內湖區成功路4段75號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700745,
+          "title": "泰發餐飲有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082996,
+            121.593819
+          ],
+          "address": "臺北市內湖區成功路4段147號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36c3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.0789488040249,
+        "lng": 121.5842896476909
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 2700658,
+          "title": "港紳有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07832,
+            121.584047
+          ],
+          "address": "臺北市內湖區文德路212號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701246,
+          "title": "安心食品服務股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07832,
+            121.584047
+          ],
+          "address": "臺北市內湖區文德路212號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701871,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07832,
+            121.584047
+          ],
+          "address": "臺北市內湖區文德路212號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702202,
+          "title": "燦坤實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07832,
+            121.584047
+          ],
+          "address": "臺北市內湖區文德路212號B2~2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702274,
+          "title": "悠旅生活事業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07832,
+            121.584047
+          ],
+          "address": "臺北市內湖區文德路212號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702580,
+          "title": "神來麻辣鍋專賣店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.078769,
+            121.585012
+          ],
+          "address": "臺北市內湖區文德路159號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d368fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.083460869313402,
+        "lng": 121.59183290701797
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 2700771,
+          "title": "七海餐飲事業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.083048,
+            121.593301
+          ],
+          "address": "臺北市內湖區成功路四段166號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701278,
+          "title": "寶雅國際股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082564,
+            121.591843
+          ],
+          "address": "臺北市內湖區成功路4段30巷16號B1、成功路4段30巷28弄2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701638,
+          "title": "台灣屈臣氏個人用品商店股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082044,
+            121.592009
+          ],
+          "address": "台北市內湖區成功路四段46號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701835,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08284,
+            121.59183
+          ],
+          "address": "臺北市內湖區成功路四段30巷28弄29號及B1、成功路四段30巷40號及B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702707,
+          "title": "宜香自助餐店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084081,
+            121.592809
+          ],
+          "address": "臺北市內湖區內湖里內湖路2段３９３號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3613ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.08061870868949,
+        "lng": 121.59074454103954
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2700825,
+          "title": "嘉穗創意食品股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.079868,
+            121.58978
+          ],
+          "address": "臺北市內湖區成功路三段146號1樓、148號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701187,
+          "title": "三商餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08009,
+            121.590497
+          ],
+          "address": "臺北市內湖區成功路3段175號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701466,
+          "title": "家福股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.080933,
+            121.590559
+          ],
+          "address": "臺北市內湖區成功路三段174巷8號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3693ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.087475066591836,
+        "lng": 121.58755450149579
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2701838,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.088151,
+            121.587191
+          ],
+          "address": "臺北市內湖區金龍路215號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702406,
+          "title": "隧道口小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08658,
+            121.588143
+          ],
+          "address": "臺北市內湖區金龍路180號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082288404550667,
+        "lng": 121.5971998826623
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701875,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08126,
+            121.596442
+          ],
+          "address": "臺北市內湖區星雲街163號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.069249246263464,
+        "lng": 121.58639129885292
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701893,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.067889,
+            121.585859
+          ],
+          "address": "臺北市內湖區民權東路6段90巷18號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.085965321338502,
+        "lng": 121.60151624281514
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2701896,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.086137,
+            121.601522
+          ],
+          "address": "臺北市內湖區大湖山莊街148號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702499,
+          "title": "水中鮮小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084854,
+            121.600506
+          ],
+          "address": "臺北市內湖區成功路四段305、307號1樓及B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.078113773421737,
+        "lng": 121.58106236915597
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702343,
+          "title": "煆鮮活蝦料理餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.078643,
+            121.580008
+          ],
+          "address": "臺北市內湖區文德路13號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d361bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07777646605897,
+        "lng": 121.58965619723368
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702494,
+          "title": "神牛日式燒肉店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0788,
+            121.588736
+          ],
+          "address": "臺北市內湖區文德路240號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.030Z"
+}

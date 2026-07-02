@@ -1,0 +1,699 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4993ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05352362368688,
+        "lng": 121.59491032582355
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600354,
+          "title": "木麻黃",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0536,
+            121.5935
+          ],
+          "address": "臺北市南港區西新里向陽路31號(玉成國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區玉成國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49d7ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.04783729778106,
+        "lng": 121.5927336304698
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 600360,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0491,
+            121.5933
+          ],
+          "address": "臺北市南港區新光里昆陽街152巷33號新勝公園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600369,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0484,
+            121.5937
+          ],
+          "address": "臺北市南港區新光里昆陽街164號西邊圍牆",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局(新視紀整合行銷傳播股份有限公司代管)、臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600370,
+          "title": "臭娘子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0484,
+            121.594
+          ],
+          "address": "臺北市南港區新光里昆陽街173號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "映東騰社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600371,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0484,
+            121.5939
+          ],
+          "address": "臺北市南港區新光里昆陽街177號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600372,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0482,
+            121.5935
+          ],
+          "address": "臺北市南港區新光里昆陽街185號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601472,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0484,
+            121.5936
+          ],
+          "address": "臺北市南港區新光里昆陽街164號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府文化局(新視紀整合行銷傳播股份有限公司代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602910,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0477,
+            121.5933
+          ],
+          "address": "臺北市南港區新光里昆陽街171巷北側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部胸腔病院(國家住宅及都市更新中心代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a499bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.050680501682663,
+        "lng": 121.59382196706194
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600366,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0499,
+            121.5947
+          ],
+          "address": "臺北市南港區新光里南港區昆陽街157巷人行道之花台內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044159284849055,
+        "lng": 121.58841797778031
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 600373,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0443,
+            121.5873
+          ],
+          "address": "臺北市南港區成福里東新街108巷23號成德國中校園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立成德國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600374,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0444,
+            121.5877
+          ],
+          "address": "臺北市南港區成福里東新街108巷23號成德國中校園內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立成德國民中學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4953ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0401418785792,
+        "lng": 121.59269610050188
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600375,
+          "title": "烏來冬青",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0404,
+            121.5925
+          ],
+          "address": "臺北市南港區成福里南港公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49cbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.042150644339877,
+        "lng": 121.59055702379432
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 600376,
+          "title": "烏心石",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0421,
+            121.592
+          ],
+          "address": "臺北市南港區成福里南港公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 600377,
+          "title": "相思樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0426,
+            121.5919
+          ],
+          "address": "臺北市南港區成福里南港公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601044,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0416,
+            121.5908
+          ],
+          "address": "臺北市南港區成福里後山埤公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市政府都市發展局代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601351,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0414,
+            121.5914
+          ],
+          "address": "臺北市南港區成福里後山埤公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(臺北市政府都市發展局代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49b7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.054018853918794,
+        "lng": 121.6067328545379
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 600378,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0536,
+            121.608
+          ],
+          "address": "臺北市南港區南港里南港區市民大道八段367號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府社會局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601435,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0536,
+            121.6061
+          ],
+          "address": "臺北市南港區東明里瓶蓋印象公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(南港區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601436,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0538,
+            121.6061
+          ],
+          "address": "臺北市南港區東明里瓶蓋印象公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(南港區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601437,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0539,
+            121.6055
+          ],
+          "address": "臺北市南港區東明里南港路二段28號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "中華電信股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601438,
+          "title": "苦楝",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.054,
+            121.6053
+          ],
+          "address": "臺北市南港區東明里南港路二段28號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "中華電信股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4997ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05435828557664,
+        "lng": 121.5981379314252
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600379,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0543,
+            121.5972
+          ],
+          "address": "臺北市南港區東新里南港路二段240號新福宮旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a498bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.04867196844777,
+        "lng": 121.59596113254972
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 601705,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0483,
+            121.5961
+          ],
+          "address": "臺北市南港區新光里南港區龍華街中段上邊坡 (衛生福利部食品藥物管理署區域角落)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601706,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.048,
+            121.5959
+          ],
+          "address": "臺北市南港區新光里南港區昆陽街163巷5號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601707,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.048,
+            121.5958
+          ],
+          "address": "臺北市南港區新光里南港區昆陽街163巷龍華街旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601708,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0487,
+            121.5958
+          ],
+          "address": "臺北市南港區新光里南港區昆陽街163巷1號道路旁較靠近2號側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601709,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0488,
+            121.5956
+          ],
+          "address": "臺北市南港區新光里南港區昆陽街163巷1號前方道路旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601832,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0486,
+            121.5963
+          ],
+          "address": "臺北市南港區新光里臺北市南港區昆陽街163巷5號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "衛生福利部食品藥物管理署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49c3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04499401199559,
+        "lng": 121.5916453160472
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602877,
+          "title": "大葉雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0451,
+            121.5925
+          ],
+          "address": "臺北市信義區中坡里南港公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署(臺北市政府工務局新建工程處辦理)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.042985323740652,
+        "lng": 121.59378442234897
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 603129,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0431,
+            121.5927
+          ],
+          "address": "臺北市南港區成福里南港公園內靠近東新街170巷斜對面電話亭旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

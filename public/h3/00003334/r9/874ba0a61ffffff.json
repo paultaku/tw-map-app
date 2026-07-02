@@ -1,0 +1,483 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6103ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.095000640763953,
+        "lng": 121.51777365010938
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900000,
+          "title": "407肌力訓練",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0937,
+            121.5184
+          ],
+          "address": "臺北市士林區中正路407號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0988299805",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6187ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.10268777236134,
+        "lng": 121.51781018112177
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900001,
+          "title": "Barbell University 槓鈴學院",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1027,
+            121.5193
+          ],
+          "address": "臺北市士林區福國路100之3號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900007,
+          "title": "Curves 芝山文林店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1035,
+            121.5172
+          ],
+          "address": "臺北市士林區文林路762號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6133ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.096673037024313,
+        "lng": 121.52422427876064
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900004,
+          "title": "Curves 士林店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0972,
+            121.5246
+          ],
+          "address": "臺北市士林區中山北路五段687號2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6163ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.088148930914286,
+        "lng": 121.52096233499714
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900008,
+          "title": "Curves 劍潭店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0881,
+            121.5196
+          ],
+          "address": "臺北市士林區承德路四段191號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900023,
+          "title": "士林運動中心",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0893,
+            121.5213
+          ],
+          "address": "臺北市士林區士商路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900028,
+          "title": "A FITNESS 改變健身工作室",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0891,
+            121.5222
+          ],
+          "address": "臺北市士林區基河路138號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6123ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.094667874614974,
+        "lng": 121.52636237302795
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900010,
+          "title": "Fun Fitness 運動旅程士林館",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0939,
+            121.5252
+          ],
+          "address": "臺北市士林區中山北路五段519號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900013,
+          "title": "Refine Fitness 純淬健身士林店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.096,
+            121.5261
+          ],
+          "address": "臺北市士林區中正路122號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900015,
+          "title": "Surmount運動空間士林店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0957,
+            121.5271
+          ],
+          "address": "臺北市士林區中正路188號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6177ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.09099038150992,
+        "lng": 121.52204962739148
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900011,
+          "title": "POWER FIT運動工作室",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0901,
+            121.5226
+          ],
+          "address": "臺北市士林區大北路72號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61b7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.1043602467775,
+        "lng": 121.52426089616
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900012,
+          "title": "PQ FITNESS",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1047,
+            121.5246
+          ],
+          "address": "臺北市士林區忠誠路一段60號地下一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900024,
+          "title": "天母國際聯誼會",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1049,
+            121.5249
+          ],
+          "address": "臺北市士林區中山北路六段88號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6137ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.097509157100887,
+        "lng": 121.52744976166707
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900014,
+          "title": "sodafit",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0966,
+            121.5278
+          ],
+          "address": "臺北市士林區中山北路五段620號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0987669769",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a613bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.09383175021777,
+        "lng": 121.52313694197935
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900361,
+          "title": "艾珈堤 Yoga士林館",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0947,
+            121.524
+          ],
+          "address": "臺北市士林區中正路287號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "瑜珈教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6173ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.09015420078501,
+        "lng": 121.51882436059175
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900375,
+          "title": "紅石攀岩館 RedRock",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0896,
+            121.518
+          ],
+          "address": "臺北市士林區承德路四段261號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "撞球場及攀岩場",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "撞球場及攀岩場"
+        },
+        {
+          "id": 7900402,
+          "title": "士林運動中心",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0894,
+            121.5189
+          ],
+          "address": "臺北市士林區士商路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a616bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.085307398444424,
+        "lng": 121.51987506479647
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900403,
+          "title": "前港公園游泳池",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0857,
+            121.5187
+          ],
+          "address": "臺北市士林區前港街45號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內外游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內外游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

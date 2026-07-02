@@ -1,0 +1,981 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "other": 11
+      },
+      "points": [
+        {
+          "id": 7000112,
+          "title": "品牌牛仔USED",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034898,
+            121.49943
+          ],
+          "address": "臺北市萬華區西園路一段165號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000114,
+          "title": "Crystal Rose Ribbon Store 緞帶專賣",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03274,
+            121.50004
+          ],
+          "address": "臺北市萬華區艋舺大道188號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000116,
+          "title": "鳳‧衣美",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034651,
+            121.500716
+          ],
+          "address": "臺北市萬華區大理街45號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000121,
+          "title": "九段工坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034427,
+            121.499592
+          ],
+          "address": "臺北市萬華區大理街46號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000122,
+          "title": "永盛精品時裝",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034483,
+            121.500326
+          ],
+          "address": "臺北市萬華區大理街38號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000125,
+          "title": "洪勝美服裝行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0344,
+            121.499463
+          ],
+          "address": "臺北市萬華區西園路一段181號之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000126,
+          "title": "福勝睡衣行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033607,
+            121.498966
+          ],
+          "address": "臺北市萬華區西園路一段282巷10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000138,
+          "title": "凱達大飯店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033306,
+            121.499843
+          ],
+          "address": "臺北市萬華區艋舺大道167號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000146,
+          "title": "宏興服裝行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0343,
+            121.499464
+          ],
+          "address": "臺北市萬華區西園路一段183號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000147,
+          "title": "淑女服飾～文進睡衣系列",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034122,
+            121.498763
+          ],
+          "address": "臺北市萬華區西園路一段215號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000157,
+          "title": "魏大爺火鍋店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034165,
+            121.500277
+          ],
+          "address": "台北市萬華區大理街42巷5號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038995498816725,
+        "lng": 121.49925742688205
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000113,
+          "title": "阿猜嬤甜湯",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039864,
+            121.49862
+          ],
+          "address": "臺北市萬華區華西街3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4623ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.034982041599108,
+        "lng": 121.50353233824625
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000115,
+          "title": "寓見青旅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035791,
+            121.503288
+          ],
+          "address": "臺北市萬華區昆明街316號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000140,
+          "title": "吃喝玩樂整合行銷有限公司-MYDNA售票網",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034586,
+            121.502018
+          ],
+          "address": "臺北市萬華區大理街22號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000117,
+          "title": "西園29服飾創作基地 Fashion Institute of Taipei",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032343,
+            121.498175
+          ],
+          "address": "臺北市萬華區西園路二段9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4607ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.036152572463696,
+        "lng": 121.49817058586827
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7000120,
+          "title": "瘋殼子通訊龍山寺店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035852,
+            121.49946
+          ],
+          "address": "臺北市萬華區西園路一段153號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000124,
+          "title": "柳隅茶舍",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036142,
+            121.499523
+          ],
+          "address": "臺北市西園路一段145號B1-10",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000148,
+          "title": "九日咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036773,
+            121.499202
+          ],
+          "address": "臺北市萬華區廣州街213號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000153,
+          "title": "燒杯咖啡藝廚",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034796,
+            121.498823
+          ],
+          "address": "台北市萬華區西園路一段240號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000123,
+          "title": "老濟安 Healing Herbar",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04118,
+            121.500702
+          ],
+          "address": "臺北市萬華區西昌街84號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46afffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03983175508963,
+        "lng": 121.50248176000473
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000127,
+          "title": "iHERE 當地小茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039881,
+            121.502815
+          ],
+          "address": "臺北市萬華區貴陽街二段112號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000160,
+          "title": "協興蛋業",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039269,
+            121.501596
+          ],
+          "address": "臺北市萬華區康定路172巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a467bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0276233037428,
+        "lng": 121.49491019600555
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000129,
+          "title": "布田花生糖",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.026869,
+            121.495946
+          ],
+          "address": "臺北市萬華區東園街38號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.025616327635806,
+        "lng": 121.49704751749545
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7000130,
+          "title": "CURA PIZZA",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025811,
+            121.496444
+          ],
+          "address": "臺北市萬華區東園街68-9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "25.025811",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000151,
+          "title": "家吶子台式居酒屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025811,
+            121.496444
+          ],
+          "address": "臺北市萬華區東園街68-4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000155,
+          "title": "大春堂蔘藥行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.024813,
+            121.498102
+          ],
+          "address": "台北市萬華區德昌街76號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.042674595703705,
+        "lng": 121.50356867509312
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7000131,
+          "title": "世運食品",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042891,
+            121.504991
+          ],
+          "address": "臺北市萬華區成都路78號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000136,
+          "title": "町‧如固咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042019,
+            121.504709
+          ],
+          "address": "臺北市萬華區昆明街113號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000137,
+          "title": "町‧記憶旅店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0419,
+            121.504687
+          ],
+          "address": "臺北市萬華區昆明街119號1-7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000139,
+          "title": "町記憶旅店3館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.042565,
+            121.504651
+          ],
+          "address": "臺北市萬華區昆明街142號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000152,
+          "title": "惠安四神湯",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041599,
+            121.50257
+          ],
+          "address": "臺北市萬華區內江街142號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000142,
+          "title": "三六食粑",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036076,
+            121.500584
+          ],
+          "address": "臺北市萬華區三水街92號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000145,
+          "title": "旺旺屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04466,
+            121.502805
+          ],
+          "address": "臺北市萬華區康定路287像26-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000383,
+          "title": "台北漫步旅店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043876,
+            121.50237
+          ],
+          "address": "台北市萬華區成都路163號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4667ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0292957971464,
+        "lng": 121.50135855968297
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000150,
+          "title": "八鼎匠茶",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.029233,
+            121.49999
+          ],
+          "address": "臺北市萬華區西藏路197之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4603ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.035316260299084,
+        "lng": 121.49494641710433
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000156,
+          "title": "有時聚聚.時報本鋪書店咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035207,
+            121.496
+          ],
+          "address": "台北市萬華區和平西路三段240號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000159,
+          "title": "唯星蛋糕",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033911,
+            121.495526
+          ],
+          "address": "臺北市萬華區大理街144號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4637ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.037825041391397,
+        "lng": 121.50461926081998
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000161,
+          "title": "蔴油木子",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036615,
+            121.504285
+          ],
+          "address": "108台北市萬華區廣州街77號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4627ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.035818202444403,
+        "lng": 121.50675679253264
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000190,
+          "title": "鬍鬚張台北南門店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035229,
+            121.507752
+          ],
+          "address": "臺北市中正區延平南路161號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000204,
+          "title": "公克咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035342,
+            121.508073
+          ],
+          "address": "台北市中正區延平南路157巷5號1樓(面對廣州街8巷)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026452552513188,
+        "lng": 121.50027170369371
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000394,
+          "title": "日益豐禾",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025334,
+            121.500831
+          ],
+          "address": "台北市萬華區萬大路277巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.158Z"
+}

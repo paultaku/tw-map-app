@@ -1,0 +1,2559 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4ed7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.036146441543004,
+        "lng": 121.54756037293191
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1900001,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03507,
+            121.54708
+          ],
+          "address": "四維路52巷10號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900015,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03558,
+            121.54612
+          ],
+          "address": "大安路1段193-2號旁與四維路44巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900017,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.03558,
+            121.54612
+          ],
+          "address": "撫遠街與新東街30巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901093,
+          "title": "台北市弱勢彩券聯合促進會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03651365,
+            121.5462726
+          ],
+          "address": "大安路1段175巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23026138",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901148,
+          "title": "臺北市身障者互助關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03638,
+            121.54801
+          ],
+          "address": "四維路22巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e17ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03580915015039,
+        "lng": 121.556150761128
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1900014,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03539,
+            121.55465
+          ],
+          "address": "仁愛路4段300巷35弄2號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900016,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03539,
+            121.55465
+          ],
+          "address": "信義路6段76巷2弄47號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900751,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03523,
+            121.55621
+          ],
+          "address": "光復南路456巷29號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901022,
+          "title": "台北市身心障礙者權益促進會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03702,
+            121.55566
+          ],
+          "address": "延吉街233巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e5bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.025607983934616,
+        "lng": 121.54643587349727
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1900024,
+          "title": "台北市自閉症家長協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02625,
+            121.54673
+          ],
+          "address": "和平東路3段1巷成功市場對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25953937",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900142,
+          "title": "台北市康復之友協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02587673,
+            121.5470118
+          ],
+          "address": "和平東路3段1巷25號對面的群賢公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27652810",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900748,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02433,
+            121.54685
+          ],
+          "address": "臥龍街15號對面電箱",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900929,
+          "title": "台北市身心障礙者自立更生創業協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02599,
+            121.54506
+          ],
+          "address": "和平東路2段311巷36號對面電箱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27099961",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e47ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.02727866022692,
+        "lng": 121.55288765987407
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1900038,
+          "title": "臺北市視障樂活福利促進會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.027363,
+            121.553362
+          ],
+          "address": "通化街178號電箱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25993105",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900595,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0282723,
+            121.5524581
+          ],
+          "address": "樂利路11巷32號通化街交會處",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900699,
+          "title": "臺北市愛盲協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02704,
+            121.55311
+          ],
+          "address": "通化街184巷3號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900700,
+          "title": "臺北市愛盲協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02606,
+            121.55247
+          ],
+          "address": "通化街200巷口變電箱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900950,
+          "title": "臺北市至善無障愛關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.028486,
+            121.5537667
+          ],
+          "address": "通化街165巷口電線桿旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27096731",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900989,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02809,
+            121.55374
+          ],
+          "address": "通化街171巷2號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4edbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.032467640327113,
+        "lng": 121.5432470155768
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900040,
+          "title": "臺北市視障樂活福利促進會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.032775,
+            121.541939
+          ],
+          "address": "信義路3段166巷3號對面變電箱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25993105",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900985,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03272,
+            121.54333
+          ],
+          "address": "復興南路2段12巷1號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e77ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.028949128756718,
+        "lng": 121.5593398951451
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1900050,
+          "title": "臺北市視障樂活福利促進會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.028709,
+            121.559863
+          ],
+          "address": "吳興街156巷22弄25號左邊公園變電箱旁人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25993105",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900395,
+          "title": "台北市肌萎縮症病友協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02938034,
+            121.5597259
+          ],
+          "address": "基隆路2段79巷32號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27272321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900415,
+          "title": "台北市肌萎縮症病友協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03002132,
+            121.5584251
+          ],
+          "address": "基隆路2段79巷1號對面圍牆邊人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27272321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900517,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0282149,
+            121.5593489
+          ],
+          "address": "吳興街156巷61號對面人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900526,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02836377,
+            121.5597628
+          ],
+          "address": "吳興街156巷40弄2號對面公園轉角",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e2bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.029784285080297,
+        "lng": 121.56256618107946
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1900051,
+          "title": "臺北市視障樂活福利促進會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.029252,
+            121.561221
+          ],
+          "address": "吳興街156巷2弄12號對面人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25993105",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900092,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03095881,
+            121.5618508
+          ],
+          "address": "忠孝東路4段553巷52弄口對面人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900516,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02999655,
+            121.5630116
+          ],
+          "address": "莊敬路239巷12號對面(1弄路口)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900542,
+          "title": "台北市行無礙資源推廣協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0300084,
+            121.5611034
+          ],
+          "address": "吳興街118號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25994649",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eafffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03747959326864,
+        "lng": 121.5626033072323
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900074,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03751556,
+            121.5635681
+          ],
+          "address": "杭州南路1段75號前公車站",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eb7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04233097373262,
+        "lng": 121.56155259342545
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900093,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.042858,
+            121.562745
+          ],
+          "address": "忠孝東路4段559巷14號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eabffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03664439770242,
+        "lng": 121.55937697808157
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900096,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03724161,
+            121.5593007
+          ],
+          "address": "嘉興街175巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900322,
+          "title": "臺北市唐氏症家長協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.036448,
+            121.560684
+          ],
+          "address": "仁愛路4段512巷16號之1對面（廟後方）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)22782321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900470,
+          "title": "臺北市弱勢者發展協會",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.035389,
+            121.55936
+          ],
+          "address": "健康路182號對面（長壽公園）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25429529",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e73ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.028113920468215,
+        "lng": 121.5561137214051
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1900097,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02798217,
+            121.5567108
+          ],
+          "address": "福德街268巷7弄口電線桿旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900483,
+          "title": "臺北市視障藝文發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0285201,
+            121.5554823
+          ],
+          "address": "臨江街40巷59號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900990,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02881,
+            121.55666
+          ],
+          "address": "基隆路2段132巷2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901170,
+          "title": "臺北市恩寶身心障礙者關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02861,
+            121.55493
+          ],
+          "address": "通化街39巷50弄101號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecfffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03129507578262,
+        "lng": 121.54861104489814
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900112,
+          "title": "社團法人台北生命勵樂活輔健會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031716,
+            121.550157
+          ],
+          "address": "安和路2段44巷9號斜對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27299347",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901108,
+          "title": "臺北市身心障礙者健康關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03144,
+            121.54957
+          ],
+          "address": "敦化南路2段55巷6號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901168,
+          "title": "臺北市恩寶身心障礙者關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03104,
+            121.54805
+          ],
+          "address": "四維路154巷口對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e1bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.032130431488273,
+        "lng": 121.55183698559915
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1900113,
+          "title": "台北市康復之友協會",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.031353,
+            121.5518
+          ],
+          "address": "士東路120巷20弄15號斜對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27652810",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900141,
+          "title": "台北市康復之友協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0309315,
+            121.5507023
+          ],
+          "address": "敦化南路2段63巷33號變電箱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27652810",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900358,
+          "title": "財團法人台北市樹仁社會福利基金會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03105906,
+            121.5525606
+          ],
+          "address": "安和路2段57號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)28936122",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900701,
+          "title": "臺北市愛盲協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03261,
+            121.55228
+          ],
+          "address": "安和路2段8號旁文昌街口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900988,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03272,
+            121.55339
+          ],
+          "address": "通安街5號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901031,
+          "title": "臺北市身障關愛福利協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0321278,
+            121.5526585
+          ],
+          "address": "安和路二段23巷口左側側面燈桿旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0933-494-219",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ebbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03865248330501,
+        "lng": 121.55723850590495
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900318,
+          "title": "臺北市唐氏症家長協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03943,
+            121.55635
+          ],
+          "address": "光復南路290巷25號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)22782321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900978,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03831,
+            121.55746
+          ],
+          "address": "光復南路348號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e63ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.02610547710195,
+        "lng": 121.55825213547183
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900387,
+          "title": "財團法人伊甸社會福利基金會附設臺北市私立八德服務中心",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.025796,
+            121.55742
+          ],
+          "address": "信安街83號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25777636",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900524,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02706951,
+            121.5582503
+          ],
+          "address": "信安街50號對面公園轉角",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900901,
+          "title": "台北市身障體育發展協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02640251,
+            121.5569924
+          ],
+          "address": "嘉興街181巷9弄13號轉角",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0910-111-255",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e7bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02527026459412,
+        "lng": 121.55502601353714
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900410,
+          "title": "台北市肌萎縮症病友協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02559243,
+            121.5540915
+          ],
+          "address": "基隆路2段159巷口右側人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27272321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e3bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0317926986785,
+        "lng": 121.56042767699634
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900412,
+          "title": "台北市肌萎縮症病友協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03130973,
+            121.5601483
+          ],
+          "address": "吳興街44-1號對面路燈邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27272321",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e0bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.03012223859776,
+        "lng": 121.55397533811244
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1900464,
+          "title": "臺北市弱勢者發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02906218,
+            121.5530541
+          ],
+          "address": "樂利路27巷1號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25429529",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900484,
+          "title": "臺北市視障藝文發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0291894,
+            121.5542089
+          ],
+          "address": "通化街123巷2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901032,
+          "title": "臺北市身障關愛福利協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03037285,
+            121.5524143
+          ],
+          "address": "安和路二段71巷口左側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0933-494-219",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901053,
+          "title": "臺北市身障福利發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0309254,
+            121.5544259
+          ],
+          "address": "通化街39巷變電箱旁邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901156,
+          "title": "臺北市弱勢者就業促進協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03061,
+            121.55322
+          ],
+          "address": "通安街64號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901157,
+          "title": "臺北市弱勢者就業促進協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03166,
+            121.55394
+          ],
+          "address": "通化街24巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ec3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033303095700884,
+        "lng": 121.5464727835959
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900489,
+          "title": "臺北市視障藝文發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0342449,
+            121.5461308
+          ],
+          "address": "大安路1段235號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e4bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.023599683765298,
+        "lng": 121.54857410632117
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900519,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02394715,
+            121.549008
+          ],
+          "address": "敦化南路2段293巷人行道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900601,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02388,
+            121.54795
+          ],
+          "address": "敦化南路2段172巷8弄5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900747,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02403,
+            121.55006
+          ],
+          "address": "樂業街17號對面公佈欄",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e57ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.029286930623833,
+        "lng": 121.55074933699262
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1900520,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03028417,
+            121.5505222
+          ],
+          "address": "敦化南路2段81巷45弄3號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900615,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0286952,
+            121.5506688
+          ],
+          "address": "安和路2段141號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900956,
+          "title": "臺北市至善無障愛關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02988479,
+            121.5514374
+          ],
+          "address": "敦化南路2段81巷46號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27096731",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901149,
+          "title": "臺北市身障者互助關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02932,
+            121.55132
+          ],
+          "address": "安和路2段123號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901158,
+          "title": "臺北市弱勢者就業促進協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02808,
+            121.55101
+          ],
+          "address": "樂利路10號桿邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ec7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.034138499137462,
+        "lng": 121.54969866387056
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1900523,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03351807,
+            121.5503413
+          ],
+          "address": "仁愛路4段122巷底與信義路4段",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900608,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.035417,
+            121.549533
+          ],
+          "address": "陽明山仰德大道1段91巷旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901033,
+          "title": "臺北市身障關愛福利協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03550715,
+            121.5495155
+          ],
+          "address": "敦化南路1段295巷4號對面電桿下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0933-494-219",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901147,
+          "title": "臺北市身障者互助關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03421,
+            121.54821
+          ],
+          "address": "四維路76巷口對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901154,
+          "title": "臺北市弱勢者就業促進協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03291,
+            121.55018
+          ],
+          "address": "文昌街39號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e67ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026940637655855,
+        "lng": 121.56147836960484
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900525,
+          "title": "台北市角落關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02772426,
+            121.5606099
+          ],
+          "address": "信安街底吳興街156巷33弄交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25537117",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e4fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.024435000144507,
+        "lng": 121.55180000381542
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1900532,
+          "title": "台北市行無礙資源推廣協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.024157,
+            121.5530789
+          ],
+          "address": "崇德街96號對面變電箱旁人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25994649",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900603,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.023667,
+            121.5509903
+          ],
+          "address": "臥龍街199號里公告欄旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900887,
+          "title": "台北市艾馨公益慈善會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.023247,
+            121.550363
+          ],
+          "address": "樂業街41巷14號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23360896",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900894,
+          "title": "台北市艾馨公益慈善會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.023275,
+            121.551492
+          ],
+          "address": "基隆路2段209巷口電線杆旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23360896",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901128,
+          "title": "臺北市身心障礙者創業發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02478,
+            121.55159
+          ],
+          "address": "和平東路3段119巷6號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e6fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.024096908501274,
+        "lng": 121.56039058030734
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900538,
+          "title": "台北市行無礙資源推廣協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.0235593,
+            121.5589576
+          ],
+          "address": "吳興街284巷22弄92號(黎雙公園)人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25994649",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e13ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.034973850624695,
+        "lng": 121.55292465638611
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900594,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0345287,
+            121.5532873
+          ],
+          "address": "安和路1段127巷14號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900752,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03548,
+            121.55161
+          ],
+          "address": "敦化南路1段295巷與信義路4段199巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901129,
+          "title": "臺北市身心障礙者創業發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03579,
+            121.55323
+          ],
+          "address": "安和路1段109巷底電信設備邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e83ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.039825100640915,
+        "lng": 121.55187396835886
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900596,
+          "title": "臺北市私立育成裕民發展中心",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0385566,
+            121.5515993
+          ],
+          "address": "安和路1段49巷9號旁邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27062686",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901037,
+          "title": "臺北市身障關愛福利協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04079224,
+            121.5530256
+          ],
+          "address": "忠孝東路4段216巷11弄口路名牌前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0933-494-219",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901162,
+          "title": "臺北市弱勢者就業促進協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04034,
+            121.55081
+          ],
+          "address": "敦化南路1段233巷24號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e43ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.026443348044996,
+        "lng": 121.5496617105666
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900703,
+          "title": "臺北市愛盲協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02571,
+            121.55024
+          ],
+          "address": "安和路2段217巷口電氣設備旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901150,
+          "title": "臺北市身障者互助關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.02511,
+            121.54952
+          ],
+          "address": "安和路2段184巷7號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e93ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.041832888012404,
+        "lng": 121.54973561814971
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900716,
+          "title": "台北市身心障礙運動協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04255816,
+            121.5507325
+          ],
+          "address": "敦化南路1段187巷29號對面圍牆旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901113,
+          "title": "臺北市身心障礙者健康關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04251,
+            121.54963
+          ],
+          "address": "敦化南路1段187巷4號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901124,
+          "title": "臺北市身心障礙者創業發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04037,
+            121.54971
+          ],
+          "address": "敦化南路1段233巷20號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e0fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03095749462002,
+        "lng": 121.55720145145186
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900730,
+          "title": "台北市身心障礙運動協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03169745,
+            121.5565928
+          ],
+          "address": "光復南路628巷與文昌街280巷交叉口路燈邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901054,
+          "title": "臺北市身障福利發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03056536,
+            121.5570789
+          ],
+          "address": "光復南路676巷2號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25912695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eb3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041495734693715,
+        "lng": 121.55832627286124
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900738,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04215,
+            121.55686
+          ],
+          "address": "光復南路180巷13號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e8bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.036981840761428,
+        "lng": 121.55078630502418
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900755,
+          "title": "臺北市身心障礙者創業輔導發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03712,
+            121.54967
+          ],
+          "address": "仁愛路4段112巷3弄口對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27775940",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e8fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.037817188019492,
+        "lng": 121.55401234935339
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900895,
+          "title": "台北市艾馨公益慈善會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.038938,
+            121.554111
+          ],
+          "address": "仁愛路4段345巷15弄2號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23360896",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900984,
+          "title": "台北市身心障礙運動體育會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03841,
+            121.55542
+          ],
+          "address": "光復南路346巷底",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e97ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04266827876235,
+        "lng": 121.55296165387449
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1900898,
+          "title": "台北市艾馨公益慈善會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.042475,
+            121.554192
+          ],
+          "address": "延吉街72號旁(7-11超商的招牌下)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23360896",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1900899,
+          "title": "台北市艾馨公益慈善會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.043538,
+            121.553859
+          ],
+          "address": "延吉街62巷6弄2號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)23360896",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ed3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.035310990376374,
+        "lng": 121.54433455309123
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900933,
+          "title": "台北市身心障礙者自立更生創業協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03538,
+            121.54309
+          ],
+          "address": "信義路3段147巷15弄27號邊",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27099961",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e2fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03061938942677,
+        "lng": 121.56579257919363
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900936,
+          "title": "台北市身心障礙者自立更生創業協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02987,
+            121.56559
+          ],
+          "address": "松智路39巷口人行道",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27099961",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023261743727737,
+        "lng": 121.55716439797665
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1900969,
+          "title": "臺北市至善無障愛關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.023333,
+            121.555466
+          ],
+          "address": "延吉街261號之3電桿旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)27096731",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e87ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.04066044365908,
+        "lng": 121.55510006450082
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1900999,
+          "title": "台北市身心障礙者保護協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04065,
+            121.55659
+          ],
+          "address": "光復南路240巷23號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901019,
+          "title": "台北市身心障礙者權益促進會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04001,
+            121.55658
+          ],
+          "address": "光復南路280巷24號旁(前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)25975091",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1901036,
+          "title": "臺北市身障關愛福利協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03992438,
+            121.5540415
+          ],
+          "address": "忠孝東路4段216巷27弄16號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0933-494-219",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e9bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03898970565136,
+        "lng": 121.54864798444986
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1901127,
+          "title": "臺北市身心障礙者創業發展協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03854,
+            121.54799
+          ],
+          "address": "仁愛路4段91巷3號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e07ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033800987035967,
+        "lng": 121.55828920367743
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1901143,
+          "title": "臺北市身障者互助關懷協會",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.03448,
+            121.55964
+          ],
+          "address": "光復南路473巷11弄60號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0304596681386,
+        "lng": 121.54538521644197
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1901169,
+          "title": "臺北市恩寶身心障礙者關懷協會",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03125,
+            121.54599
+          ],
+          "address": "大安路2段90巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)26886212",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:46.255Z"
+}

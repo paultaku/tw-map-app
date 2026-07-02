@@ -1,0 +1,559 @@
+{
+  "cells": [
+    {
+      "h3": "894ba569033ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.13644244510293,
+        "lng": 121.53944932395078
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 5500003,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國文化大學校本部大孝館(體育館)2樓，進入體育館後右手邊方向。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國文化大學校本部大孝館(體育館)2樓，進入體育館後右手邊方向。"
+        },
+        {
+          "id": 5500231,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國文化大學校本部大恩館2樓，學務處旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國文化大學校本部大恩館2樓，學務處旁"
+        },
+        {
+          "id": 5500272,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "本校圖書館2樓文化咖啡旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校圖書館2樓文化咖啡旁"
+        },
+        {
+          "id": 5500506,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國文化大學校本部大雅館(女生宿舍)6樓，大廳左側。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國文化大學校本部大雅館(女生宿舍)6樓，大廳左側。"
+        },
+        {
+          "id": 5500913,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國文化大學校本部大慈館(女生宿舍)1樓，進入大廳後右轉再左轉，AED位於左側。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國文化大學校本部大慈館(女生宿舍)1樓，進入大廳後右轉再左轉，AED位於左側。"
+        },
+        {
+          "id": 5500917,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "中國文化大學校本部大倫館(男生宿舍)1樓，舍監辦公室前。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中國文化大學校本部大倫館(男生宿舍)1樓，舍監辦公室前。"
+        },
+        {
+          "id": 5502447,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "大孝館8樓 柏英廳外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大孝館8樓 柏英廳外"
+        },
+        {
+          "id": 5502448,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "大義館1樓 電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大義館1樓 電梯旁"
+        },
+        {
+          "id": 5502451,
+          "title": "中國文化大學 大恩館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.136543,
+            121.538749
+          ],
+          "address": "華岡路55號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "大成館1樓，政治學系辦公室對面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大成館1樓，政治學系辦公室對面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56906bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12508139754109,
+        "lng": 121.5350988671894
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500483,
+          "title": "財團法人台北市南海普陀山慧濟寺",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.12634,
+            121.536201
+          ],
+          "address": "中山北路七段190巷34-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "慧濟寺寺務處門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "慧濟寺寺務處門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569047ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.129089794185262,
+        "lng": 121.53082217794258
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500580,
+          "title": "天溪綠地游泳池",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.128423,
+            121.53118
+          ],
+          "address": "中山北路7段219巷3弄170號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "盥洗室出路口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "盥洗室出路口"
+        },
+        {
+          "id": 5500663,
+          "title": "天溪綠地游泳池",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.128423,
+            121.53118
+          ],
+          "address": "中山北路7段219巷3弄170號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口進入泳池旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口進入泳池旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569027ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.135274380007864,
+        "lng": 121.54481410274474
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500918,
+          "title": "臺北市政府工務局公園路燈工程管理處花卉試驗中心",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.134983,
+            121.54381
+          ],
+          "address": "仰德大道四段175巷32號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "綠化教室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "綠化教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56909bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.14078136063122,
+        "lng": 121.52658226278551
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501219,
+          "title": "陽明山臻愛樓",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1412,
+            121.527217
+          ],
+          "address": "泉源路220號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "民眾治喪場所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民眾治喪場所"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56908fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.139614014596063,
+        "lng": 121.53194642192186
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501233,
+          "title": "皇池溫泉御膳館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.13957167,
+            121.5302888
+          ],
+          "address": "紗帽路42-2號",
+          "layoutType": "大型公眾浴場",
+          "hours": "詳見官方網站",
+          "description": "1館大門入口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1館大門入口左側"
+        },
+        {
+          "id": 5502370,
+          "title": "皇池溫泉御膳館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.13957167,
+            121.5302888
+          ],
+          "address": "紗帽路42-2號",
+          "layoutType": "大型公眾浴場",
+          "hours": "詳見官方網站",
+          "description": "大門左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門左側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56908bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.138777756315484,
+        "lng": 121.52872055877474
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501251,
+          "title": "椰子林溫泉會館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.137625,
+            121.527753
+          ],
+          "address": "行義路269號",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "櫃台旁6號房間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃台旁6號房間"
+        },
+        {
+          "id": 5501252,
+          "title": "櫻崗溫泉會館有限公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.139728,
+            121.528991
+          ],
+          "address": "行義路300巷3之1號1、2樓",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "廁所外空地",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "廁所外空地"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569083ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.14161766663128,
+        "lng": 121.5298080654176
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501253,
+          "title": "山之林SPA溫泉美食餐廳",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.141605,
+            121.52962
+          ],
+          "address": "行義路402巷15號",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "放置於櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於櫃台旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569093ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.143621193303552,
+        "lng": 121.52766973976178
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501369,
+          "title": "臺北市私立惇?高級工商職業學校",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.144847,
+            121.52698
+          ],
+          "address": "泉源路221號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "台北市北投區泉源路221號距龍鳳谷遊客中心步行約5分鐘",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市北投區泉源路221號距龍鳳谷遊客中心步行約5分鐘"
+        },
+        {
+          "id": 5502694,
+          "title": "內政部國家公園署陽明山國家公園管理處龍鳳谷遊客服務站",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.143153,
+            121.526371
+          ],
+          "address": "泉源路200號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "入口左手邊服務台前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口左手邊服務台前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569023ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.134438369268842,
+        "lng": 121.5415878334503
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501878,
+          "title": "臺北市立陽明教養院華岡院區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.135194,
+            121.541256
+          ],
+          "address": "凱旋路61巷4弄9號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "文康大樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "文康大樓1樓"
+        },
+        {
+          "id": 5501888,
+          "title": "臺北市立陽明教養院華岡院區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.135194,
+            121.541256
+          ],
+          "address": "凱旋路61巷4弄9號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "行政大樓1樓左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓1樓左側"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

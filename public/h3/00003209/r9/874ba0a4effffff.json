@@ -1,0 +1,397 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4e53ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.028451570710466,
+        "lng": 121.54752344810699
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100031,
+          "title": "敦化南路2段101號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.028671,
+            121.549052
+          ],
+          "address": "敦南大樓",
+          "layoutType": "",
+          "hours": "9~19",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100040,
+          "title": "敦化南路2段70號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.029586,
+            121.54822
+          ],
+          "address": "新鑽石大廈",
+          "layoutType": "",
+          "hours": "週一至週五8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e43ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026443348044996,
+        "lng": 121.5496617105666
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100037,
+          "title": "敦化南路2段209號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.025786,
+            121.549316
+          ],
+          "address": "遠東國際商業銀行",
+          "layoutType": "",
+          "hours": "周一至周五9~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03129507578262,
+        "lng": 121.54861104489814
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100039,
+          "title": "敦化南路2段65號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.030799,
+            121.549193
+          ],
+          "address": "葉財記世貿大樓一銀世貿分行",
+          "layoutType": "",
+          "hours": "週一至週五9~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041832888012404,
+        "lng": 121.54973561814971
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100042,
+          "title": "忠孝東路4段189號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.0416,
+            121.551018
+          ],
+          "address": "現代大廈(鄰捷運忠孝敦化站)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4edbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032467640327113,
+        "lng": 121.5432470155768
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100045,
+          "title": "信義路3段",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.033248,
+            121.543041
+          ],
+          "address": "大安站",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e1bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032130431488273,
+        "lng": 121.55183698559915
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100046,
+          "title": "信義安和路口東南側停車彎(信義路4段236號前)",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.033066,
+            121.552974
+          ],
+          "address": "信義安和站",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ec7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.034138499137462,
+        "lng": 121.54969866387056
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100048,
+          "title": "敦化南路1段331號",
+          "category": "nightmarket",
+          "location": "大安",
+          "coords": [
+            25.034091,
+            121.549278
+          ],
+          "address": "慕軒飯店",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eafffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03747959326864,
+        "lng": 121.5626033072323
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100156,
+          "title": "市府路1號",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.036998,
+            121.563694
+          ],
+          "address": "市府正大門口南側",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100173,
+          "title": "市府路1號",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.037852,
+            121.563652
+          ],
+          "address": "臺北市政府西大門左側",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e37ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.035471334684367,
+        "lng": 121.56474187055994
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 12100157,
+          "title": "市府路松壽路口西南側",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.035671,
+            121.563426
+          ],
+          "address": "君悅飯店",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100164,
+          "title": "松智路（距松壽路口北側25公尺處）",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.036362,
+            121.565569
+          ],
+          "address": "中國信託商業銀行(松智路)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100165,
+          "title": "松壽路3號",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.035945,
+            121.566081
+          ],
+          "address": "中國信託商業銀行(松壽路)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ea7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04032291790982,
+        "lng": 121.56369115561681
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100158,
+          "title": "忠孝東路4段550號",
+          "category": "nightmarket",
+          "location": "信義",
+          "coords": [
+            25.041097,
+            121.563056
+          ],
+          "address": "兆豐銀行(臺北分行)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:17.020Z"
+}

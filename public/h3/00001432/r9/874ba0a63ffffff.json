@@ -1,0 +1,605 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6373ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.070262297938452,
+        "lng": 121.51121414296448
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800033,
+          "title": "帶走鮮魚鋪",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070917,
+            121.51098
+          ],
+          "address": "臺北市大同區延平北路4段97號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6363ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.068256485025,
+        "lng": 121.51335190966458
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2800041,
+          "title": "汪來富創意工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.066914,
+            121.513495
+          ],
+          "address": "臺北市大同區重慶北路3段108號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800516,
+          "title": "亨善企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068743,
+            121.514511
+          ],
+          "address": "臺北市大同區民族西路201號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800711,
+          "title": "小梓美容美甲館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068269,
+            121.51351
+          ],
+          "address": "臺北市大同區重慶北路3段158號1樓2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6377ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.071098508455773,
+        "lng": 121.51443904670126
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2800133,
+          "title": "時溯美學企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071909,
+            121.51499
+          ],
+          "address": "臺北市大同區至聖里酒泉街76號2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800282,
+          "title": "髮現幸福工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071311,
+            121.514411
+          ],
+          "address": "臺北市大同區重慶北路3段243巷7號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800660,
+          "title": "小僖女子美容院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071414,
+            121.514002
+          ],
+          "address": "臺北市大同區重慶北路3段249號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.066250546829142,
+        "lng": 121.51548970724458
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2800148,
+          "title": "昌吉商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.065823,
+            121.514712
+          ],
+          "address": "臺北市大同區昌吉街112號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800326,
+          "title": "喜多飲食店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.065846,
+            121.514376
+          ],
+          "address": "臺北市大同區昌吉街124號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800345,
+          "title": "尹銓工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.066226,
+            121.517195
+          ],
+          "address": "臺北市大同區昌吉街33巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800495,
+          "title": "眾來發商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.065823,
+            121.514712
+          ],
+          "address": "臺北市大同區昌吉街112號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06541437981487,
+        "lng": 121.51226479482227
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800360,
+          "title": "沉浸式務所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06622,
+            121.513445
+          ],
+          "address": "臺北市大同區重慶北路3段80號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800844,
+          "title": "花吉商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064703,
+            121.511667
+          ],
+          "address": "臺北市大同區伊寧街55之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a63bbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.080793345026557,
+        "lng": 121.51233770679293
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800373,
+          "title": "蓁蓁美甲工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.080898,
+            121.512849
+          ],
+          "address": "臺北市士林區重慶北路4段45號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800611,
+          "title": "聖利企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08141,
+            121.512632
+          ],
+          "address": "臺北市士林區重慶北路4段69號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6387ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.08279867463403,
+        "lng": 121.51019991283347
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2800385,
+          "title": "權麒企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.083024,
+            121.511093
+          ],
+          "address": "臺北市士林區延平北路5段136巷27弄39號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800603,
+          "title": "金陞行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.083233,
+            121.509494
+          ],
+          "address": "臺北市士林區延平北路5段183巷12號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800868,
+          "title": "延平切仔麵小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082246,
+            121.510189
+          ],
+          "address": "臺北市士林區延平北路5段143號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a63b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.083634967879632,
+        "lng": 121.51342485106542
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800695,
+          "title": "展源汽車保養所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082464,
+            121.512866
+          ],
+          "address": "臺北市士林區重慶北路4段94號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a637bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.067420270294487,
+        "lng": 121.5101270577974
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800701,
+          "title": "日菁企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068595,
+            121.509563
+          ],
+          "address": "臺北市大同區民族西路330號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800718,
+          "title": "塗塗製所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068595,
+            121.509563
+          ],
+          "address": "臺北市大同區民族西路330號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a63a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082465784113893,
+        "lng": 121.51878781678953
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800703,
+          "title": "西施寵物美容店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082937,
+            121.517658
+          ],
+          "address": "臺北市士林區福港街284號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a630fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073104243800177,
+        "lng": 121.51230125032663
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2801013,
+          "title": "聲肆音樂工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.073515,
+            121.51288
+          ],
+          "address": "臺北市大同區重慶北路3段296巷18號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a638fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.079957047536187,
+        "lng": 121.50911282043411
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2801105,
+          "title": "禾潤商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.080459,
+            121.509136
+          ],
+          "address": "臺北市士林區葫蘆街54巷4號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.592Z"
+}

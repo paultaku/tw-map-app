@@ -1,0 +1,3999 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a462fffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.03297512512072,
+        "lng": 121.50566984028048
+      },
+      "categories": {
+        "nightmarket": 9
+      },
+      "points": [
+        {
+          "id": 201592,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03238,
+            121.50488
+          ],
+          "address": "臺北市中正區中華路2段117號前",
+          "layoutType": "",
+          "hours": "1822",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201593,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.0322526,
+            121.5059799
+          ],
+          "address": "臺北市中正區汀州路1段48號",
+          "layoutType": "",
+          "hours": "1826",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201719,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03222,
+            121.50701
+          ],
+          "address": "臺北市中正區和平西路2段93號前",
+          "layoutType": "",
+          "hours": "1953",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201720,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03301,
+            121.5062
+          ],
+          "address": "臺北市中正區和平西路2段131號前",
+          "layoutType": "",
+          "hours": "1956",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201721,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03343,
+            121.50578
+          ],
+          "address": "臺北市中正區和平西路2段143號前",
+          "layoutType": "",
+          "hours": "1958",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201722,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03391,
+            121.50569
+          ],
+          "address": "臺北市中正區中華路2段91號前",
+          "layoutType": "",
+          "hours": "2001",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203784,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0339,
+            121.50544
+          ],
+          "address": "臺北市萬華區中華路2段10號前",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203969,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03328,
+            121.50417
+          ],
+          "address": "臺北市萬華區汀州路1段2號前",
+          "layoutType": "",
+          "hours": "1624",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203970,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03232,
+            121.50467
+          ],
+          "address": "臺北市萬華區中華路2段64號前",
+          "layoutType": "",
+          "hours": "1627",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4627ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.035818202444403,
+        "lng": 121.50675679253264
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 201723,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03481,
+            121.50619
+          ],
+          "address": "臺北市中正區中華路2段59號",
+          "layoutType": "",
+          "hours": "2005",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201724,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03513,
+            121.50642
+          ],
+          "address": "臺北市中正區中華路2段41號",
+          "layoutType": "",
+          "hours": "2011",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201725,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03681,
+            121.50732
+          ],
+          "address": "臺北市中正區愛國西路50之5號旁",
+          "layoutType": "",
+          "hours": "2014",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201726,
+          "title": "泉州分隊",
+          "category": "nightmarket",
+          "location": "臺北市中正區",
+          "coords": [
+            25.0349617,
+            121.5077061
+          ],
+          "address": "臺北市中正區延平南路169號對面",
+          "layoutType": "",
+          "hours": "2017",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203783,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0362643,
+            121.5058333
+          ],
+          "address": "臺北市萬華區廣州街33號",
+          "layoutType": "",
+          "hours": "1915",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4657ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.031636880241766,
+        "lng": 121.49063564578903
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 203705,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03208,
+            121.49131
+          ],
+          "address": "臺北市萬華區環河南路2段278號前",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203706,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03174,
+            121.49025
+          ],
+          "address": "臺北市萬華區長順街91號",
+          "layoutType": "",
+          "hours": "1636",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203707,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0322,
+            121.4893
+          ],
+          "address": "臺北市萬華區長順街111號",
+          "layoutType": "",
+          "hours": "1642",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203719,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03096608,
+            121.4920762
+          ],
+          "address": "臺北市萬華區長順街35號",
+          "layoutType": "",
+          "hours": "1917",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203720,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03114,
+            121.49122
+          ],
+          "address": "臺北市萬華區長順街65號",
+          "layoutType": "",
+          "hours": "1921",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203725,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03156,
+            121.49218
+          ],
+          "address": "臺北市萬華區雙園街116號",
+          "layoutType": "",
+          "hours": "2111",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a461bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.034479896350202,
+        "lng": 121.4917223608344
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203708,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03538,
+            121.49132
+          ],
+          "address": "臺北市萬華區和平西路3段380號前",
+          "layoutType": "",
+          "hours": "1649",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203710,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03383321,
+            121.4927576
+          ],
+          "address": "臺北市萬華區環河南路2段218號前",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203714,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03401,
+            121.49038
+          ],
+          "address": "臺北市萬華區環河南路2段250巷52號",
+          "layoutType": "",
+          "hours": "1848",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203715,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03458,
+            121.49017
+          ],
+          "address": "臺北市萬華區和平西路3段382巷12弄54號",
+          "layoutType": "",
+          "hours": "1852",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203723,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03337,
+            121.4915
+          ],
+          "address": "臺北市萬華區環河南路2段250巷1號",
+          "layoutType": "",
+          "hours": "1937",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203726,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03339,
+            121.49268
+          ],
+          "address": "臺北市萬華區環河南路2段161號",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203866,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03568,
+            121.49191
+          ],
+          "address": "臺北市萬華區和平西路3段359號前",
+          "layoutType": "",
+          "hours": "1825",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4603ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.035316260299084,
+        "lng": 121.49494641710433
+      },
+      "categories": {
+        "nightmarket": 9
+      },
+      "points": [
+        {
+          "id": 203709,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03533,
+            121.4939
+          ],
+          "address": "臺北市萬華區環河南路2段162號前",
+          "layoutType": "",
+          "hours": "1655",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203716,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03528337,
+            121.4933715
+          ],
+          "address": "臺北市萬華區和平西路3段300-9號前",
+          "layoutType": "",
+          "hours": "1856",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203727,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03435,
+            121.49358
+          ],
+          "address": "臺北市萬華區環河南路2段125巷1號",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203728,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03522,
+            121.49463
+          ],
+          "address": "臺北市萬華區和平西路3段292號前",
+          "layoutType": "",
+          "hours": "2124",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203729,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03525326,
+            121.4954616
+          ],
+          "address": "臺北市萬華區和平西路3段258號前",
+          "layoutType": "",
+          "hours": "2128",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203734,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03400853,
+            121.4948114
+          ],
+          "address": "臺北市萬華區大理街173號",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203863,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03619,
+            121.49485
+          ],
+          "address": "臺北市萬華區環河南路2段132號前",
+          "layoutType": "",
+          "hours": "1810",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203864,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03571,
+            121.494459
+          ],
+          "address": "臺北市萬華區和平西路3段261號之7",
+          "layoutType": "",
+          "hours": "1814",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203865,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035584,
+            121.493295
+          ],
+          "address": "臺北市萬華區和平西路3段309巷口",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 203711,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03261,
+            121.49599
+          ],
+          "address": "臺北市萬華區艋舺大道338號",
+          "layoutType": "",
+          "hours": "1832",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203712,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03191,
+            121.49763
+          ],
+          "address": "臺北市萬華區西園路2段33號",
+          "layoutType": "",
+          "hours": "1836",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203731,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03443,
+            121.49849
+          ],
+          "address": "臺北市萬華區大理街89號",
+          "layoutType": "",
+          "hours": "2138",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203732,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0343,
+            121.49741
+          ],
+          "address": "臺北市萬華區大理街131號",
+          "layoutType": "",
+          "hours": "2142",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203733,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03411,
+            121.49646
+          ],
+          "address": "臺北市萬華區大理街132號",
+          "layoutType": "",
+          "hours": "2146",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4677ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.03130274343967,
+        "lng": 121.49922114791217
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 203713,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03264,
+            121.4994
+          ],
+          "address": "臺北市萬華區艋舺大道204號",
+          "layoutType": "",
+          "hours": "1840",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203973,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03118,
+            121.499
+          ],
+          "address": "臺北市萬華區莒光路258號",
+          "layoutType": "",
+          "hours": "1640",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203974,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03114,
+            121.49763
+          ],
+          "address": "臺北市萬華區莒光路322巷口",
+          "layoutType": "",
+          "hours": "1644",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203983,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03220691,
+            121.5004747
+          ],
+          "address": "臺北市萬華區萬大路20號",
+          "layoutType": "",
+          "hours": "1850",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204000,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03101639,
+            121.497595
+          ],
+          "address": "臺北市萬華區莒光路327號",
+          "layoutType": "",
+          "hours": "2127",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204001,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03098675,
+            121.4994657
+          ],
+          "address": "臺北市萬華區莒光路287號",
+          "layoutType": "",
+          "hours": "2131",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4673ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.03046647491316,
+        "lng": 121.49599697042993
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 203717,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02943,
+            121.49465
+          ],
+          "address": "臺北市萬華區雙園街21號",
+          "layoutType": "",
+          "hours": "1904",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203737,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03138241,
+            121.4950364
+          ],
+          "address": "臺北市萬華區西園路2段140巷52號",
+          "layoutType": "",
+          "hours": "2202",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203738,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03121106,
+            121.4959347
+          ],
+          "address": "臺北市萬華區西園路2段96巷24號",
+          "layoutType": "",
+          "hours": "2206",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203975,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03102,
+            121.49668
+          ],
+          "address": "臺北市萬華區西園路2段88號",
+          "layoutType": "",
+          "hours": "1649",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203976,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03004,
+            121.4962
+          ],
+          "address": "臺北市萬華區西園路2段144號",
+          "layoutType": "",
+          "hours": "1653",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203977,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02919,
+            121.49578
+          ],
+          "address": "臺北市萬華區西園路2段194號",
+          "layoutType": "",
+          "hours": "1657",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203987,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02919,
+            121.49655
+          ],
+          "address": "臺北市萬華區西藏路450號",
+          "layoutType": "",
+          "hours": "1907",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203999,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03011,
+            121.49641
+          ],
+          "address": "臺北市萬華區西園路2段107號",
+          "layoutType": "",
+          "hours": "2123",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4647ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.02963015461222,
+        "lng": 121.49277290543499
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 203718,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03023836,
+            121.4939099
+          ],
+          "address": "臺北市萬華區雙園街69號",
+          "layoutType": "",
+          "hours": "1911",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203989,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02865,
+            121.49329
+          ],
+          "address": "臺北市萬華區西藏路514號",
+          "layoutType": "",
+          "hours": "1916",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203990,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02858,
+            121.49239
+          ],
+          "address": "臺北市萬華區西藏路538號",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203991,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02971,
+            121.49278
+          ],
+          "address": "臺北市萬華區雙園街60巷46弄15號",
+          "layoutType": "",
+          "hours": "1925",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203992,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0308,
+            121.49403
+          ],
+          "address": "臺北市萬華區艋舺大道390巷2號",
+          "layoutType": "",
+          "hours": "1929",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03247324825318,
+        "lng": 121.493859650171
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 203721,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0325,
+            121.49269
+          ],
+          "address": "臺北市萬華區大理街170巷66號",
+          "layoutType": "",
+          "hours": "1925",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203722,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03347,
+            121.49352
+          ],
+          "address": "臺北市萬華區大理街170巷12號",
+          "layoutType": "",
+          "hours": "1931",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203735,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03278,
+            121.49391
+          ],
+          "address": "臺北市萬華區大理街160巷22弄2號",
+          "layoutType": "",
+          "hours": "2154",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203736,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03195,
+            121.49389
+          ],
+          "address": "臺北市萬華區大理街160巷26弄2號",
+          "layoutType": "",
+          "hours": "2158",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4607ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.036152572463696,
+        "lng": 121.49817058586827
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 203724,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03522328,
+            121.4972279
+          ],
+          "address": "臺北市萬華區和平西路3段200號",
+          "layoutType": "",
+          "hours": "1950",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203730,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03522328,
+            121.4972279
+          ],
+          "address": "臺北市萬華區和平西路3段194號前",
+          "layoutType": "",
+          "hours": "2133",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203795,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03548,
+            121.49852
+          ],
+          "address": "臺北市萬華區和平西路3段157號",
+          "layoutType": "",
+          "hours": "2126",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203796,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03549,
+            121.49779
+          ],
+          "address": "臺北市萬華區和平西路3段187號",
+          "layoutType": "",
+          "hours": "2130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203797,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03551,
+            121.49692
+          ],
+          "address": "臺北市萬華區和平西路3段與211號前",
+          "layoutType": "",
+          "hours": "2134",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203873,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03712,
+            121.4993
+          ],
+          "address": "臺北市萬華區西園路1段158號前",
+          "layoutType": "",
+          "hours": "2035",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203874,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036172,
+            121.499281
+          ],
+          "address": "臺北市萬華區西園路1段192號",
+          "layoutType": "",
+          "hours": "2039",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203875,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03555,
+            121.49924
+          ],
+          "address": "臺北市萬華區西園路1段216號前",
+          "layoutType": "",
+          "hours": "2043",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 203746,
+          "title": "武昌分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04424,
+            121.50265
+          ],
+          "address": "臺北市萬華區康定路28號",
+          "layoutType": "",
+          "hours": "1711",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203749,
+          "title": "武昌分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04417,
+            121.50111
+          ],
+          "address": "臺北市萬華區環河南路1段81號",
+          "layoutType": "",
+          "hours": "1855",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203750,
+          "title": "武昌分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04505,
+            121.50197
+          ],
+          "address": "臺北市萬華區環河南路1段71號前",
+          "layoutType": "",
+          "hours": "1859",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a7ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.042674595703705,
+        "lng": 121.50356867509312
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203747,
+          "title": "武昌分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04274,
+            121.50239
+          ],
+          "address": "臺北市萬華區康定路56號巷口",
+          "layoutType": "",
+          "hours": "1722",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203908,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04165,
+            121.50257
+          ],
+          "address": "臺北市萬華區內江街142之1號前",
+          "layoutType": "",
+          "hours": "2135",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203909,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04158,
+            121.50343
+          ],
+          "address": "臺北市萬華區內江街110號前",
+          "layoutType": "",
+          "hours": "2141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203910,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04149,
+            121.50419
+          ],
+          "address": "臺北市萬華區內江街74之1號前",
+          "layoutType": "",
+          "hours": "2145",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203911,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04212,
+            121.50461
+          ],
+          "address": "臺北市萬華區昆明街160號前",
+          "layoutType": "",
+          "hours": "2149",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203912,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04272,
+            121.50472
+          ],
+          "address": "臺北市萬華區昆明街134之2號前",
+          "layoutType": "",
+          "hours": "2153",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203913,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04324,
+            121.50421
+          ],
+          "address": "臺北市萬華區成都路105號前",
+          "layoutType": "",
+          "hours": "2156",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46afffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.03983175508963,
+        "lng": 121.50248176000473
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 203748,
+          "title": "武昌分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03896,
+            121.50184
+          ],
+          "address": "臺北市萬華區康定路188號",
+          "layoutType": "",
+          "hours": "1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203893,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0404809,
+            121.5030719
+          ],
+          "address": "臺北市萬華區長沙街2段131號對面",
+          "layoutType": "",
+          "hours": "1648",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203894,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04032,
+            121.5039
+          ],
+          "address": "臺北市萬華區長沙街2段114號對面",
+          "layoutType": "",
+          "hours": "1656",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203898,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04019,
+            121.50126
+          ],
+          "address": "臺北市萬華區貴陽街2段166號前",
+          "layoutType": "",
+          "hours": "1846",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203899,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03986,
+            121.50332
+          ],
+          "address": "臺北市萬華區貴陽街2段94號前",
+          "layoutType": "",
+          "hours": "1852",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203900,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03964,
+            121.5042
+          ],
+          "address": "臺北市萬華區昆明街175號前",
+          "layoutType": "",
+          "hours": "1901",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203906,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038296,
+            121.502493
+          ],
+          "address": "臺北市萬華區桂林路65巷2之1號旁",
+          "layoutType": "",
+          "hours": "2122",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203907,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03994,
+            121.50204
+          ],
+          "address": "臺北市萬華區康定路89號前",
+          "layoutType": "",
+          "hours": "2127",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4623ffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.034982041599108,
+        "lng": 121.50353233824625
+      },
+      "categories": {
+        "nightmarket": 11
+      },
+      "points": [
+        {
+          "id": 203771,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03377,
+            121.50348
+          ],
+          "address": "臺北市萬華區艋舺大道71號前",
+          "layoutType": "",
+          "hours": "1820",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203773,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0351,
+            121.50207
+          ],
+          "address": "臺北市萬華區和平西路3段86號",
+          "layoutType": "",
+          "hours": "1829",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203774,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03498,
+            121.50321
+          ],
+          "address": "臺北市萬華區和平西路3段64號前",
+          "layoutType": "",
+          "hours": "1833",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203775,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03431,
+            121.5041
+          ],
+          "address": "臺北市萬華區和平西路3段30巷",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203776,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034496,
+            121.504155
+          ],
+          "address": "臺北市萬華區和平西路3段15號前",
+          "layoutType": "",
+          "hours": "1837",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203777,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03556,
+            121.50402
+          ],
+          "address": "臺北市萬華區三水街47號前",
+          "layoutType": "",
+          "hours": "1842",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203778,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03604,
+            121.50419
+          ],
+          "address": "臺北市萬華區南寧路41號之2前",
+          "layoutType": "",
+          "hours": "1847",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203779,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035266,
+            121.502321
+          ],
+          "address": "臺北市萬華區和平西路3段57號",
+          "layoutType": "",
+          "hours": "1854",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203856,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0357342,
+            121.503367
+          ],
+          "address": "臺北市萬華區昆明街316號",
+          "layoutType": "",
+          "hours": "1720",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203879,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0365639,
+            121.5032851
+          ],
+          "address": "臺北市萬華區廣州街62號",
+          "layoutType": "",
+          "hours": "2107",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203968,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03366,
+            121.50365
+          ],
+          "address": "臺北市萬華區艋舺大道66號",
+          "layoutType": "",
+          "hours": "1621",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "nightmarket": 10
+      },
+      "points": [
+        {
+          "id": 203772,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034233,
+            121.501081
+          ],
+          "address": "臺北市萬華區康定路275號",
+          "layoutType": "",
+          "hours": "1826",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203785,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03445,
+            121.50096
+          ],
+          "address": "臺北市萬華區康定路360號前",
+          "layoutType": "",
+          "hours": "2040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203786,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0341272,
+            121.500204
+          ],
+          "address": "臺北市萬華區大理街42巷7號旁",
+          "layoutType": "",
+          "hours": "2045",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203787,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03377,
+            121.49869
+          ],
+          "address": "臺北市萬華區西園路1段282巷25號前",
+          "layoutType": "",
+          "hours": "2048",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203788,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.034322,
+            121.498795
+          ],
+          "address": "臺北市萬華區大理街58號前",
+          "layoutType": "",
+          "hours": "2053",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203792,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03543,
+            121.5011
+          ],
+          "address": "臺北市萬華區康定路338號前",
+          "layoutType": "",
+          "hours": "2113",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203793,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03531,
+            121.501
+          ],
+          "address": "臺北市萬華區和平西路3段89巷",
+          "layoutType": "",
+          "hours": "2117",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203794,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03539,
+            121.5005
+          ],
+          "address": "臺北市萬華區和平西路3段107號",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203855,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035191,
+            121.500019
+          ],
+          "address": "臺北市萬華區和平西路3段120號(行政中心)",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203965,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03286977,
+            121.5008623
+          ],
+          "address": "臺北市萬華區艋舺大道170號",
+          "layoutType": "",
+          "hours": "1610",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203780,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0356,
+            121.50147
+          ],
+          "address": "臺北市萬華區康定路221號前",
+          "layoutType": "",
+          "hours": "1857",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203790,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03759,
+            121.50154
+          ],
+          "address": "臺北市萬華區康定路248號",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203791,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036829,
+            121.50145
+          ],
+          "address": "臺北市萬華區康定路280號",
+          "layoutType": "",
+          "hours": "2109",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203858,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038444,
+            121.501153
+          ],
+          "address": "臺北市萬華區桂林路101號",
+          "layoutType": "",
+          "hours": "1737",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203880,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03659,
+            121.50257
+          ],
+          "address": "臺北市萬華區廣州街90號對面",
+          "layoutType": "",
+          "hours": "2111",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203881,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0366,
+            121.50187
+          ],
+          "address": "臺北市萬華區廣州街116號對面",
+          "layoutType": "",
+          "hours": "2118",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203882,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03674,
+            121.50026
+          ],
+          "address": "臺北市萬華區廣州街207號前",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4637ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.037825041391397,
+        "lng": 121.50461926081998
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203781,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03751,
+            121.50387
+          ],
+          "address": "臺北市萬華區昆明街255號前",
+          "layoutType": "",
+          "hours": "1905",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203782,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03713,
+            121.50493
+          ],
+          "address": "臺北市萬華區柳州街82號前",
+          "layoutType": "",
+          "hours": "1910",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203857,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0379248,
+            121.504575
+          ],
+          "address": "臺北市萬華區桂林路31號",
+          "layoutType": "",
+          "hours": "1728",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203876,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0378,
+            121.50473
+          ],
+          "address": "臺北市萬華區桂林路38號前",
+          "layoutType": "",
+          "hours": "2050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203877,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0375995,
+            121.5060673
+          ],
+          "address": "臺北市萬華區桂林路2 之5號",
+          "layoutType": "",
+          "hours": "2055",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203902,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03818,
+            121.5052
+          ],
+          "address": "臺北市萬華區柳州街60號前",
+          "layoutType": "",
+          "hours": "1913",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203903,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03858,
+            121.50392
+          ],
+          "address": "臺北市萬華區昆明街284號前",
+          "layoutType": "",
+          "hours": "1921",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46abffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.038995498816725,
+        "lng": 121.49925742688205
+      },
+      "categories": {
+        "nightmarket": 9
+      },
+      "points": [
+        {
+          "id": 203789,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03833,
+            121.50035
+          ],
+          "address": "臺北市萬華區桂林路90號(西昌街口)",
+          "layoutType": "",
+          "hours": "2059",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203859,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038521,
+            121.499248
+          ],
+          "address": "臺北市萬華區桂林路137號前",
+          "layoutType": "",
+          "hours": "1743",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203872,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037842,
+            121.49953
+          ],
+          "address": "臺北市萬華區西園路1段134號前",
+          "layoutType": "",
+          "hours": "2030",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203885,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03845,
+            121.49832
+          ],
+          "address": "臺北市萬華區桂林路142號前",
+          "layoutType": "",
+          "hours": "2141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203888,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03932,
+            121.49975
+          ],
+          "address": "臺北市萬華區西園路1段74號前",
+          "layoutType": "",
+          "hours": "1612",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203889,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03938,
+            121.50078
+          ],
+          "address": "臺北市萬華區西昌街155號前",
+          "layoutType": "",
+          "hours": "1620",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203895,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03994,
+            121.4983
+          ],
+          "address": "臺北市萬華區貴陽街2段254號前",
+          "layoutType": "",
+          "hours": "1830",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203896,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03998,
+            121.4992
+          ],
+          "address": "臺北市萬華區貴陽街2段230號之1",
+          "layoutType": "",
+          "hours": "1835",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203897,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04008,
+            121.50023
+          ],
+          "address": "臺北市萬華區貴陽街2段196號",
+          "layoutType": "",
+          "hours": "1841",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.025616327635806,
+        "lng": 121.49704751749545
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203815,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02649,
+            121.4962
+          ],
+          "address": "臺北市萬華區東園街65號(公路警察)",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203825,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02545,
+            121.49744
+          ],
+          "address": "臺北市萬華區民和街104號",
+          "layoutType": "",
+          "hours": "2129",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203833,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02548,
+            121.49583
+          ],
+          "address": "臺北市萬華區東園街66巷25號前",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203841,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02659,
+            121.49815
+          ],
+          "address": "臺北市萬華區東園街73巷60號前",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203842,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02612,
+            121.49699
+          ],
+          "address": "臺北市萬華區東園街73巷25號前",
+          "layoutType": "",
+          "hours": "1925",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203843,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02472,
+            121.49695
+          ],
+          "address": "臺北市萬華區東園街88號",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203851,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02482,
+            121.49809
+          ],
+          "address": "臺北市萬華區德昌街76號前",
+          "layoutType": "",
+          "hours": "2119",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a467bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.0276233037428,
+        "lng": 121.49491019600555
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 203816,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02749,
+            121.49573
+          ],
+          "address": "臺北市萬華區東園街19號",
+          "layoutType": "",
+          "hours": "1924",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203839,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02736,
+            121.49453
+          ],
+          "address": "臺北市萬華區西園路2段205號(土地銀行)",
+          "layoutType": "",
+          "hours": "1737",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203978,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02786,
+            121.49473
+          ],
+          "address": "臺北市萬華區西園路2段256號",
+          "layoutType": "",
+          "hours": "1701",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203979,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02701,
+            121.49378
+          ],
+          "address": "臺北市萬華區西園路2段290-5號",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203980,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02672,
+            121.49342
+          ],
+          "address": "臺北市萬華區西園路2段296號",
+          "layoutType": "",
+          "hours": "1709",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203988,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02879,
+            121.49425
+          ],
+          "address": "臺北市萬華區西藏路484號",
+          "layoutType": "",
+          "hours": "1912",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4667ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.0292957971464,
+        "lng": 121.50135855968297
+      },
+      "categories": {
+        "nightmarket": 10
+      },
+      "points": [
+        {
+          "id": 203817,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02929,
+            121.49979
+          ],
+          "address": "臺北市萬華區西藏路197號前",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203818,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02865,
+            121.50038
+          ],
+          "address": "臺北市萬華區萬大路156號前",
+          "layoutType": "",
+          "hours": "1934",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203945,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02945,
+            121.50072
+          ],
+          "address": "臺北市萬華區萬大路139號",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203961,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02933,
+            121.50117
+          ],
+          "address": "臺北市萬華區西藏路163號",
+          "layoutType": "",
+          "hours": "2139",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203962,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02892,
+            121.50228
+          ],
+          "address": "臺北市萬華區西藏路125巷5號",
+          "layoutType": "",
+          "hours": "2145",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203963,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02849,
+            121.50239
+          ],
+          "address": "臺北市萬華區西藏路125巷11號",
+          "layoutType": "",
+          "hours": "2148",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203984,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03023,
+            121.50047
+          ],
+          "address": "臺北市萬華區萬大路88號",
+          "layoutType": "",
+          "hours": "1854",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203985,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02946,
+            121.49997
+          ],
+          "address": "臺北市萬華區西藏路332號",
+          "layoutType": "",
+          "hours": "1859",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204006,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0297,
+            121.50193
+          ],
+          "address": "臺北市萬華區西藏路234號",
+          "layoutType": "",
+          "hours": "2158",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204007,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03034,
+            121.50061
+          ],
+          "address": "臺北市萬華區萬大路87號",
+          "layoutType": "",
+          "hours": "2203",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466fffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.026452552513188,
+        "lng": 121.50027170369371
+      },
+      "categories": {
+        "nightmarket": 9
+      },
+      "points": [
+        {
+          "id": 203819,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0277,
+            121.50039
+          ],
+          "address": "臺北市萬華區萬大路188號前",
+          "layoutType": "",
+          "hours": "1938",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203820,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02695,
+            121.5004
+          ],
+          "address": "臺北市萬華區萬大路220號前",
+          "layoutType": "",
+          "hours": "1943",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203821,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02552,
+            121.50028
+          ],
+          "address": "臺北市萬華區萬大路282號",
+          "layoutType": "",
+          "hours": "1947",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203824,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02586,
+            121.49871
+          ],
+          "address": "臺北市萬華區民和街50號前",
+          "layoutType": "",
+          "hours": "2125",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203840,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02638,
+            121.49964
+          ],
+          "address": "臺北市萬華區東園街73巷104號(西園國小圍牆旁)",
+          "layoutType": "",
+          "hours": "1915",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203849,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02532,
+            121.49969
+          ],
+          "address": "臺北市萬華區德昌街11號前(守望相助亭)",
+          "layoutType": "",
+          "hours": "2106",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203917,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02528,
+            121.50063
+          ],
+          "address": "臺北市萬華區萬大路281號",
+          "layoutType": "",
+          "hours": "1643",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203918,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02536,
+            121.50112
+          ],
+          "address": "臺北市萬華區萬大路277巷14弄1號",
+          "layoutType": "",
+          "hours": "1648",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203960,
+          "title": "青年分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02664,
+            121.50161
+          ],
+          "address": "臺北市萬華區中華路2段416巷118號",
+          "layoutType": "",
+          "hours": "2129",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.026786979389797,
+        "lng": 121.49168618289642
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 203838,
+          "title": "東園分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02602,
+            121.49281
+          ],
+          "address": "臺北市萬華區西園路2段251號前",
+          "layoutType": "",
+          "hours": "1731",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203981,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02601,
+            121.49258
+          ],
+          "address": "臺北市萬華區西園路2段328號",
+          "layoutType": "",
+          "hours": "1712",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203993,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02766,
+            121.49288
+          ],
+          "address": "臺北市萬華區興義街2號",
+          "layoutType": "",
+          "hours": "2057",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203994,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0267,
+            121.49181
+          ],
+          "address": "臺北市萬華區興義街35號",
+          "layoutType": "",
+          "hours": "2102",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203995,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02585,
+            121.49077
+          ],
+          "address": "臺北市萬華區興義街56號",
+          "layoutType": "",
+          "hours": "2107",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 203860,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0383,
+            121.49673
+          ],
+          "address": "臺北市萬華區環河南路2段48號前",
+          "layoutType": "",
+          "hours": "1752",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203861,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037653,
+            121.496284
+          ],
+          "address": "臺北市萬華區環河南路2段52號前",
+          "layoutType": "",
+          "hours": "1757",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203862,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03693,
+            121.49546
+          ],
+          "address": "臺北市萬華區環河南路2段102號前",
+          "layoutType": "",
+          "hours": "1803",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203871,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03821,
+            121.49544
+          ],
+          "address": "臺北市萬華區桂林路242巷4號",
+          "layoutType": "",
+          "hours": "1845",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203878,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037604,
+            121.496429
+          ],
+          "address": "臺北市萬華區廣州街79號前",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203883,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037604,
+            121.496429
+          ],
+          "address": "臺北市萬華區環河南路2段73號前",
+          "layoutType": "",
+          "hours": "2128",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203884,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03844,
+            121.49755
+          ],
+          "address": "臺北市萬華區桂林路164號前",
+          "layoutType": "",
+          "hours": "2136",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4613ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.037322830860706,
+        "lng": 121.49280909807788
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 203867,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.036479,
+            121.49195
+          ],
+          "address": "臺北市萬華區桂林路246巷42弄33號",
+          "layoutType": "",
+          "hours": "1831",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203868,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0361,
+            121.49232
+          ],
+          "address": "臺北市萬華區桂林路246巷42弄44號",
+          "layoutType": "",
+          "hours": "1834",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203869,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03728,
+            121.49353
+          ],
+          "address": "臺北市萬華區桂林路246巷16號",
+          "layoutType": "",
+          "hours": "1838",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203870,
+          "title": "昆明分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0377,
+            121.49441
+          ],
+          "address": "臺北市萬華區桂林路244巷26號",
+          "layoutType": "",
+          "hours": "1842",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041002039551415,
+        "lng": 121.49712001756265
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203886,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04046,
+            121.49844
+          ],
+          "address": "臺北市萬華區環河南路1段183號前",
+          "layoutType": "",
+          "hours": "1600",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 203887,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04065,
+            121.49981
+          ],
+          "address": "臺北市萬華區西園路1段36號前",
+          "layoutType": "",
+          "hours": "1605",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203890,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04111,
+            121.50081
+          ],
+          "address": "臺北市萬華區西昌街97號前",
+          "layoutType": "",
+          "hours": "1631",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203891,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.041753,
+            121.500859
+          ],
+          "address": "臺北市萬華區內江街178號",
+          "layoutType": "",
+          "hours": "1636",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203892,
+          "title": "漢中分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04171,
+            121.50163
+          ],
+          "address": "臺北市萬華區內江街148號之3號前",
+          "layoutType": "",
+          "hours": "1641",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a462bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.032138960179584,
+        "lng": 121.50244543786722
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 203966,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03296949,
+            121.5016215
+          ],
+          "address": "臺北市萬華區艋舺大道142號",
+          "layoutType": "",
+          "hours": "1614",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203967,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0331413,
+            121.5022287
+          ],
+          "address": "臺北市萬華區艋舺大道118號",
+          "layoutType": "",
+          "hours": "1618",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203971,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03131,
+            121.50369
+          ],
+          "address": "臺北市萬華區莒光路114號",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203972,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03126,
+            121.50218
+          ],
+          "address": "臺北市萬華區莒光路164號",
+          "layoutType": "",
+          "hours": "1635",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204002,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03153334,
+            121.5029381
+          ],
+          "address": "臺北市萬華區莒光路195號",
+          "layoutType": "",
+          "hours": "2137",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 204003,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03109875,
+            121.5027307
+          ],
+          "address": "臺北市萬華區莒光路171號",
+          "layoutType": "",
+          "hours": "2142",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4663ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028459576332395,
+        "lng": 121.49813432160592
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203986,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02931,
+            121.4971
+          ],
+          "address": "臺北市萬華區西藏路436號",
+          "layoutType": "",
+          "hours": "1903",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.025950603285533,
+        "lng": 121.48846228229304
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 203996,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0262,
+            121.4901
+          ],
+          "address": "臺北市萬華區環河南路3段55號前",
+          "layoutType": "",
+          "hours": "2111",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 203997,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02763,
+            121.48995
+          ],
+          "address": "臺北市萬華區環河南路3段1號前",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 203998,
+          "title": "大理分隊",
+          "category": "nightmarket",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02796677,
+            121.4906463
+          ],
+          "address": "臺北市萬華區西園路2段320巷70號",
+          "layoutType": "",
+          "hours": "2119",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

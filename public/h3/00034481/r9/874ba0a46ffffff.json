@@ -1,0 +1,529 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400460,
+          "title": "和平青草園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03271569,
+            121.4972192
+          ],
+          "address": "西園路一段與艋舺大道交叉口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400467,
+          "title": "和平青草園閱覽室",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.032489,
+            121.4971956
+          ],
+          "address": "西園路一段與艋舺大道交叉口",
+          "layoutType": "",
+          "hours": "8:00-17:00",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46afffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03983175508963,
+        "lng": 121.50248176000473
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400461,
+          "title": "老松公園-遊戲場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.038552,
+            121.5028672
+          ],
+          "address": "桂林路65巷",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400477,
+          "title": "直興市場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03958,
+            121.50186
+          ],
+          "address": "康定路172巷1號",
+          "layoutType": "",
+          "hours": "8:00-15:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400483,
+          "title": "圖書館龍山分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03869,
+            121.5025322
+          ],
+          "address": "桂林路65巷6號",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038995498816725,
+        "lng": 121.49925742688205
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400462,
+          "title": "青山公園",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03942588,
+            121.4983185
+          ],
+          "address": "華西街8號旁",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03247324825318,
+        "lng": 121.493859650171
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400468,
+          "title": "糖業文化展示館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.0334,
+            121.4945
+          ],
+          "address": "大理街132之10號",
+          "layoutType": "",
+          "hours": "每週二–週日，10:00-17:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400470,
+          "title": "臺北市電影主題公園Urban Showcase",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.044618,
+            121.50313
+          ],
+          "address": "康定路19號",
+          "layoutType": "",
+          "hours": "每週一–週日，10:00-22:00",
+          "description": "全年開放",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "全年開放"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400471,
+          "title": "剝皮寮歷史街區  遊客諮詢中心",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.037023,
+            121.5026
+          ],
+          "address": "康定路173巷33號展間",
+          "layoutType": "",
+          "hours": "每週二–週日，09:00-18:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        },
+        {
+          "id": 3400478,
+          "title": "新富市場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03611,
+            121.50158
+          ],
+          "address": "三水街70號",
+          "layoutType": "",
+          "hours": "8:00-15:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400481,
+          "title": "龍山寺地下街",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03629554,
+            121.5003039
+          ],
+          "address": "西園路一段145號",
+          "layoutType": "",
+          "hours": "11:00-21:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400476,
+          "title": "河濱二商場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04116,
+            121.49975
+          ],
+          "address": "環河南路一段286號至340號",
+          "layoutType": "",
+          "hours": "8:30-19:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400479,
+          "title": "龍山商場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03513,
+            121.50022
+          ],
+          "address": "和平西路三段120號",
+          "layoutType": "",
+          "hours": "1樓：\n10:30-19:00\n2樓至3樓：\n10:00-22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400482,
+          "title": "萬華區行政中心",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.035011,
+            121.499812
+          ],
+          "address": "和平西路三段120號10～11樓",
+          "layoutType": "",
+          "hours": "週一至週五8:30-17:30\n(例假日及國定假日除外)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400480,
+          "title": "環南市場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02874,
+            121.49035
+          ],
+          "address": "環河南路二段245號",
+          "layoutType": "",
+          "hours": "2:00-12:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a462bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032138960179584,
+        "lng": 121.50244543786722
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400484,
+          "title": "圖書館西園分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03244097,
+            121.5018422
+          ],
+          "address": "興寧街6號3-6樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a467bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0276233037428,
+        "lng": 121.49491019600555
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400485,
+          "title": "圖書館萬華分館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.02779024,
+            121.4957959
+          ],
+          "address": "東園街19號5-7樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4677ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03130274343967,
+        "lng": 121.49922114791217
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400488,
+          "title": "莒光社會住宅公共空間",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03195,
+            121.5
+          ],
+          "address": "萬大路22號",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400493,
+          "title": "柳鄉兒童圖書館",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.03696172,
+            121.4953813
+          ],
+          "address": "環河南路2段102號4樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "週一、國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "週一、國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

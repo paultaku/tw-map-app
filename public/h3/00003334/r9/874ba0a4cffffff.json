@@ -1,0 +1,855 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4c4bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.043503617529904,
+        "lng": 121.55618780182834
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900068,
+          "title": "How How GYM 好好健身光復店",
+          "category": "culture",
+          "location": "大安",
+          "coords": [
+            25.0425,
+            121.5572
+          ],
+          "address": "臺北市大安區光復南路180巷6號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900114,
+          "title": "巨平方健身房 GSQUARE 光復店",
+          "category": "culture",
+          "location": "大安",
+          "coords": [
+            25.0426,
+            121.5572
+          ],
+          "address": "臺北市大安區光復南路180巷2號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cdbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.052369374012905,
+        "lng": 121.55086024401396
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 7900267,
+          "title": "Beyond Fitness",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0519,
+            121.55
+          ],
+          "address": "臺北市松山區南京東路四段17號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900280,
+          "title": "Giant.D Fitness",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0519,
+            121.5509
+          ],
+          "address": "臺北市松山區南京東路四段51號2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0980202909",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900284,
+          "title": "To Do Fitness",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0519,
+            121.5499
+          ],
+          "address": "臺北市松山區南京東路四段15號3樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900285,
+          "title": "TRUE YOGA FITNESS 全真瑜珈健身台北小巨蛋館",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0513,
+            121.5499
+          ],
+          "address": "臺北市松山區南京東路四段2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ccfffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.051197322442505,
+        "lng": 121.55622484350627
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 7900268,
+          "title": "BLITZ",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0525,
+            121.5571
+          ],
+          "address": "臺北市松山區光復北路129號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0953315867",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900275,
+          "title": "Fitness Hub",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0513,
+            121.5556
+          ],
+          "address": "臺北市松山區南京東路四段130號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0975921520",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900286,
+          "title": "唯爾運動 wellness",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0517,
+            121.5552
+          ],
+          "address": "臺北市松山區南京東路四段137號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900357,
+          "title": "揪in瑜伽教室 JOIN YOGA CAFÉ",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0517,
+            121.5569
+          ],
+          "address": "臺北市松山區南京東路四段197號11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "0902067186",
+          "notes": "瑜珈教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c87ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.060560942850113,
+        "lng": 121.56271469156968
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900269,
+          "title": "Curves 民生圓環店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0611,
+            121.5642
+          ],
+          "address": "臺北市松山區富錦街505號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900383,
+          "title": "三民公園游泳池",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.061,
+            121.5638
+          ],
+          "address": "臺北市松山區撫遠街298號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內外游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內外游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c0fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.050860224317287,
+        "lng": 121.56481618277842
+      },
+      "categories": {
+        "culture": 5
+      },
+      "points": [
+        {
+          "id": 7900271,
+          "title": "Curves 南京三民店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.5646
+          ],
+          "address": "臺北市松山區南京東路五段202號3樓之5",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900281,
+          "title": "moving on 超愛動",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.5646
+          ],
+          "address": "臺北市松山區南京東路五段202號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900282,
+          "title": "日心健身南京旗艦館",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.5634
+          ],
+          "address": "臺北市松山區南京東路五段176號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900289,
+          "title": "World Gym 健身俱樂部南京店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.564
+          ],
+          "address": "臺北市松山區南京東路五段196號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900300,
+          "title": "專注訓練運動空間",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.5649
+          ],
+          "address": "臺北市松山區南京東路五段208號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ccbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05036194447567,
+        "lng": 121.55299865233924
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900272,
+          "title": "Curves 南京小巨蛋店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0514,
+            121.5534
+          ],
+          "address": "臺北市松山區南京東路四段50號4樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c1bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.052032648393897,
+        "lng": 121.5594511468905
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900274,
+          "title": "ENERGYM",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.052,
+            121.5605
+          ],
+          "address": "臺北市松山區南京東路五段123巷1弄4號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900283,
+          "title": "RNA",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0512,
+            121.5605
+          ],
+          "address": "臺北市松山區南京東路五段62號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0921226468",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c53ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048354389676724,
+        "lng": 121.55513709144832
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900276,
+          "title": "Force Fitness 小巨蛋店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.048,
+            121.554
+          ],
+          "address": "臺北市松山區八德路三段120號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c03ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0528679223177,
+        "lng": 121.56267756247738
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900277,
+          "title": "GYMEFIT",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0543,
+            121.5626
+          ],
+          "address": "臺北市松山區健康路227號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cbbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.058553525181136,
+        "lng": 121.56485334035855
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900278,
+          "title": "Joysport 樂適能運動",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0586,
+            121.5646
+          ],
+          "address": "臺北市松山區民生東路五段206之8號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900287,
+          "title": "World Gym 民生圓環店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0586,
+            121.5642
+          ],
+          "address": "臺北市松山區民生東路五段196號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900293,
+          "title": "肌擊Office",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0583,
+            121.5647
+          ],
+          "address": "臺北市松山區民生東路五段204之2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0970132286",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c57ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.049189719910885,
+        "lng": 121.55836334302332
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900279,
+          "title": "Jungle 叢零體適能",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0479,
+            121.5579
+          ],
+          "address": "臺北市松山區光復南路1號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900294,
+          "title": "忠‧初我健身工作室",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0492,
+            121.5576
+          ],
+          "address": "臺北市松山區光復北路30號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0983177009",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c3bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051695398465203,
+        "lng": 121.56804277092931
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900290,
+          "title": "Xjumping 68 跳床俱樂部南京店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0511,
+            121.5668
+          ],
+          "address": "臺北市松山區南京東路五段268號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c0bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.050024998128478,
+        "lng": 121.5615897068049
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900298,
+          "title": "神拳阿凱 WORKOUTSPORTS",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0512,
+            121.5613
+          ],
+          "address": "臺北市松山區南京東路五段84號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900358,
+          "title": "小島好日 Islanday Studio",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0501,
+            121.5625
+          ],
+          "address": "臺北市松山區吉祥路43號地下一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "0970862180",
+          "notes": "瑜珈教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cc7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.054040173395926,
+        "lng": 121.55731261774476
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900299,
+          "title": "健身工廠健康場廠",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0535,
+            121.5573
+          ],
+          "address": "臺北市松山區健康路156號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c6fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044001295774674,
+        "lng": 121.56800557110691
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900308,
+          "title": "Functional Patterns 台灣台北信義店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.044,
+            121.5664
+          ],
+          "address": "臺北市信義區基隆路一段135號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c67ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046844452532905,
+        "lng": 121.56909351564249
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900309,
+          "title": "GYMEFIT Ninja",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0483,
+            121.569
+          ],
+          "address": "臺北市信義區基隆路一段25號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.043166160763672,
+        "lng": 121.56477902617888
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900312,
+          "title": "More fit 市府店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.043,
+            121.5658
+          ],
+          "address": "臺北市信義區基隆路一段139號地下1層",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

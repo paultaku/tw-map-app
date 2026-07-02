@@ -1,0 +1,749 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d36bbffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.084295738883185,
+        "lng": 121.595060573572
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6000748,
+          "title": "捷運內湖站(文湖線)",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0839,
+            121.594258
+          ],
+          "address": "臺北市內湖區成功路四段186號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運內湖站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000789,
+          "title": "統一超商臺北市金龍門市",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084528,
+            121.593309
+          ],
+          "address": "臺北市內湖區內湖路二段407號409號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市金龍門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000808,
+          "title": "CITYLINK內湖店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084081,
+            121.594547
+          ],
+          "address": "臺北市內湖區成功路四段188號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "潤泰創新國際股份有限公司CITYLINK內湖店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000858,
+          "title": "漢堡王成功店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.083715,
+            121.59379
+          ],
+          "address": "臺北市內湖區成功路四段178號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "家城股份有限公司成功分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000859,
+          "title": "摩斯漢堡內湖店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084375,
+            121.595457
+          ],
+          "address": "臺北市內湖區成功路四段202號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司內湖分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36c3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0789488040249,
+        "lng": 121.5842896476909
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000749,
+          "title": "捷運文德站(文湖線)",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.078436,
+            121.585527
+          ],
+          "address": "臺北市內湖區文德路214號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運文德站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000764,
+          "title": "紫陽加油站",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.078329,
+            121.583472
+          ],
+          "address": "臺北市內湖區文德路206號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "紫陽加油站股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000854,
+          "title": "摩斯漢堡內湖文德店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07833,
+            121.584127
+          ],
+          "address": "臺北市內湖區文德路212號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司內湖文德分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36afffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.083123174149577,
+        "lng": 121.60042772153987
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000753,
+          "title": "大湖公園地下停車場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.083825,
+            121.601904
+          ],
+          "address": "臺北市內湖區成功路五段7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處大湖公園地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000831,
+          "title": "大湖派出所",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.084116,
+            121.601374
+          ],
+          "address": "臺北市內湖區成功路五段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局大湖派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3637ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0811156667732,
+        "lng": 121.60256712157818
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000775,
+          "title": "大湖公園",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.080578,
+            121.603208
+          ],
+          "address": "臺北市內湖區成功路五段31號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處圓山公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.085130556228933,
+        "lng": 121.59828835217591
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000781,
+          "title": "煙波庭公園",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.086425,
+            121.599277
+          ],
+          "address": "臺北市內湖區大湖街131巷18弄6號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "花卉試驗中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3693ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.087475066591836,
+        "lng": 121.58755450149579
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000788,
+          "title": "統一超商臺北市金碧門市",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.088143,
+            121.587246
+          ],
+          "address": "臺北市內湖區金龍路219號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市金碧門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d367bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.070918977693076,
+        "lng": 121.5928462263172
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000791,
+          "title": "萊爾富便利商店北市國醫店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.070381,
+            121.592863
+          ],
+          "address": "臺北市內湖區民權東路六段123巷32號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萊爾富國際股份有限公司臺北市國醫店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000866,
+          "title": "三軍總醫院內湖院區",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.071435,
+            121.592407
+          ],
+          "address": "臺北市內湖區成功路二段325號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "三軍總醫院內湖院區",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3613ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.08061870868949,
+        "lng": 121.59074454103954
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 6000805,
+          "title": "家樂福便利購超市內湖成功分公司",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.080933,
+            121.590559
+          ],
+          "address": "臺北市內湖區成功路三段174巷8號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "家樂福便利購超市內湖成功分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000855,
+          "title": "拿坡里內湖店",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.079652,
+            121.589963
+          ],
+          "address": "臺北市內湖區成功路三段141號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "拿帕里股份有限公司內湖分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000856,
+          "title": "三商巧福內湖門市",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08006,
+            121.590586
+          ],
+          "address": "臺北市內湖區成功路三段175號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "三商行股份有限公司內湖分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000861,
+          "title": "內湖12號",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.081707,
+            121.590851
+          ],
+          "address": "臺北市內湖區成功路三段174巷33弄16號旁湖光市場內",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000865,
+          "title": "中國醫藥大學附設醫院臺北分院",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082157,
+            121.590642
+          ],
+          "address": "臺北市內湖區內湖路二段360號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "中國醫藥大學附設醫院臺北分院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364fffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.070084138062754,
+        "lng": 121.58961870655017
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 6000821,
+          "title": "內湖區公所",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號4F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000824,
+          "title": "內湖區健康服務中心",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區健康服務中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000825,
+          "title": "臺北市稅捐稽徵處內湖分處",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號2F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市稅捐稽徵處內湖分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000826,
+          "title": "內湖區戶政事務所",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號3F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市內湖區戶政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000827,
+          "title": "臺北市立圖書館內湖分館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號6F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館內湖分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000828,
+          "title": "內湖就業服務站",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號7F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市就業服務處內湖就業服務站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000830,
+          "title": "內湖分局",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069285,
+            121.589341
+          ],
+          "address": "臺北市內湖區民權東路六段101號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局內湖分局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000840,
+          "title": "防災科學教育館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0695,
+            121.5904
+          ],
+          "address": "臺北市內湖區成功路二段376號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府消防局防災科學教育館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000867,
+          "title": "聯合醫院忠孝醫院附設內湖門診部",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069374,
+            121.588898
+          ],
+          "address": "臺北市內湖區民權東路六段99號1F女廁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立聯合醫院忠孝醫院附設內湖門診部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082288404550667,
+        "lng": 121.5971998826623
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000829,
+          "title": "內湖社福中心",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.081264,
+            121.596272
+          ],
+          "address": "臺北市內湖區星雲路161巷3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "內湖社福中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d368bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082625947531767,
+        "lng": 121.58860535252855
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000832,
+          "title": "內湖派出所",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082099,
+            121.59011
+          ],
+          "address": "臺北市內湖區內湖路二段261號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局內湖派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3633ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.080280944921963,
+        "lng": 121.59933922243458
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000836,
+          "title": "康寧派出所",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08079,
+            121.597873
+          ],
+          "address": "臺北市內湖區金湖路83號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局康寧派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

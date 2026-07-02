@@ -1,0 +1,1357 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a46c7ffff",
+      "res": 9,
+      "count": 16,
+      "center": {
+        "lat": 25.03648641920194,
+        "lng": 121.48958510242542
+      },
+      "categories": {
+        "nature": 16
+      },
+      "points": [
+        {
+          "id": 10400005,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037603576835664,
+            121.49057547638711
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1241",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400028,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036378804261478,
+            121.48962919700456
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400058,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03625075045167,
+            121.49014398514947
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "955",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400107,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036323901441413,
+            121.48985689879166
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400111,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.035942486698815,
+            121.49054905059863
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400236,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03757495608569,
+            121.49105102589127
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400237,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037692608461498,
+            121.4909623073515
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400268,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03640080651662,
+            121.48983342127572
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400272,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036083974790902,
+            121.48866680176918
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400273,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036467198942525,
+            121.4902142122272
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400274,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036104734932653,
+            121.49062897214601
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400312,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036050822849436,
+            121.49054948145454
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400351,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036789596002436,
+            121.48816678462894
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400352,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03645632893552,
+            121.48980559770571
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400353,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.036261960727018,
+            121.4901112290923
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400354,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03645633716254,
+            121.49013895546938
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10400023,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.045196811100435,
+            121.50145742003495
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1119",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400024,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.043783303932873,
+            121.50027236437688
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1121",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400110,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04526053017182,
+            121.50129911502843
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400112,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.044116458429855,
+            121.50054129066592
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400185,
+          "title": "Naja atra",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.045799035131076,
+            121.50226260396941
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 10400025,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.042126747127178,
+            121.49886833209844
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1124",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400063,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04213616548354,
+            121.49874945006164
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1051",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400105,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04221676677403,
+            121.49894797642767
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400128,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04221676677403,
+            121.49894797642767
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46bbffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.041002039551415,
+        "lng": 121.49712001756265
+      },
+      "categories": {
+        "nature": 9
+      },
+      "points": [
+        {
+          "id": 10400026,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039660606388708,
+            121.49655927892391
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400092,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039885496587406,
+            121.49680793025554
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1048",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400156,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04136985892782,
+            121.49841932232823
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400175,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03984948178604,
+            121.49677805568096
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400176,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.041216350497102,
+            121.49842861181452
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400275,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.040416041159226,
+            121.49745420945683
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400276,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.040416008717138,
+            121.49746411920073
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400277,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04180291013099,
+            121.49851026253312
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400317,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.04112636305599,
+            121.49833905871934
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 10400027,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.038853808163662,
+            121.49480200455804
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1137",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400064,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039482182322722,
+            121.49590451365518
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1056",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400093,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039159113618144,
+            121.495308628045
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400202,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039167592369722,
+            121.49547712829725
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400234,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.0394819235676,
+            121.49598379102416
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400235,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039393033883737,
+            121.49555731238377
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400311,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.039168400028352,
+            121.4952293871278
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.025950603285533,
+        "lng": 121.48846228229304
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 10400057,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.025807152743294,
+            121.48953769974948
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "926",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400155,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02550878093984,
+            121.48967523771239
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400173,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02581627652568,
+            121.48950800981427
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4653ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.030800460469255,
+        "lng": 121.48741175391952
+      },
+      "categories": {
+        "nature": 7
+      },
+      "points": [
+        {
+          "id": 10400065,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030596532312398,
+            121.48814961018968
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400066,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030596532312398,
+            121.48814961018968
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400101,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030632708073853,
+            121.488129935127
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400108,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030859236147194,
+            121.48787319435668
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400121,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030632708073853,
+            121.488129935127
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400129,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030318031998405,
+            121.48772241815357
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400130,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.030859236147194,
+            121.48787319435668
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 10400106,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.028177244767107,
+            121.48807067635944
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400131,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02862909157082,
+            121.48793373855153
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400132,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.028141037176347,
+            121.4881002598331
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400134,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02775238639288,
+            121.48823744657327
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4613ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.037322830860706,
+        "lng": 121.49280909807788
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10400199,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03707655675185,
+            121.49162379912086
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400200,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.03701326448208,
+            121.49165327566351
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400201,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037058693117014,
+            121.4915642702531
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400313,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.0376018158889,
+            121.49112050041472
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400314,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037737107891182,
+            121.49116067780562
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 10400230,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.034398717129026,
+            121.49689128584863
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46c3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0356499557722,
+        "lng": 121.4863612192921
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 10400298,
+          "title": "Ocadia sinensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.0347061067165,
+            121.48655568930761
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a468bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.039329276173916,
+        "lng": 121.49067180997679
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400315,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037782792483345,
+            121.49099239535514
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400316,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "淡水河",
+          "coords": [
+            25.037792012641667,
+            121.4909329740383
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032807013148254,
+        "lng": 121.48527458583463
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 10400332,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.032543309461794,
+            121.48636373855553
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:11.107Z"
+}

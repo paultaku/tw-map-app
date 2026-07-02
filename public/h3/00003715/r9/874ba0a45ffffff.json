@@ -1,0 +1,4649 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a45d3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.063408364055952,
+        "lng": 121.51440256272926
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 200673,
+          "title": "蘭州分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06428,
+            121.51343
+          ],
+          "address": "臺北市大同區重慶北路3段、伊寧街口",
+          "layoutType": "",
+          "hours": "2008",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200700,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06307,
+            121.51565
+          ],
+          "address": "臺北市大同區民權西路187號前",
+          "layoutType": "",
+          "hours": "2155",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200701,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06441,
+            121.51375
+          ],
+          "address": "臺北市大同區重慶北路3段9巷口",
+          "layoutType": "",
+          "hours": "2157",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200758,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06264,
+            121.51462
+          ],
+          "address": "臺北市大同區民權西路190號、蘭州街44號口",
+          "layoutType": "",
+          "hours": "1956",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200774,
+          "title": "蘭州分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0625511,
+            121.5134545
+          ],
+          "address": "臺北市大同區重慶北路2段190號",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200869,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06423,
+            121.5152
+          ],
+          "address": "臺北市大同區蘭州街89巷口、蘭州公園",
+          "layoutType": "",
+          "hours": "1600",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45d7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.064244483353118,
+        "lng": 121.51762753569913
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200699,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06303,
+            121.51704
+          ],
+          "address": "臺北市大同區民權西路133巷口",
+          "layoutType": "",
+          "hours": "2143",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200875,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06537,
+            121.51826
+          ],
+          "address": "臺北市大同區承德路3段60號前",
+          "layoutType": "",
+          "hours": "1654",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200876,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0642,
+            121.51822
+          ],
+          "address": "臺北市大同區承德路3段24巷口",
+          "layoutType": "",
+          "hours": "1658",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200877,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06464,
+            121.51842
+          ],
+          "address": "臺北市大同區承德路3段43號前",
+          "layoutType": "",
+          "hours": "1702",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45c3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.061402223019993,
+        "lng": 121.51654036151311
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200738,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06225,
+            121.5159
+          ],
+          "address": "臺北市大同區民權西路144巷8號",
+          "layoutType": "",
+          "hours": "1615",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200739,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06164,
+            121.51593
+          ],
+          "address": "臺北市大同區民權西路144巷19弄、雙連國小後",
+          "layoutType": "",
+          "hours": "1621",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200740,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0601,
+            121.51695
+          ],
+          "address": "臺北市大同區錦西街120之1號、興城街口",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200759,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06281,
+            121.51694
+          ],
+          "address": "臺北市大同區民權西路120號",
+          "layoutType": "",
+          "hours": "1959",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200843,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06163,
+            121.51814
+          ],
+          "address": "臺北市大同區承德路2段188號前",
+          "layoutType": "",
+          "hours": "1620",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45cfffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.059395956709285,
+        "lng": 121.51867819116848
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 200741,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05947,
+            121.51809
+          ],
+          "address": "臺北市大同區承德路2段134號（臨停）",
+          "layoutType": "",
+          "hours": "1635",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200742,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05849,
+            121.51806
+          ],
+          "address": "臺北市大同區承德路2段106號萬全街口",
+          "layoutType": "",
+          "hours": "1637",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200747,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05877,
+            121.51829
+          ],
+          "address": "臺北市大同區承德路2段173號前",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200750,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05923984,
+            121.5200209
+          ],
+          "address": "臺北市大同區萬全街3巷16號之1",
+          "layoutType": "",
+          "hours": "1921",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200751,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05983439,
+            121.5199686
+          ],
+          "address": "臺北市大同區錦西街52巷13號",
+          "layoutType": "",
+          "hours": "1924",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200752,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06019,
+            121.51882
+          ],
+          "address": "臺北市大同區錦西街、雙連街口",
+          "layoutType": "",
+          "hours": "1926",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200753,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06030403,
+            121.5199117
+          ],
+          "address": "臺北市大同區錦西街50號",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200868,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05843,
+            121.51827
+          ],
+          "address": "臺北市大同區承德路2段、萬全街口",
+          "layoutType": "",
+          "hours": "2026",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4553ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.056553537062094,
+        "lng": 121.51759100950619
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200743,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05576,
+            121.51806
+          ],
+          "address": "臺北市大同區承德路2段30號",
+          "layoutType": "",
+          "hours": "1643",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200746,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05616,
+            121.5183
+          ],
+          "address": "臺北市大同區承德路2段91巷口",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200859,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0573,
+            121.51717
+          ],
+          "address": "臺北市大同區民生西路171號",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200860,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05658,
+            121.51706
+          ],
+          "address": "臺北市大同區太原路、五原路口",
+          "layoutType": "",
+          "hours": "1927",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200861,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05719,
+            121.51749
+          ],
+          "address": "臺北市大同區民生西路178巷",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a455bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.053711035671185,
+        "lng": 121.51650385003612
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 200744,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05379,
+            121.51799
+          ],
+          "address": "臺北市大同區承德路2段3號(建成公園)",
+          "layoutType": "",
+          "hours": "1649",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200768,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05378,
+            121.51798
+          ],
+          "address": "臺北市大同區承德路2段3號建成公園",
+          "layoutType": "",
+          "hours": "2204",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200770,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05498,
+            121.51644
+          ],
+          "address": "臺北市大同區太原路156之6號、平陽街口",
+          "layoutType": "",
+          "hours": "2212",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200771,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05384,
+            121.51566
+          ],
+          "address": "臺北市大同區南京西路107巷口",
+          "layoutType": "",
+          "hours": "2216",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200846,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05292,
+            121.51588
+          ],
+          "address": "臺北市大同區太原路118號",
+          "layoutType": "",
+          "hours": "1640",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200867,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05374,
+            121.51524
+          ],
+          "address": "臺北市大同區南京西路262巷口",
+          "layoutType": "",
+          "hours": "2018",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4543ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.054547067928073,
+        "lng": 121.51972884036093
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200745,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05501,
+            121.51831
+          ],
+          "address": "臺北市大同區承德路2段39號",
+          "layoutType": "",
+          "hours": "1655",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200769,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05463,
+            121.51833
+          ],
+          "address": "臺北市大同區承德路2段39號",
+          "layoutType": "",
+          "hours": "2208",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4557ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.057389565126055,
+        "lng": 121.52081605169018
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 200748,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05767,
+            121.52014
+          ],
+          "address": "臺北市大同區民生西路63號",
+          "layoutType": "",
+          "hours": "1910",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200749,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05865783,
+            121.520143
+          ],
+          "address": "臺北市大同區萬全街5號",
+          "layoutType": "",
+          "hours": "1916",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200858,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05756,
+            121.51929
+          ],
+          "address": "臺北市大同區民生西路95號、雙連街口",
+          "layoutType": "",
+          "hours": "1915",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200899,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05708,
+            121.51974
+          ],
+          "address": "臺北市大同區赤峰街19號至77巷口",
+          "layoutType": "",
+          "hours": "2042",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201256,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05781,
+            121.521726
+          ],
+          "address": "臺北市中山區民生西路7號前",
+          "layoutType": "",
+          "hours": "1900",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201257,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057698,
+            121.520767
+          ],
+          "address": "臺北市中山區民生西路45巷(巷口)",
+          "layoutType": "",
+          "hours": "1911",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201492,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057689,
+            121.521178
+          ],
+          "address": "臺北市中山區民生西路54號",
+          "layoutType": "",
+          "hours": "1655",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201493,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057813,
+            121.522002
+          ],
+          "address": "臺北市中山區民生西路20號",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45cbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05855988092676,
+        "lng": 121.51545320951999
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200754,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05984,
+            121.51585
+          ],
+          "address": "臺北市大同區錦西街53巷口",
+          "layoutType": "",
+          "hours": "1936",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200755,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05934,
+            121.51416
+          ],
+          "address": "臺北市大同區保安街1之4號財福大樓",
+          "layoutType": "",
+          "hours": "1941",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200844,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05883,
+            121.51496
+          ],
+          "address": "臺北市大同區寧夏路102號",
+          "layoutType": "",
+          "hours": "1627",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200845,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05835,
+            121.51511
+          ],
+          "address": "臺北市大同區寧夏路、歸綏街口",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45dbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.060566099519775,
+        "lng": 121.51331544040765
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200756,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05995,
+            121.51368
+          ],
+          "address": "臺北市大同區重慶北路2段189號",
+          "layoutType": "",
+          "hours": "1946",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200757,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0613,
+            121.51423
+          ],
+          "address": "臺北市大同區寧夏路161、163號間對面",
+          "layoutType": "",
+          "hours": "1949",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200775,
+          "title": "蘭州分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05909815,
+            121.5135525
+          ],
+          "address": "臺北市大同區重慶北路2段保安街口",
+          "layoutType": "",
+          "hours": "1634",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200840,
+          "title": "延平分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05915496,
+            121.5127868
+          ],
+          "address": "臺北市大同區保安街甘州街口",
+          "layoutType": "",
+          "hours": "2157",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a454bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.051704488989234,
+        "lng": 121.51864165122322
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200762,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05289,
+            121.51896
+          ],
+          "address": "臺北市大同區南京西路64巷口",
+          "layoutType": "",
+          "hours": "2135",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200765,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05089,
+            121.51749
+          ],
+          "address": "臺北市大同區長安西路53巷口",
+          "layoutType": "",
+          "hours": "2151",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200766,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05132,
+            121.5173
+          ],
+          "address": "臺北市大同區承德路1段41巷口",
+          "layoutType": "",
+          "hours": "2156",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200767,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05218335,
+            121.5175352
+          ],
+          "address": "臺北市大同區承德路1段77巷口",
+          "layoutType": "",
+          "hours": "2200",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200862,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.05232,
+            121.51727
+          ],
+          "address": "臺北市大同區承德路1段72號",
+          "layoutType": "",
+          "hours": "1940",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a454fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.052540473526964,
+        "lng": 121.52186670207897
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200763,
+          "title": "建成分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0526351,
+            121.5202072
+          ],
+          "address": "臺北市大同區南京西路32號捷運邊",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201350,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.052835,
+            121.522731
+          ],
+          "address": "臺北市中山區中山北路2段15號",
+          "layoutType": "",
+          "hours": "1720",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201491,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.053667,
+            121.522516
+          ],
+          "address": "臺北市中山區中山北路2段22號",
+          "layoutType": "",
+          "hours": "1641",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201501,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.052484,
+            121.521731
+          ],
+          "address": "臺北市中山區南京西路3號",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201516,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.051745,
+            121.522549
+          ],
+          "address": "臺北市中山區中山北路1段133號",
+          "layoutType": "",
+          "hours": "2201",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a459bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.067086661912537,
+        "lng": 121.51871473207794
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 200874,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06727,
+            121.5183
+          ],
+          "address": "臺北市大同區承德路3段122巷口",
+          "layoutType": "",
+          "hours": "1642",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200878,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06605,
+            121.51845
+          ],
+          "address": "臺北市大同區承德路3段85巷口",
+          "layoutType": "",
+          "hours": "1706",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200879,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06761776,
+            121.5184844
+          ],
+          "address": "臺北市大同區承德路3段129巷口",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200880,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06805,
+            121.51848
+          ],
+          "address": "臺北市大同區承德路3段159巷口",
+          "layoutType": "",
+          "hours": "1715",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200881,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06852644,
+            121.5190855
+          ],
+          "address": "臺北市大同區民族西路50號前",
+          "layoutType": "",
+          "hours": "1719",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4593ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.069928758684693,
+        "lng": 121.51980195064947
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200883,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06912,
+            121.5185
+          ],
+          "address": "臺北市大同區承德路3段177巷口",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200884,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.07016,
+            121.51851
+          ],
+          "address": "臺北市大同區承德路3段225巷口",
+          "layoutType": "",
+          "hours": "1939",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200886,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.06912,
+            121.51836
+          ],
+          "address": "臺北市大同區承德路3段176巷口",
+          "layoutType": "",
+          "hours": "1948",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200892,
+          "title": "大龍分隊",
+          "category": "nightmarket",
+          "location": "臺北市大同區",
+          "coords": [
+            25.0706,
+            121.51895
+          ],
+          "address": "臺北市大同區酒泉街37號前",
+          "layoutType": "",
+          "hours": "2130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a458bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.065080550718225,
+        "lng": 121.5208526210694
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201240,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06533,
+            121.522
+          ],
+          "address": "臺北市中山區中山北路3段34號前",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201254,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063597,
+            121.520705
+          ],
+          "address": "臺北市中山區撫順街21號對面",
+          "layoutType": "",
+          "hours": "1650",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4513ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.063074314245142,
+        "lng": 121.52299054092258
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201241,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063982,
+            121.522206
+          ],
+          "address": "臺北市中山區中山北路3段2號前",
+          "layoutType": "",
+          "hours": "1641",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201242,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061631,
+            121.522747
+          ],
+          "address": "臺北市中山區中山北路2段128號前",
+          "layoutType": "",
+          "hours": "1651",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201246,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063772,
+            121.522528
+          ],
+          "address": "臺北市中山區中山北路3段1號前",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201252,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062891,
+            121.521779
+          ],
+          "address": "臺北市中山區民權西路11號前",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201396,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063772,
+            121.522528
+          ],
+          "address": "臺北市中山區中山北路3段1號前",
+          "layoutType": "",
+          "hours": "1648",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201405,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06196,
+            121.52301
+          ],
+          "address": "臺北市中山區中山北路2段145號前",
+          "layoutType": "",
+          "hours": "2131",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a451bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.060231980569604,
+        "lng": 121.52190328521071
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201243,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059479,
+            121.522777
+          ],
+          "address": "臺北市中山區中山北路2段96號前",
+          "layoutType": "",
+          "hours": "1706",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201258,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060318,
+            121.520877
+          ],
+          "address": "臺北市中山區錦西街34號前",
+          "layoutType": "",
+          "hours": "1920",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201259,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060336,
+            121.521769
+          ],
+          "address": "臺北市中山區錦西街7號前",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201260,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06113,
+            121.52101
+          ],
+          "address": "臺北市中山區天祥路18號前",
+          "layoutType": "",
+          "hours": "2110",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45bbffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.0667525296036,
+        "lng": 121.52730312895312
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201244,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067762,
+            121.527674
+          ],
+          "address": "臺北市中山區新生北路3段88巷(近民族東路口公車站牌)",
+          "layoutType": "",
+          "hours": "1850",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201245,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06673,
+            121.52587
+          ],
+          "address": "臺北市中山區德惠街13號前",
+          "layoutType": "",
+          "hours": "1903",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201262,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06628,
+            121.52576
+          ],
+          "address": "臺北市中山區林森北路609號前",
+          "layoutType": "",
+          "hours": "2141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201263,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.0667,
+            121.527266
+          ],
+          "address": "臺北市中山區德惠街55號前",
+          "layoutType": "",
+          "hours": "2151",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201411,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06551,
+            121.527974
+          ],
+          "address": "臺北市中山區新生北路3段49號前",
+          "layoutType": "",
+          "hours": "1750",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201420,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06685,
+            121.528024
+          ],
+          "address": "臺北市中山區新生北路3段73號前",
+          "layoutType": "",
+          "hours": "2157",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201421,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067771,
+            121.528037
+          ],
+          "address": "臺北市中山區新生北路3段95號前",
+          "layoutType": "",
+          "hours": "2205",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4587ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06875873623795,
+        "lng": 121.52516511891966
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201247,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.068358,
+            121.524384
+          ],
+          "address": "臺北市中山區民族東路28號前",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201248,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067358,
+            121.525703
+          ],
+          "address": "臺北市中山區林森北路628號前",
+          "layoutType": "",
+          "hours": "2110",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a458fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.065916566139112,
+        "lng": 121.52407781882559
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 201249,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067044,
+            121.52493
+          ],
+          "address": "臺北市中山區雙城街38號前",
+          "layoutType": "",
+          "hours": "2126",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201250,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06682,
+            121.52313
+          ],
+          "address": "臺北市中山區德惠街5號前",
+          "layoutType": "",
+          "hours": "2136",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201251,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064904,
+            121.523773
+          ],
+          "address": "臺北市中山區農安街12號前",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201261,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.065545,
+            121.525719
+          ],
+          "address": "臺北市中山區林森北路577號(台灣銀行前)",
+          "layoutType": "",
+          "hours": "2130",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201394,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.065754,
+            121.525672
+          ],
+          "address": "臺北市中山區林森北路594號前",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45c7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.062238294599172,
+        "lng": 121.51976539502293
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201253,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063383,
+            121.519446
+          ],
+          "address": "臺北市中山區撫順街30號前",
+          "layoutType": "",
+          "hours": "1637",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201255,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062111,
+            121.520995
+          ],
+          "address": "臺北市中山區天祥路58號前",
+          "layoutType": "",
+          "hours": "1705",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a457bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.053376406151187,
+        "lng": 121.5250918653112
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 201299,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.051997,
+            121.525477
+          ],
+          "address": "臺北市中山區南京東路1段86號",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201364,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05237,
+            121.52439
+          ],
+          "address": "臺北市中山區南京東路1段29號",
+          "layoutType": "",
+          "hours": "2053",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a456bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.051369638764083,
+        "lng": 121.52722981840002
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201300,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.051976,
+            121.527137
+          ],
+          "address": "臺北市中山區南京東路1段130號",
+          "layoutType": "",
+          "hours": "1712",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201308,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05093,
+            121.5277
+          ],
+          "address": "臺北市中山區新生北路1段130號前",
+          "layoutType": "",
+          "hours": "2041",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201309,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05057,
+            121.52796
+          ],
+          "address": "臺北市中山區新生北路1段114號",
+          "layoutType": "",
+          "hours": "2050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201534,
+          "title": "長安分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05085,
+            121.52831
+          ],
+          "address": "臺北市中山區新生北路1段83號前",
+          "layoutType": "",
+          "hours": "1858",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4547ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.055383048272617,
+        "lng": 121.52295394307284
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201351,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054384,
+            121.522841
+          ],
+          "address": "臺北市中山區中山北路2段43號",
+          "layoutType": "",
+          "hours": "1726",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201358,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055012,
+            121.524165
+          ],
+          "address": "臺北市中山區長春路21號",
+          "layoutType": "",
+          "hours": "1824",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201359,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055883,
+            121.522883
+          ],
+          "address": "臺北市中山區中山北路2段59-1號",
+          "layoutType": "",
+          "hours": "1836",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201361,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054975,
+            121.523611
+          ],
+          "address": "臺北市中山區長春路路16號",
+          "layoutType": "",
+          "hours": "2035",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201502,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05636,
+            121.5226
+          ],
+          "address": "臺北市中山區中山北路2段52號",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201503,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054624,
+            121.521647
+          ],
+          "address": "臺北市中山區中山北路2段42巷18號前",
+          "layoutType": "",
+          "hours": "1934",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a450bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.05822554126667,
+        "lng": 121.52404120625727
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201352,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05804,
+            121.524754
+          ],
+          "address": "臺北市中山區民生東路1段48號",
+          "layoutType": "",
+          "hours": "1732",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201360,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05737,
+            121.522984
+          ],
+          "address": "臺北市中山區中山北路2段71號",
+          "layoutType": "",
+          "hours": "1842",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201365,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058044,
+            121.524056
+          ],
+          "address": "臺北市中山區民生東路1段28號",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201371,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058487,
+            121.525571
+          ],
+          "address": "臺北市中山區林森北路381號",
+          "layoutType": "",
+          "hours": "2152",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201490,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057093,
+            121.522717
+          ],
+          "address": "臺北市中山區中山北路2段74號",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201495,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058152,
+            121.523991
+          ],
+          "address": "臺北市中山區民生東路1段13號",
+          "layoutType": "",
+          "hours": "1712",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201496,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059264,
+            121.523079
+          ],
+          "address": "臺北市中山區中山北路2段91號",
+          "layoutType": "",
+          "hours": "1723",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a450fffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.059061465471732,
+        "lng": 121.52726647319294
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201353,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058031,
+            121.526509
+          ],
+          "address": "臺北市中山區民生東路1段72號",
+          "layoutType": "",
+          "hours": "1740",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201372,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059184,
+            121.525574
+          ],
+          "address": "臺北市中山區林森北路401號",
+          "layoutType": "",
+          "hours": "2156",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201428,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05905,
+            121.52786
+          ],
+          "address": "臺北市中山區新生北路2段121號前",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201429,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059549,
+            121.527832
+          ],
+          "address": "臺北市中山區新生北路2段125號前",
+          "layoutType": "",
+          "hours": "1945",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201494,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058114,
+            121.526394
+          ],
+          "address": "臺北市中山區民生東路1段59號",
+          "layoutType": "",
+          "hours": "1706",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201500,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05913,
+            121.52733
+          ],
+          "address": "臺北市中山區新生北路2段96號",
+          "layoutType": "",
+          "hours": "1746",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4573ffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.056218976692605,
+        "lng": 121.52617915815722
+      },
+      "categories": {
+        "nightmarket": 11
+      },
+      "points": [
+        {
+          "id": 201354,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057486,
+            121.527297
+          ],
+          "address": "臺北市中山區新生北路2段76巷2號",
+          "layoutType": "",
+          "hours": "1750",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201355,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.056407,
+            121.527265
+          ],
+          "address": "臺北市中山區新生北路2段66號",
+          "layoutType": "",
+          "hours": "1800",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201356,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055289,
+            121.527235
+          ],
+          "address": "臺北市中山區新生北路2段58巷4號",
+          "layoutType": "",
+          "hours": "1807",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201357,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054998,
+            121.526303
+          ],
+          "address": "臺北市中山區長春路59號",
+          "layoutType": "",
+          "hours": "1817",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201362,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054962,
+            121.525115
+          ],
+          "address": "臺北市中山區長春路路40號",
+          "layoutType": "",
+          "hours": "2039",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201363,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054954,
+            121.526538
+          ],
+          "address": "臺北市中山區長春路路82-1號",
+          "layoutType": "",
+          "hours": "2044",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201366,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.0574,
+            121.52542
+          ],
+          "address": "臺北市中山區林森北路362號",
+          "layoutType": "",
+          "hours": "2112",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201367,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.056314,
+            121.525464
+          ],
+          "address": "臺北市中山區林森北路312號",
+          "layoutType": "",
+          "hours": "2118",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201368,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055408,
+            121.525434
+          ],
+          "address": "臺北市中山區林森北路282號",
+          "layoutType": "",
+          "hours": "2124",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201369,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055574,
+            121.52552
+          ],
+          "address": "臺北市中山區林森北路291號",
+          "layoutType": "",
+          "hours": "2136",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201370,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057087,
+            121.525541
+          ],
+          "address": "臺北市中山區林森北路353號",
+          "layoutType": "",
+          "hours": "2142",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45afffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.065582061462067,
+        "lng": 121.5326666528149
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201373,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064302,
+            121.533358
+          ],
+          "address": "臺北市中山區松江路367號",
+          "layoutType": "",
+          "hours": "1720",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201374,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.066282,
+            121.533384
+          ],
+          "address": "臺北市中山區松江路441號",
+          "layoutType": "",
+          "hours": "1732",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201407,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064787,
+            121.531266
+          ],
+          "address": "臺北市中山區農安街130號(精漢堂)",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201423,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.066849,
+            121.533178
+          ],
+          "address": "臺北市中山區松江路526號前",
+          "layoutType": "",
+          "hours": "1658",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4537ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.063575556545477,
+        "lng": 121.53480478502607
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 201376,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06257,
+            121.53472
+          ],
+          "address": "臺北市中山區民權東路2段133號旁",
+          "layoutType": "",
+          "hours": "1752",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201377,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064605,
+            121.53518
+          ],
+          "address": "臺北市中山區農安街182號",
+          "layoutType": "",
+          "hours": "1809",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201379,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064605,
+            121.53518
+          ],
+          "address": "臺北市中山區農安街182號",
+          "layoutType": "",
+          "hours": "1955",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201408,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063761,
+            121.533124
+          ],
+          "address": "臺北市中山區松江路398號前",
+          "layoutType": "",
+          "hours": "1712",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201462,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.0624,
+            121.534555
+          ],
+          "address": "臺北市中山區民權東路2段150號前",
+          "layoutType": "",
+          "hours": "2032",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a452fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.058726450283828,
+        "lng": 121.53585547749972
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201384,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059687,
+            121.536961
+          ],
+          "address": "臺北市中山區錦州街臨306號",
+          "layoutType": "",
+          "hours": "1545",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201452,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057997,
+            121.536525
+          ],
+          "address": "臺北市中山區民生東路2段161號前",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201453,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058016,
+            121.535447
+          ],
+          "address": "臺北市中山區民生東路2段149號前",
+          "layoutType": "",
+          "hours": "1709",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.068424300614755,
+        "lng": 121.53375408626388
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 201385,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.068137,
+            121.534656
+          ],
+          "address": "臺北市中山區民族東路254號前",
+          "layoutType": "",
+          "hours": "1732",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4517ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06391028194573,
+        "lng": 121.52621579919752
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201395,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06351,
+            121.52558
+          ],
+          "address": "臺北市中山區林森北路530號前",
+          "layoutType": "",
+          "hours": "1641",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201397,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064859,
+            121.527344
+          ],
+          "address": "臺北市中山區農安街40號",
+          "layoutType": "",
+          "hours": "1707",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201403,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06411,
+            121.52562
+          ],
+          "address": "臺北市中山區林森北路554號前(達樂星前)",
+          "layoutType": "",
+          "hours": "2105",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201419,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063686,
+            121.527923
+          ],
+          "address": "臺北市中山區新生北路3段15號旁",
+          "layoutType": "",
+          "hours": "2146",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4507ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.06190387247496,
+        "lng": 121.52835381041828
+      },
+      "categories": {
+        "nightmarket": 5
+      },
+      "points": [
+        {
+          "id": 201398,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06145,
+            121.52734
+          ],
+          "address": "臺北市中山區新生北路2段122號前",
+          "layoutType": "",
+          "hours": "1855",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201418,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062702,
+            121.528839
+          ],
+          "address": "臺北市中山區民權東路2段17號前",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201430,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060902,
+            121.527881
+          ],
+          "address": "臺北市中山區新生北路2段135號前",
+          "layoutType": "",
+          "hours": "1955",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201431,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061595,
+            121.527876
+          ],
+          "address": "臺北市中山區新生北路2段143號前",
+          "layoutType": "",
+          "hours": "2005",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201432,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062497,
+            121.528471
+          ],
+          "address": "臺北市中山區民權東路2段24號前",
+          "layoutType": "",
+          "hours": "2015",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4503ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.061067952495556,
+        "lng": 121.52512849163217
+      },
+      "categories": {
+        "nightmarket": 9
+      },
+      "points": [
+        {
+          "id": 201399,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061407,
+            121.525615
+          ],
+          "address": "臺北市中山區林森北路487號前",
+          "layoutType": "",
+          "hours": "1907",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201400,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06181,
+            121.52555
+          ],
+          "address": "臺北市中山區林森北路500號前",
+          "layoutType": "",
+          "hours": "1916",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201401,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06049,
+            121.52554
+          ],
+          "address": "臺北市中山區林森北路438號前",
+          "layoutType": "",
+          "hours": "1926",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201402,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060364,
+            121.523813
+          ],
+          "address": "臺北市中山區錦州街5號前",
+          "layoutType": "",
+          "hours": "1936",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201404,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061713,
+            121.525132
+          ],
+          "address": "臺北市中山區中山北路二段137巷45號",
+          "layoutType": "",
+          "hours": "2120",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201406,
+          "title": "圓山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062622,
+            121.524716
+          ],
+          "address": "臺北市中山區民權東路1段60號前",
+          "layoutType": "",
+          "hours": "2138",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201497,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060336,
+            121.523591
+          ],
+          "address": "臺北市中山區錦州街6號",
+          "layoutType": "",
+          "hours": "1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201498,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060298,
+            121.524715
+          ],
+          "address": "臺北市中山區錦州街28號",
+          "layoutType": "",
+          "hours": "1736",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201499,
+          "title": "中山分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06027,
+            121.526209
+          ],
+          "address": "臺北市中山區錦州街50號",
+          "layoutType": "",
+          "hours": "1742",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4533ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.062739740495672,
+        "lng": 121.53157924155445
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201409,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062636,
+            121.531654
+          ],
+          "address": "臺北市中山區民權東路2段69之1號前",
+          "layoutType": "",
+          "hours": "1725",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201417,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063528,
+            121.53028
+          ],
+          "address": "臺北市中山區吉林路348號旁(新壽公園旁)",
+          "layoutType": "",
+          "hours": "2011",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201433,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061948,
+            121.530261
+          ],
+          "address": "臺北市中山區吉林路312號前",
+          "layoutType": "",
+          "hours": "2025",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201461,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062457,
+            121.531726
+          ],
+          "address": "臺北市中山區民權東路2段94號",
+          "layoutType": "",
+          "hours": "2023",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45abffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.06474619768877,
+        "lng": 121.52944116983315
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201410,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064847,
+            121.530183
+          ],
+          "address": "臺北市中山區農安街127號前",
+          "layoutType": "",
+          "hours": "1737",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201415,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.065596,
+            121.530366
+          ],
+          "address": "臺北市中山區吉林路410號前",
+          "layoutType": "",
+          "hours": "1951",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201416,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.064392,
+            121.530274
+          ],
+          "address": "臺北市中山區吉林路376號前",
+          "layoutType": "",
+          "hours": "2001",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45a3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.067588441099552,
+        "lng": 121.5305285514374
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201412,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.066679,
+            121.530442
+          ],
+          "address": "臺北市中山區吉林路421號前",
+          "layoutType": "",
+          "hours": "1930",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201413,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067708,
+            121.530466
+          ],
+          "address": "臺北市中山區吉林路463號前",
+          "layoutType": "",
+          "hours": "1939",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201414,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.067659,
+            121.53042
+          ],
+          "address": "臺北市中山區吉林路470號前",
+          "layoutType": "",
+          "hours": "1946",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201422,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06818,
+            121.531933
+          ],
+          "address": "臺北市中山區民族東路230號前",
+          "layoutType": "",
+          "hours": "2215",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4523ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.06073315802659,
+        "lng": 121.53371734411174
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201424,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061718,
+            121.533087
+          ],
+          "address": "臺北市中山區松江路350號前",
+          "layoutType": "",
+          "hours": "1725",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201425,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061083,
+            121.533086
+          ],
+          "address": "臺北市中山區松江路328號前",
+          "layoutType": "",
+          "hours": "1732",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201426,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059527,
+            121.533073
+          ],
+          "address": "臺北市中山區松江路266號前",
+          "layoutType": "",
+          "hours": "1742",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201454,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059618,
+            121.533268
+          ],
+          "address": "臺北市中山區松江路261號前",
+          "layoutType": "",
+          "hours": "1716",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201455,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061164,
+            121.533321
+          ],
+          "address": "臺北市中山區松江路303號前",
+          "layoutType": "",
+          "hours": "1725",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201465,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060336,
+            121.534727
+          ],
+          "address": "臺北市中山區錦州街261號前",
+          "layoutType": "",
+          "hours": "2205",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201466,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060355,
+            121.533914
+          ],
+          "address": "臺北市中山區錦州街243號前",
+          "layoutType": "",
+          "hours": "2215",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4577ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.05705485317594,
+        "lng": 121.52940448559954
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 201427,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057983,
+            121.52872
+          ],
+          "address": "臺北市中山區民生東路2段25號前",
+          "layoutType": "",
+          "hours": "1925",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201475,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055716,
+            121.528868
+          ],
+          "address": "臺北市中山區中原街17號(中原公園)",
+          "layoutType": "",
+          "hours": "1831",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201476,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05679,
+            121.5278
+          ],
+          "address": "臺北市中山區新生北路2段75號前",
+          "layoutType": "",
+          "hours": "1844",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201477,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057984,
+            121.528915
+          ],
+          "address": "臺北市中山區民生東路2段36號前",
+          "layoutType": "",
+          "hours": "1856",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201478,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057399,
+            121.530173
+          ],
+          "address": "臺北市中山區吉林路176號前",
+          "layoutType": "",
+          "hours": "1904",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201479,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.056561,
+            121.530145
+          ],
+          "address": "臺北市中山區吉林路158號前",
+          "layoutType": "",
+          "hours": "1909",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201487,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.056865,
+            121.530184
+          ],
+          "address": "臺北市中山區吉林路121號前",
+          "layoutType": "",
+          "hours": "2131",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201488,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057977,
+            121.530803
+          ],
+          "address": "臺北市中山區民生東路2段92號",
+          "layoutType": "",
+          "hours": "2141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a453bffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.059897337729105,
+        "lng": 121.53049185248263
+      },
+      "categories": {
+        "nightmarket": 8
+      },
+      "points": [
+        {
+          "id": 201434,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061055,
+            121.53024
+          ],
+          "address": "臺北市中山區吉林路288號",
+          "layoutType": "",
+          "hours": "2035",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201435,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059579,
+            121.530201
+          ],
+          "address": "臺北市中山區吉林路246號",
+          "layoutType": "",
+          "hours": "2041",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201436,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.058771,
+            121.530198
+          ],
+          "address": "臺北市中山區吉林路210號",
+          "layoutType": "",
+          "hours": "2046",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201437,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060314,
+            121.5321
+          ],
+          "address": "臺北市中山區錦州街222號前(松江市場)",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201438,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060322,
+            121.529042
+          ],
+          "address": "臺北市中山區錦州街140號前(錦州公園)",
+          "layoutType": "",
+          "hours": "2205",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201458,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.059018,
+            121.53025
+          ],
+          "address": "臺北市中山區吉林路163號前",
+          "layoutType": "",
+          "hours": "1951",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201459,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060034,
+            121.530269
+          ],
+          "address": "臺北市中山區吉林路201號前",
+          "layoutType": "",
+          "hours": "2001",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201460,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061295,
+            121.53032
+          ],
+          "address": "臺北市中山區吉林路245號",
+          "layoutType": "",
+          "hours": "2011",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a452bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.057890677710393,
+        "lng": 121.53262992538522
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 201456,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057995,
+            121.532064
+          ],
+          "address": "臺北市中山區民生東路2段125號前",
+          "layoutType": "",
+          "hours": "1935",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201457,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057999,
+            121.53094
+          ],
+          "address": "臺北市中山區民生東路2段87號前",
+          "layoutType": "",
+          "hours": "1946",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201467,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057397,
+            121.533043
+          ],
+          "address": "臺北市中山區松江路200號前",
+          "layoutType": "",
+          "hours": "1610",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201489,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057956,
+            121.531983
+          ],
+          "address": "臺北市中山區民生東路2段132號",
+          "layoutType": "",
+          "hours": "2146",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4527ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.06156892635205,
+        "lng": 121.53694294806571
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201463,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.061558,
+            121.53671
+          ],
+          "address": "臺北市中山區建國北路2段238號",
+          "layoutType": "",
+          "hours": "2150",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201464,
+          "title": "民一分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.060286,
+            121.535771
+          ],
+          "address": "臺北市中山區錦州街298號前(錦北公園)",
+          "layoutType": "",
+          "hours": "2157",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201527,
+          "title": "民二分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06043,
+            121.53725
+          ],
+          "address": "臺北市中山區建國北路2段135號",
+          "layoutType": "",
+          "hours": "2140",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4567ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.055048115610443,
+        "lng": 121.5315425288467
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 201468,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.0559,
+            121.53296
+          ],
+          "address": "臺北市中山區松江路168號前",
+          "layoutType": "",
+          "hours": "1620",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201482,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.056048,
+            121.532025
+          ],
+          "address": "臺北市中山區松江路170巷20號對面(中吉公園)",
+          "layoutType": "",
+          "hours": "2040",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201483,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055339,
+            121.53153
+          ],
+          "address": "臺北市中山區長春路137巷6號前",
+          "layoutType": "",
+          "hours": "2051",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201484,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.053847,
+            121.53152
+          ],
+          "address": "臺北市中山區一江街42號",
+          "layoutType": "",
+          "hours": "2100",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201485,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.054083,
+            121.530189
+          ],
+          "address": "臺北市中山區吉林路69號前",
+          "layoutType": "",
+          "hours": "2121",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201486,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.055215,
+            121.530165
+          ],
+          "address": "臺北市中山區吉林路79號",
+          "layoutType": "",
+          "hours": "2126",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a456fffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.05220547174033,
+        "lng": 121.53045515449624
+      },
+      "categories": {
+        "nightmarket": 7
+      },
+      "points": [
+        {
+          "id": 201470,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.052114,
+            121.531387
+          ],
+          "address": "臺北市中山區南京東路2段81號前",
+          "layoutType": "",
+          "hours": "1633",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201471,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.052179,
+            121.529825
+          ],
+          "address": "臺北市中山區南京東路2段53號前",
+          "layoutType": "",
+          "hours": "1643",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201472,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.052184,
+            121.529121
+          ],
+          "address": "臺北市中山區南京東路2段23號前",
+          "layoutType": "",
+          "hours": "1649",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201480,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05216,
+            121.529326
+          ],
+          "address": "臺北市中山區南京東路2段39號",
+          "layoutType": "",
+          "hours": "1915",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201529,
+          "title": "長安分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05086,
+            121.5301
+          ],
+          "address": "臺北市中山區吉林路31號前",
+          "layoutType": "",
+          "hours": "1640",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201535,
+          "title": "長安分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05199,
+            121.52905
+          ],
+          "address": "臺北市中山區南京東路2段26號前",
+          "layoutType": "",
+          "hours": "1905",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201536,
+          "title": "長安分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05127,
+            121.53005
+          ],
+          "address": "臺北市中山區吉林路24號",
+          "layoutType": "",
+          "hours": "1914",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4563ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.054212286849754,
+        "lng": 121.5283171409053
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 201473,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.053192,
+            121.527704
+          ],
+          "address": "臺北市中山區新生北路2段17號前",
+          "layoutType": "",
+          "hours": "1655",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201474,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05496,
+            121.52897
+          ],
+          "address": "臺北市中山區長春路93號前",
+          "layoutType": "",
+          "hours": "1825",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 201481,
+          "title": "南京分隊",
+          "category": "nightmarket",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05421,
+            121.52785
+          ],
+          "address": "臺北市中山區新生北路2段31之1號前",
+          "layoutType": "",
+          "hours": "1921",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

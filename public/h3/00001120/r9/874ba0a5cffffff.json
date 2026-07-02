@@ -1,0 +1,735 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5ca3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.013734708261932,
+        "lng": 121.5302716790889
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500075,
+          "title": "管家婆科技股份有限公司(禮客時尚館公館店)",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0143914,
+            121.5307463
+          ],
+          "address": "思源街16號1F",
+          "layoutType": "百貨業",
+          "hours": "詳見官方網站",
+          "description": "禮客公館店出入口旁，正對男廁門口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "禮客公館店出入口旁，正對男廁門口處"
+        },
+        {
+          "id": 5500269,
+          "title": "臺北自來水園區",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013286,
+            121.530253
+          ],
+          "address": "思源街1號(臺北自來水園區)",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "放置於思源票口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於思源票口左側"
+        },
+        {
+          "id": 5501330,
+          "title": "國立臺灣大學(水源校區)",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013948,
+            121.530447
+          ],
+          "address": "思源街18號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "置於修齊會館大門一進入之左手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於修齊會館大門一進入之左手邊"
+        },
+        {
+          "id": 5501339,
+          "title": "國立臺灣大學(水源校區)",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013948,
+            121.530447
+          ],
+          "address": "思源街18號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "放置於水源校區C棟宿舍一進入之正前方，服務台之後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於水源校區C棟宿舍一進入之正前方，服務台之後方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5cb7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.0165785566164,
+        "lng": 121.53135897983859
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5500077,
+          "title": "三軍總醫院汀州院區",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.016476,
+            121.529829
+          ],
+          "address": "汀州路三段40號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓門診大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓門診大廳"
+        },
+        {
+          "id": 5500078,
+          "title": "三軍總醫院汀州院區",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.016476,
+            121.529829
+          ],
+          "address": "汀州路三段40號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "二樓大廳，汀州行政組門口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "二樓大廳，汀州行政組門口右側"
+        },
+        {
+          "id": 5500079,
+          "title": "三軍總醫院汀州院區",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.016476,
+            121.529829
+          ],
+          "address": "汀州路三段40號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "介壽大樓1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "介壽大樓1樓大廳"
+        },
+        {
+          "id": 5500198,
+          "title": "香港商世界健身事業有限公司飛動公館分公司",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.018002,
+            121.531381
+          ],
+          "address": "羅斯福路三段281號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃檯前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯前方"
+        },
+        {
+          "id": 5500482,
+          "title": "臺北市私立南華高級中學職業進修學校",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.01568,
+            121.531079
+          ],
+          "address": "汀州路三段58號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "學校一樓進入直視，醒目",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學校一樓進入直視，醒目"
+        },
+        {
+          "id": 5501307,
+          "title": "Fun Fitness運動旅程 公館館",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.016753,
+            121.531941
+          ],
+          "address": "羅斯福路三段272號7樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "7樓櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "7樓櫃台旁"
+        },
+        {
+          "id": 5501798,
+          "title": "NOWGO 健身工作室",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.01609713,
+            121.53263
+          ],
+          "address": "羅斯福路三段312號8樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "靠近公館捷運站4號出口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "靠近公館捷運站4號出口"
+        },
+        {
+          "id": 5502504,
+          "title": "Vital Essence Fitness 運動賦能",
+          "category": "other",
+          "location": "Xinsheng S Rd",
+          "coords": [
+            25.0169982,
+            121.5329259
+          ],
+          "address": "Section 3",
+          "layoutType": "121.5329259",
+          "hours": "詳見官方網站",
+          "description": "運動場館(如小巨蛋)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "運動場館(如小巨蛋)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5cb3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.015742924794484,
+        "lng": 121.5281338078536
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500199,
+          "title": "嘉禾新村",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0156342,
+            121.5269975
+          ],
+          "address": "永春街131巷",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "嘉禾故事館服務台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嘉禾故事館服務台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5c27ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.007709307345934,
+        "lng": 121.53668547777761
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500223,
+          "title": "國立臺灣師範大學公館校區(汀州路4段88號)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.007963,
+            121.536905
+          ],
+          "address": "汀州路4段88號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "學七舍1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學七舍1樓大廳"
+        },
+        {
+          "id": 5500507,
+          "title": "國立臺灣師範大學公館校區(汀州路4段88號)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.007963,
+            121.536905
+          ],
+          "address": "汀州路4段88號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "體育運動大樓一樓競技系門口(面向運動場)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "體育運動大樓一樓競技系門口(面向運動場)"
+        },
+        {
+          "id": 5501100,
+          "title": "國立臺灣師範大學公館校區(汀州路4段88號)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.007963,
+            121.536905
+          ],
+          "address": "汀州路4段88號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "公館校區理學院大樓B棟1樓(健康中心門口)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "公館校區理學院大樓B棟1樓(健康中心門口)"
+        },
+        {
+          "id": 5501889,
+          "title": "國立臺灣師範大學公館校區(汀州路4段88號)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.007963,
+            121.536905
+          ],
+          "address": "汀州路4段88號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "女2舍1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "女2舍1樓"
+        },
+        {
+          "id": 5501890,
+          "title": "國立臺灣師範大學公館校區(汀州路4段88號)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.007963,
+            121.536905
+          ],
+          "address": "汀州路4段88號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "男2舍1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "男2舍1樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5cabffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.01089077830107,
+        "lng": 121.52918440052456
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500461,
+          "title": "台北市河濱自行車租借站景福站",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.011213,
+            121.528235
+          ],
+          "address": "自來水園區公館水岸廣場上(思源路底)永福橋旁",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市河濱自行車租借站景福站 自來水園區公館水岸廣場上(思源路底)永福橋旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市河濱自行車租借站景福站 自來水園區公館水岸廣場上(思源路底)永福橋旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5cafffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.011726366508103,
+        "lng": 121.53240958115819
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500473,
+          "title": "臺北自來水園區環境教育中心",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.012506,
+            121.532342
+          ],
+          "address": "思源街1號",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "環教中心1樓入口到底樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "環教中心1樓入口到底樓梯旁"
+        },
+        {
+          "id": 5500645,
+          "title": "寶藏巖國際藝術村",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.010654,
+            121.532383
+          ],
+          "address": "汀洲路3段230巷14弄2號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "三角窗服務棧",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三角窗服務棧"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5c33ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.00888235905374,
+        "lng": 121.53132227294283
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500475,
+          "title": "財團法人台北市文化基金會臺北市影視音實驗教育機構",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.010089,
+            121.532141
+          ],
+          "address": "汀州路三段230巷18弄7-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市影視音實驗教育機構11-3號教室門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市影視音實驗教育機構11-3號教室門口"
+        },
+        {
+          "id": 5502671,
+          "title": "財團法人台北市文化基金會臺北市影視音實驗教育機構",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.010089,
+            121.532141
+          ],
+          "address": "汀州路三段230巷18弄7-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "寶藏巖哨所1樓空間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "寶藏巖哨所1樓空間"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5ca7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.014570292358965,
+        "lng": 121.53349691155816
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500649,
+          "title": "香港商世界健身事業有限公司公館分公司",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.014616,
+            121.53423
+          ],
+          "address": "羅斯福路四段68號2F",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃檯旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯旁邊"
+        },
+        {
+          "id": 5500680,
+          "title": "臺北市政府警察局中正第二分局思源街派出所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.015134,
+            121.532063
+          ],
+          "address": "汀州路三段72號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "值班台右前方。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "值班台右前方。"
+        },
+        {
+          "id": 5501699,
+          "title": "臺北捷運公館站G07",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014981,
+            121.534222
+          ],
+          "address": "羅斯路4段74號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "捷運公館站地下1樓大廳層詢問處附近",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "捷運公館站地下1樓大廳層詢問處附近"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5c2fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.004865144914046,
+        "lng": 121.53559811026697
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501088,
+          "title": "臺北市立圖書館景美分館",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.003607,
+            121.536345
+          ],
+          "address": "羅斯福路五段176巷50號2樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "AED位於圖書館２樓進出口大門",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "AED位於圖書館２樓進出口大門"
+        },
+        {
+          "id": 5501259,
+          "title": "臺北市文山區萬福國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004893,
+            121.536712
+          ],
+          "address": "羅斯福路5段170巷32號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "大門進入玻璃門內側右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進入玻璃門內側右邊"
+        },
+        {
+          "id": 5501844,
+          "title": "景美游泳池",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.003607,
+            121.536345
+          ],
+          "address": "羅斯福路五段176巷50號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "泳池入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "泳池入口處"
+        },
+        {
+          "id": 5502503,
+          "title": "煦陽適能空間",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004467,
+            121.5357806
+          ],
+          "address": "汀洲路四段173號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃台旁櫃子上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃台旁櫃子上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5cbbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.012899072330306,
+        "lng": 121.52704655894259
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502039,
+          "title": "臺北市政府環境保護局中正區清潔隊公館分隊",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013179,
+            121.527439
+          ],
+          "address": "水源路臨2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進去右手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進去右手邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5c37ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.009717899535328,
+        "lng": 121.53454751405617
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502116,
+          "title": "公館計程車服務站",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0110471,
+            121.5354606
+          ],
+          "address": "汀州路3段230巷15號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "計程車停車場建物大門左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "計程車停車場建物大門左側"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

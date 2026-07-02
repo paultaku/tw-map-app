@@ -1,0 +1,575 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56924fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10636500335354,
+        "lng": 121.52212280427462
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900003,
+          "title": "Coffit 健身咖",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1076,
+            121.5226
+          ],
+          "address": "臺北市士林區中山北路六段184號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569217ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117728054782432,
+        "lng": 121.52647231355458
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900005,
+          "title": "Curves 天母店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1185,
+            121.5268
+          ],
+          "address": "臺北市士林區天母西路3號3樓之11",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10519640590073,
+        "lng": 121.52748642226405
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900016,
+          "title": "Surmount運動空間天母店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1044,
+            121.5261
+          ],
+          "address": "臺北市士林區忠誠路一段30號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569273ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.110042091656112,
+        "lng": 121.52643566574525
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900017,
+          "title": "SWeet慢走體適能",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1101,
+            121.5256
+          ],
+          "address": "臺北市士林區中山北路六段284號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569237ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117395839829072,
+        "lng": 121.53506210352347
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900020,
+          "title": "wellgym",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1177,
+            121.5333
+          ],
+          "address": "臺北市士林區天母東路50巷8號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12140479764385,
+        "lng": 121.53078547123926
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900021,
+          "title": "World Gym 健身俱樂部天母店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1199,
+            121.5311
+          ],
+          "address": "臺北市士林區中山北路七段34號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56923bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11371903717824,
+        "lng": 121.5307487655046
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900025,
+          "title": "動動 MoveMove",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1134,
+            121.5297
+          ],
+          "address": "臺北市士林區士東路91巷36號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900027,
+          "title": "Bounce8 運動舞蹈教室",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.115,
+            121.5305
+          ],
+          "address": "臺北市士林區天母東路8巷80號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0916877119",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.124245269109956,
+        "lng": 121.53187297809617
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900026,
+          "title": "楷穎個人健身教室",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1238,
+            121.5327
+          ],
+          "address": "臺北市士林區中山北路七段156之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0939263192",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692c3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.115219174101917,
+        "lng": 121.51679596882973
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900250,
+          "title": "Curves 石牌店",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1165,
+            121.517
+          ],
+          "address": "臺北市北投區裕民一路30號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56925bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.107533327986232,
+        "lng": 121.516759450608
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900251,
+          "title": "FITNESS FORMULA 專屬健議",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1069,
+            121.5171
+          ],
+          "address": "臺北市北投區明德路11號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900255,
+          "title": "RISE 健身工作室",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1068,
+            121.516
+          ],
+          "address": "臺北市北投區文林北路166巷1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.117223351748542,
+        "lng": 121.51465797075143
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900253,
+          "title": "Hamer Fitness",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1158,
+            121.5149
+          ],
+          "address": "臺北市北投區東華街二段6號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0939122267",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900264,
+          "title": "維京健身工作室",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1181,
+            121.5158
+          ],
+          "address": "臺北市北投區義理街81號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0929018883",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900414,
+          "title": "國立臺北護理健康大學北護水療中心",
+          "category": "culture",
+          "location": "文山",
+          "coords": [
+            25.1182,
+            121.5156
+          ],
+          "address": "臺北市北投區明德路365號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "教育部（學校委外）",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.112378521126484,
+        "lng": 121.51570871381769
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900261,
+          "title": "健身工廠石牌廠",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1134,
+            121.5171
+          ],
+          "address": "臺北市北投區裕民六路2號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900360,
+          "title": "小島瑜伽",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1132,
+            121.5159
+          ],
+          "address": "臺北市北投區西安街一段327號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "0919547060",
+          "notes": "瑜珈教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56928bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11889608638919,
+        "lng": 121.52110863374558
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900265,
+          "title": "天母力康運動醫學/運動表現中心",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1176,
+            121.5214
+          ],
+          "address": "臺北市北投區明德路365號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569263ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.108037364966712,
+        "lng": 121.52857384781804
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900376,
+          "title": "The Little Rock 小岩館天母店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1089,
+            121.5275
+          ],
+          "address": "臺北市士林區忠誠路二段12號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "撞球場及攀岩場",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "撞球場及攀岩場"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12056861266938,
+        "lng": 121.52755974636045
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900404,
+          "title": "World Gym 健身俱樂部天母店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1199,
+            121.5285
+          ],
+          "address": "臺北市士林區中山北路七段34號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室外游泳池",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "室外游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

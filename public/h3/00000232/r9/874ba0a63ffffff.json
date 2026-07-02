@@ -1,0 +1,1583 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a63bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.080793345026557,
+        "lng": 121.51233770679293
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000195,
+          "title": "士林簡易庭-N-重慶北路四段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0815487,
+            121.5131249
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6397ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.084803878942942,
+        "lng": 121.50806214976282
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000228,
+          "title": "重陽橋-中正路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0862362,
+            121.5085136
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6363ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.068256485025,
+        "lng": 121.51335190966458
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000244,
+          "title": "民族重慶路口-E-民族西路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0685219,
+            121.5142496
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6307ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.075946107866137,
+        "lng": 121.51338837988384
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5000817,
+          "title": "大龍市場AP1-38號攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0747388,
+            121.5141505
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000818,
+          "title": "大龍市場AP2-50號攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0747981,
+            121.5141696
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000819,
+          "title": "大龍市場AP3-77號攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0753493,
+            121.5140871
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002741,
+          "title": "大同老師區民活動中心1F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0763284,
+            121.5133251
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003002,
+          "title": "環保稽查大隊4F服務台門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0750153,
+            121.5141485
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003080,
+          "title": "大同大龍區民活動中心2F教室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0750481,
+            121.5141592
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003081,
+          "title": "大同大龍區民活動中心2F重慶里辦公室前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0746721,
+            121.5139229
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a638fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.079957047536187,
+        "lng": 121.50911282043411
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000869,
+          "title": "富光區民活動中心AP1-冷氣機旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0791033,
+            121.5102706
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6317ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.077951640347752,
+        "lng": 121.51125058471605
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000870,
+          "title": "富光區民活動中心AP2-鐵捲門旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0790192,
+            121.5103045
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002062,
+          "title": "大同慶昌區民活動中心1F冷氣旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07665,
+            121.51155
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6383ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081962329429167,
+        "lng": 121.50697508704329
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5001000,
+          "title": "海光公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0818181,
+            121.5079221
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636fffff",
+      "res": 9,
+      "count": 27,
+      "center": {
+        "lat": 25.066250546829142,
+        "lng": 121.51548970724458
+      },
+      "categories": {
+        "other": 27
+      },
+      "points": [
+        {
+          "id": 5001704,
+          "title": "大同區行政大樓大同戶政3F戶籍登記處中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0659151,
+            121.5153949
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001705,
+          "title": "大同區行政大樓大同戶政3F主任秘書室門口東北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0664147,
+            121.5160078
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001706,
+          "title": "大同區行政大樓稅捐處大同分處3F使用牌照稅服務臺後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0662824,
+            121.5157551
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001707,
+          "title": "大同區行政大樓圖書館蘭州民眾閱覽室4F親子共讀區門口東北方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0662423,
+            121.515157
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001708,
+          "title": "大同區行政大樓4F區民活動中心租借櫃臺",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0664147,
+            121.5160078
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001709,
+          "title": "大同區行政大樓4F收發室櫃臺前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0659151,
+            121.5153949
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001710,
+          "title": "大同區行政大樓警察局少年隊5F少年輔導組民眾休息區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0662193,
+            121.5154113
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001711,
+          "title": "大同區行政大樓動質處大同分處5F動質處服務櫃臺前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.066161,
+            121.515721
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001712,
+          "title": "大同區行政大樓6F大禮堂中央南側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0664668,
+            121.5149454
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001713,
+          "title": "大同區行政大樓6F大禮堂中央北側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0659151,
+            121.5153949
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002038,
+          "title": "蘭州市場1F105攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660552,
+            121.5156071
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002039,
+          "title": "蘭州市場1F115攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0661281,
+            121.5156069
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002040,
+          "title": "蘭州市場1F139攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660529,
+            121.5156642
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002041,
+          "title": "蘭州市場1F191攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660128,
+            121.5156411
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002042,
+          "title": "蘭州市場1F60攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660541,
+            121.5156051
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002382,
+          "title": "大同區健康服務中心1F新移民保健諮詢站",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0658941,
+            121.5163835
+          ],
+          "address": "",
+          "layoutType": "公眾服務",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002383,
+          "title": "大同區健康服務中心2F物理治療室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0656765,
+            121.5160927
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002384,
+          "title": "大同區健康服務中心3F辦公室中央走廊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0658941,
+            121.5163835
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002385,
+          "title": "大同區健康服務中心4F收發室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0658946,
+            121.5165631
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002386,
+          "title": "大同區健康服務中心5F大會議室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0655872,
+            121.5167696
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002689,
+          "title": "大同運動中心1F恢復室旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0653379,
+            121.5163636
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002690,
+          "title": "大同運動中心3F健身教室正中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0652581,
+            121.5163921
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002691,
+          "title": "大同運動中心5F入口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0652581,
+            121.5163921
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003133,
+          "title": "大同區行政大樓2F災害應變中心會議室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660591,
+            121.5151171
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003134,
+          "title": "大同區行政大樓2F災害應變中心多功能教室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0660931,
+            121.5151307
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003162,
+          "title": "公園路燈工程管理處工務科北區分隊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0661199,
+            121.5151769
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003172,
+          "title": "公園路燈工程管理處路燈工程隊西區分隊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0661144,
+            121.5151508
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6387ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 25.08279867463403,
+        "lng": 121.51019991283347
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 5001809,
+          "title": "圖書館葫蘆堵分館4F門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0822065,
+            121.5108715
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001810,
+          "title": "圖書館葫蘆堵分館5F服務臺",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082337,
+            121.510568
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001811,
+          "title": "圖書館葫蘆堵分館6F報紙閱覽區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823619,
+            121.5108156
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001812,
+          "title": "圖書館葫蘆堵分館7F館藏特色區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823999,
+            121.5108296
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001813,
+          "title": "圖書館葫蘆堵分館8F書庫區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823868,
+            121.5108285
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002215,
+          "title": "士林葫蘆堵區民活動中心10F",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0824779,
+            121.5107692
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002310,
+          "title": "圖書館葫蘆堵分館3F藏書閣中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823058,
+            121.5106579
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002311,
+          "title": "圖書館葫蘆堵分館9F視聽室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823929,
+            121.510795
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002788,
+          "title": "圖書館葫蘆堵分館4F筆記型電腦中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0822784,
+            121.5106415
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002789,
+          "title": "圖書館葫蘆堵分館6F自修區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0823049,
+            121.5107816
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a633bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.073940450093595,
+        "lng": 121.5155262059322
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5002055,
+          "title": "大同保生區民活動中心1F通道",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0740775,
+            121.514889
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003254,
+          "title": "臺北市孔廟1F西庫",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0727611,
+            121.5161714
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003259,
+          "title": "臺北市孔廟1F明倫堂劇院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0727542,
+            121.5161124
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a630fffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.073104243800177,
+        "lng": 121.51230125032663
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 5002056,
+          "title": "圖書館大同分館B1F共學區內",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0741533,
+            121.51328
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002058,
+          "title": "圖書館大同分館B1F樂齡學習中心門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0742593,
+            121.5135632
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002059,
+          "title": "圖書館大同分館1F館藏特色區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0741533,
+            121.51328
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002060,
+          "title": "圖書館大同分館B1F自修室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0742593,
+            121.5135632
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002061,
+          "title": "衛生下水道工程處1F中庭",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725933,
+            121.5108587
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002620,
+          "title": "衛生下水道工程處2F工務科門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725933,
+            121.5108587
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002622,
+          "title": "衛生下水道工程處3F處長室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0727516,
+            121.5107394
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002625,
+          "title": "衛生下水道工程處4F資訊室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725743,
+            121.5109301
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002628,
+          "title": "衛生下水道工程處5F設計科門口右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0721079,
+            121.5108782
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a630bffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.072267985567198,
+        "lng": 121.50907640714944
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5002619,
+          "title": "衛生下水道工程處1F用戶接管室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725773,
+            121.5107119
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002621,
+          "title": "衛生下水道工程處2F秘書室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725713,
+            121.5106615
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002623,
+          "title": "衛生下水道工程處3F李副總工程司門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.072112,
+            121.5107457
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002624,
+          "title": "衛生下水道工程處3F圓形會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725694,
+            121.5104495
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002626,
+          "title": "衛生下水道工程處4F會計室門口左側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725713,
+            121.5106615
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002627,
+          "title": "衛生下水道工程處5F檔案室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0721965,
+            121.5107749
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003248,
+          "title": "衛生下水道工程處3F第一會議室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0725713,
+            121.5106615
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06541437981487,
+        "lng": 121.51226479482227
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002740,
+          "title": "大同國慶區民活動中心4F大教室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0662788,
+            121.5133441
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a632fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.07277077365603,
+        "lng": 121.52088919141362
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5002996,
+          "title": "明倫社會住宅A棟1F住戶大廳櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0734194,
+            121.5200999
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002997,
+          "title": "明倫社會住宅B棟1F住戶大廳櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0732147,
+            121.5200947
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002998,
+          "title": "明倫社會住宅A棟2F創造力學園大會議室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0731382,
+            121.5200557
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002999,
+          "title": "明倫社會住宅A棟2F創造力學園舞蹈教室門口外",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0732147,
+            121.5200947
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a632bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.071934667032362,
+        "lng": 121.51766406285584
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5003000,
+          "title": "大龍峒社會住宅1F會議室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070911,
+            121.51828
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

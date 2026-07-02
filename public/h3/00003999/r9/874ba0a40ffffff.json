@@ -1,0 +1,601 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a400fffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.03916232748448,
+        "lng": 121.51965573393055
+      },
+      "categories": {
+        "other": 12
+      },
+      "points": [
+        {
+          "id": 8300003,
+          "title": "臺北市中正區東門國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區仁愛路一段2之4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300106,
+          "title": "臺北市立成功高級中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區濟南路一段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300152,
+          "title": "臺北市立大學附設實驗國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區公園路29號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300286,
+          "title": "外交部",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區凱達格蘭大道2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300302,
+          "title": "中華電信股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區信義路一段21之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300316,
+          "title": "國立臺灣大學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區常德街1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300317,
+          "title": "國家圖書館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區中山南路20號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300331,
+          "title": "中華電信股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區信義路一段21之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300340,
+          "title": "立法院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "10051臺北市中正區幸福里1鄰中山南路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300348,
+          "title": "經濟部標準檢驗局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區東門里3鄰濟南路一段4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300365,
+          "title": "立法院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "100008臺北市中正區幸福里1鄰鎮江街2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300415,
+          "title": "中華電信股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.52
+          ],
+          "address": "臺北市中正區信義路一段21之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a406bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03146881403999,
+        "lng": 121.51961918216206
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 8300020,
+          "title": "臺北市立中正國民中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03,
+            121.52
+          ],
+          "address": "臺北市中正區愛國東路158號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300205,
+          "title": "臺北市市場處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03,
+            121.52
+          ],
+          "address": "臺北市中正區羅斯福路一段8號（南門市場）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300350,
+          "title": "經濟部",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03,
+            121.52
+          ],
+          "address": "10015臺北市中正區南福里15鄰福州街15號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300403,
+          "title": "內政部警政署保安警察第六總隊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03,
+            121.52
+          ],
+          "address": "臺北市中正區南昌路一段10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40cfffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.039497303035933,
+        "lng": 121.51106838557324
+      },
+      "categories": {
+        "other": 11
+      },
+      "points": [
+        {
+          "id": 8300036,
+          "title": "臺北市中正區南門國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區廣州街6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300047,
+          "title": "臺北市立南門國民中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區廣州街6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300053,
+          "title": "臺北市立第一女子高級中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區重慶南路一段165號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300195,
+          "title": "臺北市政府警察局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區愛國西路26號、博愛路163號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300273,
+          "title": "臺北市停車管理工程處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市萬華區峨眉街83號（峨嵋立體停車場）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300281,
+          "title": "臺北市政府工務局公園路燈工程管理處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市士林區美崙街188號(福佳區民活動中心)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300288,
+          "title": "行政院環境保護署",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "100臺北市中正區建國里2鄰中華路一段83號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300339,
+          "title": "行政院環境保護署",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區中華路一段83號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300343,
+          "title": "憲兵202指揮部",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區建國里6鄰中華路一段65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300349,
+          "title": "總統府",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區建國里4鄰重慶南路一段122號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300427,
+          "title": "國家發展委員會",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04,
+            121.51
+          ],
+          "address": "臺北市中正區黎明里9鄰寶慶路3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40b3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0496978170433,
+        "lng": 121.52077948327583
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 8300105,
+          "title": "臺北市大同區日新國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05,
+            121.52
+          ],
+          "address": "臺北市大同區太原路151號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300366,
+          "title": "行政院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05,
+            121.52
+          ],
+          "address": "臺北市中正區梅花里2鄰忠孝東路一段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300367,
+          "title": "行政院",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05,
+            121.52
+          ],
+          "address": "臺北市中正區北平東路2、2-1號及忠孝東路一段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:04.406Z"
+}

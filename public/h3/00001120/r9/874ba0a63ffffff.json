@@ -1,0 +1,873 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a636fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.066250546829142,
+        "lng": 121.51548970724458
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500094,
+          "title": "臺北市大同區戶政事務所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06606,
+            121.515119
+          ],
+          "address": "昌吉街57號三樓之1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門入口明顯處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口明顯處"
+        },
+        {
+          "id": 5500095,
+          "title": "臺北市大同區公所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.066061,
+            121.515106
+          ],
+          "address": "昌吉街57號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市大同區公所為民服務區(西側入口)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市大同區公所為民服務區(西側入口)"
+        },
+        {
+          "id": 5500254,
+          "title": "臺北市大同區健康服務中心",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.065792,
+            121.516316
+          ],
+          "address": "昌吉街52號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口處"
+        },
+        {
+          "id": 5500689,
+          "title": "臺北市政府警察局交通警察大隊大同分隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.066061,
+            121.515106
+          ],
+          "address": "昌吉街57號5樓之2",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大同交通分隊民眾洽公服務區右上角落處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大同交通分隊民眾洽公服務區右上角落處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6323ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07477660443526,
+        "lng": 121.51875127395161
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500150,
+          "title": "臺北市立明倫高級中學",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.075448,
+            121.519905
+          ],
+          "address": "承德路3段336號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "進學校大門直走靠右邊，\nAED位於1樓健康中心門口旁。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進學校大門直走靠右邊，\nAED位於1樓健康中心門口旁。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a633bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.073940450093595,
+        "lng": 121.5155262059322
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500257,
+          "title": "臺北孔廟",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.072762,
+            121.516179
+          ],
+          "address": "大龍街275號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "孔廟明倫堂1樓近劇院入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "孔廟明倫堂1樓近劇院入口處"
+        },
+        {
+          "id": 5501057,
+          "title": "臺北孔廟",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.072762,
+            121.516179
+          ],
+          "address": "大龍街275號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "孔廟東苑側門入口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "孔廟東苑側門入口"
+        },
+        {
+          "id": 5501984,
+          "title": "臺北市大同區大龍國民小學",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.073409,
+            121.516692
+          ],
+          "address": "哈密街47號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市大同區大龍國民小學北側警衛室外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市大同區大龍國民小學北側警衛室外"
+        },
+        {
+          "id": 5502263,
+          "title": "大龍國小地下停車場",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.073409,
+            121.516693
+          ],
+          "address": "哈密街47號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6307ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.075946107866137,
+        "lng": 121.51338837988384
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5500267,
+          "title": "臺北市立啟聰學校",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.074684,
+            121.513385
+          ],
+          "address": "重慶北路3段320號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "靠近運動場、操場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "靠近運動場、操場"
+        },
+        {
+          "id": 5500693,
+          "title": "臺北市政府警察局大同分局重慶北路派出所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.075351,
+            121.513553
+          ],
+          "address": "重慶北路三段320之2號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "派出所值勤臺右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "派出所值勤臺右側"
+        },
+        {
+          "id": 5501118,
+          "title": "臺北市政府環境保護局環保稽查大隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0748652,
+            121.5140597
+          ],
+          "address": "重慶北路3段347號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "4樓服務臺",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4樓服務臺"
+        },
+        {
+          "id": 5502044,
+          "title": "臺北市政府環境保護局環保稽查大隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0748652,
+            121.5140597
+          ],
+          "address": "重慶北路3段347號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "2樓勤務中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2樓勤務中心"
+        },
+        {
+          "id": 5502078,
+          "title": "臺北市政府環境保護局公廁管理隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.074865,
+            121.51406
+          ],
+          "address": "重慶北路三段347號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "門口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "門口左側"
+        },
+        {
+          "id": 5502114,
+          "title": "臺北市政府環境保護局環保稽查大隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0748652,
+            121.5140597
+          ],
+          "address": "重慶北路3段347號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "5樓梯廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5樓梯廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6397ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.084803878942942,
+        "lng": 121.50806214976282
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500378,
+          "title": "葫蘆國小-鷹萬游泳學苑",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.0841054,
+            121.5071659
+          ],
+          "address": "環河北路三段95號1F",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "救生員辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "救生員辦公室"
+        },
+        {
+          "id": 5501427,
+          "title": "臺北市士林區社子國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.085495,
+            121.507988
+          ],
+          "address": "延平北路六段308號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入校門口經中操場，民生樓左側游泳池",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入校門口經中操場，民生樓左側游泳池"
+        },
+        {
+          "id": 5501623,
+          "title": "臺北市士林區社子國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.085495,
+            121.507988
+          ],
+          "address": "延平北路六段308號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入校門口左方民族樓穿堂(健康中心旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入校門口左方民族樓穿堂(健康中心旁)"
+        },
+        {
+          "id": 5502211,
+          "title": "臺北市士林區葫蘆國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.084102,
+            121.507947
+          ],
+          "address": "環河北路三段95號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "中正樓一樓學務處門外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中正樓一樓學務處門外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06541437981487,
+        "lng": 121.51226479482227
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500399,
+          "title": "私立稻江商業職業學校",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06419,
+            121.512032
+          ],
+          "address": "民權西路225巷24號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "校門口警衛室裡",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門口警衛室裡"
+        },
+        {
+          "id": 5502395,
+          "title": "臺北市大同區延平國民小學",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.066047,
+            121.512454
+          ],
+          "address": "昌吉街97號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "校門進入，至穿堂，左側第1間學務處，門旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門進入，至穿堂，左側第1間學務處，門旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6367ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.069092647825805,
+        "lng": 121.51657687395348
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500439,
+          "title": "臺北市大龍老人住宅",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.068726,
+            121.517358
+          ],
+          "address": "民族西路105號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "4樓老人住宅入口左側大廳服務台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4樓老人住宅入口左側大廳服務台旁"
+        },
+        {
+          "id": 5500810,
+          "title": "臺北市立蘭州國民中學",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.069322,
+            121.516736
+          ],
+          "address": "大龍街187巷1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本校大門口穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校大門口穿堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a630bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.072267985567198,
+        "lng": 121.50907640714944
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500602,
+          "title": "臺北市政府工務局衛生下水道工程處",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0725688,
+            121.5104486
+          ],
+          "address": "酒泉街235號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本處一樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本處一樓大廳"
+        },
+        {
+          "id": 5502595,
+          "title": "臺北市政府工務局衛生下水道工程處",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0725688,
+            121.5104486
+          ],
+          "address": "酒泉街235號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本處1樓大廳收發室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本處1樓大廳收發室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6363ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.068256485025,
+        "lng": 121.51335190966458
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500682,
+          "title": "臺北市政府警察局大同分局民族路派出所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.068829,
+            121.51348
+          ],
+          "address": "重慶北路三段168號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "民族派出所進門右手邊角落(警報台旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民族派出所進門右手邊角落(警報台旁)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a632bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.071934667032362,
+        "lng": 121.51766406285584
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501835,
+          "title": "好團健身空間",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0731552,
+            121.5188064
+          ],
+          "address": "承德路三段244號一樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "好團健身空間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "好團健身空間"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6327ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.075612706812993,
+        "lng": 121.52197645437028
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502019,
+          "title": "臺北市政府環境保護局大同區清潔隊大龍分隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.076082,
+            121.520677
+          ],
+          "address": "承德路3段303之1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "在會議室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在會議室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6337ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.077618460020943,
+        "lng": 121.51983850724064
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502038,
+          "title": "臺北市政府環境保護局中山區清潔隊中山分隊",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.077181,
+            121.520136
+          ],
+          "address": "新生北路二段臨30-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6317ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.077951640347752,
+        "lng": 121.51125058471605
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502059,
+          "title": "臺北市政府環境保護局大同區清潔隊蘭州分隊",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07651073,
+            121.5116733
+          ],
+          "address": "敦煌路 臨151-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門右前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門右前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a638fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.079957047536187,
+        "lng": 121.50911282043411
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502246,
+          "title": "海光公園地下停車場",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.080934,
+            121.508492
+          ],
+          "address": "葫蘆街83號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a630fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.073104243800177,
+        "lng": 121.51230125032663
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502262,
+          "title": "?聰學校地下停車場",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.074343,
+            121.511706
+          ],
+          "address": "延平北路4段205號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502464,
+          "title": "臺北市立圖書館大同分館",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.074304,
+            121.513555
+          ],
+          "address": "重慶北路3段318號",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "臺北市立圖書館大同分館入口處右側，服務台旁之牆面。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市立圖書館大同分館入口處右側，服務台旁之牆面。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6333ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.076782309924926,
+        "lng": 121.51661338735731
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502401,
+          "title": "臺北市立重慶國民中學",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.076266,
+            121.518102
+          ],
+          "address": "敦煌路19號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "由校門口進入後，直走，穿過中庭，即可看到總務處右側外牆。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "由校門口進入後，直走，穿過中庭，即可看到總務處右側外牆。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6387ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08279867463403,
+        "lng": 121.51019991283347
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502469,
+          "title": "臺北市立圖書館葫蘆堵分館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.082193,
+            121.510873
+          ],
+          "address": "延平北路五段136巷1號5樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "5樓面對服務台右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5樓面對服務台右側"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

@@ -1,0 +1,973 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4433ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.056887573643767,
+        "lng": 121.50900358346253
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5900007,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05608,
+            121.509879
+          ],
+          "address": "臺北市大同區永樂里迪化街1段92號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2556-7868",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900008,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056145,
+            121.509981
+          ],
+          "address": "臺北市大同區迪化街1段75號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2559-8599",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900027,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05715,
+            121.509866
+          ],
+          "address": "臺北市大同區迪化街1段109號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-2168",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900028,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057976,
+            121.509769
+          ],
+          "address": "臺北市大同區迪化街1段143號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-2438",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900029,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057334,
+            121.509711
+          ],
+          "address": "臺北市大同區迪化街1段134號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-2156",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900077,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055819,
+            121.508846
+          ],
+          "address": "臺北市大同區西寧北路104號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2556-6048",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900141,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058083,
+            121.509761
+          ],
+          "address": "臺北市大同區迪化街1段147號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-9498",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900152,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056445,
+            121.509945
+          ],
+          "address": "臺北市大同區迪化街1段89號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2883-2958",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44afffff",
+      "res": 9,
+      "count": 17,
+      "center": {
+        "lat": 25.059729924110677,
+        "lng": 121.51009063172113
+      },
+      "categories": {
+        "other": 17
+      },
+      "points": [
+        {
+          "id": 5900009,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059453,
+            121.509411
+          ],
+          "address": "臺北市大同區迪化街1段220號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-8605",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900010,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058471,
+            121.509652
+          ],
+          "address": "臺北市大同區迪化街1段161號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-0482",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900011,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059522,
+            121.511517
+          ],
+          "address": "臺北市大同區延平北路2段203號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2552-8166",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900016,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059445,
+            121.509538
+          ],
+          "address": "臺北市大同區迪化街1段203號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-0729",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900024,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059687,
+            121.50937
+          ],
+          "address": "臺北市大同區迪化街1段226號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-3332",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900030,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059258,
+            121.509423
+          ],
+          "address": "臺北市大同區迪化街1段212號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-8408",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900031,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059173,
+            121.509551
+          ],
+          "address": "臺北市大同區迪化街1段191號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-4836",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900056,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058713,
+            121.509504
+          ],
+          "address": "臺北市大同區迪化街1段190號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-3062",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900057,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058612,
+            121.509518
+          ],
+          "address": "臺北市大同區迪化街1段186號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-9883",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900071,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059726,
+            121.509459
+          ],
+          "address": "臺北市大同區迪化街1段217號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2552-0575",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900072,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060065,
+            121.509325
+          ],
+          "address": "臺北市大同區迪化街1段240號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-6580",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900084,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059512,
+            121.509392
+          ],
+          "address": "臺北市大同區迪化街1段222號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-8947",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900139,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059443,
+            121.508714
+          ],
+          "address": "臺北市大同區迪化街1段224巷24號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2713-1979",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900140,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058661,
+            121.509623
+          ],
+          "address": "臺北市大同區迪化街1段169號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-7660",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900143,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058354,
+            121.509555
+          ],
+          "address": "臺北市大同區迪化街1段176號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-8725",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900148,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058954,
+            121.509463
+          ],
+          "address": "臺北市大同區迪化街1段200號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2553-6619",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900189,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059726,
+            121.509459
+          ],
+          "address": "臺北市大同區迪化街一段217號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2550-1285",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4427ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05571745708693,
+        "lng": 121.51436607971989
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5900017,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054442,
+            121.513518
+          ],
+          "address": "臺北市大同區南京西路155巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2555-8620",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900102,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055751,
+            121.51383
+          ],
+          "address": "臺北市大同區重慶北路2段58號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2556-6433",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900163,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055399,
+            121.514995
+          ],
+          "address": "臺北市大同區寧夏路22之9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2556-6466",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900186,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056903,
+            121.515024
+          ],
+          "address": "臺北市大同區民生西路210號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2558-1800",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4423ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05488132521277,
+        "lng": 121.5111412623459
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5900018,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055046,
+            121.511
+          ],
+          "address": "臺北市大同區民樂街55-57號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2559-5389",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900080,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053972,
+            121.51011
+          ],
+          "address": "臺北市大同區迪化街1段8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2556-0545",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900101,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055627,
+            121.511568
+          ],
+          "address": "臺北市大同區延平北路2段68號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2558-0989",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900147,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054171,
+            121.509945
+          ],
+          "address": "臺北市大同區迪化街1段14巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0970-841-447",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a442fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.05287495151413,
+        "lng": 121.51327897211296
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5900023,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054114,
+            121.513649
+          ],
+          "address": "臺北市大同區南京西路149號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2555-5779",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900032,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051901,
+            121.513206
+          ],
+          "address": "臺北市大同區長安西路193號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2555-6731",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900065,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05413,
+            121.51387
+          ],
+          "address": "臺北市大同區南京西路139號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2558 0339",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900079,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054238,
+            121.513508
+          ],
+          "address": "臺北市大同區南京西路155巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2555-2826",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900085,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052848,
+            121.51279
+          ],
+          "address": "臺北市大同區天水路49號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2559-6220",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44a3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.061735969714135,
+        "lng": 121.50795295404914
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5900043,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.062524,
+            121.509319
+          ],
+          "address": "臺北市大同區迪化街1段329號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2550-6607",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900179,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.062707,
+            121.509326
+          ],
+          "address": "臺北市大同區迪化街一段337號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-1839",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900187,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061325,
+            121.509215
+          ],
+          "address": "臺北市大同區迪化街一段296號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2550-5567",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a442bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.052038815469054,
+        "lng": 121.510054206606
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5900054,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052772,
+            121.510876
+          ],
+          "address": "臺北市大同區甘谷街26號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2558 2918",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4437ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0577237532342,
+        "lng": 121.51222834027983
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5900055,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058409,
+            121.511388
+          ],
+          "address": "臺北市大同區延平北路2段174號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557 6671",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5900151,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058506,
+            121.51158
+          ],
+          "address": "臺北市大同區延平北路2段169號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-8767",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a446fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046353550869078,
+        "lng": 121.50788016170854
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5900130,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045349,
+            121.506448
+          ],
+          "address": "臺北市萬華區西寧南路36之45號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2381-7104",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062572192838893,
+        "lng": 121.51117770217441
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5900144,
+          "title": "臺北市店家改造資料",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.062916,
+            121.509804
+          ],
+          "address": "臺北市大同區安西街172號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "(02)2557-1156",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:57.818Z"
+}

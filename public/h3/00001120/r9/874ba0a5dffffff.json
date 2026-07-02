@@ -1,0 +1,1369 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5d33ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.014730053424643,
+        "lng": 121.55390131856059
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500252,
+          "title": "臺北市懷愛館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.013535,
+            121.552553
+          ],
+          "address": "辛亥路3段330號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "民眾治喪場所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民眾治喪場所"
+        },
+        {
+          "id": 5500260,
+          "title": "臺北市懷愛館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.013535,
+            121.552553
+          ],
+          "address": "辛亥路3段330號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "景行樓1F駐警室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "景行樓1F駐警室旁"
+        },
+        {
+          "id": 5501067,
+          "title": "臺北市懷愛館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.013535,
+            121.552553
+          ],
+          "address": "辛亥路3段330號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "景行樓B2F家屬休息區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "景行樓B2F家屬休息區"
+        },
+        {
+          "id": 5501068,
+          "title": "臺北市懷愛館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.013535,
+            121.552553
+          ],
+          "address": "辛亥路3段330號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "民眾治喪場所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民眾治喪場所"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d97ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.02276431546865,
+        "lng": 121.54534832106906
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5500256,
+          "title": "臺北市大安區健康服務中心",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021577,
+            121.544274
+          ],
+          "address": "臥龍里辛亥路三段15號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓服務台後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓服務台後方"
+        },
+        {
+          "id": 5500654,
+          "title": "國立臺北教育大學(體育館)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.022729,
+            121.545103
+          ],
+          "address": "和平東路2段134號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "體育室門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "體育室門口"
+        },
+        {
+          "id": 5501021,
+          "title": "國立臺北教育大學(學生活動中心)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.023455,
+            121.546274
+          ],
+          "address": "和平東路二段134號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "一樓學生餐廳正門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓學生餐廳正門口"
+        },
+        {
+          "id": 5501052,
+          "title": "臺北市和平實驗國民小學學生活動中心(暖身球場)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021364,
+            121.545327
+          ],
+          "address": "敦南街76巷28號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "二樓暖身球場進出口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "二樓暖身球場進出口"
+        },
+        {
+          "id": 5501053,
+          "title": "臺北和平籃球館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021364,
+            121.545327
+          ],
+          "address": "敦南街76巷28號(臺北和平籃球館)",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "場館二樓東側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場館二樓東側"
+        },
+        {
+          "id": 5501054,
+          "title": "臺北和平籃球館",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021364,
+            121.545327
+          ],
+          "address": "敦南街76巷28號(臺北和平籃球館)",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "場館二樓西側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場館二樓西側"
+        },
+        {
+          "id": 5501777,
+          "title": "國立臺北教育大學(學生活動中心)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.023455,
+            121.546274
+          ],
+          "address": "和平東路二段134號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "衛保組門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "衛保組門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5ddbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.012561902879405,
+        "lng": 121.53563487410409
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500262,
+          "title": "臺北市公有水源市場",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013743,
+            121.535005
+          ],
+          "address": "羅斯福路4段92號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "水源市場一樓機房旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "水源市場一樓機房旁"
+        },
+        {
+          "id": 5500603,
+          "title": "東南亞秀泰影城",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.012775,
+            121.535355
+          ],
+          "address": "羅斯福路4段136巷3號",
+          "layoutType": "電影片映演場所(戲院、電影院)",
+          "hours": "詳見官方網站",
+          "description": "2樓販賣部旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2樓販賣部旁邊"
+        },
+        {
+          "id": 5502308,
+          "title": "臺北市大安區銘傳國民小學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014065,
+            121.535576
+          ],
+          "address": "羅斯福路4段21號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入校門銘傳樓一樓警衛室旁的轉角(川堂)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入校門銘傳樓一樓警衛室旁的轉角(川堂)"
+        },
+        {
+          "id": 5502599,
+          "title": "臺北市水源劇場",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.013651,
+            121.534973
+          ],
+          "address": "羅斯福路四段92號10樓",
+          "layoutType": "演藝廳",
+          "hours": "詳見官方網站",
+          "description": "水源劇場大廳B區走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "水源劇場大廳B區走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5db7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.022426527011316,
+        "lng": 121.5539383278482
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500292,
+          "title": "體育客體適能學院",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.02174455,
+            121.5550488
+          ],
+          "address": "和平東路三段246號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "場所大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場所大廳"
+        },
+        {
+          "id": 5500621,
+          "title": "臺北市政府警察局信義分局六張犁派出所",
+          "category": "other",
+          "location": "63000020",
+          "coords": [
+            25.02367434,
+            121.5551985
+          ],
+          "address": "嘉興街301號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "派出所大門進入值班台左邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "派出所大門進入值班台左邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.017912110157802,
+        "lng": 121.54639896437266
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500659,
+          "title": "財團法人國家實驗研究院國家地震工程研究中心",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.017325,
+            121.547896
+          ],
+          "address": "辛亥路三段200號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大廳廣場的7-11販賣機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大廳廣場的7-11販賣機旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dcbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.01055338818004,
+        "lng": 121.53777286747119
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500676,
+          "title": "臺北市政府警察局大安分局羅斯福路派出所",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.011194,
+            121.538127
+          ],
+          "address": "羅斯福路4段113巷13號(羅斯福路派出所)",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "派出所一樓值班台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "派出所一樓值班台旁"
+        },
+        {
+          "id": 5501281,
+          "title": "臺北市民族實驗國民中學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.011186,
+            121.538874
+          ],
+          "address": "羅斯福路4段113巷13號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "入校後左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入校後左側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dabffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.01673880677406,
+        "lng": 121.55176302300755
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500731,
+          "title": "臺北市政府警察局大安分局臥龍街派出所",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.018001,
+            121.551835
+          ],
+          "address": "臥龍街185號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "大門入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5da7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02041792864774,
+        "lng": 121.55607668265962
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500785,
+          "title": "體育客團體教室",
+          "category": "other",
+          "location": "63000020",
+          "coords": [
+            25.02116541,
+            121.5564462
+          ],
+          "address": "富陽街90號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "一樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5db3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.021591258364136,
+        "lng": 121.55071236993662
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501127,
+          "title": "國泰綜合證券股份有限公司",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.0219942,
+            121.5491994
+          ],
+          "address": "敦化南路二段335號20樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "國泰證券敦南大樓19樓電梯口前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國泰證券敦南大樓19樓電梯口前"
+        },
+        {
+          "id": 5501129,
+          "title": "國泰綜合證券股份有限公司",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.0219942,
+            121.5491994
+          ],
+          "address": "敦化南路二段335號20樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "國泰證券敦南大樓21樓電梯口前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國泰證券敦南大樓21樓電梯口前"
+        },
+        {
+          "id": 5501130,
+          "title": "國泰綜合證券股份有限公司",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.0219942,
+            121.5491994
+          ],
+          "address": "敦化南路二段335號20樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "國泰證券敦南大樓20樓電梯口前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國泰證券敦南大樓20樓電梯口前"
+        },
+        {
+          "id": 5501459,
+          "title": "嘉興區民活動中心",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021089,
+            121.551905
+          ],
+          "address": "樂業街97號地下1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "活動中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d1bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.01222420991015,
+        "lng": 121.54422391114785
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501159,
+          "title": "臺北市大安區公館國民小學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.012408,
+            121.542808
+          ],
+          "address": "基隆路4段41巷68弄2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學校穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學校穿堂"
+        },
+        {
+          "id": 5501868,
+          "title": "國立臺灣大學(芳蘭校區)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.011865,
+            121.545055
+          ],
+          "address": "芳蘭路71號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "位於大門進去後右手邊方向",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於大門進去後右手邊方向"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d8bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.017076733520806,
+        "lng": 121.54317328275754
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501326,
+          "title": "國立臺灣大學(長興校區)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.016473,
+            121.544436
+          ],
+          "address": "長興街50號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "位於男一宿舍保全室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於男一宿舍保全室內"
+        },
+        {
+          "id": 5501340,
+          "title": "國立臺灣大學(長興校區)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.016473,
+            121.544436
+          ],
+          "address": "長興街50號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "於男七宿舍從大門進入之左手邊走道上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "於男七宿舍從大門進入之左手邊走道上"
+        },
+        {
+          "id": 5501787,
+          "title": "國立臺灣大學(長興校區)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.016473,
+            121.544436
+          ],
+          "address": "長興街50號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "置於大門進入後正前方處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於大門進入後正前方處"
+        },
+        {
+          "id": 5501850,
+          "title": "國立臺灣大學(長興校區)",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.016473,
+            121.544436
+          ],
+          "address": "長興街50號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "位於大門進入後電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於大門進入後電梯旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dbbffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.01874743489941,
+        "lng": 121.54962475823775
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5501428,
+          "title": "臺北市大安區大安國民小學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.020012,
+            121.549076
+          ],
+          "address": "臥龍街129號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學務處旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學務處旁"
+        },
+        {
+          "id": 5501429,
+          "title": "臺北市大安區大安國民小學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.020012,
+            121.549076
+          ],
+          "address": "臥龍街129號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "活動中心1 樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心1 樓"
+        },
+        {
+          "id": 5502174,
+          "title": "臺北市立和平高級中學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.019627,
+            121.549148
+          ],
+          "address": "臥龍街100號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "本校活動中心4樓(靠近廁所)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校活動中心4樓(靠近廁所)"
+        },
+        {
+          "id": 5502189,
+          "title": "臺北市芳和實驗中學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.018672,
+            121.55032
+          ],
+          "address": "臥龍街170號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本校一樓穿堂往二棟",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校一樓穿堂往二棟"
+        },
+        {
+          "id": 5502200,
+          "title": "臺北市立和平高級中學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.019627,
+            121.549148
+          ],
+          "address": "臥龍街100號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "學務處門口(靠近教官室)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學務處門口(靠近教官室)"
+        },
+        {
+          "id": 5502202,
+          "title": "臺北市立和平高級中學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.019627,
+            121.549148
+          ],
+          "address": "臥龍街100號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "懷德樓1樓版畫教室(靠近基隆路)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "懷德樓1樓版畫教室(靠近基隆路)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d53ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.008544748263194,
+        "lng": 121.53991089165413
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501445,
+          "title": "蟾蜍山聚落文化中心煥民新村",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.0094299,
+            121.539334
+          ],
+          "address": "羅斯福路四段119巷66弄12號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d87ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.020755937798384,
+        "lng": 121.54748652425647
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501478,
+          "title": "柯達大飯店台北敦南",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.021106,
+            121.548324
+          ],
+          "address": "敦化南路二段238號",
+          "layoutType": "旅館",
+          "hours": "詳見官方網站",
+          "description": "放置於一樓接待櫃臺右前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於一樓接待櫃臺右前方"
+        },
+        {
+          "id": 5502018,
+          "title": "臺北市政府環境保護局大安區清潔隊臥龍分隊",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.020008,
+            121.5473457
+          ],
+          "address": "基隆路三段臨24號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "在休息室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在休息室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5dc7ffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.014232820066105,
+        "lng": 121.54208579687443
+      },
+      "categories": {
+        "other": 14
+      },
+      "points": [
+        {
+          "id": 5501800,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學綜合研究大樓一樓電梯口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學綜合研究大樓一樓電梯口"
+        },
+        {
+          "id": 5501801,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學國際大樓一樓中庭門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學國際大樓一樓中庭門口"
+        },
+        {
+          "id": 5501802,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學工程二館一樓門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學工程二館一樓門口"
+        },
+        {
+          "id": 5501803,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學電資學院一樓門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學電資學院一樓門口"
+        },
+        {
+          "id": 5501804,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學大門警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學大門警衛室"
+        },
+        {
+          "id": 5501805,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學研揚大樓1F川堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學研揚大樓1F川堂"
+        },
+        {
+          "id": 5501806,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學體育館一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學體育館一樓"
+        },
+        {
+          "id": 5501807,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學第四教學大樓一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學第四教學大樓一樓"
+        },
+        {
+          "id": 5501808,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學第三宿舍一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學第三宿舍一樓"
+        },
+        {
+          "id": 5501809,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學管理大樓一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學管理大樓一樓"
+        },
+        {
+          "id": 5501810,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學保健室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學保健室"
+        },
+        {
+          "id": 5501811,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學學生活動中心一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學學生活動中心一樓"
+        },
+        {
+          "id": 5501812,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學第二宿舍一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學第二宿舍一樓"
+        },
+        {
+          "id": 5501813,
+          "title": "國立臺灣科技大學",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.014169,
+            121.542993
+          ],
+          "address": "基隆路4段43號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "台灣科技大學第一宿舍一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣科技大學第一宿舍一樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00335332310712,
+        "lng": 121.5495508565053
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501866,
+          "title": "臺北市立興福國民中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004723,
+            121.54995
+          ],
+          "address": "福興路80號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "行政大樓川堂一側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓川堂一側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d83ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.01992056532618,
+        "lng": 121.54426079082245
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501999,
+          "title": "臺北市大安運動中心",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.020777,
+            121.545636
+          ],
+          "address": "辛亥路3段55號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "在一樓大廳正門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在一樓大廳正門口"
+        },
+        {
+          "id": 5502000,
+          "title": "臺北市大安運動中心",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.020777,
+            121.545636
+          ],
+          "address": "辛亥路3段55號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "三樓電梯、樓梯出口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三樓電梯、樓梯出口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d4bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.003691747326464,
+        "lng": 121.5409614976695
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502399,
+          "title": "健身工廠萬隆廠",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.0043458,
+            121.5405182
+          ],
+          "address": "興隆路一段15號2樓",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "AED位於教練部旁伸展區柱子上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "AED位於教練部旁伸展區柱子上"
+        },
+        {
+          "id": 5502697,
+          "title": "臺北市文山區武功國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.003889,
+            121.540493
+          ],
+          "address": "興隆路一段68號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入校門口，看見警衛室右轉即可看見",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入校門口，看見警衛室右轉即可看見"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5d5bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.005700589942197,
+        "lng": 121.5388234723171
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502512,
+          "title": "力康運動醫學機構萬隆館",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.004707,
+            121.539156
+          ],
+          "address": "羅斯福路五段127號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "櫃檯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯旁"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

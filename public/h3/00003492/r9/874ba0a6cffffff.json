@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6c1bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.100017204970168,
+        "lng": 121.53712688453476
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7300000,
+          "title": "士林第一公墓",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09869118,
+            121.5362484
+          ],
+          "address": "",
+          "layoutType": "列管公墓",
+          "hours": "全日",
+          "description": "無",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "無"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6c6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.09115926691548,
+        "lng": 121.5424543526302
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7300006,
+          "title": "中山第一公墓",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.09259226,
+            121.5422916
+          ],
+          "address": "",
+          "layoutType": "列管公墓",
+          "hours": "全日",
+          "description": "無",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "無"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:02.087Z"
+}

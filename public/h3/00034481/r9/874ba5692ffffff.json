@@ -1,0 +1,621 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56924fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.10636500335354,
+        "lng": 121.52212280427462
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400006,
+          "title": "線形公園14號(士林)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10550122,
+            121.5217615
+          ],
+          "address": "捷運芝山站北-磺溪南段(界線:德行西路-磺溪)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "高架橋下",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "高架橋下"
+        },
+        {
+          "id": 3400024,
+          "title": "磺溪公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10557285,
+            121.5209682
+          ],
+          "address": "德行西路93巷底",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.119400381405743,
+        "lng": 121.53292377196199
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400009,
+          "title": "天和公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11981964,
+            121.533989
+          ],
+          "address": "天母東路69巷前",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.1222409304917,
+        "lng": 121.5340113084795
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400010,
+          "title": "東和公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1226002,
+            121.5336861
+          ],
+          "address": "中山北路七段114巷旁",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569277ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11087824206372,
+        "lng": 121.5296612955649
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400013,
+          "title": "蘭雅公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.109744,
+            121.529919
+          ],
+          "address": "忠誠路二段24號旁",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400048,
+          "title": "士東市場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11217,
+            121.52954
+          ],
+          "address": "士東路100號",
+          "layoutType": "",
+          "hours": "1樓:7:00-18:30\n2樓:7:30-21:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569203ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.114887414893847,
+        "lng": 121.52538490294292
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400031,
+          "title": "天壽公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11418946,
+            121.5255954
+          ],
+          "address": "中山北路6段405巷內",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400316,
+          "title": "榮富公園-遊戲場",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.1148533,
+            121.5246182
+          ],
+          "address": "榮華三路及磺溪旁(過天母橋)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569247ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.109205889165892,
+        "lng": 121.52321014830288
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400036,
+          "title": "蘭興公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.109842,
+            121.522969
+          ],
+          "address": "克強路10巷21弄底",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400037,
+          "title": "克強公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10872601,
+            121.5218378
+          ],
+          "address": "磺溪街55巷底",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.124245269109956,
+        "lng": 121.53187297809617
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400054,
+          "title": "圖書館天母分館",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1236175,
+            121.5304864
+          ],
+          "address": "中山北路七段154巷6號3-4樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.106032512951156,
+        "lng": 121.53071206073864
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400060,
+          "title": "聯合醫院陽明院區美食街",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.105323,
+            121.531953
+          ],
+          "address": "雨聲街105號",
+          "layoutType": "",
+          "hours": "8:00-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11171434037651,
+        "lng": 121.5328870377472
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400063,
+          "title": "臺北市天母棒球場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.113226,
+            121.53297
+          ],
+          "address": "忠誠路二段77號",
+          "layoutType": "",
+          "hours": "8:00至22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11255038658231,
+        "lng": 121.53611289227756
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400064,
+          "title": "臺北市天母網球場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1135641,
+            121.5359852
+          ],
+          "address": "忠誠路二段77號",
+          "layoutType": "",
+          "hours": "5:00至22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569243ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.108369634605193,
+        "lng": 121.51998474325224
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400305,
+          "title": "線形公園16號(北投)",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.10865277,
+            121.5195498
+          ],
+          "address": "磺溪北-明德站南段\n(界線：文林北路94巷-明德路)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569253ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.110374140530254,
+        "lng": 121.51784671309817
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400306,
+          "title": "線形公園17號(北投)",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11161367,
+            121.5175444
+          ],
+          "address": "捷運明德站北-石牌站南段\n(界線：致遠一路1段46巷-東陽街)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117223351748542,
+        "lng": 121.51465797075143
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400307,
+          "title": "線形公園19號(北投)",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11685775,
+            121.5140092
+          ],
+          "address": "捷運石牌站北-唭哩岸站南段\n(界線：石牌路-致遠二路)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56920bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11204669301717,
+        "lng": 121.52429751452564
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400321,
+          "title": "榮富公園",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.113391,
+            121.524371
+          ],
+          "address": "榮華三路及榮華一路交叉口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569257ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.111210442808353,
+        "lng": 121.52107205761071
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400322,
+          "title": "榮華公園",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11118359,
+            121.5222967
+          ],
+          "address": "明德路150巷22號對面",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56921bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.114051169047634,
+        "lng": 121.5221593941645
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400341,
+          "title": "圖書館石牌分館",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11330255,
+            121.5226165
+          ],
+          "address": "明德路208巷5號3-10樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.118059745107836,
+        "lng": 121.51788324603862
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400344,
+          "title": "永明民眾閱覽室",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.11837,
+            121.51751
+          ],
+          "address": "石牌路2段115號7-8樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

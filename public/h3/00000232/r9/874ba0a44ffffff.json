@@ -1,0 +1,2765 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4467ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.04919622401664,
+        "lng": 121.50896717306017
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5000030,
+          "title": "捷運北門站-S1-塔城街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0490126,
+            121.5100754
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000031,
+          "title": "捷運北門站-N1-塔城街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0494408,
+            121.5104866
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000806,
+          "title": "玉泉公園-健身房-入口處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050004,
+            121.5077115
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.062572192838893,
+        "lng": 121.51117770217441
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000032,
+          "title": "臺北橋-N-延平北路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061601,
+            121.511375
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000033,
+          "title": "臺北橋-S-延平北路二段",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061586,
+            121.511215
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a442bffff",
+      "res": 9,
+      "count": 73,
+      "center": {
+        "lat": 25.052038815469054,
+        "lng": 121.510054206606
+      },
+      "categories": {
+        "other": 73
+      },
+      "points": [
+        {
+          "id": 5000243,
+          "title": "聯合醫院中興院區(塔城)-N-塔城街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0506315,
+            121.5105707
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000755,
+          "title": "聯合醫院中興院區(塔城)-S-塔城街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514236,
+            121.5104323
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001369,
+          "title": "北市聯醫院本部1F兒童發展評估療育中心綜合治療室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001370,
+          "title": "北市聯醫院本部1F兒童發展評估療育中心護理站東側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0510537,
+            121.5098599
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001371,
+          "title": "北市聯醫本部2F兒童發展評估療育中心201會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001372,
+          "title": "北市聯醫本部3F301會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001373,
+          "title": "北市聯醫本部3F企劃行政中心大門內門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001374,
+          "title": "北市聯醫本部4F健康關懷客服中心門口前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001375,
+          "title": "北市聯醫本部4F醫療事務室緊急出口右前方柱子旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001376,
+          "title": "北市聯醫中興院區B1F藥劑科走廊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514331,
+            121.5094684
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001377,
+          "title": "北市聯醫中興院區B1F腫瘤治療科服務台西側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0512876,
+            121.5092666
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001378,
+          "title": "北市聯醫中興院區B1F病歷室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513604,
+            121.5094481
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001379,
+          "title": "北市聯醫中興院區B1F美食街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0511271,
+            121.5094311
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001380,
+          "title": "北市聯醫中興院區B1F解剖病理科",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515931,
+            121.5090743
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001381,
+          "title": "北市聯醫中興院區1F大廳藥局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0511821,
+            121.5095383
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001382,
+          "title": "北市聯醫中興院區1F健檢中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514371,
+            121.5094711
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001383,
+          "title": "北市聯醫中興院區1FX光室後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517675,
+            121.5093661
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001384,
+          "title": "北市聯醫中興院區1F放設科櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515581,
+            121.5095323
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001385,
+          "title": "北市聯醫中興院區1F急診大門",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515336,
+            121.5089797
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001386,
+          "title": "北市聯醫中興院區2F居家護理庫房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0510962,
+            121.5095051
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001387,
+          "title": "北市聯醫中興院區2F老人健康檢查服務處門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515214,
+            121.5096258
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001388,
+          "title": "北市聯醫中興院區2F家庭醫學科門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515871,
+            121.5093575
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001389,
+          "title": "北市聯醫中興院區2F小兒科門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516382,
+            121.5090822
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001390,
+          "title": "北市聯醫中興院區2F中醫科門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516793,
+            121.5088942
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001391,
+          "title": "北市聯醫中興院區2F精神科門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513634,
+            121.5091402
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001392,
+          "title": "北市聯醫中興院區3F運動治療室門外走廊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0510962,
+            121.5093842
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001393,
+          "title": "北市聯醫中興院區3F資訊室會議室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513529,
+            121.5094002
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001394,
+          "title": "北市聯醫中興院區3F精神內科檢查室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516732,
+            121.5093211
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001395,
+          "title": "北市聯醫中興院區3F內視鏡室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0518479,
+            121.5091603
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001396,
+          "title": "北市聯醫中興院區3F檢驗科中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516482,
+            121.5090481
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001397,
+          "title": "北市聯醫中興院區5F心導管室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513072,
+            121.5094251
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001398,
+          "title": "北市聯醫中興院區5F麻醉科辦公室與恢復室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515451,
+            121.5094626
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001399,
+          "title": "北市聯醫中興院區5F內科加護病房配膳室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515843,
+            121.5090227
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001400,
+          "title": "北市聯醫中興院區5F家屬等候區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513895,
+            121.5091244
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001401,
+          "title": "北市聯醫中興院區6F院長室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0511752,
+            121.5092211
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001402,
+          "title": "北市聯醫中興院區6F骨科中心外走廊中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0512801,
+            121.5095405
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001403,
+          "title": "北市聯醫中興院區6F第一會議室旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514258,
+            121.5093849
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001404,
+          "title": "北市聯醫中興院區6F臨床技能中心門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515619,
+            121.5096635
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001405,
+          "title": "北市聯醫中興院區6F635病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0518041,
+            121.5095025
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001406,
+          "title": "北市聯醫中興院區6F626病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0518818,
+            121.5092181
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001407,
+          "title": "北市聯醫中興院區6F618病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517311,
+            121.5088587
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001408,
+          "title": "北市聯醫中興院區6F607病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515951,
+            121.5087895
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001409,
+          "title": "北市聯醫中興院區7F766病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516145,
+            121.5096424
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001410,
+          "title": "北市聯醫中興院區7F756病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516145,
+            121.5096424
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001411,
+          "title": "北市聯醫中興院區7F外科醫師執班室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513371,
+            121.5094064
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001412,
+          "title": "北市聯醫中興院區7F745病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515853,
+            121.5096048
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001414,
+          "title": "北市聯醫中興院區7F719病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517312,
+            121.5089442
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001415,
+          "title": "北市聯醫中興院區7F707病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516298,
+            121.5088533
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001416,
+          "title": "北市聯醫中興院區8F867病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0511916,
+            121.5093312
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001417,
+          "title": "北市聯醫中興院區8F853病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0512644,
+            121.5095082
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001418,
+          "title": "北市聯醫中興院區8F民眾休息區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513616,
+            121.5091273
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001419,
+          "title": "北市聯醫中興院區8F工友值班室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514685,
+            121.5093687
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001420,
+          "title": "北市聯醫中興院區8F845病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515944,
+            121.5095721
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001421,
+          "title": "北市聯醫中興院區8F833病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517985,
+            121.5094593
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001422,
+          "title": "北市聯醫中興院區8F816病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517241,
+            121.5090147
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001423,
+          "title": "北市聯醫中興院區8F807病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515785,
+            121.5089797
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001424,
+          "title": "北市聯醫中興院區9F908病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515934,
+            121.5087906
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001425,
+          "title": "北市聯醫中興院區9F966病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0510953,
+            121.5094585
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001426,
+          "title": "北市聯醫中興院區9F955病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0512483,
+            121.5095228
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001427,
+          "title": "北市聯醫中興院區9F民眾休息區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513334,
+            121.5091473
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001428,
+          "title": "北市聯醫中興院區9F神經外科主任室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0514305,
+            121.5093886
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001429,
+          "title": "北市聯醫中興院區9F945病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0515618,
+            121.5095737
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001430,
+          "title": "北市聯醫中興院區9F932病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517464,
+            121.5094471
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001431,
+          "title": "北市聯醫中興院區9F919病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517294,
+            121.5090801
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001432,
+          "title": "北市聯醫中興院區10F1008病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516079,
+            121.5089055
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001433,
+          "title": "北市聯醫中興院區10F1019病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517293,
+            121.5089918
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001434,
+          "title": "北市聯醫中興院區10F1055病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0510952,
+            121.5093521
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001435,
+          "title": "北市聯醫中興院區10F1066病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0512264,
+            121.5094808
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001436,
+          "title": "北市聯醫中興院區10F民眾休息區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513114,
+            121.5091348
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001437,
+          "title": "北市聯醫中興院區10F醫師值班室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513722,
+            121.5094191
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001438,
+          "title": "北市聯醫中興院區10F1045病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0516569,
+            121.5095941
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001439,
+          "title": "北市聯醫中興院區10F1032病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0517799,
+            121.5096216
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002417,
+          "title": "北市聯醫陽明院區5F522病房門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0508369,
+            121.5097295
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a446fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.046353550869078,
+        "lng": 121.50788016170854
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000584,
+          "title": "萬華運動中心-S-西寧南路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0473707,
+            121.5071418
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001847,
+          "title": "萬華福星區民活動中心2F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0467351,
+            121.5069286
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4427ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05571745708693,
+        "lng": 121.51436607971989
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000813,
+          "title": "朝陽茶葉公園-停車場行人出口處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0558253,
+            121.512801
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4423ffff",
+      "res": 9,
+      "count": 22,
+      "center": {
+        "lat": 25.05488132521277,
+        "lng": 121.5111412623459
+      },
+      "categories": {
+        "other": 22
+      },
+      "points": [
+        {
+          "id": 5000814,
+          "title": "大稻埕遊客中心",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0549405,
+            121.509988
+          ],
+          "address": "",
+          "layoutType": "遊客中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002049,
+          "title": "永樂市場1F1008攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0549211,
+            121.5102053
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002050,
+          "title": "永樂市場1F1018攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0548317,
+            121.5103561
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002051,
+          "title": "永樂市場1F1025攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05478,
+            121.5107742
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002052,
+          "title": "永樂市場1F1401攤位前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0553898,
+            121.5104946
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002053,
+          "title": "臺北市藝文推廣處社會教育館大稻埕戲苑8F服務臺後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0546678,
+            121.5108517
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002505,
+          "title": "大同士林婦女支持培力中心7F大禮堂內門口前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0551307,
+            121.5102562
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002613,
+          "title": "臺北市藝文推廣處大稻埕戲苑9F櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0553187,
+            121.5105201
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002614,
+          "title": "臺北市藝文推廣處大稻埕戲苑7F教室區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0551176,
+            121.5104175
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002615,
+          "title": "臺北市藝文推廣處大稻埕戲苑8F門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0552862,
+            121.5108527
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002616,
+          "title": "臺北市藝文推廣處大稻埕戲苑9F後台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0554286,
+            121.5108188
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002692,
+          "title": "市場處5F秘書室外",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0553491,
+            121.5105221
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002693,
+          "title": "市場處5F人事室門前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0549321,
+            121.5105623
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002694,
+          "title": "市場處6F第一會議室前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0551358,
+            121.5108591
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002695,
+          "title": "市場處6F入口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0547662,
+            121.5105992
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002947,
+          "title": "永樂市場2F 2028攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0552136,
+            121.5103052
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002948,
+          "title": "永樂市場2F 2084攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054599,
+            121.510848
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002949,
+          "title": "永樂市場3F 3021攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0552467,
+            121.5103891
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002950,
+          "title": "永樂市場3F 3073攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0545266,
+            121.5107313
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002951,
+          "title": "永樂市場4F 22攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0545272,
+            121.5103861
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002952,
+          "title": "永樂市場4F 73攤",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0545269,
+            121.5109104
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003124,
+          "title": "市場處6F處長室前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0549452,
+            121.5106521
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4477ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.051202627548125,
+        "lng": 121.50682955352971
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5000873,
+          "title": "聯合醫院中興院區(西寧)-N-西寧北路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0513073,
+            121.5084946
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5000986,
+          "title": "玉泉公園-游泳池南側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0500331,
+            121.5074728
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4437ffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.0577237532342,
+        "lng": 121.51222834027983
+      },
+      "categories": {
+        "other": 11
+      },
+      "points": [
+        {
+          "id": 5000895,
+          "title": "歸綏戲曲公園-舞台旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0579322,
+            121.5135456
+          ],
+          "address": "",
+          "layoutType": "公園",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002044,
+          "title": "圖書館延平分館4F自修室中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592109,
+            121.5121053
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002045,
+          "title": "圖書館延平分館5F期刊報紙區中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592088,
+            121.5121237
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002046,
+          "title": "圖書館延平分館6F兒童室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592692,
+            121.5121049
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002047,
+          "title": "圖書館延平分館7F書庫電梯口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592312,
+            121.5121092
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002048,
+          "title": "圖書館延平分館9F參考資料區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592777,
+            121.5121264
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002305,
+          "title": "圖書館延平分館1F綜合服務台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0591202,
+            121.5120965
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002306,
+          "title": "圖書館延平分館8F電梯門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0592595,
+            121.5121171
+          ],
+          "address": "",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002769,
+          "title": "新芳春茶行1F焙籠間前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0572203,
+            121.5126219
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002770,
+          "title": "新芳春茶行1F資訊服務台前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0573318,
+            121.5125197
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002771,
+          "title": "新芳春茶行2F電梯前",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0573943,
+            121.5126008
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4433ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056887573643767,
+        "lng": 121.50900358346253
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5000960,
+          "title": "大稻埕-大稻埕碼頭貨櫃市集(碼頭售票亭)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0566955,
+            121.5075837
+          ],
+          "address": "",
+          "layoutType": "大眾運輸",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4463ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.04836003194654,
+        "lng": 121.50574257185575
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 5001848,
+          "title": "萬華運動中心1F社區教室前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0473881,
+            121.5068404
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001849,
+          "title": "萬華運動中心1F櫃臺前方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0475108,
+            121.5068721
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001850,
+          "title": "萬華運動中心2F高爾夫球訓練區後方",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0474576,
+            121.5068673
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001851,
+          "title": "萬華運動中心2F高爾夫球訓練區櫃臺旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0475233,
+            121.5068861
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001852,
+          "title": "萬華運動中心3F健身房重訓區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0474081,
+            121.5067531
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001853,
+          "title": "萬華運動中心3F健身房櫃臺旁",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0474576,
+            121.5068673
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001854,
+          "title": "萬華運動中心4F攀岩場座位區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0474576,
+            121.5068673
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001855,
+          "title": "萬華運動中心7F室內座位區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0474576,
+            121.5068673
+          ],
+          "address": "",
+          "layoutType": "運動場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a44b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06457816088187,
+        "lng": 121.50903999482563
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002054,
+          "title": "大同臺北橋區民活動中心2F門口右側",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0631466,
+            121.5091593
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a446bffff",
+      "res": 9,
+      "count": 18,
+      "center": {
+        "lat": 25.045517354660547,
+        "lng": 121.50465561237687
+      },
+      "categories": {
+        "other": 18
+      },
+      "points": [
+        {
+          "id": 5002320,
+          "title": "北市聯醫昆明院區1F批價櫃檯",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440624,
+            121.5050214
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002321,
+          "title": "北市聯醫昆明院區1F中藥局中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0441945,
+            121.5050065
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002322,
+          "title": "北市聯醫昆明院區1F聯合服務中心櫃台",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0442027,
+            121.5050413
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002323,
+          "title": "北市聯醫昆明院區2F第27門診門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443746,
+            121.504812
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002324,
+          "title": "北市聯醫昆明院區3F空調室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443646,
+            121.5048113
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002325,
+          "title": "北市聯醫昆明院區3F第9診間門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0442002,
+            121.5047602
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002326,
+          "title": "北市聯醫昆明院區4F團體討論室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443194,
+            121.5047331
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002327,
+          "title": "北市聯醫昆明院區4F新興傳染病及藥癮防治科中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440624,
+            121.5050214
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002328,
+          "title": "北市聯醫昆明院區5F會議室門口外",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0444093,
+            121.5047212
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002329,
+          "title": "北市聯醫昆明院區5F性病及愛滋病防治組外側走道",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443194,
+            121.5047331
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002330,
+          "title": "北市聯醫昆明院區6F科長辦公室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0444636,
+            121.5045079
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002331,
+          "title": "北市聯醫昆明院區6F慢性傳染病股門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0440624,
+            121.5050214
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002332,
+          "title": "北市聯醫昆明院區6F預防接種股門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443556,
+            121.5050811
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002333,
+          "title": "北市聯醫昆明院區7F會議室與結核病防治組走道中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0443194,
+            121.5047331
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002334,
+          "title": "北市聯醫昆明院區8F標準病人休息室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.044422,
+            121.5046484
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002335,
+          "title": "北市聯醫昆明院區9F醫務長室門口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0442002,
+            121.5047602
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002336,
+          "title": "北市聯醫昆明院區10F檢驗室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0444681,
+            121.5049489
+          ],
+          "address": "",
+          "layoutType": "醫院",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5002818,
+          "title": "臺北市電影主題公園1F D棟音響設備上",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0452321,
+            121.5034672
+          ],
+          "address": "",
+          "layoutType": "藝文場館",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

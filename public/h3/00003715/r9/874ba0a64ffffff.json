@@ -1,0 +1,645 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a64d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.106345504526683,
+        "lng": 121.47273962883582
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200303,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10627,
+            121.47292
+          ],
+          "address": "臺北市士林區延平北路9段129號",
+          "layoutType": "",
+          "hours": "1606",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200322,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10627,
+            121.47299
+          ],
+          "address": "臺北市士林區延平北路9段129號",
+          "layoutType": "",
+          "hours": "2027",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a648bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.1071825737909,
+        "lng": 121.47596344134251
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 200304,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10575,
+            121.47642
+          ],
+          "address": "臺北市士林區延平北路9段35號",
+          "layoutType": "",
+          "hours": "1612",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200323,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10611,
+            121.47479
+          ],
+          "address": "臺北市士林區延平北路9段80號",
+          "layoutType": "",
+          "hours": "2033",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200324,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10584,
+            121.47641
+          ],
+          "address": "臺北市士林區延平北路9段35號",
+          "layoutType": "",
+          "hours": "2039",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6413ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.105178968643674,
+        "lng": 121.47810071199068
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200305,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10586,
+            121.47889
+          ],
+          "address": "臺北市士林區延平北路8段257號",
+          "layoutType": "",
+          "hours": "1618",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200325,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10591,
+            121.47793
+          ],
+          "address": "臺北市士林區延平北路9段1號",
+          "layoutType": "",
+          "hours": "2045",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200326,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10585,
+            121.4789
+          ],
+          "address": "臺北市士林區延平北路8段257號",
+          "layoutType": "",
+          "hours": "2051",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200327,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10587,
+            121.47923
+          ],
+          "address": "臺北市士林區延平北路8段245之1號",
+          "layoutType": "",
+          "hours": "2057",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6417ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.106015938286493,
+        "lng": 121.48132469778362
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200306,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10591,
+            121.48132
+          ],
+          "address": "臺北市士林區延平北路8段185號",
+          "layoutType": "",
+          "hours": "1624",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200307,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10591,
+            121.48288
+          ],
+          "address": "臺北市士林區延平北路8段131號",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200328,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.106,
+            121.48132
+          ],
+          "address": "臺北市士林區延平北路8段185號",
+          "layoutType": "",
+          "hours": "2103",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200329,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10587,
+            121.48287
+          ],
+          "address": "臺北市士林區延平北路8段131號",
+          "layoutType": "",
+          "hours": "2109",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6433ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.10484903011906,
+        "lng": 121.48668621910501
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 200308,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10509,
+            121.48509
+          ],
+          "address": "臺北市士林區延平北路8段55巷1號",
+          "layoutType": "",
+          "hours": "1636",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200331,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10504,
+            121.48506
+          ],
+          "address": "臺北市士林區延平北路8段55巷1號",
+          "layoutType": "",
+          "hours": "2121",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200364,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10587,
+            121.48679
+          ],
+          "address": "臺北市士林區延平北路8段2巷57弄1號",
+          "layoutType": "",
+          "hours": "2056",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a64abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.106852855996337,
+        "lng": 121.48454879616024
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200330,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10552,
+            121.48464
+          ],
+          "address": "臺北市士林區延平北路8段76號",
+          "layoutType": "",
+          "hours": "2115",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6423ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.102845078918676,
+        "lng": 121.48882367299673
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200332,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1032,
+            121.48728
+          ],
+          "address": "臺北市士林區延平北路7段261號",
+          "layoutType": "",
+          "hours": "2127",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a64a7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.11053033152988,
+        "lng": 121.48885981731166
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200348,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10956,
+            121.48962
+          ],
+          "address": "臺北市士林區延平北路8段2巷200弄7號",
+          "layoutType": "",
+          "hours": "1717",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200349,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10939,
+            121.48941
+          ],
+          "address": "臺北市士林區延平北路8段2巷192號",
+          "layoutType": "",
+          "hours": "1722",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200354,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11065,
+            121.48934
+          ],
+          "address": "臺北市士林區延平北路8段2巷232號",
+          "layoutType": "",
+          "hours": "1745",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200355,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10984,
+            121.49008
+          ],
+          "address": "臺北市士林區延平北路8段2巷205號旁",
+          "layoutType": "",
+          "hours": "1748",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a64a3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.109693470017167,
+        "lng": 121.48563555445703
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 200350,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11051,
+            121.48634
+          ],
+          "address": "臺北市士林區延平北路8段2巷150號",
+          "layoutType": "",
+          "hours": "1726",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200351,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1105,
+            121.48601
+          ],
+          "address": "臺北市士林區延平北路8段2巷153弄27號",
+          "layoutType": "",
+          "hours": "1731",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200352,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11038,
+            121.48483
+          ],
+          "address": "臺北市士林區延平北路8段2巷153弄49號",
+          "layoutType": "",
+          "hours": "1735",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a64b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.111697092944905,
+        "lng": 121.48349813275807
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200353,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11036,
+            121.48381
+          ],
+          "address": "臺北市士林區延平北路8段2巷153弄66號",
+          "layoutType": "",
+          "hours": "1740",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a64afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10768972176104,
+        "lng": 121.48777300710597
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200363,
+          "title": "社子分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10659,
+            121.48668
+          ],
+          "address": "臺北市士林區延平北路8段2巷63弄1號",
+          "layoutType": "",
+          "hours": "2050",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

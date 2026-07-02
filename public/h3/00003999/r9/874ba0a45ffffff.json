@@ -1,0 +1,403 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a453bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.059897337729105,
+        "lng": 121.53049185248263
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 8300024,
+          "title": "臺北市中山區大直國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.53
+          ],
+          "address": "臺北市中山區大直街2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300058,
+          "title": "臺北市立新興國民中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.53
+          ],
+          "address": "臺北市中山區林森北路511號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300086,
+          "title": "臺北市中山區中山國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.53
+          ],
+          "address": "臺北市中山區民權東路一段69號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300358,
+          "title": "台灣中油股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.53
+          ],
+          "address": "臺北市中山區中原里12鄰新生北路二段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4593ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.069928758684693,
+        "lng": 121.51980195064947
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 8300031,
+          "title": "臺北市立蘭州國民中學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區大龍街187巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300183,
+          "title": "臺北市政府都市發展局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區承德路三段285號(明倫社會住宅)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300194,
+          "title": "臺北市政府產業發展局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區承德路3段287之1號(就業服務處頂樓門口展示)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300196,
+          "title": "臺北市大同區公所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區昌吉街57號(大同區公所行政中心)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300216,
+          "title": "臺北市政府都市發展局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區承德路三段212號(大龍峒公宅)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300225,
+          "title": "臺北市大同區公所",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市大同區昌吉街21、23、55、57、59號(臺北市大同區行政中心)(蘭州市場)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300426,
+          "title": "臺灣電力股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.52
+          ],
+          "address": "臺北市中山區農安街3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45cfffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.059395956709285,
+        "lng": 121.51867819116848
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 8300063,
+          "title": "臺北市大同區大同國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.52
+          ],
+          "address": "臺北市大同區大龍街51號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300088,
+          "title": "臺北市大同區雙蓮國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.52
+          ],
+          "address": "臺北市大同區錦西街51號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300131,
+          "title": "臺北市大同區蓬萊國民小學",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.52
+          ],
+          "address": "臺北市大同區寧夏路35號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300191,
+          "title": "臺北市政府警察局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.06,
+            121.52
+          ],
+          "address": "臺北市大同區錦西街200號(臺北市政府警察局大同分局)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45b3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06959469545563,
+        "lng": 121.52839048089892
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 8300179,
+          "title": "臺北市政府產業發展局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.53
+          ],
+          "address": "臺北市中山區新生北路三段105號(臺北國際花卉博覽會夢想館)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300212,
+          "title": "臺北市政府工務局公園路燈工程管理處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.53
+          ],
+          "address": "臺北市中山區新生北路三段168號(民族苗圃)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300237,
+          "title": "臺北市政府工務局水利工程處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.53
+          ],
+          "address": "臺北市中山區濱江街3號（臺北市政府工務局水利工程處抽水站總管理中心）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 8300283,
+          "title": "臺北市政府產業發展局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07,
+            121.53
+          ],
+          "address": "臺北市中山區新生北路三段105號(臺北國際花卉博覽會未來館)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:04.406Z"
+}

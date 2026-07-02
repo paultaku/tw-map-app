@@ -1,0 +1,723 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a594bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.989626343275532,
+        "lng": 121.55592853745141
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 600395,
+          "title": "大葉雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9888,
+            121.5559
+          ],
+          "address": "臺北市文山區華興里木柵路一段290號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "元利建設企業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601183,
+          "title": "楓香",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9888,
+            121.5547
+          ],
+          "address": "臺北市文山區華興里木柵路一段311巷1號(永建國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區永建國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601573,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9895,
+            121.5574
+          ],
+          "address": "臺北市文山區華興里木柵路1段335巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部政治作戰局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601574,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9895,
+            121.5573
+          ],
+          "address": "臺北市文山區華興里木柵路1段335巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部政治作戰局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601575,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9895,
+            121.5573
+          ],
+          "address": "臺北市文山區華興里木柵路1段335巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國防部政治作戰局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602680,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9883,
+            121.555
+          ],
+          "address": "臺北市文山區華興里木柵路一段286號對面(永健國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區永建國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.990121234239535,
+        "lng": 121.56774519983678
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600458,
+          "title": "烏桕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9891,
+            121.5676
+          ],
+          "address": "臺北市文山區木柵里木柵路三段83號屋後院",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.001344134611525,
+        "lng": 121.55168906431932
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 600487,
+          "title": "白玉蘭",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.002,
+            121.551
+          ],
+          "address": "臺北市文山區興豐里興隆路二段235號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區興德國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602129,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0024,
+            121.5512
+          ],
+          "address": "臺北市文山區興邦里文山區興隆路2段233巷6弄10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5947ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.993306128585267,
+        "lng": 121.5602422033406
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600488,
+          "title": "魯花樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9926,
+            121.5592
+          ],
+          "address": "臺北市文山區興家里興隆路三段229巷9弄巷底號再興社區橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a594fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.99046135460767,
+        "lng": 121.55915449514079
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 601238,
+          "title": "香楠",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9919,
+            121.5591
+          ],
+          "address": "臺北市文山區興家里文山區興隆路三段269巷旁坡崁上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "閱讀春樹管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601247,
+          "title": "刺桐",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.991,
+            121.5604
+          ],
+          "address": "臺北市文山區明興里文山區興隆路四段29巷4弄1號後方(興隆路四段 1 巷 7 號前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a593bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.997820671453127,
+        "lng": 121.56778239278782
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601290,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9981,
+            121.5684
+          ],
+          "address": "臺北市文山區萬美里萬芳路60-1號(萬芳環遊市社區)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公私共有",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a599bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.005023659250146,
+        "lng": 121.55600260810088
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601426,
+          "title": "香楠",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0047,
+            121.5553
+          ],
+          "address": "臺北市文山區興泰里文山區辛亥路四段166巷21-31號對面山坡上",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5933ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.00066527390038,
+        "lng": 121.56887024891812
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 601724,
+          "title": "猢猻木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0015,
+            121.5682
+          ],
+          "address": "臺北市文山區萬芳里文山區萬芳四號公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬芳社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601725,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0012,
+            121.5694
+          ],
+          "address": "臺北市文山區萬芳里文山區萬芳四號公園溜冰場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬芳社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601728,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0013,
+            121.5697
+          ],
+          "address": "臺北市文山區萬芳里文山區萬安街12巷4-5號旁停車場下層階梯旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬芳社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5937ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.00150011711075,
+        "lng": 121.57209669846115
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 601726,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0016,
+            121.5718
+          ],
+          "address": "臺北市文山區萬芳里文山區萬安街68之5號前坡緣",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬芳社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601727,
+          "title": "香楠",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0017,
+            121.5717
+          ],
+          "address": "臺北市文山區萬芳里文山區萬安街68之5號前坡緣",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬芳社區管理委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.007528774258706,
+        "lng": 121.56568107696313
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 601944,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0077,
+            121.5658
+          ],
+          "address": "臺北市文山區博嘉里文山區和平東路四段66巷80弄21號 (面向石軍巖左側庭院中，原軍功路67巷16之1號)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "彰化縣員林市公所(文山區公所代為巡查)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.002179280888903,
+        "lng": 121.5549149444194
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 602024,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0025,
+            121.5559
+          ],
+          "address": "臺北市文山區興昌里文木91號公園內 (辛亥路四段與興德路66巷路口處)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602025,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0024,
+            121.556
+          ],
+          "address": "臺北市文山區興昌里文木91號公園內 (辛亥路四段與興德路66巷路口處)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5983ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.005858749492624,
+        "lng": 121.55922865220705
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602551,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0062,
+            121.5583
+          ],
+          "address": "臺北市文山區興昌里辛亥路四段103號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602558,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0058,
+            121.5594
+          ],
+          "address": "臺北市文山區興昌里萬美街二段",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區辛亥國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602988,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0064,
+            121.56
+          ],
+          "address": "臺北市文山區興昌里辛亥路4段101巷85之12對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區辛亥國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5913ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.001004966115833,
+        "lng": 121.56027929611399
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 602675,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9999,
+            121.5589
+          ],
+          "address": "臺北市文山區興光里興隆路三段115巷(興華國小後門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區興華國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602678,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25,
+            121.5589
+          ],
+          "address": "臺北市文山區興光里興隆路三段115巷(興華國小後門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區興華國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602679,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0001,
+            121.5589
+          ],
+          "address": "臺北市文山區興光里興隆路三段115巷(興華國小後門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區興華國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a591bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.99816043281112,
+        "lng": 121.5591915731847
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602677,
+          "title": "黑板樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9995,
+            121.5587
+          ],
+          "address": "臺北市文山區興光里興隆路三段115巷(興華國小後門)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區興華國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

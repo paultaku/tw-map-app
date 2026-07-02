@@ -1,0 +1,119 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da097ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00047744200553,
+        "lng": 121.59787473332254
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501266,
+          "title": "交通部高速公路局北區養護工程分局木柵工務段",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001125,
+            121.596603
+          ],
+          "address": "新光路2段100號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公大1樓入口大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公大1樓入口大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da093ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.99964305380041,
+        "lng": 121.59464743043037
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502062,
+          "title": "臺北市政府環境保護局信義區清潔隊四號停車場",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99896,
+            121.593804
+          ],
+          "address": "木柵路5段151號往前500公尺",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室外"
+        },
+        {
+          "id": 5502076,
+          "title": "臺北市政府環境保護局資源回收隊木柵回收場",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99896,
+            121.593804
+          ],
+          "address": "木柵路五段151號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "地磅室外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "地磅室外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da0dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.990273927129554,
+        "lng": 121.58815569467097
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502647,
+          "title": "貓空纜車動物園南站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.990172,
+            121.587576
+          ],
+          "address": "新光路2段30-2號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站1樓"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

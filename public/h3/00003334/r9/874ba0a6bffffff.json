@@ -1,0 +1,337 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6b87ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.080457430715562,
+        "lng": 121.57033040542674
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900193,
+          "title": "Curves 內湖西湖店",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0809,
+            121.5707
+          ],
+          "address": "臺北市內湖區內湖路一段360巷15號7樓之4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900212,
+          "title": "正能量 FITNESS",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0815,
+            121.5701
+          ],
+          "address": "臺北市內湖區內湖路一段322號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900221,
+          "title": "內湖力康運動醫學/運動表現中心",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0814,
+            121.5705
+          ],
+          "address": "臺北市內湖區內湖路一段356號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b83ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.079622148181365,
+        "lng": 121.56710358399873
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900196,
+          "title": "F45 Training 內湖店",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.08,
+            121.5664
+          ],
+          "address": "臺北市內湖區瑞光路578號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0933669997",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900207,
+          "title": "YOUTH Fitness & Yoga 內科瑞光館",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0797,
+            121.567
+          ],
+          "address": "臺北市內湖區瑞光路550號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.074436430307387,
+        "lng": 121.5767470660492
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900201,
+          "title": "NIFEI FITNESS",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0735,
+            121.5761
+          ],
+          "address": "臺北市內湖區瑞湖街99號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bbbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.078450555871303,
+        "lng": 121.57246926156225
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 7900203,
+          "title": "UFC GYM 內科模範館",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0793,
+            121.5735
+          ],
+          "address": "臺北市內湖區洲子街55號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900210,
+          "title": "內湖運動中心",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0781,
+            121.5721
+          ],
+          "address": "臺北市內湖區洲子街12號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900223,
+          "title": "沛力訓練",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0789,
+            121.5709
+          ],
+          "address": "臺北市內湖區瑞光路443號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900422,
+          "title": "內湖運動中心",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0781,
+            121.5721
+          ],
+          "address": "臺北市內湖區洲子街12號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b07ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073601290986105,
+        "lng": 121.57352006354412
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900205,
+          "title": "World Gym 健身俱樂部內湖港墘店",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0738,
+            121.5746
+          ],
+          "address": "臺北市內湖區港墘路221巷33號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bb7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08212783935861,
+        "lng": 121.57678438475725
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900208,
+          "title": "三健客 3musclers內湖店",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0822,
+            121.5773
+          ],
+          "address": "臺北市內湖區港華街18號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b97ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082464180265013,
+        "lng": 121.56819158003694
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900359,
+          "title": "好時光女生運動樂園西湖樂園",
+          "category": "culture",
+          "location": "內湖",
+          "coords": [
+            25.0823,
+            121.5678
+          ],
+          "address": "臺北市內湖區內湖路一段319號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "瑜珈教室"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

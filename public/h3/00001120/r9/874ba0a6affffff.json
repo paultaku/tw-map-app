@@ -1,0 +1,1643 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6a77ffff",
+      "res": 9,
+      "count": 23,
+      "center": {
+        "lat": 25.062904533309812,
+        "lng": 121.55198492249382
+      },
+      "categories": {
+        "other": 23
+      },
+      "points": [
+        {
+          "id": 5500007,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "5、6登機門間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5、6登機門間"
+        },
+        {
+          "id": 5500020,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "國際線3樓環亞貴賓室外帶區旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國際線3樓環亞貴賓室外帶區旁"
+        },
+        {
+          "id": 5500171,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "服務檯內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務檯內"
+        },
+        {
+          "id": 5500172,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "12登機門前座椅區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "12登機門前座椅區"
+        },
+        {
+          "id": 5500173,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "昇恒昌對面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "昇恒昌對面"
+        },
+        {
+          "id": 5500174,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "廁所前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "廁所前方"
+        },
+        {
+          "id": 5500175,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "8R登機門東側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "8R登機門東側"
+        },
+        {
+          "id": 5500350,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "第3、4號櫃台南側牆面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "第3、4號櫃台南側牆面"
+        },
+        {
+          "id": 5500351,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "貴賓室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "貴賓室內"
+        },
+        {
+          "id": 5500352,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "6號入境門對面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "6號入境門對面"
+        },
+        {
+          "id": 5500353,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "入境查驗大廳寫字檯附近",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入境查驗大廳寫字檯附近"
+        },
+        {
+          "id": 5500354,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "ATM區內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "ATM區內"
+        },
+        {
+          "id": 5500357,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "工作通道飲水機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "工作通道飲水機旁"
+        },
+        {
+          "id": 5500403,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "第二停車場(管理室)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "第二停車場(管理室)"
+        },
+        {
+          "id": 5500404,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "第三停車場(管理室)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "第三停車場(管理室)"
+        },
+        {
+          "id": 5500408,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "販賣機與飲水機間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "販賣機與飲水機間"
+        },
+        {
+          "id": 5501672,
+          "title": "臺北捷運松山機場站BR13",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.063039,
+            121.551919
+          ],
+          "address": "敦化北路338號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "捷運松山機場站地下二樓大廳層詢問處後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "捷運松山機場站地下二樓大廳層詢問處後方"
+        },
+        {
+          "id": 5501771,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "行李提領區(廁所前方)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行李提領區(廁所前方)"
+        },
+        {
+          "id": 5501891,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "造景牆旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "造景牆旁"
+        },
+        {
+          "id": 5502335,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "機車停車場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "機車停車場"
+        },
+        {
+          "id": 5502338,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "第一停車場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "第一停車場"
+        },
+        {
+          "id": 5502411,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "自動查驗通關道後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "自動查驗通關道後方"
+        },
+        {
+          "id": 5502678,
+          "title": "交通部民用航空局臺北國際航空站(松山機場)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.06369,
+            121.552742
+          ],
+          "address": "敦化北路340-9號",
+          "layoutType": "機場",
+          "hours": "詳見官方網站",
+          "description": "3樓觀景臺廁所前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3樓觀景臺廁所前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6adbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.066417873253492,
+        "lng": 121.53589224812819
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500038,
+          "title": "臺北農產運銷股份有限公司 總公司(第二果菜批發市場)",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.067471,
+            121.537218
+          ],
+          "address": "民族東路336號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "中控室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中控室旁"
+        },
+        {
+          "id": 5500589,
+          "title": "上引水產有限公司(台北漁市)",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.066673,
+            121.537108
+          ],
+          "address": "民族東路410巷2弄18號",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "賣場中央位置區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "賣場中央位置區"
+        },
+        {
+          "id": 5502407,
+          "title": "臺北農產運銷股份有限公司 總公司(第二果菜批發市場)",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.067471,
+            121.537218
+          ],
+          "address": "民族東路336號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "5樓行政中心，穿堂廣場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5樓行政中心，穿堂廣場"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a47ffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 25.061233456116312,
+        "lng": 121.54553280767023
+      },
+      "categories": {
+        "other": 13
+      },
+      "points": [
+        {
+          "id": 5500234,
+          "title": "臺北市立中山國民中學",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060537,
+            121.54535
+          ],
+          "address": "復興北路361巷7號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "學校健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學校健康中心"
+        },
+        {
+          "id": 5500293,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路365號2樓-業務部",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路365號2樓-業務部"
+        },
+        {
+          "id": 5500859,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路363號11樓\n接待大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路363號11樓\n接待大廳"
+        },
+        {
+          "id": 5500860,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路363號3樓\n金業部-事務處理間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路363號3樓\n金業部-事務處理間"
+        },
+        {
+          "id": 5500861,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路363號9樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路363號9樓"
+        },
+        {
+          "id": 5500862,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路363號7樓-股務部門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路363號7樓-股務部門口"
+        },
+        {
+          "id": 5500867,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市松山區復興北路363號10樓\n資訊規劃部門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市松山區復興北路363號10樓\n資訊規劃部門口"
+        },
+        {
+          "id": 5501380,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "8樓數位暨資安部",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "8樓數位暨資安部"
+        },
+        {
+          "id": 5501671,
+          "title": "臺北捷運中山國中站BR12",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.060809,
+            121.544151
+          ],
+          "address": "復興北路376號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "靠近三樓公務門旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "靠近三樓公務門旁"
+        },
+        {
+          "id": 5502014,
+          "title": "臺灣集中保管結算所股份有限公司",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060561,
+            121.544388
+          ],
+          "address": "復興北路363號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "5樓法遵暨法務室大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5樓法遵暨法務室大廳"
+        },
+        {
+          "id": 5502225,
+          "title": "臺北市立中山國民中學",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060537,
+            121.54535
+          ],
+          "address": "復興北路361巷7號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "中山國中大門川堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "中山國中大門川堂"
+        },
+        {
+          "id": 5502423,
+          "title": "中山國中星耀樓",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.0613514,
+            121.5456185
+          ],
+          "address": "民權東路三段106巷3弄2號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "大門進來左轉",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進來左轉"
+        },
+        {
+          "id": 5502507,
+          "title": "中山國中星耀樓",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.0613514,
+            121.5456185
+          ],
+          "address": "民權東路三段106巷3弄2號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "2樓電梯出來右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2樓電梯出來右邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6abbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.072602818053927,
+        "lng": 121.54988344501871
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500371,
+          "title": "民航人員訓練所",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.071722,
+            121.550707
+          ],
+          "address": "濱江街362號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "濱江街362號塔台對面民航人員訓練所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "濱江街362號塔台對面民航人員訓練所"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.075780079301474,
+        "lng": 121.54238063369813
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500464,
+          "title": "台北市河濱自行車租借站大佳站",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.07469,
+            121.541101
+          ],
+          "address": "大佳河濱公園九號水門旁",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大佳租車站主貨櫃內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大佳租車站主貨櫃內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a6bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.057219378452825,
+        "lng": 121.54980952963363
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500487,
+          "title": "長庚生物科技公司-身心靈轉化中心",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.057665,
+            121.551118
+          ],
+          "address": "民生東路4段54號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "大門直走，健身房入口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門直走，健身房入口"
+        },
+        {
+          "id": 5500620,
+          "title": "臺北市政府警察局松山分局東社派出所",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.056688,
+            121.550213
+          ],
+          "address": "敦化北路199巷5號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "東社所值班台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "東社所值班台旁"
+        },
+        {
+          "id": 5501075,
+          "title": "阿基里斯 Fitness GYM",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.057968,
+            121.550117
+          ],
+          "address": "敦化北路207號地下之一、地下一層",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "下樓梯後左手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "下樓梯後左手邊"
+        },
+        {
+          "id": 5502726,
+          "title": "明志大樓",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.0575046,
+            121.5510877
+          ],
+          "address": "民生東路四段54號1樓(警衛室)",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "位於本棟大樓一樓警衛室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於本棟大樓一樓警衛室內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a9bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.07293801240902,
+        "lng": 121.5412930521983
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500586,
+          "title": "國都汽車LEXUS濱江所廠",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.072852,
+            121.541586
+          ],
+          "address": "濱江街251號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "服務廠客休室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務廠客休室"
+        },
+        {
+          "id": 5500617,
+          "title": "國都汽車TOYOTA濱江所廠",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.072604,
+            121.542531
+          ],
+          "address": "濱江街269號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "服務廠展間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務廠展間"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ad3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06926010813705,
+        "lng": 121.53697973341795
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500623,
+          "title": "臺北市政府警察局中山分局建國派出所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.068007,
+            121.536047
+          ],
+          "address": "民族東路284號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "臺北市中山區民族東路284號1樓門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市中山區民族東路284號1樓門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a63ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.060061996798545,
+        "lng": 121.55089721497232
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500665,
+          "title": "交通部運輸研究所",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060121,
+            121.549497
+          ],
+          "address": "敦化北路240號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓進出大廳  警衛台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓進出大廳  警衛台旁"
+        },
+        {
+          "id": 5500978,
+          "title": "臺北市松山區民族國民小學",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05935,
+            121.551337
+          ],
+          "address": "民生東路4段97巷7號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "校門警衛室樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門警衛室樓梯旁"
+        },
+        {
+          "id": 5501642,
+          "title": "玉山銀行股份有限公司(第二總部大樓A棟)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05935517,
+            121.5502723
+          ],
+          "address": "敦化北路315號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進大門後左手邊。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進大門後左手邊。"
+        },
+        {
+          "id": 5501645,
+          "title": "玉山銀行股份有限公司(第二總部大樓B棟)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05885949,
+            121.5502014
+          ],
+          "address": "敦化北路313巷2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進大門後右側。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進大門後右側。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a73ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062069020723996,
+        "lng": 121.54875880895409
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500684,
+          "title": "臺北市政府警察局松山分局民有派出所",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.061853,
+            121.54812
+          ],
+          "address": "民權東路3段162號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "民有派所值班台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "民有派所值班台旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a57ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.063240307038214,
+        "lng": 121.5433944928899
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500852,
+          "title": "香港商世界健身事業有限公司台北民權東分公司",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.062119,
+            121.543117
+          ],
+          "address": "民權東路三段72號地下1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "客服櫃台旁走道。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "客服櫃台旁走道。"
+        },
+        {
+          "id": 5501381,
+          "title": "英屬維京群島商李肇勳國際室內設計顧問股份有限公司台灣分公司",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.062783,
+            121.543869
+          ],
+          "address": "復興北路420號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "於電梯門出來右手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "於電梯門出來右手邊"
+        },
+        {
+          "id": 5501547,
+          "title": "擊客基地",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.0626001,
+            121.5447579
+          ],
+          "address": "復興北路369號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口柱子上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口柱子上"
+        },
+        {
+          "id": 5501851,
+          "title": "臺北市立五常國民中學",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.063482,
+            121.5431
+          ],
+          "address": "復興北路430巷1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓東側川堂男廁旁走道牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓東側川堂男廁旁走道牆上"
+        },
+        {
+          "id": 5502389,
+          "title": "碩妃健康事業股份有限公司",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0621266,
+            121.544137
+          ],
+          "address": "民權東路三段二號15樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "15樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "15樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a4fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.058390911031452,
+        "lng": 121.54444520379393
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5501176,
+          "title": "Curves女性專用30分鐘健身中心復興民權店",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.059676,
+            121.544425
+          ],
+          "address": "復興北路331號2樓",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "玻璃門大門旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "玻璃門大門旁"
+        },
+        {
+          "id": 5501936,
+          "title": "瓦城集團 1010湘(復北店)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05817995,
+            121.5444084
+          ],
+          "address": "復興北路301號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口處"
+        },
+        {
+          "id": 5502328,
+          "title": "新驛旅店復興北路店",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0595347,
+            121.5439625
+          ],
+          "address": "復興北路338號",
+          "layoutType": "旅館",
+          "hours": "詳見官方網站",
+          "description": "復興北路與錦州街口，離捷運中山國中站約2分鐘路程",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "復興北路與錦州街口，離捷運中山國中站約2分鐘路程"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a4bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.057555290143803,
+        "lng": 121.54121936660904
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501188,
+          "title": "國立臺北大學民生校區",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.057956,
+            121.54237
+          ],
+          "address": "民生東路3段67 號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "本校合江校區宿舍女一舍",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校合江校區宿舍女一舍"
+        },
+        {
+          "id": 5501189,
+          "title": "國立臺北大學民生校區",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.057956,
+            121.54237
+          ],
+          "address": "民生東路3段67 號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "教學公用大樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "教學公用大樓"
+        },
+        {
+          "id": 5501190,
+          "title": "國立臺北大學民生校區",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.057956,
+            121.54237
+          ],
+          "address": "民生東路3段67 號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "校門口警衛室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門口警衛室內"
+        },
+        {
+          "id": 5502669,
+          "title": "台灣萊珀妮股份有限公司",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0577525,
+            121.5406294
+          ],
+          "address": "民生東路司段51號10樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "茶水間公共區域",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "茶水間公共區域"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a7bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.059226479920437,
+        "lng": 121.54767115325322
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5501293,
+          "title": "布勒斯運動顧問",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.059159,
+            121.547119
+          ],
+          "address": "復興北路446號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "健身區飲水機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健身區飲水機旁"
+        },
+        {
+          "id": 5501318,
+          "title": "第一商業銀行民生分行",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.057932,
+            121.547848
+          ],
+          "address": "民生東路3段131號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進入後右側、數位體驗區旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進入後右側、數位體驗區旁邊"
+        },
+        {
+          "id": 5501644,
+          "title": "玉山商業銀行股份有限公司(總部大樓)",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.057932,
+            121.546642
+          ],
+          "address": "民生東路3段115號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進大門後右手邊。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進大門後右手邊。"
+        },
+        {
+          "id": 5502271,
+          "title": "民有市場地下停車場",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.060401,
+            121.547074
+          ],
+          "address": "民權東路3段140巷15號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502663,
+          "title": "臺灣集中保管結算所-民生東路",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.05795229,
+            121.5482395
+          ],
+          "address": "民生東路133號10樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "投信輔導部門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "投信輔導部門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a8fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.071767218624903,
+        "lng": 121.54665734870002
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501349,
+          "title": "長源汽車台北服務廠",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0725,
+            121.547395
+          ],
+          "address": "濱江街321號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "顧客休息室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "顧客休息室"
+        },
+        {
+          "id": 5502022,
+          "title": "臺北市政府環境保護局中山區清潔隊停車場",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0727943,
+            121.5456244
+          ],
+          "address": "濱江街301巷內",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "車道的右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車道的右邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6acfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.065247032683818,
+        "lng": 121.54125620891756
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501590,
+          "title": "臺北市中山區五常國民小學",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.064084,
+            121.541528
+          ],
+          "address": "五常街16號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "川堂至健康中心之走廊上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "川堂至健康中心之走廊上"
+        },
+        {
+          "id": 5502120,
+          "title": "臺北市中山區五常國民小學",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.064084,
+            121.541528
+          ],
+          "address": "五常街16號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本校5樓活動中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校5樓活動中心"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6acbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.064411320612255,
+        "lng": 121.53803044081866
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501632,
+          "title": "榮星花園游泳池",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0638648,
+            121.5378032
+          ],
+          "address": "建國北路三段39號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "2F健身房",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2F健身房"
+        },
+        {
+          "id": 5501633,
+          "title": "榮星花園游泳池",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0638648,
+            121.5378032
+          ],
+          "address": "建國北路三段39號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "1F櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F櫃台旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a83ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073773711607174,
+        "lng": 121.54451897579588
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502027,
+          "title": "臺北市政府環境保護局松山區清潔隊停車場",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.073015,
+            121.545716
+          ],
+          "address": "濱江街301巷底",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室右側"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

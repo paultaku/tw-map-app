@@ -1,0 +1,1561 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6bbbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.078450555871303,
+        "lng": 121.57246926156225
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500021,
+          "title": "中租控股股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.077252,
+            121.572369
+          ],
+          "address": "瑞光路362號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於公司咖啡廳門口外之牆邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於公司咖啡廳門口外之牆邊"
+        },
+        {
+          "id": 5500563,
+          "title": "北都汽車股份有限公司-lexus內湖所廠",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.077034,
+            121.572925
+          ],
+          "address": "瑞光路356號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "從車道口進入服務廠後，入口玻璃門旁。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "從車道口進入服務廠後，入口玻璃門旁。"
+        },
+        {
+          "id": 5501454,
+          "title": "冠競健康事業股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.079305,
+            121.573572
+          ],
+          "address": "洲子街55號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "UFC GYM",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "UFC GYM"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b6fffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.063901674277034,
+        "lng": 121.57562164855764
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5500044,
+          "title": "大潤發流通事業股份有限公司南湖分公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.062902,
+            121.575896
+          ],
+          "address": "舊宗路1段188號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "敘述(1):在賣場正門口走進來的牆壁上；星巴克的招牌斜對角。\n敘述(2):在自助榨果汁機的旁邊的牆上。\n敘述(3):於LEE服飾店的旁邊的牆上。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "敘述(1):在賣場正門口走進來的牆壁上；星巴克的招牌斜對角。\n敘述(2):在自助榨果汁機的旁邊的牆上。\n敘述(3):於LEE服飾店的旁邊的牆上。"
+        },
+        {
+          "id": 5500057,
+          "title": "大潤發流通事業股份有限公司南湖分公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.062902,
+            121.575896
+          ],
+          "address": "舊宗路1段188號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "(1)3F未購物出口(食品入口)對面柱子上\n(2)3F賣場出入口旁\n(3)結帳區對面靠近出入口之柱子\n(4)堡獅龍服飾旁牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "(1)3F未購物出口(食品入口)對面柱子上\n(2)3F賣場出入口旁\n(3)結帳區對面靠近出入口之柱子\n(4)堡獅龍服飾旁牆上"
+        },
+        {
+          "id": 5500076,
+          "title": "禮客Outlet內湖一館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.064243,
+            121.57476
+          ],
+          "address": "民善街205號1F",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "禮客內湖一館西雅圖旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "禮客內湖一館西雅圖旁"
+        },
+        {
+          "id": 5500133,
+          "title": "臺北市花卉批發市場",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.062877,
+            121.574525
+          ],
+          "address": "新湖三路28號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "A館民善街.新湖三路側行人入口處管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "A館民善街.新湖三路側行人入口處管理室旁"
+        },
+        {
+          "id": 5500240,
+          "title": "好市多股份有限公司內湖分公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.063967,
+            121.576059
+          ],
+          "address": "舊宗路1段268號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "3樓藥局櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3樓藥局櫃台旁"
+        },
+        {
+          "id": 5500246,
+          "title": "好市多股份有限公司內湖分公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.063967,
+            121.576059
+          ],
+          "address": "舊宗路1段268號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "賣場大門出入口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "賣場大門出入口旁"
+        },
+        {
+          "id": 5500671,
+          "title": "禮客Outlet內湖二館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.064639,
+            121.574767
+          ],
+          "address": "民善街215號1F",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "禮客內湖二館服務台前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "禮客內湖二館服務台前"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bb7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.08212783935861,
+        "lng": 121.57678438475725
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500091,
+          "title": "臺北市立麗山國民中學",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.081617,
+            121.575688
+          ],
+          "address": "內湖路一段629巷42號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心內"
+        },
+        {
+          "id": 5501384,
+          "title": "三健客體能顧問工作室",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.082189,
+            121.577277
+          ],
+          "address": "港華街18號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "1樓休息室外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓休息室外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ba3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.079285738529823,
+        "lng": 121.57569625550921
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5500245,
+          "title": "臺北市內湖運動中心",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.078266,
+            121.575229
+          ],
+          "address": "洲子街12號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "放置內湖運動中心5樓健身房入口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置內湖運動中心5樓健身房入口"
+        },
+        {
+          "id": 5500512,
+          "title": "臺北市立內湖高級工業職業學校",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.079369,
+            121.575514
+          ],
+          "address": "內湖路一段520號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "臺北市立內湖高工行政大樓1樓，一進門右手邊靠牆。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市立內湖高工行政大樓1樓，一進門右手邊靠牆。"
+        },
+        {
+          "id": 5500765,
+          "title": "臺北市政府警察局內湖分局港墘派出所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.078846,
+            121.576762
+          ],
+          "address": "內湖路1段550號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "值勤臺後方(飲水機旁、男廁廁所外面)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "值勤臺後方(飲水機旁、男廁廁所外面)"
+        },
+        {
+          "id": 5501080,
+          "title": "臺北市內湖運動中心",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.078266,
+            121.575229
+          ],
+          "address": "洲子街12號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "臺北市內湖運動中心7樓游泳池入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市內湖運動中心7樓游泳池入口處"
+        },
+        {
+          "id": 5501506,
+          "title": "宏匯瑞光廣場337號C棟",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07786514,
+            121.5755459
+          ],
+          "address": "瑞光路337號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口處左手側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口處左手側"
+        },
+        {
+          "id": 5501676,
+          "title": "臺北捷運港墘站BR17",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.080048,
+            121.575024
+          ],
+          "address": "內湖路1段663號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "主詢問處閘門區旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "主詢問處閘門區旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b0bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06992374846814,
+        "lng": 121.569205162263
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500463,
+          "title": "台北市河濱自行車租借站觀山站",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.071062,
+            121.570179
+          ],
+          "address": "塔悠路轉入塔悠疏散門往大直橋方向，高速公路橋下方。",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "觀山租車站主貨櫃內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "觀山租車站主貨櫃內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bd3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.075109303969953,
+        "lng": 121.5595624074443
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500466,
+          "title": "台北市河濱自行車租借站美堤站",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.075376,
+            121.558549
+          ],
+          "address": "美堤疏散門(敬業三路底)進入後左轉，土坡曲道賽場旁。",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市河濱自行車租借站美堤站 美堤疏散門(敬業三路底)進入後左轉，土坡曲道賽場旁。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市河濱自行車租借站美堤站 美堤疏散門(敬業三路底)進入後左轉，土坡曲道賽場旁。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b43ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.066246063191226,
+        "lng": 121.56489049891938
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500585,
+          "title": "北都汽車股份有限公司-撫遠廠",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.067394,
+            121.566188
+          ],
+          "address": "撫遠街419號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "客休室入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "客休室入口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b87ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.080457430715562,
+        "lng": 121.57033040542674
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 5500591,
+          "title": "Curves可爾姿女性30分鐘環狀運動 內湖西湖店",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.081241,
+            121.571049
+          ],
+          "address": "內湖路1段360巷15號7樓之4",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "台灣企銀旁入口上7樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台灣企銀旁入口上7樓"
+        },
+        {
+          "id": 5500709,
+          "title": "臺北市政府警察局內湖分局西湖派出所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.079179,
+            121.569151
+          ],
+          "address": "瑞光路515號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "派出所備勤室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "派出所備勤室"
+        },
+        {
+          "id": 5501025,
+          "title": "正能量Fitness",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.081603,
+            121.569847
+          ],
+          "address": "內湖路一段322號2樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "位於正能量Fitness場館內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於正能量Fitness場館內"
+        },
+        {
+          "id": 5501483,
+          "title": "南陽實業股份有限公司台北分公司 內湖服務廠",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.081281,
+            121.570091
+          ],
+          "address": "內湖路1段332號",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "休息區旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "休息區旁邊"
+        },
+        {
+          "id": 5502277,
+          "title": "洲子立體停車場",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.079278,
+            121.569436
+          ],
+          "address": "瑞光路513巷22弄2號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502510,
+          "title": "力康健康事業股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.081453,
+            121.5705162
+          ],
+          "address": "內湖路一段356號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康管理中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康管理中心內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b07ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.073601290986105,
+        "lng": 121.57352006354412
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500863,
+          "title": "香港商世界健身事業有限公司內湖港墘分公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0738669,
+            121.5747656
+          ],
+          "address": "港墘路221巷33號2-4樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "香港商世界健身事業有限公司內湖港墘分公司(114台北市內湖區港墘路221巷33號2-4樓)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "香港商世界健身事業有限公司內湖港墘分公司(114台北市內湖區港墘路221巷33號2-4樓)"
+        },
+        {
+          "id": 5502437,
+          "title": "台新國際商業銀行內湖大樓",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.072963,
+            121.574025
+          ],
+          "address": "舊宗路２段207號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓大廳電梯旁，保全右後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓大廳電梯旁，保全右後方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bafffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.07727869065421,
+        "lng": 121.57783520273354
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500953,
+          "title": "麥克王運動訓練有公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.077287,
+            121.578194
+          ],
+          "address": "江南街65巷6號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "進門右前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進門右前方"
+        },
+        {
+          "id": 5502334,
+          "title": "臺北市立圖書館西湖分館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0786829,
+            121.5772418
+          ],
+          "address": "內湖路一段594號",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "1F讀者意見箱上方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F讀者意見箱上方"
+        },
+        {
+          "id": 5502686,
+          "title": "內湖凱旋酒店",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0775343,
+            121.5780231
+          ],
+          "address": "江南街55號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "台北市內湖區江南街?55 號，距離港墘捷運站步行約?5–8?分鐘 。\nAED 安置於一樓大廳區(接待櫃檯附近）",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市內湖區江南街?55 號，距離港墘捷運站步行約?5–8?分鐘 。\nAED 安置於一樓大廳區(接待櫃檯附近）"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b4bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.063403543959343,
+        "lng": 121.56380258415489
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500976,
+          "title": "臺北市松山區三民國民小學",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.063178,
+            121.564286
+          ],
+          "address": "民權東路5段1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "三民國小校門口(民權東路五段)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三民國小校門口(民權東路五段)"
+        },
+        {
+          "id": 5500992,
+          "title": "臺北市松山區民權國民小學",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.062525,
+            121.562292
+          ],
+          "address": "民權東路4段200號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "位於南大門川堂，餐車旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於南大門川堂，餐車旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b6bffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.06306656955384,
+        "lng": 121.57239474107567
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5501105,
+          "title": "鏡電視股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0636933,
+            121.5728212
+          ],
+          "address": "堤頂大道一段365號1、3、4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "位於三樓大廳(僅上班日9:00-18:00開放)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於三樓大廳(僅上班日9:00-18:00開放)"
+        },
+        {
+          "id": 5501107,
+          "title": "鏡電視股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0636933,
+            121.5728212
+          ],
+          "address": "堤頂大道一段365號1、3、4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "位於一樓大廳(僅上班日9:00-18:00開放)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於一樓大廳(僅上班日9:00-18:00開放)"
+        },
+        {
+          "id": 5502310,
+          "title": "燦坤內湖旗艦店",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0627834,
+            121.5729501
+          ],
+          "address": "堤頂大道一段331號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "A棟2樓入口收銀台右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "A棟2樓入口收銀台右側"
+        },
+        {
+          "id": 5502311,
+          "title": "燦坤內湖旗艦店",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0627834,
+            121.5729501
+          ],
+          "address": "堤頂大道一段331號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "門市電梯右側，手扶梯左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "門市電梯右側，手扶梯左側"
+        },
+        {
+          "id": 5502313,
+          "title": "燦坤實業股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06271,
+            121.573044
+          ],
+          "address": "堤頂大道一段331號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "VVIP會議室外正前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "VVIP會議室外正前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b63ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.065909157620045,
+        "lng": 121.57348278905427
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501113,
+          "title": "DHL_洋基通運股份有限公司_內湖服務中心",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.06484102,
+            121.5744004
+          ],
+          "address": "民善街277號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "一樓寄件櫃台牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓寄件櫃台牆上"
+        },
+        {
+          "id": 5501882,
+          "title": "臺北市政府工務局新建工程處養護工程隊第二分隊",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.065479,
+            121.574173
+          ],
+          "address": "民權東路六段臨8-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門口進來右手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門口進來右手邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b83ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.079622148181365,
+        "lng": 121.56710358399873
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501236,
+          "title": "台灣之星電信股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.078695,
+            121.567116
+          ],
+          "address": "堤頂大道2段239號6樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "設置於精英大樓6樓梯廳，玻璃門左手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "設置於精英大樓6樓梯廳，玻璃門左手邊"
+        },
+        {
+          "id": 5501917,
+          "title": "優勢開發管理顧問有限公司-內科館",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0797799,
+            121.5669661
+          ],
+          "address": "瑞光路550號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 5502699,
+          "title": "中飛科技股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0808103,
+            121.5683739
+          ],
+          "address": "瑞光路583巷32號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市內湖區瑞光路583巷32號5樓(富蘭克林大樓)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市內湖區瑞光路583巷32號5樓(富蘭克林大樓)"
+        },
+        {
+          "id": 5502700,
+          "title": "中飛科技股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0808103,
+            121.5683739
+          ],
+          "address": "瑞光路583巷32號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市內湖區瑞光路583巷26-1號7樓(富蘭克林大樓)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市內湖區瑞光路583巷26-1號7樓(富蘭克林大樓)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6babffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.076443555734475,
+        "lng": 121.57460814843816
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5501306,
+          "title": "至上電子股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.075678,
+            121.574767
+          ],
+          "address": "港墘路189號6樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        },
+        {
+          "id": 5501421,
+          "title": "宏匯瑞光廣場335號B棟",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0774077,
+            121.5750805
+          ],
+          "address": "瑞光路335號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口左手側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口左手側"
+        },
+        {
+          "id": 5501434,
+          "title": "宏匯瑞光廣場333號A棟",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07702458,
+            121.5744301
+          ],
+          "address": "瑞光路333號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "面向1樓大廳櫃檯左手側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "面向1樓大廳櫃檯左手側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b17ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0756083686747,
+        "lng": 121.57138120628453
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501312,
+          "title": "F45 Training Neihu",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.075892,
+            121.57279
+          ],
+          "address": "瑞光路358巷38弄一號1F",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "牆上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b97ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.082464180265013,
+        "lng": 121.56819158003694
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501366,
+          "title": "好時光西湖樂園",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.082385,
+            121.567905
+          ],
+          "address": "內湖路一段321號2樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "辦公室內櫃子上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室內櫃子上"
+        },
+        {
+          "id": 5501675,
+          "title": "臺北捷運西湖站BR16",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.082159,
+            121.56717
+          ],
+          "address": "內湖路1段256號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "售票區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "售票區"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b3bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.071594088010386,
+        "lng": 121.57565895154116
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501404,
+          "title": "遊戲橘子數位科技股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.071724,
+            121.576463
+          ],
+          "address": "瑞湖街111號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於1樓大廳右側匝門入口牆邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於1樓大廳右側匝門入口牆邊"
+        },
+        {
+          "id": 5502111,
+          "title": "臺北市政府環境保護局內湖區清潔隊停車場",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.070676,
+            121.574832
+          ],
+          "address": "舊宗路二段158號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b67ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.066744257973532,
+        "lng": 121.57670974832612
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501721,
+          "title": "全虹企業股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.066213,
+            121.577712
+          ],
+          "address": "民權東路六段18號6樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "6樓會客室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "6樓會客室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b93ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.081628849994885,
+        "lng": 121.56496481898317
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501938,
+          "title": "瓦城集團 瓦城西湖店",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.08201156,
+            121.5663634
+          ],
+          "address": "內湖路一段246-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口處"
+        },
+        {
+          "id": 5502324,
+          "title": "台灣大昌華嘉股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0811548,
+            121.5637103
+          ],
+          "address": "堤頂大道２段407巷22號10樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "9F進門左轉",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "9F進門左轉"
+        },
+        {
+          "id": 5502325,
+          "title": "台灣大昌華嘉股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0811548,
+            121.5637103
+          ],
+          "address": "堤頂大道２段407巷22號10樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "5F大廳進門左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5F大廳進門左側"
+        },
+        {
+          "id": 5502326,
+          "title": "台灣大昌華嘉股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0811548,
+            121.5637103
+          ],
+          "address": "堤頂大道２段407巷22號10樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "10F大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "10F大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b23ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.07242917959231,
+        "lng": 121.57888601439004
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5502047,
+          "title": "臺北市政府環境保護局內湖區清潔隊科技分隊",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.073419,
+            121.579137
+          ],
+          "address": "瑞光路160號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        },
+        {
+          "id": 5502093,
+          "title": "臺北市政府環境保護局內湖區清潔隊西湖分隊",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.07335225,
+            121.579352
+          ],
+          "address": "瑞光路160號B1F",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "B1F辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "B1F辦公室"
+        },
+        {
+          "id": 5502220,
+          "title": "臺北市公共運輸處瑞光計程車服務站",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0734188,
+            121.5791368
+          ],
+          "address": "瑞光路160號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "置於本站閱覽室大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於本站閱覽室大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b4fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0642388006008,
+        "lng": 121.56702920695406
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502108,
+          "title": "臺北市政府環境保護局松山區清潔隊上塔悠分隊",
+          "category": "other",
+          "location": "63000010",
+          "coords": [
+            25.063475,
+            121.567835
+          ],
+          "address": "民權東路5段臨94號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b8fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.07761532107389,
+        "lng": 121.56924237976763
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502253,
+          "title": "沛力訓練",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.078798,
+            121.5704511
+          ],
+          "address": "瑞光路443號1F",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃檯旁邊後面牆上。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯旁邊後面牆上。"
+        },
+        {
+          "id": 5502484,
+          "title": "星能股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0787224,
+            121.569001
+          ],
+          "address": "瑞光路480號12樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市內湖區瑞光路480號12樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市內湖區瑞光路480號12樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6bb3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081292661112037,
+        "lng": 121.57355733901778
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502497,
+          "title": "強大肌力訓練中心有限公司",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.081045,
+            121.572785
+          ],
+          "address": "樂群二路265巷32號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入訓練中心門口右手邊櫃檯上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入訓練中心門口右手邊櫃檯上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b33ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.074436430307387,
+        "lng": 121.5767470660492
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502585,
+          "title": "擎邦國際科技工程股份有限公司、彬台科技股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.0751495,
+            121.5762621
+          ],
+          "address": "瑞光路210號5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "世紀國寶大樓7樓梯廳(出電梯左側)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "世紀國寶大樓7樓梯廳(出電梯左側)"
+        },
+        {
+          "id": 5502665,
+          "title": "台達電子工業股份有限公司",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.074192,
+            121.577812
+          ],
+          "address": "瑞光路186號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1F大廳充電站旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F大廳充電站旁"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

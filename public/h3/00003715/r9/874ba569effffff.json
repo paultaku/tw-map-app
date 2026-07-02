@@ -1,0 +1,983 @@
+{
+  "cells": [
+    {
+      "h3": "894ba569e6bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.116897160443507,
+        "lng": 121.57265557998961
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200096,
+          "title": "文林分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11634,
+            121.57404
+          ],
+          "address": "臺北市士林區至善路3段152號",
+          "layoutType": "",
+          "hours": "1625",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e7bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11890263292972,
+        "lng": 121.57051658137785
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200104,
+          "title": "文林分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11835,
+            121.56922
+          ],
+          "address": "臺北市士林區至善路3段71巷30號前",
+          "layoutType": "",
+          "hours": "1726",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e5bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.119236878916738,
+        "lng": 121.56192377130048
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 200443,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12001,
+            121.56072
+          ],
+          "address": "臺北市士林區永公路310巷巷口",
+          "layoutType": "",
+          "hours": "1601",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200444,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11996,
+            121.56125
+          ],
+          "address": "臺北市士林區永公路315巷巷口",
+          "layoutType": "",
+          "hours": "1603",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200446,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.11942,
+            121.56341
+          ],
+          "address": "臺北市士林區永公路340巷28號",
+          "layoutType": "",
+          "hours": "1607",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e53ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.122077629687308,
+        "lng": 121.56301175958795
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200445,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.121,
+            121.56338
+          ],
+          "address": "臺北市士林區永公路340巷巷口",
+          "layoutType": "",
+          "hours": "1604",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200447,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12176,
+            121.56347
+          ],
+          "address": "臺北市士林區永公路350巷巷口",
+          "layoutType": "",
+          "hours": "1608",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200449,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12263,
+            121.56253
+          ],
+          "address": "臺北市士林區永公路355巷14號",
+          "layoutType": "",
+          "hours": "1614",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200450,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12268,
+            121.56292
+          ],
+          "address": "臺北市士林區永公路355巷11號",
+          "layoutType": "",
+          "hours": "1616",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e57ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.122913201887627,
+        "lng": 121.56623867640735
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200448,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1237,
+            121.56536
+          ],
+          "address": "臺北市士林區永公路350巷61號",
+          "layoutType": "",
+          "hours": "1611",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ec7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12775888490577,
+        "lng": 121.56518780271438
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200451,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12658,
+            121.56469
+          ],
+          "address": "臺北市士林區公?里公車站牌",
+          "layoutType": "",
+          "hours": "1618",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e97ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.136280151724108,
+        "lng": 121.56845203378124
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200457,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13545,
+            121.56926
+          ],
+          "address": "臺北市士林區永公路500巷巷口",
+          "layoutType": "",
+          "hours": "1630",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200458,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13487,
+            121.56891
+          ],
+          "address": "臺北市士林區永公路500巷公車站牌",
+          "layoutType": "",
+          "hours": "1632",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e87ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.13427536571754,
+        "lng": 121.57059105863817
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200459,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13533,
+            121.57023
+          ],
+          "address": "臺北市士林區永公路500巷31號",
+          "layoutType": "",
+          "hours": "1635",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569eb3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.135110867547432,
+        "lng": 121.57381829488315
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200461,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13505,
+            121.57414
+          ],
+          "address": "臺北市士林區平菁街陳厝公車站牌",
+          "layoutType": "",
+          "hours": "1640",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ebbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.132270454356604,
+        "lng": 121.5727301142458
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200462,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13214,
+            121.57302
+          ],
+          "address": "臺北市士林區平菁街43巷1號(元山咖啡水蜜桃園)",
+          "layoutType": "",
+          "hours": "1642",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200463,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13082,
+            121.57279
+          ],
+          "address": "臺北市士林區平菁街42巷巷口(客倌)",
+          "layoutType": "",
+          "hours": "1644",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569eabffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.130265417643546,
+        "lng": 121.57486920059881
+      },
+      "categories": {
+        "nightmarket": 6
+      },
+      "points": [
+        {
+          "id": 200464,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13085,
+            121.57394
+          ],
+          "address": "臺北市士林區平菁街47號",
+          "layoutType": "",
+          "hours": "1650",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200466,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13154,
+            121.57539
+          ],
+          "address": "臺北市士林區平菁街73巷巷口",
+          "layoutType": "",
+          "hours": "1657",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200474,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12897,
+            121.57507
+          ],
+          "address": "臺北市士林區平菁街106巷巷口(大榕樹)",
+          "layoutType": "",
+          "hours": "1721",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200475,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1296,
+            121.57604
+          ],
+          "address": "臺北市士林區平菁街106巷3號前",
+          "layoutType": "",
+          "hours": "1722",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200476,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13065,
+            121.57569
+          ],
+          "address": "臺北市士林區平菁街84巷尾(土地公)",
+          "layoutType": "",
+          "hours": "1723",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200477,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13027,
+            121.57496
+          ],
+          "address": "臺北市士林區平菁街106巷(合誠宮公車站牌)",
+          "layoutType": "",
+          "hours": "1728",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ea3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.133105908450347,
+        "lng": 121.57595741085686
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200465,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13199,
+            121.57497
+          ],
+          "address": "臺北市士林區平菁街67巷巷口",
+          "layoutType": "",
+          "hours": "1654",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200472,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13317,
+            121.57747
+          ],
+          "address": "臺北市士林區平菁街93巷5號",
+          "layoutType": "",
+          "hours": "1710",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569eafffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.131100824000285,
+        "lng": 121.57809655756837
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200467,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13144,
+            121.57643
+          ],
+          "address": "臺北市士林區平菁街84巷口(派出所)",
+          "layoutType": "",
+          "hours": "1700",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ea7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.13394131024704,
+        "lng": 121.57918481962491
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200473,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.13297,
+            121.57956
+          ],
+          "address": "臺北市士林區內厝公車站牌(95巷)",
+          "layoutType": "",
+          "hours": "1716",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e07ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.127424844674586,
+        "lng": 121.57378101252176
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200478,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12717,
+            121.57419
+          ],
+          "address": "臺北市士林區平菁街110號",
+          "layoutType": "",
+          "hours": "1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e0fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12458418955695,
+        "lng": 121.57269284662586
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200479,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12585,
+            121.5739
+          ],
+          "address": "臺北市士林區平菁街112-1號",
+          "layoutType": "",
+          "hours": "1732",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569e73ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.121743452304173,
+        "lng": 121.57160470291119
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200480,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12189,
+            121.57197
+          ],
+          "address": "臺北市士林區大坪尾公車站牌(反迴)",
+          "layoutType": "",
+          "hours": "1736",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ed3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.128928115254492,
+        "lng": 121.55982204966394
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 200560,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1302,
+            121.56079
+          ],
+          "address": "臺北市士林區永公路245巷34弄145號",
+          "layoutType": "",
+          "hours": "1958",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200561,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12944,
+            121.56113
+          ],
+          "address": "臺北市士林區永公路245巷34弄144號",
+          "layoutType": "",
+          "hours": "1959",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ec3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.126923269477853,
+        "lng": 121.56196089447633
+      },
+      "categories": {
+        "nightmarket": 4
+      },
+      "points": [
+        {
+          "id": 200562,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12839,
+            121.56213
+          ],
+          "address": "臺北市士林區永公路245巷34弄121號至16號(隨招)",
+          "layoutType": "",
+          "hours": "2000",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200565,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.1263,
+            121.56113
+          ],
+          "address": "臺北市士林區永公路245巷109號",
+          "layoutType": "",
+          "hours": "2008",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200566,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12595,
+            121.56112
+          ],
+          "address": "臺北市士林區永公路245巷88號",
+          "layoutType": "",
+          "hours": "2011",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 200567,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12586,
+            121.56053
+          ],
+          "address": "臺北市士林區永公路245巷56號",
+          "layoutType": "",
+          "hours": "2014",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569ecbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.124082678421605,
+        "lng": 121.56087291363649
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200563,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12479,
+            121.56005
+          ],
+          "address": "臺北市士林區永公路245巷34弄4號",
+          "layoutType": "",
+          "hours": "2003",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569edbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12608760181257,
+        "lng": 121.55873409845779
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 200564,
+          "title": "草山分隊",
+          "category": "nightmarket",
+          "location": "臺北市士林區",
+          "coords": [
+            25.12583,
+            121.55995
+          ],
+          "address": "臺北市士林區永公路245巷52號(對面郵筒)",
+          "layoutType": "",
+          "hours": "2005",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:37.990Z"
+}

@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b482fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.134747310662927,
+        "lng": 121.48360635653607
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900263,
+          "title": "臺北捷運公司北投會館",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1349,
+            121.4838
+          ],
+          "address": "臺北市北投區大業路527巷88號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "公立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4857ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.133401149144607,
+        "lng": 121.4685729223484
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900420,
+          "title": "臺北藝術大學游泳館",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.134,
+            121.47
+          ],
+          "address": "臺北市北投區學園路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "教育部（學校委外）",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

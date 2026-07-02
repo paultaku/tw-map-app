@@ -1,0 +1,515 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5537ffff",
+      "res": 9,
+      "count": 24,
+      "center": {
+        "lat": 25.017922329149194,
+        "lng": 121.49701126889643
+      },
+      "categories": {
+        "other": 24
+      },
+      "points": [
+        {
+          "id": 5000589,
+          "title": "華中河濱公園-N-萬大路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.017148,
+            121.496109
+          ],
+          "address": "",
+          "layoutType": "公車站",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001845,
+          "title": "萬華萬大第一區民活動中心1F中央",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.017291,
+            121.4957692
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5001846,
+          "title": "萬華萬大第二區民活動中心1F第二個入口處",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.017564,
+            121.4960532
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003043,
+          "title": "第一果菜批發市場-地號210",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0185252,
+            121.4974367
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003044,
+          "title": "第一果菜批發市場-地號610",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0183159,
+            121.4976599
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003045,
+          "title": "第一果菜批發市場-地號1010",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0182828,
+            121.4978587
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003046,
+          "title": "第一果菜批發市場-地號1411",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0182032,
+            121.4980039
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003047,
+          "title": "第一果菜批發市場-地號0508",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.017865,
+            121.4980857
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003048,
+          "title": "第一果菜批發市場-地號0908",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.018081,
+            121.4980237
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003049,
+          "title": "第一果菜批發市場-地號419",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0185185,
+            121.4975027
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003050,
+          "title": "第一果菜批發市場-地號819",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0184632,
+            121.4976183
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003051,
+          "title": "第一果菜批發市場-地號1319",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0183979,
+            121.4978286
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003052,
+          "title": "第一果菜批發市場-地號4407",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0182427,
+            121.497957
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003053,
+          "title": "第一果菜批發市場-地號0715",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0181603,
+            121.4980998
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003054,
+          "title": "第一果菜批發市場-地號1215",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0180188,
+            121.4981424
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003055,
+          "title": "第一果菜批發市場-地號325",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0187528,
+            121.4973605
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003056,
+          "title": "第一果菜批發市場-地號628",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.018692,
+            121.4976897
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003057,
+          "title": "第一果菜批發市場-地號1022",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0186121,
+            121.4976478
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003058,
+          "title": "第一果菜批發市場-地號0206",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0184237,
+            121.4979238
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003059,
+          "title": "第一果菜批發市場-地號0521",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0184292,
+            121.4980441
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003060,
+          "title": "第一果菜批發市場-地號0921",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0184277,
+            121.4982077
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003061,
+          "title": "第一果菜批發市場-地號1807",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0186891,
+            121.4981395
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003062,
+          "title": "第一果菜批發市場-地號1231",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0183805,
+            121.4985879
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5003092,
+          "title": "魚類批發市場1F理魚辦公室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0190077,
+            121.4975774
+          ],
+          "address": "",
+          "layoutType": "商圈市集",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023943722599494,
+        "lng": 121.49059948255542
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5001837,
+          "title": "萬華光復區民活動中心1F辦公室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0252362,
+            121.4914881
+          ],
+          "address": "",
+          "layoutType": "社區中心",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0227729973635,
+        "lng": 121.49596073558091
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5002318,
+          "title": "萬華區健康服務中心B棟1F廁所門外",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.023018,
+            121.4976093
+          ],
+          "address": "",
+          "layoutType": "行政機關",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:55.972Z"
+}

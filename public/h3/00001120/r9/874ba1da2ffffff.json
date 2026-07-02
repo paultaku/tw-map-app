@@ -1,0 +1,133 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da20fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.96883739294372,
+        "lng": 121.59449722629662
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501576,
+          "title": "臺北市鐵觀音包種茶研發推廣中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.96910948,
+            121.5943158
+          ],
+          "address": "指南路三段40巷8-2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大廳左側，視聽教室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大廳左側，視聽教室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da293ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.979727671762628,
+        "lng": 121.5870301070546
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501610,
+          "title": "指南宮管理委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979845,
+            121.586632
+          ],
+          "address": "萬壽路115號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "茶亭內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "茶亭內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da283ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.977716712527005,
+        "lng": 121.58916889552131
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502648,
+          "title": "貓空纜車指南宮站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979041,
+            121.589698
+          ],
+          "address": "指南路3段157巷200號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站1樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da21bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.970014474593754,
+        "lng": 121.58913141769887
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502649,
+          "title": "貓空纜車貓空站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.968914,
+            121.588297
+          ],
+          "address": "指南路3段38巷35號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站1樓"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

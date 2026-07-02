@@ -1,0 +1,391 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a61abffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.098678074119974,
+        "lng": 121.5220862153503
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 9900267,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098861,
+            121.521335
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "叢生"
+        },
+        {
+          "id": 9900269,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098843,
+            121.523721
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕6CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕6CM叢生"
+        },
+        {
+          "id": 9900270,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098862,
+            121.523745
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕6CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕6CM叢生"
+        },
+        {
+          "id": 9900274,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098781,
+            121.523718
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕7CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕7CM叢生"
+        },
+        {
+          "id": 9900556,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099691,
+            121.523534
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "D<6",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "D<6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61afffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.099514241916,
+        "lng": 121.52531163773524
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 9900271,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098908,
+            121.523954
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕10CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕10CM叢生"
+        },
+        {
+          "id": 9900272,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098907,
+            121.523971
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕10CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕10CM叢生"
+        },
+        {
+          "id": 9900273,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.098919,
+            121.523988
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕8CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕8CM叢生"
+        },
+        {
+          "id": 9900275,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099667,
+            121.524997
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕15CM",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕15CM"
+        },
+        {
+          "id": 9900276,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099814,
+            121.526
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "托痕10CM叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "托痕10CM叢生"
+        },
+        {
+          "id": 9900557,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.100454,
+            121.524713
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "僅量主幹多主幹2根測量1.1m處",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "僅量主幹多主幹2根測量1.1m處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a614fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08647650889348,
+        "lng": 121.51451201753343
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 9900433,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0863,
+            121.515079
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "脫痕3CM測量0.3M",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "脫痕3CM測量0.3M"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.09249165628804,
+        "lng": 121.50809855025499
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 9900435,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.093294,
+            121.509115
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "無法測量叢生",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "無法測量叢生"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.09616925854886,
+        "lng": 121.51241062261155
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 9900530,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.095432,
+            121.511914
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a611bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.094164364604527,
+        "lng": 121.51454850439367
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 9900531,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.09279,
+            121.51423
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "形似灌木",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "形似灌木"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6147ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.089317968054495,
+        "lng": 121.51559920619684
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 9900532,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.087823,
+            121.515597
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.9m處",
+          "image": "",
+          "management": "高灘地北區管理站",
+          "phone": "",
+          "notes": "測量0.9m處"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:07.526Z"
+}

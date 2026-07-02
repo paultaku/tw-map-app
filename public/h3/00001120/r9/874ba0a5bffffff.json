@@ -1,0 +1,623 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5b93ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.98795616507863,
+        "lng": 121.54947695867293
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500207,
+          "title": "公務人員保障暨培訓委員會",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.987862,
+            121.549293
+          ],
+          "address": "試院路1之3號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "玉衡樓1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "玉衡樓1樓大廳"
+        },
+        {
+          "id": 5501279,
+          "title": "銓敘部",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.988883,
+            121.548751
+          ],
+          "address": "試院路1-2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "銓敘部銓政樓(原名稱中正樓)1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "銓敘部銓政樓(原名稱中正樓)1樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5ba7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.986441445488097,
+        "lng": 121.56343118999932
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500363,
+          "title": "忠順里辦公處",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98512,
+            121.563104
+          ],
+          "address": "興隆路四段145巷30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "租用AED放置地點在里辦公處大門口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "租用AED放置地點在里辦公處大門口左側"
+        },
+        {
+          "id": 5501243,
+          "title": "臺北市文山區明道國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.98732,
+            121.562581
+          ],
+          "address": "木柵路二段138巷61號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心"
+        },
+        {
+          "id": 5501599,
+          "title": "臺北市政府社會局老人自費安養中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.986284,
+            121.562475
+          ],
+          "address": "興隆路4段109巷30弄6號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "松柏1樓服務台前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "松柏1樓服務台前"
+        },
+        {
+          "id": 5502032,
+          "title": "臺北市政府環境保護局文山區清潔隊木柵分隊",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.987285,
+            121.562422
+          ],
+          "address": "木柵路二段138巷26號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "3F會議室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3F會議室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b67ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.973050462172647,
+        "lng": 121.56121861708017
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500525,
+          "title": "臺北市私立東山高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.972689,
+            121.561698
+          ],
+          "address": "老泉街26巷3號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "校園停車場直行上彎道後再右彎左手邊辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校園停車場直行上彎道後再右彎左手邊辦公室"
+        },
+        {
+          "id": 5501073,
+          "title": "臺北市私立東山高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.972689,
+            121.561698
+          ],
+          "address": "老泉街26巷3號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "入校園停車場直行左彎到底再右彎爬坡.繼續直行看見欄網左側木柵欄上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入校園停車場直行左彎到底再右彎爬坡.繼續直行看見欄網左側木柵欄上"
+        },
+        {
+          "id": 5502710,
+          "title": "臺北市私立東山高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.972689,
+            121.561698
+          ],
+          "address": "老泉街26巷3號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "懷東九樓老師辦公室牆外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "懷東九樓老師辦公室牆外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b03ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.97908144300842,
+        "lng": 121.55480388409397
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501076,
+          "title": "臺北市一壽照顧中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979629,
+            121.556314
+          ],
+          "address": "一壽街22號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於四樓電梯口前(照顧中心門口)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於四樓電梯口前(照顧中心門口)"
+        },
+        {
+          "id": 5501087,
+          "title": "臺北市立圖書館力行分館",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.979629,
+            121.556314
+          ],
+          "address": "台北市文山區一壽街22號5樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "圖書館五樓入口處進館時的右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "圖書館五樓入口處進館時的右邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5bb7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.988451462643813,
+        "lng": 121.56129282719122
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5501091,
+          "title": "臺北市立圖書館安康民眾閱覽室",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.987525,
+            121.560875
+          ],
+          "address": "興隆路4段105巷1號4樓",
+          "layoutType": "圖書館",
+          "hours": "詳見官方網站",
+          "description": "4樓圖書館入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4樓圖書館入口處"
+        },
+        {
+          "id": 5501535,
+          "title": "臺北市政府社會局委託財團法人伊甸社會福利基金會經營管理臺北市興隆照顧中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9882386,
+            121.5627241
+          ],
+          "address": "興隆路4段105巷45號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門入口處左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口處左側"
+        },
+        {
+          "id": 5501536,
+          "title": "臺北市政府社會局委託財團法人伊甸社會福利基金會經營管理臺北市興隆照顧中心",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9882386,
+            121.5627241
+          ],
+          "address": "興隆路4段105巷45號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "興隆照顧中心內護理站旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "興隆照顧中心內護理站旁"
+        },
+        {
+          "id": 5501546,
+          "title": "臺北市政府社會局委託財團法人伊甸社會福利基金會經營管理臺北市興隆團體家庭",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9887036,
+            121.5617427
+          ],
+          "address": "木柵路2段138巷33號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "興隆社宅A棟",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "興隆社宅A棟"
+        },
+        {
+          "id": 5502385,
+          "title": "臺北市立文山幼兒園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9877892,
+            121.5607501
+          ],
+          "address": "興隆路4段105巷1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市立文山幼兒園(105巷)側門入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市立文山幼兒園(105巷)側門入口處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b87ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.986781483601934,
+        "lng": 121.55484090322554
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501114,
+          "title": "臺北市文山區華興里辦公處",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.987956,
+            121.554476
+          ],
+          "address": "木柵路一段264號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "門口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "門口旁"
+        },
+        {
+          "id": 5501480,
+          "title": "臺北市文山區永建國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.988241,
+            121.554541
+          ],
+          "address": "木柵路1段311巷1號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "永建國小總務處門口牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "永建國小總務處門口牆上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5ba3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.985606529628587,
+        "lng": 121.56020511154604
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501305,
+          "title": "喬傑瑞國際有限公司(HIVE FITNESS瘋動健身工作室)",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.985844,
+            121.561032
+          ],
+          "address": "興隆路四段54-8號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "櫃台處後方層架",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃台處後方層架"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b33ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.980751342990697,
+        "lng": 121.56125572164615
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501431,
+          "title": "臺北市文山區力行國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.980969,
+            121.561162
+          ],
+          "address": "木新路三段155巷7號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "警衛室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "警衛室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b8fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.983936542370184,
+        "lng": 121.55375329117582
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501557,
+          "title": "臺北市立實踐國民中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9834247,
+            121.5547619
+          ],
+          "address": "辛亥路7段67號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "實踐樓2樓川堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "實踐樓2樓川堂"
+        },
+        {
+          "id": 5501558,
+          "title": "臺北市立實踐國民中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.9834247,
+            121.5547619
+          ],
+          "address": "辛亥路7段67號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "活動中心2樓通廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心2樓通廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b17ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.981926543234298,
+        "lng": 121.55589150359258
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501847,
+          "title": "臺北市立景美女子高級中學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.980744,
+            121.556181
+          ],
+          "address": "木新路3段312號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "和平樓1樓健康中心外走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "和平樓1樓健康中心外走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5bafffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.983596435020942,
+        "lng": 121.56234344473586
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502023,
+          "title": "臺北市政府環境保護局文山區清潔隊復興分隊",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.984612,
+            121.563185
+          ],
+          "address": "忠順街二段22號2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "點名場所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "點名場所"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5bbbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.984771561918564,
+        "lng": 121.55697914526665
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502138,
+          "title": "臺北市文山區實踐國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.983727,
+            121.557639
+          ],
+          "address": "忠順街1段4號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "實踐國小前門穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "實踐國小前門穿堂"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

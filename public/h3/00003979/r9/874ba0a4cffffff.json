@@ -1,0 +1,567 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4ca7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.060223899591684,
+        "lng": 121.57130671527376
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400373,
+          "title": "基隆27F",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.060778,
+            121.572
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400374,
+          "title": "基隆27E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.060139,
+            121.5726944
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400543,
+          "title": "基隆50A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05986111,
+            121.5698333
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c37ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055373431801794,
+        "lng": 121.57235748230748
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400378,
+          "title": "基隆27A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.056639,
+            121.5732222
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400379,
+          "title": "行善陸橋牽引道",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05566071,
+            121.5733633
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c27ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.053365590589625,
+        "lng": 121.57449628370458
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400380,
+          "title": "麥一橋牽引道",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05441352,
+            121.5735462
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400381,
+          "title": "基隆27A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.053611,
+            121.5739167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400382,
+          "title": "基隆27B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05315564,
+            121.5745734
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400383,
+          "title": "基隆27A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05296787,
+            121.5752695
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cb7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.062231412733528,
+        "lng": 121.56916794574062
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400539,
+          "title": "基隆50C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0625,
+            121.5690556
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400540,
+          "title": "基隆50D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.06283333,
+            121.5688611
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400541,
+          "title": "基隆50C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.06161111,
+            121.5691667
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400542,
+          "title": "基隆50B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.06083333,
+            121.5696944
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4cafffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.057381147747144,
+        "lng": 121.57021871164866
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400544,
+          "title": "基隆50A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05836111,
+            121.57
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400545,
+          "title": "基隆50B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05736111,
+            121.5702778
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400546,
+          "title": "基隆50C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05661111,
+            121.57
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c33ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.054538314033795,
+        "lng": 121.56913073020047
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400547,
+          "title": "基隆50D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05561111,
+            121.5701944
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400548,
+          "title": "基隆50C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05530556,
+            121.57025
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400549,
+          "title": "基隆50B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05441667,
+            121.5704167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c23ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.052530520560044,
+        "lng": 121.57126947124289
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400550,
+          "title": "基隆50A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05352778,
+            121.5705278
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400551,
+          "title": "基隆50A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05194444,
+            121.5710833
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400552,
+          "title": "基隆50B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05125,
+            121.5718333
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4c2fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0505226018226,
+        "lng": 121.57340824302587
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400553,
+          "title": "基隆50C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05105556,
+            121.5728889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400554,
+          "title": "基隆57C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05102778,
+            121.57325
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400555,
+          "title": "基隆57B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.05108333,
+            121.5742778
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:15.295Z"
+}

@@ -1,0 +1,545 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a636fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.066250546829142,
+        "lng": 121.51548970724458
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200136,
+          "title": "臺北市立聯合醫院附設大同門診部",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0656996,
+            121.5162533
+          ],
+          "address": "臺北市大同區昌吉街52號(1樓及2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200169,
+          "title": "澤康診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06634774,
+            121.5139096
+          ],
+          "address": "臺北市大同區重慶北路三段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a636bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06541437981487,
+        "lng": 121.51226479482227
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200138,
+          "title": "施小兒科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06509022,
+            121.5134606
+          ],
+          "address": "臺北市大同區重慶北路三段２８號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6367ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.069092647825805,
+        "lng": 121.51657687395348
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200139,
+          "title": "蔡健生內、神經科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0690992,
+            121.5167092
+          ],
+          "address": "臺北市大同區大龍街１８７巷３０號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200157,
+          "title": "廣安診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06894713,
+            121.5161289
+          ],
+          "address": "臺北市大同區大龍街１７７巷３號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200173,
+          "title": "宜康復健科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06844764,
+            121.5166062
+          ],
+          "address": "臺北市大同區民族西路124號、124之1號及126號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6377ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.071098508455773,
+        "lng": 121.51443904670126
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7200144,
+          "title": "余自興眼科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07024847,
+            121.5139818
+          ],
+          "address": "臺北市大同區重慶北路三段二一三號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200145,
+          "title": "黃眼科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07139926,
+            121.5135837
+          ],
+          "address": "臺北市大同區重慶北路三段２５６號２樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200168,
+          "title": "慶吉診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07017054,
+            121.5139786
+          ],
+          "address": "臺北市大同區重慶北路三段209號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200181,
+          "title": "大同耳鼻喉科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0710051,
+            121.5135665
+          ],
+          "address": "臺北市大同區重慶北路三段250之3、250之4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200193,
+          "title": "圓山診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0721497,
+            121.5144821
+          ],
+          "address": "臺北市大同區酒泉街131號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6363ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.068256485025,
+        "lng": 121.51335190966458
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200146,
+          "title": "大龍峒耳鼻喉科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06877266,
+            121.5128326
+          ],
+          "address": "臺北市大同區民族西路223之5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200158,
+          "title": "羅志弘診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.06748717,
+            121.5139313
+          ],
+          "address": "臺北市大同區重慶北路三段１１５號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a633bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073940450093595,
+        "lng": 121.5155262059322
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200160,
+          "title": "趙黎海診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07307041,
+            121.515205
+          ],
+          "address": "臺北市大同區哈密街六十七號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a632bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.071934667032362,
+        "lng": 121.51766406285584
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200191,
+          "title": "泉源診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0720651,
+            121.5189724
+          ],
+          "address": "臺北市大同區庫倫街51之5號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200192,
+          "title": "牧人所身心醫學診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.07240609,
+            121.5185086
+          ],
+          "address": "臺北市大同區承德路3段232號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6387ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.08279867463403,
+        "lng": 121.51019991283347
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 7201402,
+          "title": "慈田耳鼻喉科診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08322229,
+            121.509999
+          ],
+          "address": "臺北市士林區延平北路五段１８５號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201407,
+          "title": "葉耳鼻喉科診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08398291,
+            121.510091
+          ],
+          "address": "臺北市士林區延平北路五段218號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201425,
+          "title": "葉眼科診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08287958,
+            121.5100662
+          ],
+          "address": "臺北市士林區延平北路5段173號(實際使用1、2層）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201475,
+          "title": "黃金喜婦產科診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08360251,
+            121.5099274
+          ],
+          "address": "臺北市士林區延平北路五段２０１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201480,
+          "title": "榮元外科診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.0827695,
+            121.5103888
+          ],
+          "address": "臺北市士林區延平北路五段１６２號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201482,
+          "title": "鄭醫師診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.0816779,
+            121.5105893
+          ],
+          "address": "臺北市士林區延平北路五段120號1、2 樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a63bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.080793345026557,
+        "lng": 121.51233770679293
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201437,
+          "title": "社子安心診所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08073383,
+            121.510829
+          ],
+          "address": "臺北市士林區延平北路五段76號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

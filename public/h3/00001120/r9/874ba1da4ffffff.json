@@ -1,0 +1,859 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da443ffff",
+      "res": 9,
+      "count": 34,
+      "center": {
+        "lat": 24.99831508210729,
+        "lng": 121.57960061546339
+      },
+      "categories": {
+        "other": 34
+      },
+      "points": [
+        {
+          "id": 5500243,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "服務台後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務台後方"
+        },
+        {
+          "id": 5500347,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "新光特展館一樓出口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "新光特展館一樓出口處"
+        },
+        {
+          "id": 5500382,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "出口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "出口處"
+        },
+        {
+          "id": 5500462,
+          "title": "台北市河濱自行車租借站木柵站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.999429,
+            121.580152
+          ],
+          "address": "新光路2段，動物園前方道南河濱公園廣場上。",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "台北市河濱自行車租借站木柵站 新光路2段，動物園前方道南河濱公園廣場上。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市河濱自行車租借站木柵站 新光路2段，動物園前方道南河濱公園廣場上。"
+        },
+        {
+          "id": 5500528,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "保養場司機室外牆",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "保養場司機室外牆"
+        },
+        {
+          "id": 5500529,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "企鵝館入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "企鵝館入口右側"
+        },
+        {
+          "id": 5500530,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "面對萊爾富右側牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "面對萊爾富右側牆壁"
+        },
+        {
+          "id": 5500531,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "溫帶區廁所涼亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "溫帶區廁所涼亭"
+        },
+        {
+          "id": 5500532,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "馬達加斯加雨林",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "馬達加斯加雨林"
+        },
+        {
+          "id": 5500533,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "河馬賣站廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "河馬賣站廁所"
+        },
+        {
+          "id": 5500534,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "河馬教室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "河馬教室"
+        },
+        {
+          "id": 5500535,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "澳洲區廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "澳洲區廁所"
+        },
+        {
+          "id": 5500536,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "愛爾蘭瘋薯廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "愛爾蘭瘋薯廁所"
+        },
+        {
+          "id": 5500537,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "生態保育牆旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "生態保育牆旁"
+        },
+        {
+          "id": 5500538,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "綠野仙蹤廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "綠野仙蹤廁所"
+        },
+        {
+          "id": 5500539,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "老虎賣站廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "老虎賣站廁所"
+        },
+        {
+          "id": 5500540,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "2F入口牆面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2F入口牆面"
+        },
+        {
+          "id": 5500541,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "候車處飲水機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "候車處飲水機旁"
+        },
+        {
+          "id": 5500542,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "候車處飲水機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "候車處飲水機旁"
+        },
+        {
+          "id": 5500543,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "候車處旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "候車處旁"
+        },
+        {
+          "id": 5500544,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "紀念品服務處入口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "紀念品服務處入口旁"
+        },
+        {
+          "id": 5500545,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "無尾熊廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "無尾熊廁所"
+        },
+        {
+          "id": 5500546,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "埤塘生態櫥窗前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "埤塘生態櫥窗前"
+        },
+        {
+          "id": 5500547,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺灣區廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺灣區廁所"
+        },
+        {
+          "id": 5500548,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "近梅花鹿原住民涼亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "近梅花鹿原住民涼亭"
+        },
+        {
+          "id": 5500549,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "2F生態網室牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2F生態網室牆壁"
+        },
+        {
+          "id": 5500550,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1F入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F入口右側"
+        },
+        {
+          "id": 5500551,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "蟲蟲探索谷廁所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "蟲蟲探索谷廁所"
+        },
+        {
+          "id": 5500552,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "演講廳廁所旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "演講廳廁所旁"
+        },
+        {
+          "id": 5500553,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1F入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F入口右側"
+        },
+        {
+          "id": 5500554,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "金剛寶寶椅子旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "金剛寶寶椅子旁"
+        },
+        {
+          "id": 5500555,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1F販賣機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F販賣機旁"
+        },
+        {
+          "id": 5500556,
+          "title": "臺北市立動物園",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998347,
+            121.581036
+          ],
+          "address": "新光路二段30號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "2F落地窗牆壁旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2F落地窗牆壁旁"
+        },
+        {
+          "id": 5501660,
+          "title": "臺北捷運動物園站BR01",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.998269,
+            121.579412
+          ],
+          "address": "新光路2段32號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "動物園站3樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "動物園站3樓大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da4cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.00233490839119,
+        "lng": 121.57532326012914
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500945,
+          "title": "臺北市博嘉實驗國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001764,
+            121.57582
+          ],
+          "address": "木柵路4段159巷14-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "校門口警衛室內於門口旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門口警衛室內於門口旁"
+        },
+        {
+          "id": 5502480,
+          "title": "臺北市博嘉實驗國民小學",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.001764,
+            121.57582
+          ],
+          "address": "木柵路4段159巷14-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "校門口警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門口警衛室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da4a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.011362463247846,
+        "lng": 121.59040702781454
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501064,
+          "title": "富德靈骨樓",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.011621,
+            121.591557
+          ],
+          "address": "木柵路五段43巷190號",
+          "layoutType": "殯儀館",
+          "hours": "詳見官方網站",
+          "description": "放置骨灰位置",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置骨灰位置"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da40fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00282897676106,
+        "lng": 121.58714246098107
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502094,
+          "title": "臺北市政府環境保護局文山區清潔隊博嘉分隊",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.002578,
+            121.5881
+          ],
+          "address": "木柵路五段52號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口處左轉茶水間外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口處左轉茶水間外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da4abffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.008518049470542,
+        "lng": 121.58931881670239
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502096,
+          "title": "臺北市政府環境保護局文山區清潔隊停車場",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00740975,
+            121.589319
+          ],
+          "address": "木柵路5段151號(福德坑)",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "員工休息室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "員工休息室"
+        },
+        {
+          "id": 5502113,
+          "title": "臺北市政府環境保護局廢棄物處理場福德坑復育園區",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00740975,
+            121.589319
+          ],
+          "address": "木柵路5段151號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "復育園區辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "復育園區辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da403ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.00483897053129,
+        "lng": 121.58500361773642
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502221,
+          "title": "臺北市政府環境保護局木柵垃圾焚化廠",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            25.00515962,
+            121.5864873
+          ],
+          "address": "木柵路5段53號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "廠房2樓中控室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "廠房2樓中控室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da44bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.995470333106528,
+        "lng": 121.57851259655892
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502646,
+          "title": "貓空纜車動物園站",
+          "category": "other",
+          "location": "63000080",
+          "coords": [
+            24.99569,
+            121.577094
+          ],
+          "address": "新光路2段8號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "車站4樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "車站4樓"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

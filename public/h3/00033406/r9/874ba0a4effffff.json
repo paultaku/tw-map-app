@@ -1,0 +1,691 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4e17ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03580915015039,
+        "lng": 121.556150761128
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800052,
+          "title": "臺北市立圖書館延吉閱覽室",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.036117,
+            121.555021
+          ],
+          "address": "臺北市大安區延吉街236巷17號3-4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館延吉民眾閱覽室",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e1bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032130431488273,
+        "lng": 121.55183698559915
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800056,
+          "title": "捷運安和站(淡水信義線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.033185,
+            121.551853
+          ],
+          "address": "臺北市大安區信義路四段212之1號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運信義安和站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e83ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.039825100640915,
+        "lng": 121.55187396835886
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800057,
+          "title": "捷運忠孝敦化站(板南線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.041269,
+            121.551744
+          ],
+          "address": "臺北市大安區忠孝東路四段182號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運忠孝敦化站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e03ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032965735243447,
+        "lng": 121.55506303853045
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800069,
+          "title": "大安地政事務所",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.033834,
+            121.556434
+          ],
+          "address": "臺北市大安區信義路四段335巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市大安地政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ecbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0304596681386,
+        "lng": 121.54538521644197
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800072,
+          "title": "大安國中地下停車場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.029932,
+            121.54616
+          ],
+          "address": "臺北市大安區大安路二段79號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "正好停股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eafffff",
+      "res": 9,
+      "count": 11,
+      "center": {
+        "lat": 25.03747959326864,
+        "lng": 121.5626033072323
+      },
+      "categories": {
+        "other": 11
+      },
+      "points": [
+        {
+          "id": 5800279,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800280,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800281,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800282,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800283,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800284,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800285,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800292,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800295,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800318,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800319,
+          "title": "市政大樓",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.037525,
+            121.563782
+          ],
+          "address": "臺北市信義區市府路1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市政大樓公共事務管理中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e27ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03346295085538,
+        "lng": 121.56688046464188
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800290,
+          "title": "捷運象山站(淡水信義線)",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.032903,
+            121.567279
+          ],
+          "address": "臺北市信義區信義路五段152號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運象山站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e23ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.032627850761,
+        "lng": 121.56365401473121
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5800291,
+          "title": "信義公民會館",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.031783,
+            121.562184
+          ],
+          "address": "臺北市信義區松勤街50號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "信義區公所民政課",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800307,
+          "title": "台北101購物中心",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.033493,
+            121.564101
+          ],
+          "address": "臺北市信義區市府路45號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台北101購物中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4eb3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.041495734693715,
+        "lng": 121.55832627286124
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5800293,
+          "title": "捷運國父紀念館站(板南線)",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.041048,
+            121.558011
+          ],
+          "address": "臺北市信義區忠孝東路四段400號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運國父紀念館站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800321,
+          "title": "臺北大巨蛋",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.042322,
+            121.55959
+          ],
+          "address": "臺北市信義區忠孝東路四段515號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "遠雄巨蛋事業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800322,
+          "title": "臺北大巨蛋",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.042322,
+            121.55959
+          ],
+          "address": "臺北市信義區忠孝東路四段515號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "遠雄巨蛋事業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800323,
+          "title": "臺北大巨蛋",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.042322,
+            121.55959
+          ],
+          "address": "臺北市信義區忠孝東路四段515號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "遠雄巨蛋事業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 5800324,
+          "title": "臺北大巨蛋",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.042322,
+            121.55959
+          ],
+          "address": "臺北市信義區忠孝東路四段515號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "遠雄巨蛋事業股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e2bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.029784285080297,
+        "lng": 121.56256618107946
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800311,
+          "title": "臺北市立圖書館三興分館",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.029062,
+            121.561168
+          ],
+          "address": "臺北市信義區吳興街156巷6號4樓廁所",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館三興分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e07ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033800987035967,
+        "lng": 121.55828920367743
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800320,
+          "title": "中興公園",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.034336,
+            121.558981
+          ],
+          "address": "臺北市信義區光復南路473巷13弄43號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處南港公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4ea7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04032291790982,
+        "lng": 121.56369115561681
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800329,
+          "title": "DREAM PLAZA",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.039819,
+            121.565254
+          ],
+          "address": "臺北市信義區松高路11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一時代百貨台北店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4e67ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026940637655855,
+        "lng": 121.56147836960484
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5800331,
+          "title": "景勤一號公園",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.026896,
+            121.561915
+          ],
+          "address": "臺北市信義區吳興街220巷59弄旁(台北醫學院斜對)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府公園路燈管理工程處南港公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:57.610Z"
+}

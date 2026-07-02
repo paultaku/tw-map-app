@@ -1,0 +1,55 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a40dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.040667959542883,
+        "lng": 121.50570620558837
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 400000,
+          "title": "臺北市立文獻館本堂",
+          "category": "culture",
+          "location": "臺北市",
+          "coords": [
+            25.0403,
+            121.5064
+          ],
+          "address": "臺北市萬華區中華路1段174之1號",
+          "layoutType": "",
+          "hours": "週一至週五(平日) 09:00~17:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 400001,
+          "title": "樹心會館",
+          "category": "culture",
+          "location": "臺北市",
+          "coords": [
+            25.0398,
+            121.5065
+          ],
+          "address": "臺北市萬華區中華路1段174之2號",
+          "layoutType": "",
+          "hours": "不定期辦理特展，特展期間10:00 - 17:00開放參觀",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.163Z"
+}

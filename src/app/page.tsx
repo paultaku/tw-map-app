@@ -15,7 +15,8 @@ import {
   Map as MapIcon,
   Satellite,
   Cigarette,
-  ChevronDown
+  ChevronDown,
+  Database
 } from 'lucide-react';
 import { Place, COUNTIES } from '@/services/dataProvider';
 import { fetchGridPlaces } from '@/services/gridProvider';
@@ -41,6 +42,9 @@ const getCategoryLabel = (category: string) => CATEGORY_LABELS[category] ?? cate
 // this only bounds DOM size so a dense viewport (thousands of points) doesn't jank the list.
 const LIST_RENDER_CAP = 300;
 
+// Default public-facility dataset shown on load: 臺北市性別友善廁所 (falls back to the first option).
+const DEFAULT_DATASET_ID = '00034025';
+
 // Build a Google Maps link for a place — prefer address (better label), fall back to coordinates.
 const getGoogleMapsUrl = (place: Place) => {
   const [lat, lng] = place.coords;
@@ -63,20 +67,32 @@ export default function Home() {
   const [mouseCoords, setMouseCoords] = useState<{ lat: number; lng: number }>({ lat: 23.6978, lng: 120.9605 });
   const [flyToCoords, setFlyToCoords] = useState<[number, number] | null>(null);
   const [flyToZoom, setFlyToZoom] = useState<number | null>(null);
-  const [selectedCountyId, setSelectedCountyId] = useState<string>('all');
+  const [selectedCountyId, setSelectedCountyId] = useState<string>('taipei');
   const [isCountyDropdownOpen, setIsCountyDropdownOpen] = useState<boolean>(false);
+
+  // Dataset selector — the data "選項". Options come from public/data-set-mapping.json;
+  // each dataset has its own H3 grids under public/h3/<datasetId>/.
+  const [datasetOptions, setDatasetOptions] = useState<{ value: string; label: string }[]>([]);
+  const [selectedDatasetId, setSelectedDatasetId] = useState<string>('');
+  const [isDatasetDropdownOpen, setIsDatasetDropdownOpen] = useState<boolean>(false);
 
   // Viewport-driven H3 data source (dev: static public/h3/*, prod: Firestore).
   // Detail (zoomed-in) → individual places; aggregate (zoomed-out) → count bubbles.
   const [places, setPlaces] = useState<Place[]>([]);
   const [aggregateCells, setAggregateCells] = useState<GridCell[]>([]);
 
-  // Drop out-of-order responses when the user keeps panning/zooming.
+  // Drop out-of-order responses when the user keeps panning/zooming or switches dataset.
   const reqIdRef = useRef(0);
-  const loadViewport = async (bbox: BBox, zoom: number) => {
+  // Latest dataset + viewport, read by event callbacks without stale-closure issues.
+  const selectedDatasetIdRef = useRef(selectedDatasetId);
+  useEffect(() => { selectedDatasetIdRef.current = selectedDatasetId; }, [selectedDatasetId]);
+  const lastViewportRef = useRef<{ bbox: BBox; zoom: number } | null>(null);
+
+  const loadViewport = async (datasetId: string, bbox: BBox, zoom: number) => {
+    if (!datasetId) return; // no dataset chosen yet (mapping still loading)
     const mine = ++reqIdRef.current;
     try {
-      const result = await fetchGridPlaces(bbox, zoom);
+      const result = await fetchGridPlaces(datasetId, bbox, zoom);
       if (mine !== reqIdRef.current) return;
       if (result.mode === 'detail') {
         setPlaces(result.places);
@@ -91,21 +107,35 @@ export default function Home() {
   };
   // Debounce so continuous drag/zoom only triggers one load after it settles.
   const handleViewportChange = useDebouncedCallback(
-    (bbox: BBox, zoom: number) => loadViewport(bbox, zoom),
+    (bbox: BBox, zoom: number) => {
+      lastViewportRef.current = { bbox, zoom };
+      loadViewport(selectedDatasetIdRef.current, bbox, zoom);
+    },
     300,
   );
+
+  // Load the dataset options (the "選項") once on mount; default to the first one.
+  // Reloads on dataset change happen in handleDatasetChange (and here for the initial
+  // default), so we never call setState synchronously inside an effect body.
+  useEffect(() => {
+    fetch('/data-set-mapping.json')
+      .then((r) => (r.ok ? r.json() : { options: [] }))
+      .then((json) => {
+        const opts = (json.options ?? []) as { value: string; label: string }[];
+        setDatasetOptions(opts);
+        const preferred = opts.find((o) => o.value === DEFAULT_DATASET_ID) ?? opts[0];
+        const first = preferred?.value ?? '';
+        setSelectedDatasetId((prev) => prev || first);
+        // If the map already reported a viewport before options loaded, load it now.
+        const vp = lastViewportRef.current;
+        if (first && vp) loadViewport(first, vp.bbox, vp.zoom);
+      })
+      .catch((e) => console.error('Failed to load dataset options:', e));
+  }, []);
 
   // Total points represented by the current aggregate view (for list/handle copy).
   const aggregateTotal = aggregateCells.reduce((sum, c) => sum + c.count, 0);
   const inAggregate = aggregateCells.length > 0 && places.length === 0;
-
-  // Sync lastSelectedPlace with selectedPlace to persist it during slide-out transition
-  useEffect(() => {
-    const found = places.find(p => p.id === selectedLocationId);
-    if (found) {
-      setLastSelectedPlace(found);
-    }
-  }, [selectedLocationId, places]);
 
   // Calculate dynamic stats
   const activeCount = places.filter(p => {
@@ -131,12 +161,11 @@ export default function Home() {
     return matchesCategory && matchesSearch;
   });
 
-  const selectedPlace = places.find(p => p.id === selectedLocationId);
-
   const handleSelectLocation = (id: number) => {
     setSelectedLocationId(id);
     const loc = places.find(p => p.id === id);
     if (loc) {
+      setLastSelectedPlace(loc); // persist for the details slide-out after selection clears
       setFlyToCoords(loc.coords);
       setFlyToZoom(15);
     }
@@ -153,6 +182,14 @@ export default function Home() {
       setFlyToZoom(county.zoom);
     }
     setSelectedLocationId(null);
+  };
+
+  const handleDatasetChange = (datasetId: string) => {
+    setSelectedDatasetId(datasetId);
+    setIsDatasetDropdownOpen(false);
+    setSelectedLocationId(null); // old dataset's selection no longer applies
+    const vp = lastViewportRef.current;
+    if (vp) loadViewport(datasetId, vp.bbox, vp.zoom);
   };
 
   return (
@@ -248,6 +285,58 @@ export default function Home() {
                         )}
                       </div>
                       <span className="text-[9px] text-slate-505 line-clamp-1 mt-0.5 font-normal leading-normal">{county.description}</span>
+                    </button>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
+        </section>
+
+        {/* Public-facility (dataset) Selector — the data "選項"; each dataset loads its own H3 grids */}
+        <section className="px-6 pt-4 pb-0 shrink-0">
+          <div className="relative">
+            <span className="text-[10px] text-slate-500 uppercase tracking-widest font-bold block mb-1.5 px-0.5">
+              選擇公共設施
+            </span>
+
+            {/* Dropdown Button */}
+            <button
+              onClick={() => setIsDatasetDropdownOpen(!isDatasetDropdownOpen)}
+              className="w-full flex items-center justify-between bg-slate-900/55 hover:bg-slate-900/85 border border-slate-800/85 focus:border-blue-500 rounded-xl px-4 py-3 md:py-2.5 text-xs font-semibold transition-all cursor-pointer outline-none text-slate-200"
+            >
+              <div className="flex items-center gap-2 min-w-0">
+                <Database className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
+                <span className="line-clamp-1">
+                  {datasetOptions.find(o => o.value === selectedDatasetId)?.label ?? '載入公共設施…'}
+                </span>
+              </div>
+              <ChevronDown className={`w-3.5 h-3.5 text-slate-400 shrink-0 transition-transform duration-200 ${isDatasetDropdownOpen ? 'rotate-180' : ''}`} />
+            </button>
+
+            {/* Dropdown Menu */}
+            {isDatasetDropdownOpen && (
+              <>
+                {/* Backdrop to close dropdown on click outside */}
+                <div
+                  className="fixed inset-0 z-40"
+                  onClick={() => setIsDatasetDropdownOpen(false)}
+                />
+                <div className="absolute top-[calc(100%+6px)] left-0 right-0 z-50 bg-[#0e1726]/95 border border-slate-850 rounded-xl shadow-xl max-h-[260px] overflow-y-auto p-1.5 flex flex-col gap-0.5 backdrop-blur-md">
+                  {datasetOptions.map(opt => (
+                    <button
+                      key={opt.value}
+                      onClick={() => handleDatasetChange(opt.value)}
+                      className={`w-full flex items-center justify-between px-3 py-2.5 md:py-1.5 rounded-lg transition-colors cursor-pointer text-left ${
+                        selectedDatasetId === opt.value
+                          ? 'bg-blue-600/15 text-blue-400 font-bold'
+                          : 'text-slate-300 hover:bg-slate-800/50 hover:text-slate-100'
+                      }`}
+                    >
+                      <span className="font-semibold text-[11px] line-clamp-1">{opt.label}</span>
+                      {selectedDatasetId === opt.value && (
+                        <div className="w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 ml-2" />
+                      )}
                     </button>
                   ))}
                 </div>

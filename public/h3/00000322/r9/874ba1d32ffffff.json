@@ -1,0 +1,755 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d3253ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.060044275018686,
+        "lng": 121.60031481897444
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600542,
+          "title": "風箱樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.061,
+            121.6004
+          ],
+          "address": "臺北市內湖區蘆洲里台北市內湖區潭美街533號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "大育營造有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3293ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073423183448703,
+        "lng": 121.60252945789033
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600562,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0742,
+            121.6015
+          ],
+          "address": "臺北市內湖區金湖里金湖路347巷巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部國有財產署",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3217ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06739906847764,
+        "lng": 121.60894775647597
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 600564,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0667,
+            121.6087
+          ],
+          "address": "臺北市內湖區南湖里康寧路三段70巷135號位在135號門前的路邊帶狀小公園",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d324bffff",
+      "res": 9,
+      "count": 24,
+      "center": {
+        "lat": 25.055192895313798,
+        "lng": 121.60136564905115
+      },
+      "categories": {
+        "nature": 24
+      },
+      "points": [
+        {
+          "id": 601473,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0552,
+            121.6024
+          ],
+          "address": "臺北市南港區東新里興南街62號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601474,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0556,
+            121.6023
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小大門北側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601475,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0556,
+            121.6023
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門北側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601476,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0557,
+            121.6022
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門北側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601477,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0559,
+            121.6029
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門進入左側建物前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601478,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0556,
+            121.6022
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門北側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601479,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0553,
+            121.6024
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小大門南側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601482,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6024
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601483,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6025
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601484,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6025
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601485,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6026
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601486,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0564,
+            121.6026
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601487,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6024
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601488,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6022
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601489,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6023
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601490,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6023
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601491,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0563,
+            121.6023
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601492,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6022
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601493,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6022
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601494,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6021
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601495,
+          "title": "大王椰子",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.6021
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601502,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0562,
+            121.602
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小興南街側門旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601503,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0561,
+            121.6019
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小操場興南街側門圍牆旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601504,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0561,
+            121.6018
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小興南街64巷旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d324fffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.05602745288615,
+        "lng": 121.60459347868674
+      },
+      "categories": {
+        "nature": 9
+      },
+      "points": [
+        {
+          "id": 601480,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0565,
+            121.603
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門進入左側建物前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601481,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0564,
+            121.603
+          ],
+          "address": "臺北市南港區東新里興南街62號(64巷側東新國小大門進入左側建物前)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601496,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0557,
+            121.6036
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小東明街與興南街60巷角落機具間旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601497,
+          "title": "菩提樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0557,
+            121.6037
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小東明街與興南街60巷角落機具間旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601498,
+          "title": "菩提樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0558,
+            121.6035
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小東明街與興南街60巷角落機具間旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601499,
+          "title": "菩提樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0559,
+            121.6036
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小東明街與興南街60巷角落機具間旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601500,
+          "title": "肯氏南洋杉",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0561,
+            121.6033
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601501,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0555,
+            121.6033
+          ],
+          "address": "臺北市南港區東新里興南街62號(東新國小操場興南街側門旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市南港區東新國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 601507,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0552,
+            121.6039
+          ],
+          "address": "臺北市南港區東明里南港路2段86巷9弄東明公園(60巷與86巷間)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處(南港區公所代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d326fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05568771701701,
+        "lng": 121.61318897024029
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602668,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0568,
+            121.6142
+          ],
+          "address": "臺北市南港區三重里經貿二路62巷人行道後排第4株",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局公園路燈工程管理處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

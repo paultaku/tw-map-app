@@ -1,0 +1,911 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4593ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.069928758684693,
+        "lng": 121.51980195064947
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7000007,
+          "title": "歐點歐式餐酒館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070359,
+            121.520497
+          ],
+          "address": "臺北市中山區玉門街一號\n(MAJI square 集食行樂)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000012,
+          "title": "神農市場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070359,
+            121.520497
+          ],
+          "address": "臺北市中山區玉門街一號\n(MAJI square 集食行樂)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000304,
+          "title": "瘋殼子通訊圓山店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071346,
+            121.520139
+          ],
+          "address": "臺北市大同區酒泉街9-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000314,
+          "title": "阿立圓山玩具模型社 \nMJ Model Railroad",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070733,
+            121.519192
+          ],
+          "address": "臺北市大同區酒泉街31號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000324,
+          "title": "小角落咖啡旅店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068638,
+            121.519503
+          ],
+          "address": "臺北市大同區民族西路33號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4523ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.06073315802659,
+        "lng": 121.53371734411174
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7000008,
+          "title": "雀客旅館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059474,
+            121.533396
+          ],
+          "address": "臺北市中山區松江路253號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000020,
+          "title": "一鷺串燒居酒屋松江本店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061995,
+            121.534789
+          ],
+          "address": "臺北市中山區民權東路二段152巷1號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000444,
+          "title": "川麻子",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.061702,
+            121.534769
+          ],
+          "address": "台北市中山區松江路313巷22號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4517ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.06391028194573,
+        "lng": 121.52621579919752
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7000015,
+          "title": "果實咖啡堂",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064533,
+            121.524931
+          ],
+          "address": "臺北市中山區雙城街17巷7號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000018,
+          "title": "PAVONA CAFE 帕沃納咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064181,
+            121.524837
+          ],
+          "address": "臺北市中山區雙城街13巷9號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000027,
+          "title": "綠蒂咖啡 Lotty Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064986,
+            121.526874
+          ],
+          "address": "臺北市中山區農安街53號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4513ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063074314245142,
+        "lng": 121.52299054092258
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000016,
+          "title": "最佳風情",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063033,
+            121.52234
+          ],
+          "address": "臺北市中山區中山北路二段158號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a458fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.065916566139112,
+        "lng": 121.52407781882559
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7000017,
+          "title": "開心茶屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064398,
+            121.52424
+          ],
+          "address": "臺北市中山區雙城街10之一號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000022,
+          "title": "吃味－原露天義大利麵",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.064594,
+            121.524413
+          ],
+          "address": "臺北市中山區雙城街17之2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000035,
+          "title": "皇家玫瑰旅館-雙城館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.065778,
+            121.523705
+          ],
+          "address": "臺北市中山區雙城街28巷8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0667525296036,
+        "lng": 121.52730312895312
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000021,
+          "title": "D . M T a s t e café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.066233,
+            121.526349
+          ],
+          "address": "臺北市中山區新生北路三段68巷39號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a454fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.052540473526964,
+        "lng": 121.52186670207897
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000025,
+          "title": "螺絲瑪莉義麵坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051715,
+            121.521896
+          ],
+          "address": "臺北市中山區南京西路12巷13弄9號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000046,
+          "title": "嗨糖日式可麗餅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051712,
+            121.521784
+          ],
+          "address": "臺北市中山區南京西路12巷13弄7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a452fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.058726450283828,
+        "lng": 121.53585547749972
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000031,
+          "title": "和逸飯店 台北民生館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.057699,
+            121.536212
+          ],
+          "address": "臺北市中山區民生東路二段178號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4547ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.055383048272617,
+        "lng": 121.52295394307284
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000036,
+          "title": "Robin's牛排屋及鐵板燒",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054199,
+            121.523743
+          ],
+          "address": "臺北市中山區中山北路二段39巷3號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a453bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.059897337729105,
+        "lng": 121.53049185248263
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000038,
+          "title": "鬍鬚張台北吉林店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.059004,
+            121.530103
+          ],
+          "address": "臺北市中山區吉林路220號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062238294599172,
+        "lng": 121.51976539502293
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000039,
+          "title": "鬍鬚張台北民權店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063002,
+            121.521012
+          ],
+          "address": "臺北市中山區民權西路43號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a456fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05220547174033,
+        "lng": 121.53045515449624
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000041,
+          "title": "泊咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053176,
+            121.531619
+          ],
+          "address": "臺北市中山區一江街25號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000048,
+          "title": "第一化粧品廠南京旗艦店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051879,
+            121.529371
+          ],
+          "address": "臺北市中山區南京東路二段36號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4533ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062739740495672,
+        "lng": 121.53157924155445
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000044,
+          "title": "朝晨商號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.062044,
+            121.532572
+          ],
+          "address": "臺北市中山區松江路362巷9號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4557ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.057389565126055,
+        "lng": 121.52081605169018
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000327,
+          "title": "PICK&COLLECT\n手亼口 人文金工",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056419,
+            121.519662
+          ],
+          "address": "臺北市大同區赤峰街 28-4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4543ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.054547067928073,
+        "lng": 121.51972884036093
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000361,
+          "title": "春秋書店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05489,
+            121.520132
+          ],
+          "address": "台北市大同區赤峰街41巷7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a452bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.057890677710393,
+        "lng": 121.53262992538522
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7000376,
+          "title": "宏祥旅行社股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056858,
+            121.53288
+          ],
+          "address": "台北市中山區松江路190號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7000448,
+          "title": "微醺中山餐酒館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058263,
+            121.530938
+          ],
+          "address": "台北市中山區民生東路二段93巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4553ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056553537062094,
+        "lng": 121.51759100950619
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000403,
+          "title": "月霞 承德店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.056162,
+            121.519071
+          ],
+          "address": "台北市大同區承德路二段91巷30號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a451bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.060231980569604,
+        "lng": 121.52190328521071
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000422,
+          "title": "九日咖啡馬偕中山店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060224,
+            121.521967
+          ],
+          "address": "台北市中山區錦西街6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4503ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.061067952495556,
+        "lng": 121.52512849163217
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000443,
+          "title": "澳氏咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.060955,
+            121.524281
+          ],
+          "address": "台北市中山區中山北路二段115巷33號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a457bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.053376406151187,
+        "lng": 121.5250918653112
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000462,
+          "title": "ABV Bar & Kitchen 日式居酒館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053875,
+            121.524359
+          ],
+          "address": "台北市中山區中山北路二段39巷16-2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.068424300614755,
+        "lng": 121.53375408626388
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7000480,
+          "title": "維格餅家松江旗艦店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.067198,
+            121.533544
+          ],
+          "address": "台北市中山區松江路485號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.158Z"
+}

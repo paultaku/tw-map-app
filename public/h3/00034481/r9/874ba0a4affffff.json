@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4acbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.016400356238666,
+        "lng": 121.56035348459734
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400096,
+          "title": "黎和公園",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.01503539,
+            121.5597753
+          ],
+          "address": "和平東路三段512巷",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023758292864507,
+        "lng": 121.56898187786122
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400421,
+          "title": "圖書館六合分館",
+          "category": "other",
+          "location": "臺北市信義區",
+          "coords": [
+            25.02448425,
+            121.5687998
+          ],
+          "address": "松仁路240巷19號3-5樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

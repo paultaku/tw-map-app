@@ -1,0 +1,2271 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4013ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.043176261863184,
+        "lng": 121.5153802169599
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 7200000,
+          "title": "葛鎂診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04466557,
+            121.5149085
+          ],
+          "address": "臺北市中正區館前路34號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200096,
+          "title": "戰痘診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0435416,
+            121.5154426
+          ],
+          "address": "臺北市中正區襄陽路17號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200113,
+          "title": "新公園診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04348698,
+            121.5161388
+          ],
+          "address": "臺北市中正區襄陽路3號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200125,
+          "title": "禾馨婦產科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0432027,
+            121.5139338
+          ],
+          "address": "臺北市中正區懷寧街78號、78號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200128,
+          "title": "祈新婦產科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0432027,
+            121.5139338
+          ],
+          "address": "臺北市中正區懷寧街78號9、10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408fffff",
+      "res": 9,
+      "count": 21,
+      "center": {
+        "lat": 25.046019085943207,
+        "lng": 121.51646733952258
+      },
+      "categories": {
+        "other": 21
+      },
+      "points": [
+        {
+          "id": 7200002,
+          "title": "台北新顏診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0452932,
+            121.5154552
+          ],
+          "address": "臺北市中正區許昌街42號(6樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200004,
+          "title": "醫療財團法人好心肝基金會好心肝診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0444824,
+            121.5168566
+          ],
+          "address": "臺北市中正區公園路30號2樓之2、8樓之1、8樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200010,
+          "title": "皇妍時尚整形外科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04582575,
+            121.5180284
+          ],
+          "address": "臺北市中正區忠孝西路一段6號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200014,
+          "title": "君綺美形診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04582575,
+            121.5180284
+          ],
+          "address": "臺北市中正區忠孝西路1段6號13樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200018,
+          "title": "和眾綜合診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04582575,
+            121.5180284
+          ],
+          "address": "臺北市中正區忠孝西路一段6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200032,
+          "title": "博士診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0452407,
+            121.5159599
+          ],
+          "address": "臺北市中正區南陽街8號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200036,
+          "title": "台北諾貝爾眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04548954,
+            121.5174034
+          ],
+          "address": "臺北市中正區公園路13號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200037,
+          "title": "星和診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04636936,
+            121.5148828
+          ],
+          "address": "臺北市中正區館前路2號6樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200040,
+          "title": "站前愛爾麗診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04582575,
+            121.5180284
+          ],
+          "address": "臺北市中正區忠孝西路1段6號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200043,
+          "title": "站前聖宜診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0454268,
+            121.5154761
+          ],
+          "address": "臺北市中正區許昌街42號(7樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200046,
+          "title": "好甘心診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0444824,
+            121.5168566
+          ],
+          "address": "臺北市中正區公園路30號9樓之1、9樓之2、11樓之1、11樓之2、11樓之3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200054,
+          "title": "君綺美麗診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04582575,
+            121.5180284
+          ],
+          "address": "臺北市中正區忠孝西路1段6號13樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200066,
+          "title": "珍顏唯上診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04636936,
+            121.5148828
+          ],
+          "address": "臺北市中正區館前路2號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200067,
+          "title": "濰視眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0453997,
+            121.5151274
+          ],
+          "address": "臺北市中正區館前路43號(2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200092,
+          "title": "蕙瑛婦產科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04630433,
+            121.515823
+          ],
+          "address": "臺北市中正區忠孝西路一段五十號二十四樓之二十四",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200103,
+          "title": "拉菲爾人本診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04496242,
+            121.5151238
+          ],
+          "address": "臺北市中正區館前路49號11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200109,
+          "title": "站前大學眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04581397,
+            121.5148954
+          ],
+          "address": "臺北市中正區館前路8號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200114,
+          "title": "好健康診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0444824,
+            121.5168566
+          ],
+          "address": "臺北市中正區公園路30號11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200118,
+          "title": "長春藤台北忠孝診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04630433,
+            121.515823
+          ],
+          "address": "臺北市中正區忠孝西路1段50號27樓、27樓之3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200127,
+          "title": "渾然天成診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04628235,
+            121.5179344
+          ],
+          "address": "臺北市中正區忠孝西路1段45號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200130,
+          "title": "悠媞時尚診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04545235,
+            121.515879
+          ],
+          "address": "臺北市中正區許昌街30號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40c7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.04234021294183,
+        "lng": 121.51215543408048
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 7200003,
+          "title": "醫療財團法人徐元智先生醫藥基金會遠東聯合診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0429887,
+            121.5110467
+          ],
+          "address": "臺北市中正區永綏街8至14號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200016,
+          "title": "日明耀診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04360909,
+            121.5130979
+          ],
+          "address": "臺北市中正區重慶南路一段66之1號2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200033,
+          "title": "衡觀診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04221112,
+            121.5129843
+          ],
+          "address": "臺北市中正區衡陽路20號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200052,
+          "title": "力安妥診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0421719,
+            121.512712
+          ],
+          "address": "臺北市中正區衡陽路30號(2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200061,
+          "title": "韓娜斯時尚美醫診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04343958,
+            121.5116118
+          ],
+          "address": "臺北市中正區博愛路83號2樓、85號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200065,
+          "title": "慢活靜心診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.042701,
+            121.5116051
+          ],
+          "address": "臺北市中正區博愛路105號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200093,
+          "title": "林超群眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04157054,
+            121.5132293
+          ],
+          "address": "臺北市中正區重慶南路一段143號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200126,
+          "title": "慕顏時尚美學診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04241394,
+            121.5137609
+          ],
+          "address": "臺北市中正區衡陽路7號14樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a406bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03146881403999,
+        "lng": 121.51961918216206
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200005,
+          "title": "蔡瑞芳眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0314662,
+            121.5197163
+          ],
+          "address": "臺北市中正區羅斯福路一段73號(實際營業地址一層)、75號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200080,
+          "title": "林診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03281714,
+            121.5202927
+          ],
+          "address": "臺北市中正區寧波東街２２號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200117,
+          "title": "星采皮膚專科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03131016,
+            121.519057
+          ],
+          "address": "臺北市中正區羅斯福路一段32號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4027ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.04166987666561,
+        "lng": 121.52933112003629
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200008,
+          "title": "祈約美醫皮膚科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04127111,
+            121.5277583
+          ],
+          "address": "臺北市中正區濟南路2段17號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200038,
+          "title": "捷思身心醫學診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04276981,
+            121.5304539
+          ],
+          "address": "臺北市中正區忠孝東路二段100號5樓之7",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200099,
+          "title": "惠恩診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0408252,
+            121.5292547
+          ],
+          "address": "臺北市中正區濟南路二段四十八巷三至二號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a409bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.0471896952238,
+        "lng": 121.51110482347885
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200013,
+          "title": "藝群台北診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04721182,
+            121.5124848
+          ],
+          "address": "臺北市中正區忠孝西路一段102號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200050,
+          "title": "銘人診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04591542,
+            121.5115032
+          ],
+          "address": "臺北市中正區博愛路9號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.044346944533427,
+        "lng": 121.51001778245188
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200017,
+          "title": "立光診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04467234,
+            121.5113602
+          ],
+          "address": "臺北市中正區博愛路76號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200027,
+          "title": "目急國際診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0442566,
+            121.5095569
+          ],
+          "address": "臺北市中正區武昌街一段77號6樓之17",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201131,
+          "title": "君綺時尚診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04469952,
+            121.5085983
+          ],
+          "address": "臺北市萬華區中華路一段90號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4033ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.04284120408611,
+        "lng": 121.5239679840188
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200021,
+          "title": "百麗診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04274483,
+            121.5226184
+          ],
+          "address": "臺北市中正區林森南路10號6樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200072,
+          "title": "衛生福利部疾病管制署健康中心",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04329771,
+            121.5227569
+          ],
+          "address": "臺北市中正區林森南路6號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200091,
+          "title": "柯滄銘婦產科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0429136,
+            121.5226073
+          ],
+          "address": "臺北市中正區林森南路10號、10之1號、10號2樓、12號2樓、10號4樓、10號4樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.045183041171885,
+        "lng": 121.51324250478051
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 7200023,
+          "title": "靚白天使時尚美學診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04610266,
+            121.5133719
+          ],
+          "address": "臺北市中正區重慶南路一段13號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200035,
+          "title": "光澤晶漾診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04540268,
+            121.5148937
+          ],
+          "address": "臺北市中正區館前路18號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200053,
+          "title": "站前美力時尚診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04526952,
+            121.514903
+          ],
+          "address": "臺北市中正區館前路20號4樓、11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200074,
+          "title": "敦智內科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04543617,
+            121.5142485
+          ],
+          "address": "臺北市中正區懷寧街１９號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200088,
+          "title": "車參聖整形外科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04610266,
+            121.5133719
+          ],
+          "address": "臺北市中正區重慶南路1段13號5樓、6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200121,
+          "title": "美麗新診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04495904,
+            121.5133485
+          ],
+          "address": "臺北市中正區重慶南路1段43號2樓之1、2樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a401bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04033335609659,
+        "lng": 121.51429311658907
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200029,
+          "title": "懷寧復健科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04175139,
+            121.5139321
+          ],
+          "address": "臺北市中正區懷寧街110號1樓、7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40abffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.044848204088776,
+        "lng": 121.52183011991251
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7200042,
+          "title": "永愉診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04467171,
+            121.5230401
+          ],
+          "address": "臺北市中正區忠孝東路1段54號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200051,
+          "title": "立達診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04467171,
+            121.5230401
+          ],
+          "address": "臺北市中正區忠孝東路1段54號1樓、54之1號(1樓)、54之2號(1樓)、54號2樓、54號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200075,
+          "title": "吉星診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04384249,
+            121.5216651
+          ],
+          "address": "臺北市中正區青島東路４－５號１樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200123,
+          "title": "米蘭時尚診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0452974,
+            121.5216527
+          ],
+          "address": "臺北市中正區忠孝東路1段43號、45號、45號2樓之1、45號2樓之2、45號2樓之3、45號2樓之5、47號、47之1號、45號10樓之1、45號10樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a402fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03882682832112,
+        "lng": 121.52824380478208
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200044,
+          "title": "久瑞復健科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03846167,
+            121.5271078
+          ],
+          "address": "臺北市中正區仁愛路2段21號、21之1號、23號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200107,
+          "title": "東京風采整形外科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03802494,
+            121.5280471
+          ],
+          "address": "臺北市中正區仁愛路二段48號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a405bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03381123825092,
+        "lng": 121.50889435513744
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200048,
+          "title": "美渥館診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03402781,
+            121.5098896
+          ],
+          "address": "臺北市中正區博愛路224巷5號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.045684097368703,
+        "lng": 121.52505523995666
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200059,
+          "title": "薇璽美學診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04484061,
+            121.5240563
+          ],
+          "address": "臺北市中正區忠孝東路1段13號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4083ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04802578771252,
+        "lng": 121.51432959767318
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200064,
+          "title": "台北澄清眼科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04686551,
+            121.5137663
+          ],
+          "address": "臺北市中正區忠孝西路1段80號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a403bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.039998229098362,
+        "lng": 121.5228807502703
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 7200070,
+          "title": "國軍台北門診中心附設民眾診療服務處",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04012267,
+            121.5239982
+          ],
+          "address": "臺北市中正區紹興南街7號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200084,
+          "title": "周正成小兒科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04062499,
+            121.5233565
+          ],
+          "address": "臺北市中正區徐州路24號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a400bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03832637399997,
+        "lng": 121.51643082997236
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200071,
+          "title": "外交部醫務室",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03895229,
+            121.5163423
+          ],
+          "address": "臺北市中正區凱達格蘭大道2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a407bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03347612415675,
+        "lng": 121.51748143670997
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200073,
+          "title": "中央銀行秘書處醫務室",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0340418,
+            121.516894
+          ],
+          "address": "臺北市中正區羅斯福路一段2號(實際營業地址:第二大樓2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4023ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.040834078829462,
+        "lng": 121.52610587897708
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200090,
+          "title": "劉家庭醫學科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0396026,
+            121.5255215
+          ],
+          "address": "臺北市中正區杭州南路一段一四五號一、二樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4007ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.042005306633843,
+        "lng": 121.52074291582643
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200095,
+          "title": "羅綺皮膚科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0427145,
+            121.521933
+          ],
+          "address": "臺北市中正區濟南路一段7號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200112,
+          "title": "風華整形外科診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0421407,
+            121.5198716
+          ],
+          "address": "臺北市中正區忠孝西路1段6號2、3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200115,
+          "title": "美兆診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0421407,
+            121.5198716
+          ],
+          "address": "臺北市中正區忠孝西路1段66號44.45樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4003ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041169357299943,
+        "lng": 121.51751796001166
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200101,
+          "title": "長虹診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.0412685,
+            121.5160001
+          ],
+          "address": "臺北市中正區公園路十三號一、二、四樓，地下一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046855078835186,
+        "lng": 121.5196922866635
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200122,
+          "title": "時尚診所",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04607847,
+            121.5187623
+          ],
+          "address": "臺北市中正區忠孝西路一段33號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4097ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05086845255015,
+        "lng": 121.51541671275845
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7200142,
+          "title": "桂林內科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.05160296,
+            121.515453
+          ],
+          "address": "臺北市大同區太原路６２號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200162,
+          "title": "廣博診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.051401,
+            121.5147477
+          ],
+          "address": "臺北市大同區長安西路二二O巷五號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200166,
+          "title": "羅源彰診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0514479,
+            121.515086
+          ],
+          "address": "臺北市大同區長安西路137號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200185,
+          "title": "夢工場整形醫美診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.05068197,
+            121.5167532
+          ],
+          "address": "臺北市大同區承德路一段32號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4093ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.05003236422189,
+        "lng": 121.51219188669924
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200149,
+          "title": "周承良耳鼻喉科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.05053444,
+            121.5118878
+          ],
+          "address": "臺北市大同區延平北路一段二十二號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200153,
+          "title": "周皮膚科診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.05062325,
+            121.511881
+          ],
+          "address": "臺北市大同區延平北路一段二十六號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200197,
+          "title": "美平方健康美學診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0503203,
+            121.5109697
+          ],
+          "address": "臺北市大同區鄭州路119號2樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4087ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048861828323084,
+        "lng": 121.51755448427706
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7200184,
+          "title": "京站好萊塢診所",
+          "category": "other",
+          "location": "63000060",
+          "coords": [
+            25.0491127,
+            121.5158363
+          ],
+          "address": "臺北市大同區鄭州路3號(1樓、2樓、3樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40b3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0496978170433,
+        "lng": 121.52077948327583
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 7200210,
+          "title": "生技明生診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.04873946,
+            121.5208258
+          ],
+          "address": "臺北市中山區中山北路1段72號2樓、2樓之1及2樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200370,
+          "title": "怡仁診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.04906311,
+            121.5209983
+          ],
+          "address": "臺北市中山區中山北路1段82號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200435,
+          "title": "東方整形外科診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05078418,
+            121.521829
+          ],
+          "address": "臺北市中山區中山北路一段１２２號２樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40b7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.05053375386104,
+        "lng": 121.52400459465501
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 7200252,
+          "title": "恆美學中山診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05196056,
+            121.5244296
+          ],
+          "address": "臺北市中山區南京東路1段46號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200281,
+          "title": "美麗好診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05196418,
+            121.5242833
+          ],
+          "address": "臺北市中山區南京東路一段42號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200282,
+          "title": "法緹美學時尚診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.0504072,
+            121.5251449
+          ],
+          "address": "臺北市中山區林森北路109號(實際營業地址：3樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200307,
+          "title": "南西好萊塢診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05199227,
+            121.5237037
+          ],
+          "address": "臺北市中山區南京東路一段24號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200310,
+          "title": "南西光澤診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05199227,
+            121.5237037
+          ],
+          "address": "臺北市中山區南京東路一段24號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200344,
+          "title": "鄭紹隆整形外科診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05199227,
+            121.5237037
+          ],
+          "address": "臺北市中山區南京東路一段二十四號五樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200373,
+          "title": "黃偉俐診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.04978003,
+            121.5229899
+          ],
+          "address": "臺北市中山區天津街37號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7200391,
+          "title": "群英楊麗珍黃景昱皮膚科診所",
+          "category": "other",
+          "location": "63000040",
+          "coords": [
+            25.05197944,
+            121.5239917
+          ],
+          "address": "臺北市中山區南京東路一段36號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4067ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03514789210593,
+        "lng": 121.5239313743486
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201110,
+          "title": "葳覓美學診所",
+          "category": "other",
+          "location": "63000030",
+          "coords": [
+            25.03470742,
+            121.5254128
+          ],
+          "address": "臺北市大安區信義路2段30號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041504112164333,
+        "lng": 121.50893076361847
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 7201127,
+          "title": "京采美醫診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04105059,
+            121.5075497
+          ],
+          "address": "臺北市萬華區中華路一段170號3樓、3樓之1及3樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201134,
+          "title": "麗思醫美診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04200207,
+            121.5076574
+          ],
+          "address": "臺北市萬華區成都路4號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201139,
+          "title": "晟祐診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04105059,
+            121.5075497
+          ],
+          "address": "臺北市萬華區中華路1段170號5樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 7201171,
+          "title": "城中瑪麗安婦產科診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0419922,
+            121.5076843
+          ],
+          "address": "臺北市萬華區成都路4號2樓、中華路一段158號(實際開業地址2樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.040667959542883,
+        "lng": 121.50570620558837
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201143,
+          "title": "同仁院醫療財團法人貴陽診所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0401473,
+            121.5043635
+          ],
+          "address": "臺北市萬華區昆明街169號(1樓)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4073ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.036319266654242,
+        "lng": 121.51856857422504
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201859,
+          "title": "國立台灣大學醫學院附設醫院",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03553921,
+            121.5183428
+          ],
+          "address": "臺北市中正區中山南路７、８號；常德街１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4017ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044012258916215,
+        "lng": 121.51860511224207
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 7201860,
+          "title": "國立臺灣大學醫學院附設醫院兒童醫院\t臺北市中正區中山南路8號\t121.5187506\t25.04434314",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.04434314,
+            121.5187506
+          ],
+          "address": "臺北市中正區中山南路8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:01.832Z"
+}

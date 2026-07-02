@@ -1,0 +1,659 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a589bffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 24.99917657531144,
+        "lng": 121.53342344179525
+      },
+      "categories": {
+        "nature": 12
+      },
+      "points": [
+        {
+          "id": 9900040,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998787,
+            121.534913
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1.2m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1.2m"
+        },
+        {
+          "id": 9900041,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998791,
+            121.534897
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900042,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998792,
+            121.534874
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900043,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998794,
+            121.534848
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900044,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9988,
+            121.534823
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900045,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998797,
+            121.534803
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900046,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998797,
+            121.534772
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900047,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998791,
+            121.534723
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900048,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998821,
+            121.534722
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900049,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998825,
+            121.534607
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900050,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998827,
+            121.534585
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900061,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.998805,
+            121.534911
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5857ffff",
+      "res": 9,
+      "count": 17,
+      "center": {
+        "lat": 24.989469344695237,
+        "lng": 121.53552458550286
+      },
+      "categories": {
+        "nature": 17
+      },
+      "points": [
+        {
+          "id": 9900466,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.99017,
+            121.536507
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900467,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990104,
+            121.536461
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900468,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990094,
+            121.536459
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900469,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990078,
+            121.536466
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900470,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990067,
+            121.536455
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        },
+        {
+          "id": 9900471,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990081,
+            121.536456
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900472,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990051,
+            121.536449
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900473,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990038,
+            121.53645
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900474,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.990032,
+            121.536458
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900475,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.99001,
+            121.536455
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900476,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.99,
+            121.536458
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900477,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.989995,
+            121.536441
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900478,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.989958,
+            121.53645
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900479,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.98994,
+            121.536429
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 9900480,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.989935,
+            121.536443
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900481,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.989923,
+            121.536429
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900482,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.988947,
+            121.536923
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a586fffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.98427612629028,
+        "lng": 121.54516385880737
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 9900483,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9846,
+            121.544927
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900484,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.984231,
+            121.545148
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900533,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.984376,
+            121.545362
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900534,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.98433,
+            121.545387
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 9900535,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.984321,
+            121.545396
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2根測量1.2m處",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2根測量1.2m處"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:07.526Z"
+}

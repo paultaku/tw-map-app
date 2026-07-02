@@ -1,0 +1,689 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6133ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.096673037024313,
+        "lng": 121.52422427876064
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400003,
+          "title": "線形公園10號(士林)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09620154,
+            121.5252553
+          ],
+          "address": "捷運士林站北-雙溪南段(界線:中正路-前街)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "高架橋下",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "高架橋下"
+        },
+        {
+          "id": 3400004,
+          "title": "線形公園11號(士林)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09779632,
+            121.5246077
+          ],
+          "address": "捷運士林站北-雙溪南段(界線:前街-後街)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "高架橋下，設有兒童遊戲場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "高架橋下，設有兒童遊戲場"
+        },
+        {
+          "id": 3400055,
+          "title": "圖書館士林分館",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09657746,
+            121.52259
+          ],
+          "address": "臺北市華聲街17號3-4樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "週一、國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "週一、國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.099514241916,
+        "lng": 121.52531163773524
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400005,
+          "title": "線形公園12號(士林)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09836856,
+            121.5243106
+          ],
+          "address": "捷運士林站北-雙溪南段(界線:後街-雙溪)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "高架橋下",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "高架橋下"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6113ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.097005582424217,
+        "lng": 121.51563570777387
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400012,
+          "title": "美崙公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09737968,
+            121.5172195
+          ],
+          "address": "美崙街152巷",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6127ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.095503946971228,
+        "lng": 121.52958791644832
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400020,
+          "title": "福林公園-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09498227,
+            121.5290679
+          ],
+          "address": "中山北路5段與福林路交叉口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a615bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.087645346625354,
+        "lng": 121.50914923467955
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400023,
+          "title": "社正公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.08787994,
+            121.5102243
+          ],
+          "address": "中正路與重慶北路四段交叉處",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6107ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.095836864907948,
+        "lng": 121.52099890823655
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400026,
+          "title": "華聲公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09601066,
+            121.5221708
+          ],
+          "address": "華聲街20號對面",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6177ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.09099038150992,
+        "lng": 121.52204962739148
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400027,
+          "title": "承德公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09005461,
+            121.5220893
+          ],
+          "address": "大南路138號對面",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400062,
+          "title": "士林運動中心",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.08954889,
+            121.5220987
+          ],
+          "address": "士商路1號",
+          "layoutType": "",
+          "hours": "6:00至22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a617bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.087312745901187,
+        "lng": 121.51773712006093
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400028,
+          "title": "福中公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.08806603,
+            121.5189033
+          ],
+          "address": "福港街107巷(百齡國小附近)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400057,
+          "title": "百齡智慧圖書館",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.08609926,
+            121.518024
+          ],
+          "address": "福港街205號\n(臺北市士林區百齡國民小學)",
+          "layoutType": "",
+          "hours": "週一~週五、經公告之補行上課日：17:50-20:50\n週六、週日：9:10-20:50",
+          "description": "經政府公告之放假日為休館日；寒暑假開放時間請參見首頁開館異動",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "經政府公告之放假日為休館日；寒暑假開放時間請參見首頁開館異動"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a611bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.094164364604527,
+        "lng": 121.51454850439367
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400029,
+          "title": "後港公園(鄰里)-遊戲場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09351544,
+            121.5143
+          ],
+          "address": "承德路五段78號旁(度量衡檢定所旁)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a616bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.085307398444424,
+        "lng": 121.51987506479647
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400034,
+          "title": "前港公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.0860629,
+            121.5201556
+          ],
+          "address": "華齡街與前港街交叉口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61a7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.102355364879326,
+        "lng": 121.52639901890308
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400035,
+          "title": "忠誠公園",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.10383297,
+            121.5262113
+          ],
+          "address": "中山北路六段與忠誠路一段交叉口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a61cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.093328036441836,
+        "lng": 121.51132347110403
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400039,
+          "title": "百齡左岸河濱公園之水上小蟹公園(戲水區)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.093445,
+            121.509837
+          ],
+          "address": "百齡左岸河濱公園之水上小蟹公園",
+          "layoutType": "",
+          "hours": "6月： 每周六、日及國定假日， 10:00–10:30、11:00–11:30、15:00–15:30、16:00–16:30、17:00–17:30\n7~8月：每日 10:00–10:30、11:00–11:30、15:00–15:30、16:00–16:30、17:00–17:30\n9月： 每周六、日及國定假日， 10:00–10:30、11:00–11:30、15:00–15:30、16:00–16:30、17:00–17:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6147ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.089317968054495,
+        "lng": 121.51559920619684
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400040,
+          "title": "百齡右岸兒童自行車旁遊戲沙坑\n(設有遮陽網)",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.089629,
+            121.514931
+          ],
+          "address": "百齡橋右岸橋下",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6167ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08898506392062,
+        "lng": 121.52418766232755
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400049,
+          "title": "士林市場",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.08818,
+            121.5242
+          ],
+          "address": "基河路101號",
+          "layoutType": "",
+          "hours": "早市:7:00-12:00\n晚市:17:30-23:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a610fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.09299557379177,
+        "lng": 121.51991162331699
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400050,
+          "title": "士林區行政中心",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09305,
+            121.51982
+          ],
+          "address": "中正路439號9樓",
+          "layoutType": "",
+          "hours": "週一至週五\n8:30-17:30\n(例假日及國定假日除外)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400059,
+          "title": "士林區健康服務中心1F服務台",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09302432,
+            121.5201335
+          ],
+          "address": "士林區中正路439號",
+          "layoutType": "",
+          "hours": "8:30-17:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400061,
+          "title": "聯合醫院士林門診部",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.093062,
+            121.519784
+          ],
+          "address": "中正路439號",
+          "layoutType": "",
+          "hours": "9:00-11:00\n(中午休息)\n14:00-16:00",
+          "description": "星期六、日休息",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "星期六、日休息"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a612bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.091826510217032,
+        "lng": 121.52527500658142
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400051,
+          "title": "士林公民會館",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09058,
+            121.52545
+          ],
+          "address": "大東路75號",
+          "layoutType": "",
+          "hours": "週二至週日\n9:00-12:00、14:00-17:00、18:00-21:00\n週一全日及週六日晚上不開放",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6103ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.095000640763953,
+        "lng": 121.51777365010938
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400052,
+          "title": "臺北市立天文科學教育館",
+          "category": "other",
+          "location": "臺北市士林區",
+          "coords": [
+            25.09611,
+            121.519
+          ],
+          "address": "基河路363號",
+          "layoutType": "",
+          "hours": "週二至週五及週日開放時間\n9:00-17:00\n(週六延長至20:00)",
+          "description": "1.每週一休館(如遇國定假日則維持開放)。\n2.若欲參觀展示場、宇宙探險設施及劇場，需購票參觀。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1.每週一休館(如遇國定假日則維持開放)。\n2.若欲參觀展示場、宇宙探險設施及劇場，需購票參觀。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6187ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10268777236134,
+        "lng": 121.51781018112177
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400325,
+          "title": "軟橋公園",
+          "category": "other",
+          "location": "臺北市北投區",
+          "coords": [
+            25.10295312,
+            121.5175314
+          ],
+          "address": "文林北路53巷內",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "後續將設立直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "後續將設立直飲台"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

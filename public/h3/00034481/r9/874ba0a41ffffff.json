@@ -1,0 +1,529 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a410bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044176958682687,
+        "lng": 121.53900751718275
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400100,
+          "title": "?公圳公園-遊戲場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04398065,
+            121.540376
+          ],
+          "address": "安東街40巷41號",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4177ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04300505968164,
+        "lng": 121.54437143568549
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400101,
+          "title": "?公綠廊(噴霧降溫)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.042534,
+            121.544054
+          ],
+          "address": "復興南路一段135巷",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4167ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.040997445292202,
+        "lng": 121.54650969466854
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400113,
+          "title": "東區地下街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.041916,
+            121.546315
+          ],
+          "address": "大安路一段77號",
+          "layoutType": "",
+          "hours": "6:00-1:00\n(公共空間及通道開放時間)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400118,
+          "title": "東區地下街智慧圖書館",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.04187315,
+            121.5460909
+          ],
+          "address": "大安路1段77號東區地下街3號店鋪",
+          "layoutType": "",
+          "hours": "6:00-00:00",
+          "description": "依捷運站開放",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "依捷運站開放"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a416fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038154258702583,
+        "lng": 121.54542211278851
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400120,
+          "title": "聯合醫院仁愛院區美食街",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03739,
+            121.545321
+          ],
+          "address": "仁愛路四段10號",
+          "layoutType": "",
+          "hours": "8:00-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41b3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055548284133533,
+        "lng": 121.54335762210219
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400155,
+          "title": "長春市場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05488,
+            121.54238
+          ],
+          "address": "長春路299號",
+          "layoutType": "",
+          "hours": "8:00-20:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400356,
+          "title": "松基公園-遊戲場",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.05520308,
+            121.545097
+          ],
+          "address": "興安街174巷旁",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a419bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.053041252777543,
+        "lng": 121.53368060292914
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400156,
+          "title": "建國市場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05378,
+            121.53442
+          ],
+          "address": "伊通街94巷4號",
+          "layoutType": "",
+          "hours": "8:00-20:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.046519938743796,
+        "lng": 121.5282804723599
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400170,
+          "title": "中央藝文公園",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04625728,
+            121.5268208
+          ],
+          "address": "北平東路",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400171,
+          "title": "中央藝文公園-遊戲場",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04625728,
+            121.5268208
+          ],
+          "address": "北平東路",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a41cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044512843297078,
+        "lng": 121.5304184574782
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400182,
+          "title": "光華商場",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04537,
+            121.53191
+          ],
+          "address": "市民大道三段8號",
+          "layoutType": "",
+          "hours": "11:00-21:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a415bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.039662578434097,
+        "lng": 121.53146910633745
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400183,
+          "title": "幸安市場",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04043,
+            121.53083
+          ],
+          "address": "濟南路二段46號",
+          "layoutType": "",
+          "hours": "8:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400203,
+          "title": "圖書館城中分館",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04041,
+            121.53105
+          ],
+          "address": "濟南路二段46號3樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a414bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.037655154952308,
+        "lng": 121.53360712347245
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400186,
+          "title": "新生市場",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03703,
+            121.53249
+          ],
+          "address": "新生南路一段134之1號",
+          "layoutType": "",
+          "hours": "9:00-20:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4127ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.047519007438133,
+        "lng": 121.55191095209449
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400365,
+          "title": "藝文大樓 一到二樓展覽空間",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.04846063,
+            121.551805
+          ],
+          "address": "臺北市松山區八德路3段25號",
+          "layoutType": "",
+          "hours": "每週二–週日，9:00–21:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        },
+        {
+          "id": 3400367,
+          "title": "中崙市場",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.04794,
+            121.55272
+          ],
+          "address": "八德路三段76號",
+          "layoutType": "",
+          "hours": "1樓：\n6:00-12:30                                                                              \n2樓：\n10:00-22:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4137ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.049526514505544,
+        "lng": 121.54977257340403
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400372,
+          "title": "臺北小巨蛋商店街",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.050851,
+            121.55016
+          ],
+          "address": "南京東路四段2號",
+          "layoutType": "",
+          "hours": "5:00-22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400379,
+          "title": "松山運動中心",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.04859866,
+            121.5503954
+          ],
+          "address": "敦化北路1號",
+          "layoutType": "",
+          "hours": "6:00-22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4133ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.048691032544312,
+        "lng": 121.54654660671524
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400375,
+          "title": "圖書館中崙分館",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0485317,
+            121.5458956
+          ],
+          "address": "長安東路2段229號7-10樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

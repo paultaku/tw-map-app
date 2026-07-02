@@ -1,0 +1,921 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a455bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.053711035671185,
+        "lng": 121.51650385003612
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900029,
+          "title": "Curves 捷運中山店",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0532,
+            121.5177
+          ],
+          "address": "臺北市大同區承德路一段771號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900038,
+          "title": "桑富士運動俱樂部",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0551,
+            121.5169
+          ],
+          "address": "臺北市大同區平陽街29號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4593ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.069928758684693,
+        "lng": 121.51980195064947
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900030,
+          "title": "Curves 圓山花博店",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0701,
+            121.5186
+          ],
+          "address": "臺北市大同區承德路三段223之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a454bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051704488989234,
+        "lng": 121.51864165122322
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900031,
+          "title": "PULSE Gym 台北中山店",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0526,
+            121.5198
+          ],
+          "address": "臺北市大同區南京西路30號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.064244483353118,
+        "lng": 121.51762753569913
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900032,
+          "title": "Sky Fitness",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0636,
+            121.5186
+          ],
+          "address": "臺北市大同區承德路三段9之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900042,
+          "title": "Plan A Fitness",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.064,
+            121.5185
+          ],
+          "address": "臺北市大同區承德路三段25號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45c3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.061402223019993,
+        "lng": 121.51654036151311
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900034,
+          "title": "World Gym 健身俱樂部台北民權西店",
+          "category": "culture",
+          "location": "大同",
+          "coords": [
+            25.0627,
+            121.5164
+          ],
+          "address": "臺北市大同區民權西路136號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4587ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06875873623795,
+        "lng": 121.52516511891966
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900116,
+          "title": "XL CLUB",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0682,
+            121.5238
+          ],
+          "address": "臺北市中山區民族東路10號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4503ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.061067952495556,
+        "lng": 121.52512849163217
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900119,
+          "title": "Curves 中山錦州店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0609,
+            121.5246
+          ],
+          "address": "臺北市中山區中山北路二段115巷45號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a456bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.051369638764083,
+        "lng": 121.52722981840002
+      },
+      "categories": {
+        "culture": 3
+      },
+      "points": [
+        {
+          "id": 7900124,
+          "title": "Free Power 運動訓練",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0509,
+            121.5282
+          ],
+          "address": "臺北市中山區新生北路一段83號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0961280058",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900136,
+          "title": "STEPX FITNESS 健身房",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0519,
+            121.5283
+          ],
+          "address": "臺北市中山區南京東路二段8號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900144,
+          "title": "五十佳健身薈",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0518,
+            121.5273
+          ],
+          "address": "臺北市中山區南京東路一段138號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4523ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.06073315802659,
+        "lng": 121.53371734411174
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900128,
+          "title": "Monkey Training 猴子體能訓練",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0598,
+            121.5329
+          ],
+          "address": "臺北市中山區松江路276號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900145,
+          "title": "天天健體能訓練室 Everyday Training",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.06,
+            121.5333
+          ],
+          "address": "臺北市中山區松江路275號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0953071887",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4573ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.056218976692605,
+        "lng": 121.52617915815722
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900137,
+          "title": "VShape 頗行健體運動空間",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0558,
+            121.5264
+          ],
+          "address": "臺北市中山區長春路61巷27號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0987279287",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4563ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.054212286849754,
+        "lng": 121.5283171409053
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900140,
+          "title": "World Gym 健身俱樂部台北長春店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0547,
+            121.5271
+          ],
+          "address": "臺北市中山區長春路90號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4547ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055383048272617,
+        "lng": 121.52295394307284
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900142,
+          "title": "X-fit studio 體適能健體空間",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0564,
+            121.5225
+          ],
+          "address": "臺北市中山區中山北路二段56號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900156,
+          "title": "健身工廠中山北廠",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0559,
+            121.5245
+          ],
+          "address": "臺北市中山區中山北路二段59巷45號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4543ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.054547067928073,
+        "lng": 121.51972884036093
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900143,
+          "title": "中山運動中心",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0548,
+            121.5188
+          ],
+          "address": "臺北市中山區中山北路二段44巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900393,
+          "title": "中山運動中心",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0548,
+            121.5188
+          ],
+          "address": "臺北市中山區中山北路二段44巷2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a450bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.05822554126667,
+        "lng": 121.52404120625727
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 7900147,
+          "title": "宅健身",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0583,
+            121.525
+          ],
+          "address": "臺北市中山區民生東路一段29號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900159,
+          "title": "給力健身房林森店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0585,
+            121.5256
+          ],
+          "address": "臺北市中山區林森北路381號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900161,
+          "title": "菲特邦健康管理工作室",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0574,
+            121.5243
+          ],
+          "address": "臺北市中山區中山北路二段77巷14號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900364,
+          "title": "9 STAR 撞球休閒館",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0583,
+            121.525
+          ],
+          "address": "臺北市中山區民生東路一段29號3樓之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "撞球場及攀岩場",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "撞球場及攀岩場"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4513ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063074314245142,
+        "lng": 121.52299054092258
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900148,
+          "title": "巨平方健身房 GSQUARE 民權店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0636,
+            121.5227
+          ],
+          "address": "臺北市中山區中山北路二段183之5號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a457bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.053376406151187,
+        "lng": 121.5250918653112
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900154,
+          "title": "烈火拳擊運動空間 BlazeBoxing",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0548,
+            121.5249
+          ],
+          "address": "臺北市中山區長春路40號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0667525296036,
+        "lng": 121.52730312895312
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900162,
+          "title": "跑者肌地 Runner Sports Training",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0675,
+            121.526
+          ],
+          "address": "臺北市中山區新生北路三段84巷47號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0930792287",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a456fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05220547174033,
+        "lng": 121.53045515449624
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900169,
+          "title": "Refine Fitness 純淬健身 松江1號店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0519,
+            121.5318
+          ],
+          "address": "臺北市中山區南京東路二段100號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4527ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06156892635205,
+        "lng": 121.53694294806571
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900170,
+          "title": "SoFit 微健身民權店",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0622,
+            121.5377
+          ],
+          "address": "臺北市中山區民權東路三段2號15樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.062238294599172,
+        "lng": 121.51976539502293
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900172,
+          "title": "18lightfitclub_minquan",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0635,
+            121.5197
+          ],
+          "address": "臺北市中山區撫順街35之2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a452bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.057890677710393,
+        "lng": 121.53262992538522
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900355,
+          "title": "Sujit-Sauryayoga 索莉雅太陽瑜珈",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.057,
+            121.5328
+          ],
+          "address": "臺北市中山區松江路192號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "瑜珈教室",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "瑜珈教室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4537ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063575556545477,
+        "lng": 121.53480478502607
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900394,
+          "title": "榮星花園游泳池",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.064,
+            121.5352
+          ],
+          "address": "臺北市中山區建國北路三段39號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a45b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.06959469545563,
+        "lng": 121.52839048089892
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900395,
+          "title": "新生公園游泳池",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0686,
+            121.5288
+          ],
+          "address": "臺北市中山區新生北路三段105號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

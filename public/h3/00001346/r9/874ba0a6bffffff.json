@@ -1,0 +1,55 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6bd3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.075109303969953,
+        "lng": 121.5595624074443
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 9900381,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.076227,
+            121.560048
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "托痕8CM",
+          "image": "",
+          "management": "高灘地東區管理站",
+          "phone": "",
+          "notes": "托痕8CM"
+        },
+        {
+          "id": 9900382,
+          "title": "臺北市河濱生態棕櫚",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.076224,
+            121.560063
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "托痕11CM",
+          "image": "",
+          "management": "高灘地東區管理站",
+          "phone": "",
+          "notes": "托痕11CM"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:07.526Z"
+}

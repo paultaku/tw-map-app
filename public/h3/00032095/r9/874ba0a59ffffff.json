@@ -1,0 +1,449 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a59c7ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 25.00016991945262,
+        "lng": 121.55705324341756
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 6900527,
+          "title": "鬍鬚張台北萬芳店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000012,
+            121.556128
+          ],
+          "address": "臺北市文山區興隆路三段60號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2930-2800/總公司:02-2298-2185＃232(行企部劉副理)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900528,
+          "title": "里仁-萬芳興隆店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000221,
+            121.556231
+          ],
+          "address": "臺北市文山區興隆路三段65號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2932-9036/02-77146168#80514(總公司陳'S)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900671,
+          "title": "Patio46美式餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.999264,
+            121.555781
+          ],
+          "address": "台北市文山區興隆路三段112巷4弄46號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-89351146",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900672,
+          "title": "饗食雪屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.99904,
+            121.55719
+          ],
+          "address": "台北市文山區興隆路三段112巷2弄2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901585,
+          "title": "Formosa Chang -Taipei Wanfang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000012,
+            121.556128
+          ],
+          "address": "No. 60",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901586,
+          "title": "Leezen-Wanfang Xinglong Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000221,
+            121.556231
+          ],
+          "address": "No. 65",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 116",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City 116"
+        },
+        {
+          "id": 6901729,
+          "title": "Patio 46 American Food and Drinks",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.999264,
+            121.555781
+          ],
+          "address": "No. 46",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Xinglong Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 3",
+          "notes": "Xinglong Rd."
+        },
+        {
+          "id": 6901730,
+          "title": "Hsiang Mini Hot Pot & Ice Bingsu",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.99904,
+            121.55719
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Sec. 3",
+          "image": "",
+          "management": "",
+          "phone": "Ln. 112",
+          "notes": "Sec. 3"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5957ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.995315817893747,
+        "lng": 121.55810387243109
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900530,
+          "title": "撥啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.995636,
+            121.559724
+          ],
+          "address": "台北市文山區興隆路三段290號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0918-962-980",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901588,
+          "title": "Portafiltro Coffee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.995636,
+            121.559724
+          ],
+          "address": "No. 290",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a599bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.005023659250146,
+        "lng": 121.55600260810088
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900562,
+          "title": "茁茁陶",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.004714,
+            121.555733
+          ],
+          "address": "台北市文山區辛亥路四段166巷17號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29315253",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901620,
+          "title": "Draw Grow",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.004714,
+            121.555733
+          ],
+          "address": "116",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Section 4",
+          "image": "",
+          "management": "",
+          "phone": "Lane 166",
+          "notes": "Section 4"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a596bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.989286374378512,
+        "lng": 121.56451895743632
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900613,
+          "title": "御神烹",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987812,
+            121.564921
+          ],
+          "address": "台北市文山區木柵路三段48巷1弄9號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29381086",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901671,
+          "title": "Muzhaokami",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987812,
+            121.564921
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Sec. 3",
+          "image": "",
+          "management": "",
+          "phone": "Ln. 48",
+          "notes": "Sec. 3"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59d3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.001344134611525,
+        "lng": 121.55168906431932
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900667,
+          "title": "來ㄐㄧㄚ",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000668,
+            121.552179
+          ],
+          "address": "台北市文山區興隆路二段220巷18號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29335178",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901725,
+          "title": "Lai Chia",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000668,
+            121.552179
+          ],
+          "address": "No. 18",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Xinglong Rd.",
+          "notes": "Wenshan Dist."
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a59c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.99933482090922,
+        "lng": 121.55382730291515
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900668,
+          "title": "胖夫妻日式料理",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000177,
+            121.555233
+          ],
+          "address": "台北市文山區興隆路三段36巷6號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29334272",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900679,
+          "title": "Rico義式廚房-文山萬芳店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.999952,
+            121.553642
+          ],
+          "address": "台北市文山區興隆路二段244巷36號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901726,
+          "title": "Punfuchi",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.000177,
+            121.555233
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Xinglong Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 3",
+          "notes": "Xinglong Rd."
+        },
+        {
+          "id": 6901737,
+          "title": "Rico Delicacy-Wenshan Wanfang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.999952,
+            121.553642
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Xinglong Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 2",
+          "notes": "Xinglong Rd."
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

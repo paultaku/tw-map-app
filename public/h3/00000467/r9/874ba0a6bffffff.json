@@ -1,0 +1,577 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6ba7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.080120869037287,
+        "lng": 121.578923361594
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300218,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.078827,
+            121.578761
+          ],
+          "address": "內湖路1段741號左側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300219,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.079034,
+            121.578204
+          ],
+          "address": "內湖路1段733號公車站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300220,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.079201,
+            121.577768
+          ],
+          "address": "內湖路1段719號公車站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b93ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.081628849994885,
+        "lng": 121.56496481898317
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1300221,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082465,
+            121.56579
+          ],
+          "address": "內湖路1段277號公車站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300224,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082788,
+            121.564774
+          ],
+          "address": "內湖路1段225巷口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300227,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08257,
+            121.565427
+          ],
+          "address": "內湖路1段239號前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300245,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08195,
+            121.565255
+          ],
+          "address": "基湖路8號內湖基湖路口站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300248,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082214,
+            121.565925
+          ],
+          "address": "內湖路1段246號西湖捷運站",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300255,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.080194,
+            121.564883
+          ],
+          "address": "基湖路25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6ba3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.079285738529823,
+        "lng": 121.57569625550921
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300228,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.078915,
+            121.577002
+          ],
+          "address": "內湖路1段550號港墘派出所前10公尺",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300231,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.079257,
+            121.577044
+          ],
+          "address": "內湖路1段550號前50公尺處圓環",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b6fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.063901674277034,
+        "lng": 121.57562164855764
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300232,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0631,
+            121.5769
+          ],
+          "address": "舊宗路1段188號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300239,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.064381,
+            121.576238
+          ],
+          "address": "舊宗路1段319號金莎家俱旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300240,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.063274,
+            121.576794
+          ],
+          "address": "舊宗路1段188號大潤發二館前",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b77ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.068751663776755,
+        "lng": 121.57457085920947
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300237,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.068333,
+            121.57444
+          ],
+          "address": "舊宗路2段2號旁內湖運動公園站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300253,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.067777,
+            121.574444
+          ],
+          "address": "舊宗路2段內湖運動公園站",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b07ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.073601290986105,
+        "lng": 121.57352006354412
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300238,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.074128,
+            121.572823
+          ],
+          "address": "舊宗路2段213號（與港墘路交接口）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300249,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.073565,
+            121.574242
+          ],
+          "address": "舊宗路2段213巷 (與港墘路221巷交接口)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300259,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.073868,
+            121.573012
+          ],
+          "address": "舊宗路2段213巷旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b83ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.079622148181365,
+        "lng": 121.56710358399873
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300244,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.080454,
+            121.566114
+          ],
+          "address": "瑞光路639號竹城大廈",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b27ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.073264219031902,
+        "lng": 121.58211318935936
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300254,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.072042,
+            121.580858
+          ],
+          "address": "瑞光路110號公館山站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300257,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0721491,
+            121.5808027
+          ],
+          "address": "瑞光路110號公車站牌",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b63ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.065909157620045,
+        "lng": 121.57348278905427
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300262,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.06675,
+            121.5748056
+          ],
+          "address": "舊宗路2段１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6b4bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.063403543959343,
+        "lng": 121.56380258415489
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300403,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.062786,
+            121.563599
+          ],
+          "address": "民權東路5段10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:44.841Z"
+}

@@ -1,0 +1,367 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56935bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.113386380668967,
+        "lng": 121.53933885914144
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 600684,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1136,
+            121.5394
+          ],
+          "address": "臺北市士林區東山里東山路100巷對面公車站旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602406,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1138,
+            121.5393
+          ],
+          "address": "臺北市士林區東山里東山路與士東路352巷交叉口",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56933bffff",
+      "res": 9,
+      "count": 12,
+      "center": {
+        "lat": 25.119570599769876,
+        "lng": 121.55333168246462
+      },
+      "categories": {
+        "nature": 12
+      },
+      "points": [
+        {
+          "id": 601310,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1194,
+            121.5531
+          ],
+          "address": "臺北市士林區新安里仰德大道三段78號門口北側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府工務局新建工程處(公園處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602960,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1189,
+            121.5527
+          ],
+          "address": "臺北市士林區新安里仰德大道3段61號往南第4株/陽明山國小前右側",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603103,
+          "title": "臺灣欒樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1193,
+            121.5522
+          ],
+          "address": "臺北市士林區新安里陽明山國小活動中心及低年級教室之間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603104,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1193,
+            121.5523
+          ],
+          "address": "臺北市士林區新安里陽明山國小活動中心及低年級教室之間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603105,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1193,
+            121.5525
+          ],
+          "address": "臺北市士林區新安里陽明山國小下操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603106,
+          "title": "楓香",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1189,
+            121.5522
+          ],
+          "address": "臺北市士林區新安里陽明山國小下操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603107,
+          "title": "樟",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1189,
+            121.5524
+          ],
+          "address": "臺北市士林區新安里陽明山國小下操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603108,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1202,
+            121.5524
+          ],
+          "address": "臺北市士林區新安里陽明山國小上操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603109,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1203,
+            121.5522
+          ],
+          "address": "臺北市士林區新安里陽明山國小上操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603110,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1205,
+            121.5523
+          ],
+          "address": "臺北市士林區新安里陽明山國小上操場",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603374,
+          "title": "雀榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1198,
+            121.5529
+          ],
+          "address": "臺北市士林區新安里仰德大道三段61號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 603375,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.119,
+            121.5528
+          ],
+          "address": "臺北市士林區新安里仰德大道三段61號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市士林區陽明山國民小學(臺北市政府工務局公園路燈工程管理處代管)",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569307ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.121575505312418,
+        "lng": 121.55119301776698
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 602023,
+          "title": "榕",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1209,
+            121.55
+          ],
+          "address": "臺北市士林區新安里士林區仰德大道三段125巷5弄21-23號旁榕樹",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "私人",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56936bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11104806104325,
+        "lng": 121.55006825055088
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 602938,
+          "title": "印度橡膠樹",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1107,
+            121.549
+          ],
+          "address": "臺北市士林區永福里莊頂路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立陽明教養院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 602939,
+          "title": "茄苳",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.1108,
+            121.5491
+          ],
+          "address": "臺北市士林區永福里莊頂路2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立陽明教養院",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:42.919Z"
+}

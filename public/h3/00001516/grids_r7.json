@@ -1,0 +1,629 @@
+{
+  "cells": [
+    {
+      "h3": "874ba1da4ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.00483897053129,
+        "lng": 121.58500361773642
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a59ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 24.998995431738415,
+        "lng": 121.56241768626528
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a4affffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.018905420923094,
+        "lng": 121.57003257500287
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a4effffff",
+      "res": 7,
+      "count": 11,
+      "center": {
+        "lat": 25.032965735243447,
+        "lng": 121.55506303853045
+      },
+      "categories": {
+        "other": 11
+      }
+    },
+    {
+      "h3": "874ba0a43ffffff",
+      "res": 7,
+      "count": 9,
+      "center": {
+        "lat": 25.027117518422482,
+        "lng": 121.53248302535776
+      },
+      "categories": {
+        "other": 9
+      }
+    },
+    {
+      "h3": "874ba0a6affffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.066918300792604,
+        "lng": 121.54770808197598
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a68ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.08681267805496,
+        "lng": 121.5553222408439
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a6bffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.072766099535805,
+        "lng": 121.57029317318472
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba1d36ffffff",
+      "res": 7,
+      "count": 6,
+      "center": {
+        "lat": 25.07861134455268,
+        "lng": 121.59288376024767
+      },
+      "categories": {
+        "other": 6
+      }
+    },
+    {
+      "h3": "874ba1d32ffffff",
+      "res": 7,
+      "count": 7,
+      "center": {
+        "lat": 25.06455628754197,
+        "lng": 121.60785915377905
+      },
+      "categories": {
+        "other": 7
+      }
+    },
+    {
+      "h3": "874ba0a40ffffff",
+      "res": 7,
+      "count": 11,
+      "center": {
+        "lat": 25.041169357299943,
+        "lng": 121.51751796001166
+      },
+      "categories": {
+        "other": 11
+      }
+    },
+    {
+      "h3": "874ba0a45ffffff",
+      "res": 7,
+      "count": 9,
+      "center": {
+        "lat": 25.06106795249555,
+        "lng": 121.52512849163217
+      },
+      "categories": {
+        "other": 9
+      }
+    },
+    {
+      "h3": "874ba0a63ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.07510985385678,
+        "lng": 121.51016348483485
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a6effffff",
+      "res": 7,
+      "count": 3,
+      "center": {
+        "lat": 25.080962540534134,
+        "lng": 121.53274011058183
+      },
+      "categories": {
+        "other": 3
+      }
+    },
+    {
+      "h3": "874ba0a61ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.095000640763953,
+        "lng": 121.51777365010938
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba5692ffffff",
+      "res": 7,
+      "count": 5,
+      "center": {
+        "lat": 25.11488741489384,
+        "lng": 121.52538490294292
+      },
+      "categories": {
+        "other": 5
+      }
+    },
+    {
+      "h3": "874ba5696ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.12891557167091,
+        "lng": 121.51041850101237
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0b49ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.142937586335602,
+        "lng": 121.49545361284608
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0b48ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.137078096699486,
+        "lng": 121.47288335234963
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0b4affffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.117198719597084,
+        "lng": 121.46527755279607
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0b4effffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.13121605952241,
+        "lng": 121.45031861093454
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0b4cffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.151091631231854,
+        "lng": 121.45792295368541
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0b6affffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.16509902246021,
+        "lng": 121.44296407499763
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a48ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.038811405894272,
+        "lng": 121.57764855027023
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a5affffff",
+      "res": 7,
+      "count": 3,
+      "center": {
+        "lat": 24.973235161494767,
+        "lng": 121.53222598761477
+      },
+      "categories": {
+        "other": 3
+      }
+    },
+    {
+      "h3": "874ba1db4ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 24.959163459407154,
+        "lng": 121.54719116852516
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a58ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 24.99314935016505,
+        "lng": 121.53983725106309
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a5cffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.007211122628537,
+        "lng": 121.5248721276793
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a4dffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.05871338198965,
+        "lng": 121.58526561203077
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a4cffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.052867922317695,
+        "lng": 121.56267756247738
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a41ffffff",
+      "res": 7,
+      "count": 10,
+      "center": {
+        "lat": 25.047019912697138,
+        "lng": 121.5400950101353
+      },
+      "categories": {
+        "other": 10
+      }
+    },
+    {
+      "h3": "874ba0a44ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.055215058818003,
+        "lng": 121.50255440715476
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a2bffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.03177811380351,
+        "lng": 121.41231322761324
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a76ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.037641147250365,
+        "lng": 121.43486523879615
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a70ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.043501652019668,
+        "lng": 121.45742277575849
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a71ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.04935962393428,
+        "lng": 121.47998583353589
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a62ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.06925462219768,
+        "lng": 121.48759236859875
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a42ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.021266759602963,
+        "lng": 121.5099085157557
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a51ffffff",
+      "res": 7,
+      "count": 3,
+      "center": {
+        "lat": 25.00136016406613,
+        "lng": 121.50230015889976
+      },
+      "categories": {
+        "other": 3
+      }
+    },
+    {
+      "h3": "874ba0a5effffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 24.987300729980937,
+        "lng": 121.5172623171355
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0b59ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.097315331459054,
+        "lng": 121.45767284162979
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a66ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.08328804666661,
+        "lng": 121.472631846154
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0ae4ffffff",
+      "res": 7,
+      "count": 5,
+      "center": {
+        "lat": 24.963880946564622,
+        "lng": 121.42701769396047
+      },
+      "categories": {
+        "other": 5
+      }
+    },
+    {
+      "h3": "874ba0ae5ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 24.969739679475616,
+        "lng": 121.44957057291825
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a56ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 24.98965064897138,
+        "lng": 121.45717275605877
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a54ffffff",
+      "res": 7,
+      "count": 5,
+      "center": {
+        "lat": 25.009557632659227,
+        "lng": 121.46477602723142
+      },
+      "categories": {
+        "other": 5
+      }
+    },
+    {
+      "h3": "874ba0a73ffffff",
+      "res": 7,
+      "count": 4,
+      "center": {
+        "lat": 25.02946062586846,
+        "lng": 121.47238038640195
+      },
+      "categories": {
+        "other": 4
+      }
+    },
+    {
+      "h3": "874ba0a46ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.035316260299084,
+        "lng": 121.49494641710433
+      },
+      "categories": {
+        "other": 1
+      }
+    },
+    {
+      "h3": "874ba0a49ffffff",
+      "res": 7,
+      "count": 3,
+      "center": {
+        "lat": 25.044654526204408,
+        "lng": 121.60023955556423
+      },
+      "categories": {
+        "other": 3
+      }
+    },
+    {
+      "h3": "874ba1d14ffffff",
+      "res": 7,
+      "count": 3,
+      "center": {
+        "lat": 25.050495092004184,
+        "lng": 121.62283604939039
+      },
+      "categories": {
+        "other": 3
+      }
+    },
+    {
+      "h3": "874ba0a55ffffff",
+      "res": 7,
+      "count": 2,
+      "center": {
+        "lat": 25.015413462957387,
+        "lng": 121.48733951471861
+      },
+      "categories": {
+        "other": 2
+      }
+    },
+    {
+      "h3": "874ba0a75ffffff",
+      "res": 7,
+      "count": 1,
+      "center": {
+        "lat": 25.0633968497325,
+        "lng": 121.46502676686
+      },
+      "categories": {
+        "other": 1
+      }
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:45.167Z"
+}

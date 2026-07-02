@@ -1,0 +1,695 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da64bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.975554804750736,
+        "lng": 121.5708970849888
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000875,
+          "title": "北二高木柵休息站",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.975939,
+            121.570283
+          ],
+          "address": "木柵休息站",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "交通部台灣區國道高速公路局北區工程處木柵工務段",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da68fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.989780590177897,
+        "lng": 121.57633662525959
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000881,
+          "title": "萬興國小地下停車場",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9898,
+            121.5767
+          ],
+          "address": "臺北市文山區秀明路二段114號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "萬興國小地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000949,
+          "title": "臺北市立圖書館萬興分館",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988499,
+            121.576456
+          ],
+          "address": "臺北市文山區萬壽路27號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館萬興分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.985266119401015,
+        "lng": 121.5687958345323
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000887,
+          "title": "永安藝文館",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.984147,
+            121.568879
+          ],
+          "address": "臺北市文山區木新路二段156號-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "永安藝文館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000909,
+          "title": "統一超商臺北市文山門市",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.986714,
+            121.568967
+          ],
+          "address": "臺北市文山區永安街22巷23號25號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6d7ffff",
+      "res": 9,
+      "count": 10,
+      "center": {
+        "lat": 24.98811112160695,
+        "lng": 121.56988368336923
+      },
+      "categories": {
+        "other": 10
+      },
+      "points": [
+        {
+          "id": 6000897,
+          "title": "政大加油站",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988032,
+            121.570727
+          ],
+          "address": "臺北市文山區指南路一段53號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "政大加油站股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000904,
+          "title": "公有木柵市場(署)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988521,
+            121.569284
+          ],
+          "address": "臺北市文山區保儀路13巷3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有木柵市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000937,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988529,
+            121.571447
+          ],
+          "address": "道南橋上游自行車牽引道旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000941,
+          "title": "國稅局文山稽徵所",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.989558,
+            121.569962
+          ],
+          "address": "臺北市文山區木柵路三段220號6樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部臺北國稅局文山稽徵所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000943,
+          "title": "臺北市稅捐稽徵處文山分處",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.989558,
+            121.569962
+          ],
+          "address": "臺北市文山區木柵路三段220號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市稅捐稽徵處文山分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000950,
+          "title": "臺北市立圖書館木柵分館",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988513,
+            121.56916
+          ],
+          "address": "臺北市文山區保儀路13巷3號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館木柵分館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000953,
+          "title": "文山區戶政事務所(所本部)",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.989558,
+            121.569962
+          ],
+          "address": "臺北市文山區木柵路三段220號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區戶政事務所所本部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000965,
+          "title": "文山區公所",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.989558,
+            121.569962
+          ],
+          "address": "臺北市文山區木柵路三段220號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000969,
+          "title": "文山區健康服務中心",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.989558,
+            121.569962
+          ],
+          "address": "臺北市文山區木柵路三段220號1樓跟3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市文山區健康服務中心",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000984,
+          "title": "文山9號",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.987286,
+            121.568541
+          ],
+          "address": "臺北市文山區保儀路76號旁(集應廟廣場)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da613ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.986935596277277,
+        "lng": 121.57524867286493
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000907,
+          "title": "國立政治大學",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.98775,
+            121.574833
+          ],
+          "address": "臺北市文山區指南路二段64號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "國立政治大學",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000979,
+          "title": "摩斯漢堡政大指南店",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988081,
+            121.574911
+          ],
+          "address": "臺北市文山區指南路二段71號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司政大指南分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000980,
+          "title": "統一星巴克政大門市",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.987847,
+            121.575683
+          ],
+          "address": "臺北市文山區指南路二段105號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克股份有限公司政大門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6cbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.982421035610496,
+        "lng": 121.56770800786722
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000932,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.981157,
+            121.567129
+          ],
+          "address": "恆光橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000933,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.981157,
+            121.567129
+          ],
+          "address": "恆光橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000934,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.981157,
+            121.567129
+          ],
+          "address": "恆光橋旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6cfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.9832558041291,
+        "lng": 121.57093431919212
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000935,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.983,
+            121.570435
+          ],
+          "address": "恒光橋上游約400公尺處網球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000936,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.983,
+            121.570435
+          ],
+          "address": "恒光橋上游約400公尺處網球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da69bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.990956042214695,
+        "lng": 121.57097155437802
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000938,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.991663,
+            121.571587
+          ],
+          "address": "萬壽橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000939,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.991679,
+            121.571624
+          ],
+          "address": "萬壽橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da693ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.993800881210614,
+        "lng": 121.57205944755852
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000940,
+          "title": "道南右岸河濱公園",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.993397,
+            121.571894
+          ],
+          "address": "景3疏散門下游200公尺網球場旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da617ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.98777025687111,
+        "lng": 121.57847526019575
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000959,
+          "title": "指南派出所",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.987308,
+            121.577944
+          ],
+          "address": "臺北市文山區指南路二段177號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局指南派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.987276309484933,
+        "lng": 121.56665738061193
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000974,
+          "title": "麥當勞台北木柵店",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.988655,
+            121.566404
+          ],
+          "address": "臺北市文山區木柵路三段57號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北木柵分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da62bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.981738505817216,
+        "lng": 121.58489134928337
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000988,
+          "title": "文山13號",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.981335,
+            121.585406
+          ],
+          "address": "臺北市文山區萬壽路85號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

@@ -1,0 +1,169 @@
+{
+  "cells": [
+    {
+      "h3": "894ba5696d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.132085813077946,
+        "lng": 121.50291770041586
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900249,
+          "title": "Curves 北投店",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1332,
+            121.502
+          ],
+          "address": "臺北市北投區磺港路8號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900262,
+          "title": "CHILI SPACE 栖里健身俱樂部",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1323,
+            121.5029
+          ],
+          "address": "臺北市北投區公舘路427號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5696cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12640567590584,
+        "lng": 121.50074358375832
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900254,
+          "title": "Nathan Fitness Studio 耐森健身工作室",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1265,
+            121.5024
+          ],
+          "address": "臺北市北投區三合街二段435號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0911896552",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900266,
+          "title": "CAMP 訓練營地",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.126,
+            121.5005
+          ],
+          "address": "臺北市北投區中央南路二段5號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56967bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12123133103041,
+        "lng": 121.5103820672458
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900413,
+          "title": "國立陽明大學游泳池",
+          "category": "culture",
+          "location": "文山",
+          "coords": [
+            25.1223,
+            121.5102
+          ],
+          "address": "臺北市北投區立農街二段155號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "教育部（學校委外）",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569687ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.13659904838552,
+        "lng": 121.51045493574037
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900421,
+          "title": "春天酒店紅檜俱樂部",
+          "category": "culture",
+          "location": "北投",
+          "coords": [
+            25.1377,
+            121.511
+          ],
+          "address": "臺北市北投區幽雅路18號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室外游泳池",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "室外游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

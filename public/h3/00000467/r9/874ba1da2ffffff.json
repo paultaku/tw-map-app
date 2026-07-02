@@ -1,0 +1,753 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da21bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.970014474593754,
+        "lng": 121.58913141769887
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300746,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970264,
+            121.588291
+          ],
+          "address": "指南路3段38巷23號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300761,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970228,
+            121.587514
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300762,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970177,
+            121.587436
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2cfffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 24.96918009216014,
+        "lng": 121.58590457207131
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 1300747,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.969724,
+            121.587202
+          ],
+          "address": "指南路3段38巷16-1號對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300750,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.9703,
+            121.586901
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300751,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970234,
+            121.587059
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300752,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970253,
+            121.587032
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300753,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970353,
+            121.586898
+          ],
+          "address": "指南路3段38巷14號旁(田寮橋)-4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300758,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970065,
+            121.587286
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300759,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.969188,
+            121.587445
+          ],
+          "address": "指南路3段38巷16-2號(緣續緣茶莊斜對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da257ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.967168775469307,
+        "lng": 121.58804330245626
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300749,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968699,
+            121.587764
+          ],
+          "address": "指南路3段38巷16-2號(緣續緣茶莊斜對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300760,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968292,
+            121.587896
+          ],
+          "address": "指南路3段38巷18-2號旁(貓空纜車站公車站牌對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300763,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96716,
+            121.587359
+          ],
+          "address": "指南路3段38巷22-1號(大觀園)斜對面",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.9732023500322,
+        "lng": 121.58162720339801
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300754,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.972586,
+            121.580207
+          ],
+          "address": "指南路3段38巷17號前30公尺轉彎處(田寮橋)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97202571386198,
+        "lng": 121.58699265772245
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300757,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970748,
+            121.587178
+          ],
+          "address": "指南路3段38巷16-1號(樟湖橋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da247ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.965157333611778,
+        "lng": 121.590182063533
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300764,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.966635,
+            121.589731
+          ],
+          "address": "指南路3段38巷33號紅木屋前120公尺處(樟湖幹147A對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300765,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.966631,
+            121.589696
+          ],
+          "address": "指南路3段38巷33號紅木屋前120公尺處(樟湖幹147A對面)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da203ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.970848805130267,
+        "lng": 121.59235837536046
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300766,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970737,
+            121.592337
+          ],
+          "address": "指南路3段38巷37-2號(天恩宮轉角)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300767,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970725,
+            121.592422
+          ],
+          "address": "指南路3段38巷37-2號(天恩宮轉角)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da20fffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.96883739294372,
+        "lng": 121.59449722629662
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1300769,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.96889,
+            121.595573
+          ],
+          "address": "指南路3段40巷8-4號對面停車場 (貓空公車壺穴站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300770,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968972,
+            121.595369
+          ],
+          "address": "指南路3段40巷8-4號對面停車場 (貓空公車壺穴站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300771,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.968069,
+            121.595365
+          ],
+          "address": "指南路3段40巷8號喜相逢對面天空小步道(貓空公車站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300772,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967979,
+            121.595343
+          ],
+          "address": "指南路3段40巷8號喜相逢對面天空小步道(貓空公車站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300773,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967923,
+            121.595465
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300774,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967899,
+            121.595448
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da277ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 24.96682585558884,
+        "lng": 121.59663610790943
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1300775,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.965694,
+            121.59733
+          ],
+          "address": "指南路3段40巷20-3號旁(公車涼亭站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300776,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.965761,
+            121.597392
+          ],
+          "address": "指南路3段40巷20-3號旁(公車涼亭站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300787,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967737,
+            121.597179
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300788,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.967737,
+            121.597179
+          ],
+          "address": "指南路3段40巷12-2號金盆茗茶對面天空小步道(公車貓空站)-3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da227ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97133992979743,
+        "lng": 121.60417895208657
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300780,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.970465,
+            121.605389
+          ],
+          "address": "指南路3段40巷草湳橋-4",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da283ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.977716712527005,
+        "lng": 121.58916889552131
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1300783,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978638,
+            121.589617
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300784,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978636,
+            121.589587
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300785,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市文山區",
+          "coords": [
+            24.978579,
+            121.589485
+          ],
+          "address": "指南路3段3段157巷200號(纜車指南宮站)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:44.841Z"
+}

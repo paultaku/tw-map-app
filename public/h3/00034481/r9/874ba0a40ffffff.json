@@ -1,0 +1,597 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a407bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03347612415675,
+        "lng": 121.51748143670997
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400108,
+          "title": "南門市場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03274,
+            121.51852
+          ],
+          "address": "羅斯福路一段8號",
+          "layoutType": "",
+          "hours": "7:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.047691019835707,
+        "lng": 121.52291734618875
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400127,
+          "title": "華山公園-遊戲場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.048206,
+            121.52196
+          ],
+          "address": "市民大道二段上",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40b3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0496978170433,
+        "lng": 121.52077948327583
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400149,
+          "title": "北水處北區營業分處服務台",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.050163,
+            121.521201
+          ],
+          "address": "長安西路3號2樓",
+          "layoutType": "",
+          "hours": "08:30-17:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400151,
+          "title": "中山市場",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05034,
+            121.52178
+          ],
+          "address": "長安西路3號",
+          "layoutType": "",
+          "hours": "8:30-17:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400161,
+          "title": "圖書館長安分館",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.05031,
+            121.52092
+          ],
+          "address": "長安西路3號4樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40bbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.046855078835186,
+        "lng": 121.5196922866635
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400172,
+          "title": "逸仙公園",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04768548,
+            121.5200714
+          ],
+          "address": "中山北路一段46號",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400174,
+          "title": "逸仙公園國父史蹟館",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04793819,
+            121.520168
+          ],
+          "address": "中山北路一段46號",
+          "layoutType": "",
+          "hours": "8:00-17:00",
+          "description": "展覽館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展覽館"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a401bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04033335609659,
+        "lng": 121.51429311658907
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400173,
+          "title": "二二八公園",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04154262,
+            121.5150361
+          ],
+          "address": "凱達格蘭大道3號",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a409bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0471896952238,
+        "lng": 121.51110482347885
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400175,
+          "title": "臺北記憶倉庫",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.0477,
+            121.5124
+          ],
+          "address": "忠孝西路一段265號",
+          "layoutType": "",
+          "hours": "每週二–週日，11:00–19:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.044346944533427,
+        "lng": 121.51001778245188
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400178,
+          "title": "中山堂管理所",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04319964,
+            121.5096928
+          ],
+          "address": "延平南路98號",
+          "layoutType": "",
+          "hours": "每週一至週日，9:30-17:00",
+          "description": "每月週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每月週一休館"
+        },
+        {
+          "id": 3400201,
+          "title": "西門地下街",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.043959,
+            121.509075
+          ],
+          "address": "中華路1段51-1號",
+          "layoutType": "",
+          "hours": "6:00-01:00\n(公共空間及通道開放時間)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.045684097368703,
+        "lng": 121.52505523995666
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400185,
+          "title": "華山市場",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.04438,
+            121.52483
+          ],
+          "address": "臺北市中正區號",
+          "layoutType": "",
+          "hours": "1樓：9:00-19:00\n2樓：\n飲食攤5:00-14:00\n百貨攤9:00-19:00\n（週日1樓及2樓營業時間為9:00-14:00）",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4083ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04802578771252,
+        "lng": 121.51432959767318
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400187,
+          "title": "台北地下街",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.0470259,
+            121.5135772
+          ],
+          "address": "市民大道1段100號",
+          "layoutType": "",
+          "hours": "11:00-21:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400188,
+          "title": "K區地下街",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.047026,
+            121.5135879
+          ],
+          "address": "忠孝西路1段47號",
+          "layoutType": "",
+          "hours": "11:00-22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046019085943207,
+        "lng": 121.51646733952258
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400189,
+          "title": "站前地下街",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.046433,
+            121.515793
+          ],
+          "address": "忠孝西路1段50-1號",
+          "layoutType": "",
+          "hours": "11:00-20:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a406bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03146881403999,
+        "lng": 121.51961918216206
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400190,
+          "title": "中正區行政中心",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03222619,
+            121.5185165
+          ],
+          "address": "羅斯福路一段8號6樓",
+          "layoutType": "",
+          "hours": "週一至週五8:30-17:30\n(例假日及國定假日除外)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400200,
+          "title": "臺北市客家圖書影音中心",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03103163,
+            121.5207282
+          ],
+          "address": "臺北市中正區羅斯福路一段95巷1號",
+          "layoutType": "",
+          "hours": "週二至週六10:00-21:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a400fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03916232748448,
+        "lng": 121.51965573393055
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400205,
+          "title": "中正運動中心",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.03858042,
+            121.5198762
+          ],
+          "address": "信義路1段1號",
+          "layoutType": "",
+          "hours": "6:00-22:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.043510796039982,
+        "lng": 121.50679317255126
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400469,
+          "title": "西門紅樓",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04207,
+            121.50686
+          ],
+          "address": "成都路10號",
+          "layoutType": "",
+          "hours": "週二-週四，11:00-20:00\n週五、週日，11:00-21:00\n週六，11:00-22:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        },
+        {
+          "id": 3400492,
+          "title": "西門町遊客中心",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04436,
+            121.5075
+          ],
+          "address": "漢中街45號",
+          "layoutType": "",
+          "hours": "12:00-21:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.040667959542883,
+        "lng": 121.50570620558837
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400472,
+          "title": "文獻館  常設展廳",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04046,
+            121.50668
+          ],
+          "address": "中華路一段174-1號",
+          "layoutType": "",
+          "hours": "每週二–週日，10:00-17:00",
+          "description": "每週一休館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "每週一休館"
+        },
+        {
+          "id": 3400473,
+          "title": "西門商場",
+          "category": "other",
+          "location": "臺北市萬華區",
+          "coords": [
+            25.04181,
+            121.50609
+          ],
+          "address": "成都路10巷33號",
+          "layoutType": "",
+          "hours": "10:30-2:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

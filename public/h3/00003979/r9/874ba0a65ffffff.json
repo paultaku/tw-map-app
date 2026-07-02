@@ -1,0 +1,907 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a65d7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.112203898638104,
+        "lng": 121.49530868065828
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400244,
+          "title": "基隆河6E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113506,
+            121.494894
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400245,
+          "title": "基隆河7A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113457,
+            121.495627
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400947,
+          "title": "社子39",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11117,
+            121.494012
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400948,
+          "title": "社子40",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.110918,
+            121.494438
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a659bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11504441796188,
+        "lng": 121.4963956168729
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 11400246,
+          "title": "基隆河7B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113675,
+            121.496514
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a658bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.113040604209278,
+        "lng": 121.49853328112131
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 11400247,
+          "title": "基隆河7C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113986,
+            121.497457
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400248,
+          "title": "基隆河7D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114164,
+            121.498213
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400249,
+          "title": "基隆河7E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.114312,
+            121.498948
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400250,
+          "title": "基隆河8A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113663,
+            121.499269
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400251,
+          "title": "基隆河8B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.113074,
+            121.498673
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400252,
+          "title": "基隆河8C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112341,
+            121.498303
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a65c7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.110200007262417,
+        "lng": 121.49744631521251
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400253,
+          "title": "基隆河8D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.110828,
+            121.498369
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400254,
+          "title": "基隆河8E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.109769,
+            121.498509
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a651bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.10819599055786,
+        "lng": 121.49958398068873
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400255,
+          "title": "基隆河9A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.108936,
+            121.498581
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400256,
+          "title": "基隆河9B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.108076,
+            121.498596
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400257,
+          "title": "基隆河9C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.107222,
+            121.498645
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6557ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.105355234088563,
+        "lng": 121.49849700728939
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400258,
+          "title": "基隆河9D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.106408,
+            121.49864
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400259,
+          "title": "基隆河9E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.105495,
+            121.498681
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400260,
+          "title": "基隆河10B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.104682,
+            121.498758
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400261,
+          "title": "基隆河10A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.103864,
+            121.498693
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6543ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.10251439573033,
+        "lng": 121.49741005609154
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400262,
+          "title": "基隆河10C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.102218,
+            121.498889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400957,
+          "title": "社子49",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.102804,
+            121.496113
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400958,
+          "title": "社子50",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.101919,
+            121.496183
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a654fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.100510098473833,
+        "lng": 121.49954769310285
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400263,
+          "title": "基隆河10D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.100443,
+            121.498961
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400264,
+          "title": "基隆河10E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099893,
+            121.49883
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400265,
+          "title": "基隆河10F",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099147,
+            121.499373
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a65d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11136714107424,
+        "lng": 121.4920841927169
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400944,
+          "title": "社子36",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.11274,
+            121.491487
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400945,
+          "title": "社子37",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.112279,
+            121.492334
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400946,
+          "title": "社子38",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.111751,
+            121.493153
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a65c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.10936329740624,
+        "lng": 121.49422176664662
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400949,
+          "title": "社子41",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.109908,
+            121.495226
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400950,
+          "title": "社子42",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.109119,
+            121.495616
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a65cfffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.107359328410286,
+        "lng": 121.49635937150589
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400951,
+          "title": "社子43",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.10826,
+            121.49572
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400952,
+          "title": "社子44",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.107368,
+            121.495788
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400953,
+          "title": "社子45",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.10647,
+            121.495856
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6553ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.10451856766641,
+        "lng": 121.4952724500015
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400954,
+          "title": "社子46",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.105569,
+            121.495928
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400955,
+          "title": "社子47",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.104625,
+            121.496005
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400956,
+          "title": "社子48",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.103686,
+            121.496043
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a654bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.099673475496704,
+        "lng": 121.49632312709525
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400959,
+          "title": "社子51",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.101078,
+            121.4963
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400960,
+          "title": "社子52",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.10019,
+            121.496341
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400961,
+          "title": "社子53",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.099282,
+            121.496289
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:15.295Z"
+}

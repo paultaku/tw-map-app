@@ -1,0 +1,1705 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4627ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.035818202444403,
+        "lng": 121.50675679253264
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500051,
+          "title": "台北花園大酒店股份有限公司",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.03645563,
+            121.5068646
+          ],
+          "address": "中華路二段1號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "本館大廳，櫃檯中心右前方，客梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本館大廳，櫃檯中心右前方，客梯旁"
+        },
+        {
+          "id": 5500795,
+          "title": "內政部移民署台北市服務站",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.036052,
+            121.507998
+          ],
+          "address": "廣州街15號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "一樓服務台旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓服務台旁邊"
+        },
+        {
+          "id": 5500994,
+          "title": "內政部警政署警察廣播電臺",
+          "category": "other",
+          "location": "63000050",
+          "coords": [
+            25.035916,
+            121.507491
+          ],
+          "address": "廣州街17號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500137,
+          "title": "臺北市公有環南市場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.029942,
+            121.489814
+          ],
+          "address": "環河南路二段245號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "環南市場清潔辦公室前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "環南市場清潔辦公室前"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4603ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.035316260299084,
+        "lng": 121.49494641710433
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500140,
+          "title": "財團法人臺北市私立愛愛院",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.034614,
+            121.495453
+          ],
+          "address": "大理街175巷27號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓接待大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓接待大廳"
+        },
+        {
+          "id": 5500486,
+          "title": "臺北市萬華區龍山國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036439,
+            121.495917
+          ],
+          "address": "和平西路3段235號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心內部",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心內部"
+        },
+        {
+          "id": 5502046,
+          "title": "臺北市政府環境保護局萬華區清潔隊昆明分隊",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03554096,
+            121.4947582
+          ],
+          "address": "和平西路三段251號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進門後左手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進門後左手邊"
+        },
+        {
+          "id": 5502725,
+          "title": "臺北市萬華區龍山國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036439,
+            121.495917
+          ],
+          "address": "和平西路3段235號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心室內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a463bffff",
+      "res": 9,
+      "count": 14,
+      "center": {
+        "lat": 25.034145828944023,
+        "lng": 121.50030799641414
+      },
+      "categories": {
+        "other": 14
+      },
+      "points": [
+        {
+          "id": 5500144,
+          "title": "臺北市萬華區戶政事務所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03467,
+            121.499877
+          ],
+          "address": "和平西路三段120號4樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "服務台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務台旁"
+        },
+        {
+          "id": 5500164,
+          "title": "臺北市萬華區公所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.035002,
+            121.499888
+          ],
+          "address": "和平西路3段120號11樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "11樓服務台後側左方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "11樓服務台後側左方"
+        },
+        {
+          "id": 5500176,
+          "title": "交通部臺灣鐵路管理局臺北運務段萬華站",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033349,
+            121.500442
+          ],
+          "address": "康定路382號",
+          "layoutType": "台鐵車站",
+          "hours": "詳見官方網站",
+          "description": "月台在地下層.行車室在第8車位置.",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "月台在地下層.行車室在第8車位置."
+        },
+        {
+          "id": 5500559,
+          "title": "交通部臺灣鐵路管理局臺北運務段萬華站",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033349,
+            121.500442
+          ],
+          "address": "康定路382號",
+          "layoutType": "台鐵車站",
+          "hours": "詳見官方網站",
+          "description": "萬華站西剪票口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "萬華站西剪票口"
+        },
+        {
+          "id": 5500721,
+          "title": "臺北市政府警察局萬華分局康定路派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.035082,
+            121.50051
+          ],
+          "address": "和平西路3段112號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "辦公室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室內"
+        },
+        {
+          "id": 5500875,
+          "title": "臺北市建成地政事務所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.035002,
+            121.499888
+          ],
+          "address": "和平西路3段120號7-9樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "洽公民眾能立即發現擺放位置",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "洽公民眾能立即發現擺放位置"
+        },
+        {
+          "id": 5501040,
+          "title": "馥裕商旅股份有限公司萬大分公司(凱達大飯店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033267,
+            121.499664
+          ],
+          "address": "艋舺大道167號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "交三停車塔警衛室旁的電梯間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "交三停車塔警衛室旁的電梯間"
+        },
+        {
+          "id": 5501041,
+          "title": "馥裕商旅股份有限公司萬大分公司(凱達大飯店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033267,
+            121.499664
+          ],
+          "address": "艋舺大道167號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "1樓大廳門口行李車停放處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓大廳門口行李車停放處"
+        },
+        {
+          "id": 5501042,
+          "title": "馥裕商旅股份有限公司萬大分公司(凱達大飯店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033267,
+            121.499664
+          ],
+          "address": "艋舺大道167號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "3F手扶梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3F手扶梯旁"
+        },
+        {
+          "id": 5501043,
+          "title": "馥裕商旅股份有限公司萬大分公司(凱達大飯店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033267,
+            121.499664
+          ],
+          "address": "艋舺大道167號",
+          "layoutType": "飯店",
+          "hours": "詳見官方網站",
+          "description": "8F健身中心跑步機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "8F健身中心跑步機旁"
+        },
+        {
+          "id": 5501287,
+          "title": "艋舺就業服務站",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033444,
+            121.501374
+          ],
+          "address": "艋舺大道101號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市萬華區艋舺大道101號3樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市萬華區艋舺大道101號3樓"
+        },
+        {
+          "id": 5501443,
+          "title": "臺北市勞動力重建運用處",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03335,
+            121.499863
+          ],
+          "address": "艋舺大道101號4樓、5樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "總收文處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "總收文處"
+        },
+        {
+          "id": 5501684,
+          "title": "臺北捷運龍山寺站BL10",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.035338,
+            121.499814
+          ],
+          "address": "西園路1段153號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "捷運龍山寺站B1層付費區靠近西側詢問處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "捷運龍山寺站B1層付費區靠近西側詢問處"
+        },
+        {
+          "id": 5502590,
+          "title": "臺北市勞動檢查處",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03346,
+            121.501347
+          ],
+          "address": "艋舺大道101號7樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "7樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "7樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4607ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.036152572463696,
+        "lng": 121.49817058586827
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500151,
+          "title": "華西街臨時攤販集中場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.037647,
+            121.498361
+          ],
+          "address": "華西街，位於廣州街至西園路一段72巷口",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "華西街商圈區協會辦公室(台北市華西街28之1號2樓)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "華西街商圈區協會辦公室(台北市華西街28之1號2樓)"
+        },
+        {
+          "id": 5500250,
+          "title": "臺北市龍山寺地下街商場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036085,
+            121.499544
+          ],
+          "address": "西園路1段145號 B1 行政中心",
+          "layoutType": "地下街",
+          "hours": "詳見官方網站",
+          "description": "B1 B區廣場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "B1 B區廣場"
+        },
+        {
+          "id": 5500967,
+          "title": "臺北市萬華龍山老人服務中心",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.037357,
+            121.497388
+          ],
+          "address": "梧州街36號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於三樓中庭角落",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於三樓中庭角落"
+        },
+        {
+          "id": 5502212,
+          "title": "台北市廣州街臨時攤販集中場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0367026,
+            121.4970056
+          ],
+          "address": "廣州街220號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "本救護設備屬於台北市廣州街攤販集中場設備設置於大東牛排館店外（廣州街220號）開放空間以利救護取得器材",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本救護設備屬於台北市廣州街攤販集中場設備設置於大東牛排館店外（廣州街220號）開放空間以利救護取得器材"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a467bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0276233037428,
+        "lng": 121.49491019600555
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500152,
+          "title": "臺北市立華江高級中學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.028594,
+            121.496058
+          ],
+          "address": "西藏路213號(健康中心)",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心"
+        },
+        {
+          "id": 5500707,
+          "title": "臺北市政府警察局萬華分局西園路派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.028137,
+            121.495632
+          ],
+          "address": "東園街17號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "值勤臺後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "值勤臺後方"
+        },
+        {
+          "id": 5501957,
+          "title": "臺市立華江高級中學運動中心(舞動陽光有限公司)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.028594,
+            121.496058
+          ],
+          "address": "西藏路213號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "運動中心一樓櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "運動中心一樓櫃台旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4633ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03698883283186,
+        "lng": 121.50139486711169
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500222,
+          "title": "剝皮寮歷史街區西側",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036768,
+            121.501879
+          ],
+          "address": "廣州街151號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "位於廣州街155號後門相接廣場處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於廣州街155號後門相接廣場處"
+        },
+        {
+          "id": 5500380,
+          "title": "剝皮寮歷史街區西側",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036768,
+            121.501879
+          ],
+          "address": "廣州街151號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "放置於遊客諮詢中心內(康定路173巷33號)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於遊客諮詢中心內(康定路173巷33號)"
+        },
+        {
+          "id": 5500928,
+          "title": "臺北市萬華區老松國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.038046,
+            121.502725
+          ],
+          "address": "桂林路64號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "川堂面對警衛室的右手邊角",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "川堂面對警衛室的右手邊角"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4657ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.031636880241766,
+        "lng": 121.49063564578903
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500383,
+          "title": "臺北市立大理高級中學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03022,
+            121.490958
+          ],
+          "address": "長順街2號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "長順街學校大門入口直行哲學大道至底",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "長順街學校大門入口直行哲學大道至底"
+        },
+        {
+          "id": 5502479,
+          "title": "長順區民活動中心",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.031361,
+            121.4907293
+          ],
+          "address": "長順街臨127號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "活動中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03247324825318,
+        "lng": 121.493859650171
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500440,
+          "title": "糖部文化園區",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033203,
+            121.495065
+          ],
+          "address": "大理街132-10號",
+          "layoutType": "文化園區",
+          "hours": "詳見官方網站",
+          "description": "位於台北市萬華區大理街底",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於台北市萬華區大理街底"
+        },
+        {
+          "id": 5501720,
+          "title": "臺北市萬華區大理國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.031305,
+            121.493913
+          ],
+          "address": "艋舺大道389號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "健康中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4637ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.037825041391397,
+        "lng": 121.50461926081998
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500488,
+          "title": "家福股份有限公司台北桂林分公司(家樂福桂林店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.037743,
+            121.50629
+          ],
+          "address": "桂林路1號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "3F",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3F"
+        },
+        {
+          "id": 5500800,
+          "title": "鳳凰體能訓練中心",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0386173,
+            121.5054883
+          ],
+          "address": "柳州街31-1",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "進門後右手邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進門後右手邊"
+        },
+        {
+          "id": 5500970,
+          "title": "臺北市鄉土教育中心",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036655,
+            121.503279
+          ],
+          "address": "廣州街101號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "鄉土教育中心服務台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "鄉土教育中心服務台"
+        },
+        {
+          "id": 5501458,
+          "title": "財團法人台北市中華基督教青年會萬華會館",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.038275,
+            121.503806
+          ],
+          "address": "昆明街290號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "於本館1樓泳池外櫃台區的明顯處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "於本館1樓泳池外櫃台區的明顯處"
+        },
+        {
+          "id": 5501548,
+          "title": "家福股份有限公司台北桂林分公司(家樂福桂林店)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.037743,
+            121.50629
+          ],
+          "address": "桂林路1號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "三樓廁所門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "三樓廁所門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4623ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.034982041599108,
+        "lng": 121.50353233824625
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500578,
+          "title": "北都汽車股份有限公司-萬大廠",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.033782,
+            121.502704
+          ],
+          "address": "艋舺大道91號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "客戶休息室2號桌旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "客戶休息室2號桌旁"
+        },
+        {
+          "id": 5500930,
+          "title": "臺北市立龍山國民中學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036077,
+            121.504618
+          ],
+          "address": "南寧路46號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門口穿堂右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門口穿堂右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a462bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.032138960179584,
+        "lng": 121.50244543786722
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500706,
+          "title": "臺北市政府警察局萬華分局莒光派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.031112,
+            121.502761
+          ],
+          "address": "莒光路171號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "一樓值勤台及大門旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓值勤台及大門旁"
+        },
+        {
+          "id": 5502129,
+          "title": "頂碩區民活動中心",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0322385,
+            121.5020158
+          ],
+          "address": "興寧街2號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進入左側牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進入左側牆壁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500712,
+          "title": "臺北市政府警察局萬華分局西門町派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.045083,
+            121.502865
+          ],
+          "address": "康定路22號1樓",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "進入大門口右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入大門口右邊"
+        },
+        {
+          "id": 5501072,
+          "title": "享樂文旅飯店股份有限公司康定分公司",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.044001,
+            121.502627
+          ],
+          "address": "康定路32號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "飯店大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "飯店大廳"
+        },
+        {
+          "id": 5501261,
+          "title": "豪景大酒店",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.044624,
+            121.501439
+          ],
+          "address": "環河南路一段77號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "豪景大酒店四樓客用電梯出來右手邊健身房內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "豪景大酒店四樓客用電梯出來右手邊健身房內"
+        },
+        {
+          "id": 5501262,
+          "title": "豪景大酒店",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.044624,
+            121.501439
+          ],
+          "address": "環河南路一段77號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門左方等待區電腦旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門左方等待區電腦旁"
+        },
+        {
+          "id": 5502020,
+          "title": "臺北市政府環境保護局萬華區清潔隊青年分隊",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04427837,
+            121.5016253
+          ],
+          "address": "成都路臨173號之1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進去右邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進去右邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038995498816725,
+        "lng": 121.49925742688205
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500715,
+          "title": "臺北市政府警察局萬華分局龍山派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03858,
+            121.499354
+          ],
+          "address": "桂林路135號1樓",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "一樓值班台旁(面對值班台右手邊)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓值班台旁(面對值班台右手邊)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a460fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.033309564491322,
+        "lng": 121.49708376705088
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500716,
+          "title": "臺北市政府警察局萬華分局大理街派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.034403,
+            121.498298
+          ],
+          "address": "大理街99號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "大門入口左側-臨近萬華商圈",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口左側-臨近萬華商圈"
+        },
+        {
+          "id": 5502453,
+          "title": "和平青草園",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03271143,
+            121.4973483
+          ],
+          "address": "西園路二段42號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "和平青草園綠化教室門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "和平青草園綠化教室門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a461bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.034479896350202,
+        "lng": 121.4917223608344
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500718,
+          "title": "臺北市政府警察局萬華分局華江派出所",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.034285,
+            121.493218
+          ],
+          "address": "環河南路2段196號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "臺北市政府警察局萬華分局華江派出所值勤台右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市政府警察局萬華分局華江派出所值勤台右側"
+        },
+        {
+          "id": 5501942,
+          "title": "臺北市萬華區華江國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0340872,
+            121.4912696
+          ],
+          "address": "環河南路2段250巷42弄2號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "穿堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500719,
+          "title": "臺北市政府警察局交通警察大隊萬華分隊",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.036893,
+            121.495492
+          ],
+          "address": "環河南路2段102號6樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "設置於單位值班台入口前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "設置於單位值班台入口前"
+        },
+        {
+          "id": 5502084,
+          "title": "臺北市政府環境保護局資源回收隊萬華展示場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.03693,
+            121.495459
+          ],
+          "address": "環河南路2段102號1.2樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "展示場二樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展示場二樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4663ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.028459576332395,
+        "lng": 121.49813432160592
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500778,
+          "title": "臺北市立萬華國民中學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.029107,
+            121.498835
+          ],
+          "address": "西藏路201號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "敦品樓一樓電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "敦品樓一樓電梯旁"
+        },
+        {
+          "id": 5501849,
+          "title": "臺北市立南海實驗幼兒園",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.0296732,
+            121.4976095
+          ],
+          "address": "西藏路424號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "穿堂左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "穿堂左側"
+        },
+        {
+          "id": 5502256,
+          "title": "萬華國中地下停車場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.027835,
+            121.49926
+          ],
+          "address": "西藏路201號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.042674595703705,
+        "lng": 121.50356867509312
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 5500830,
+          "title": "國立臺北護理健康大學(城區部)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.041755,
+            121.503359
+          ],
+          "address": "內江街89號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "學生活動中心與男生宿舍一樓外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學生活動中心與男生宿舍一樓外"
+        },
+        {
+          "id": 5501212,
+          "title": "臺北市萬華區西門國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.043172,
+            121.503597
+          ],
+          "address": "成都路98號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "游泳池入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "游泳池入口右側"
+        },
+        {
+          "id": 5501250,
+          "title": "合作金庫商業銀行-西門分行",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04320749,
+            121.5049533
+          ],
+          "address": "昆明街77號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓往2樓櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓往2樓櫃台旁"
+        },
+        {
+          "id": 5501304,
+          "title": "釋放體能工作室",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.04286349,
+            121.5048711
+          ],
+          "address": "昆明街79號2樓之2",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "玻璃門內右側置物櫃上方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "玻璃門內右側置物櫃上方"
+        },
+        {
+          "id": 5502295,
+          "title": "臺北市萬華區西門國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.043172,
+            121.503597
+          ],
+          "address": "成都路98號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "川堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "川堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4677ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03130274343967,
+        "lng": 121.49922114791217
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500925,
+          "title": "萬華靜思堂",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.031333,
+            121.500265
+          ],
+          "address": "莒光路222號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進去電梯旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進去電梯旁邊"
+        },
+        {
+          "id": 5502329,
+          "title": "臺北市萬華區雙園國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.030891,
+            121.497964
+          ],
+          "address": "莒光路315號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "在莒光路校門之警衛室門口進入之左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "在莒光路校門之警衛室門口進入之左側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.026786979389797,
+        "lng": 121.49168618289642
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501178,
+          "title": "雙園國中室內綜合球館-舞動陽光有限公司",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.027812,
+            121.491591
+          ],
+          "address": "西園路二段320巷55弄3號5樓",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "雙園國中綜合大樓5樓體育館入口處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "雙園國中綜合大樓5樓體育館入口處"
+        },
+        {
+          "id": 5501403,
+          "title": "加勒比健康事業股份有限公司(日本伊藤萬台北艋舺校)",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.027829,
+            121.491611
+          ],
+          "address": "西園路二段320巷55弄3號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "雙園國中的游泳池民眾休息區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "雙園國中的游泳池民眾休息區"
+        },
+        {
+          "id": 5502275,
+          "title": "雙園國中地下停車場",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.027829,
+            121.491611
+          ],
+          "address": "西園路2段320巷55弄3號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502330,
+          "title": "臺北市立雙園國民中學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.027554,
+            121.492646
+          ],
+          "address": "興義街2號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "大門警衛室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門警衛室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502065,
+          "title": "臺北市政府環境保護局萬華區清潔隊漢中分隊",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.041776,
+            121.499802
+          ],
+          "address": "環河南路一段臨280-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "左邊辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "左邊辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033643480629195,
+        "lng": 121.488498417073
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502087,
+          "title": "臺北市政府環境保護局萬華區清潔隊大理分隊",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.032546,
+            121.488772
+          ],
+          "address": "長順街臨131號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進去左邊辦公室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進去左邊辦公室內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03983175508963,
+        "lng": 121.50248176000473
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502119,
+          "title": "第一商業銀行萬華分行",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.039973,
+            121.502116
+          ],
+          "address": "康定路87號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門入口處右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門入口處右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a466fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026452552513188,
+        "lng": 121.50027170369371
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502582,
+          "title": "臺北市萬華區西園國民小學",
+          "category": "other",
+          "location": "63000070",
+          "coords": [
+            25.026663,
+            121.498884
+          ],
+          "address": "東園街73巷65號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "書香樓一樓走廊(靠近警衛室)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "書香樓一樓走廊(靠近警衛室)"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

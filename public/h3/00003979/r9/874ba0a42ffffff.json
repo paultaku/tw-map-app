@@ -1,0 +1,803 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4253ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.016751085088643,
+        "lng": 121.50237279646704
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400816,
+          "title": "新店溪05H Xindian-05H",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01599167,
+            121.5011178
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400817,
+          "title": "新店溪05I Xindian-05I",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01650717,
+            121.501989
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400818,
+          "title": "新店溪05J Xindian-05J",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01693333,
+            121.5027983
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400819,
+          "title": "新店溪05K Xindian-05K",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01738333,
+            121.5035186
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42cfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.019594647912154,
+        "lng": 121.5034596674285
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400820,
+          "title": "新店溪05L Xindian-05L",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01825,
+            121.5035556
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400821,
+          "title": "新店溪05N Xindian-05N",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01908333,
+            121.505
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a421bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.020430729647668,
+        "lng": 121.50668403537499
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400822,
+          "title": "新店溪06A Xindian-06A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01944444,
+            121.5053889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400823,
+          "title": "新店溪06B Xindian-06B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01991667,
+            121.5058889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400824,
+          "title": "新店溪06C Xindian-06C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02061111,
+            121.5065556
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400825,
+          "title": "新店溪06D Xindian-06D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02113889,
+            121.5070556
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4213ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.023274206839815,
+        "lng": 121.50777098039968
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400826,
+          "title": "新店溪06E Xindian-06E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02184167,
+            121.5078885
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400827,
+          "title": "新店溪06F Xindian-06F",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.022225,
+            121.508561
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4203ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.021266759602963,
+        "lng": 121.5099085157557
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400828,
+          "title": "新店溪06G Xindian-06G",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02258611,
+            121.5094657
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400837,
+          "title": "新店溪06P Xindian-06P",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02256667,
+            121.5105383
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4217ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.024110232719885,
+        "lng": 121.51099551264618
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400829,
+          "title": "新店溪06H Xindian-06H",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02295278,
+            121.5102555
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400830,
+          "title": "新店溪06I Xindian-06I",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02324722,
+            121.511307
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400831,
+          "title": "新店溪06J Xindian-06J",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02366667,
+            121.5121111
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400838,
+          "title": "新店溪06Q Xindian-06Q",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02272599,
+            121.5115194
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42abffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.024946206796557,
+        "lng": 121.51422015730843
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400832,
+          "title": "新店溪06K Xindian-06K",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02378333,
+            121.5131749
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400833,
+          "title": "新店溪06L Xindian-06L",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02373611,
+            121.5144438
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4233ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.022938664124315,
+        "lng": 121.5163578137618
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 11400834,
+          "title": "新店溪06M Xindian-06M",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02360749,
+            121.5152194
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400835,
+          "title": "新店溪06N Xindian-06N",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.023175,
+            121.5158172
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400836,
+          "title": "新店溪06O Xindian-06O",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02243118,
+            121.5157972
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400842,
+          "title": "新店溪06U Xindian-06U",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02185556,
+            121.5156492
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400843,
+          "title": "中正橋 Zhongzheng Bridge 新店溪右岸",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02156929,
+            121.5165524
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4207ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.022102737765913,
+        "lng": 121.51313310855619
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400839,
+          "title": "新店溪06R Xindian-06R",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02275758,
+            121.5124556
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400840,
+          "title": "新店溪06S Xindian-06S",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02242778,
+            121.5134085
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400841,
+          "title": "新店溪06T Xindian-06T",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02219487,
+            121.5144694
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4223ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02093099622013,
+        "lng": 121.51849550108314
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400844,
+          "title": "新店溪07A Xindian-07A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02100673,
+            121.5184417
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400845,
+          "title": "新店溪07B Xindian-07B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02075,
+            121.51975
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a422fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.01892320308635,
+        "lng": 121.52063321926714
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400846,
+          "title": "新店溪07C Xindian-07C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02009692,
+            121.5202528
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400847,
+          "title": "新店溪07D Xindian-07D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01945478,
+            121.5212222
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400848,
+          "title": "新店溪07E Xindian-07E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01886111,
+            121.5220278
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401013,
+          "title": "新店溪右岸5.5KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.01968724,
+            121.5209757
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a42bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02695362423463,
+        "lng": 121.51208253172835
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 11401011,
+          "title": "新店溪右岸4.5KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0279068,
+            121.5120948
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:15.295Z"
+}

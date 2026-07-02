@@ -1,0 +1,525 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d36d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.08179097355043,
+        "lng": 121.58537791011828
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400206,
+          "title": "碧湖公園",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.082405,
+            121.585547
+          ],
+          "address": "內湖路二段175號",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.078113773421737,
+        "lng": 121.58106236915597
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400209,
+          "title": "文德3號公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07792151,
+            121.58043
+          ],
+          "address": "文德路50號至江南街71巷16弄.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3617ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.081453582726574,
+        "lng": 121.59397215582398
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400213,
+          "title": "清白公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0822,
+            121.59452
+          ],
+          "address": "成功路四段167巷16號對面 (康寧國小旁)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.085130556228933,
+        "lng": 121.59828835217591
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400215,
+          "title": "成功公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08428,
+            121.59721
+          ],
+          "address": "成功路四段旁223巷旁",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        },
+        {
+          "id": 3400242,
+          "title": "煙波庭公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08634,
+            121.59929
+          ],
+          "address": "大湖街131巷18弄61號對面.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07610655251421,
+        "lng": 121.58320140743788
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400226,
+          "title": "文德二號公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07692393,
+            121.5837167
+          ],
+          "address": "文德路208巷加油站旁.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3693ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.087475066591836,
+        "lng": 121.58755450149579
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400227,
+          "title": "金瑞公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08798,
+            121.58798
+          ],
+          "address": "金龍路213巷1弄旁.(原為金湖公園)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3687ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.086302947917215,
+        "lng": 121.59292129516894
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400228,
+          "title": "碧山公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.086914,
+            121.591932
+          ],
+          "address": "內湖路三段60巷11號對面",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3607ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.0794461708444,
+        "lng": 121.59611143531951
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400229,
+          "title": "福壽公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.0798,
+            121.59661
+          ],
+          "address": "星雲街150巷18號旁.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d367bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.070918977693076,
+        "lng": 121.5928462263172
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 3400231,
+          "title": "湖聖公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.06981,
+            121.59182
+          ],
+          "address": "成功路二段305巷11號旁.(四期重劃)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400252,
+          "title": "大華湖閱通道",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069972,
+            121.591611
+          ],
+          "address": "成功路二段317巷、317巷50弄口",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.083123174149577,
+        "lng": 121.60042772153987
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400237,
+          "title": "湖山六號公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08303,
+            121.60203
+          ],
+          "address": "大湖街166巷大湖派出所後方.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "直飲台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "直飲台"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3667ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.07258850039821,
+        "lng": 121.59930160200193
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400239,
+          "title": "麗湖公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.07339,
+            121.60052
+          ],
+          "address": "金湖路363巷67弄63號對面.(四期重劃)",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.069249246263464,
+        "lng": 121.58639129885292
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400245,
+          "title": "湖元公園-遊戲場",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.06827857,
+            121.5870426
+          ],
+          "address": "民權東路六段120巷3弄1號對面.",
+          "layoutType": "",
+          "hours": "24小時",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.070084138062754,
+        "lng": 121.58961870655017
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 3400259,
+          "title": "內湖區行政中心",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.069226,
+            121.588922
+          ],
+          "address": "民權東路六段99號4樓",
+          "layoutType": "",
+          "hours": "週一至週五8:30-17:30\n(例假日及國定假日除外)",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 3400261,
+          "title": "臺北市政府消防局防災科學教育館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.06933,
+            121.59043
+          ],
+          "address": "成功路二段376號",
+          "layoutType": "",
+          "hours": "每日09:00~12:00 / 14:00~17:00 \n(週一休館)",
+          "description": "預計115年1月1日至8月31日休館。暫訂115年9月1日開館(每週一休館)",
+          "image": "",
+          "management": "",
+          "phone": "(02)27919786",
+          "notes": "預計115年1月1日至8月31日休館。暫訂115年9月1日開館(每週一休館)"
+        },
+        {
+          "id": 3400262,
+          "title": "圖書館內湖分館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.06927802,
+            121.5897117
+          ],
+          "address": "民權東路六段99號6樓",
+          "layoutType": "",
+          "hours": "週日、週一:\n9:00-17:00\n週二~週六:\n8:30-21:00",
+          "description": "國定假日、每月第一個星期四為休館日",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "國定假日、每月第一個星期四為休館日"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d368bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.082625947531767,
+        "lng": 121.58860535252855
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 3400260,
+          "title": "內湖公民會館",
+          "category": "other",
+          "location": "臺北市內湖區",
+          "coords": [
+            25.08179,
+            121.58963
+          ],
+          "address": "內湖路二段342號",
+          "layoutType": "",
+          "hours": "週二至週日\n8:30-17:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:50.589Z"
+}

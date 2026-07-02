@@ -1,0 +1,495 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d32a3ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.071076250516175,
+        "lng": 121.61326458169881
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 2800070,
+          "title": "翰你吃麵店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070118,
+            121.612844
+          ],
+          "address": "臺北市內湖區康寧路3段189巷12弄9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800245,
+          "title": "霜寅企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07015,
+            121.612459
+          ],
+          "address": "臺北市內湖區康寧路3段189巷10號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800274,
+          "title": "雪承冰坊商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069697,
+            121.613647
+          ],
+          "address": "臺北市內湖區東湖路43巷21號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800281,
+          "title": "杰出風格東山鴨頭店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069754,
+            121.61377
+          ],
+          "address": "臺北市內湖區東湖路43巷18之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800284,
+          "title": "沐源商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069773,
+            121.613058
+          ],
+          "address": "臺北市內湖區東湖路33巷24號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800374,
+          "title": "微笑果昔小舖",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069942,
+            121.612881
+          ],
+          "address": "臺北市內湖區康寧路3段189巷12弄16號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800458,
+          "title": "熊霖日式商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.07015,
+            121.612459
+          ],
+          "address": "臺北市內湖區康寧路3段189巷10號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800606,
+          "title": "炒驛小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069789,
+            121.61374
+          ],
+          "address": "臺北市內湖區東湖路43巷18之4號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801085,
+          "title": "十八烏龍院茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071131,
+            121.612088
+          ],
+          "address": "臺北市內湖區康寧路3段165巷18號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d32afffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06906799140591,
+        "lng": 121.61540416567163
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2800187,
+          "title": "東湖藥局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069088,
+            121.614148
+          ],
+          "address": "臺北市內湖區東湖路43巷2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800507,
+          "title": "禾寶企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068759,
+            121.616612
+          ],
+          "address": "臺北市內湖區東湖路119巷4號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800765,
+          "title": "民禾工程行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069106,
+            121.615311
+          ],
+          "address": "臺北市內湖區東湖路113巷5號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800877,
+          "title": "郭貼餃子殿",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069372,
+            121.613935
+          ],
+          "address": "臺北市內湖區東湖路43巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3287ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.072249853491115,
+        "lng": 121.60789688823684
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800403,
+          "title": "梅森莉菈法式甜點店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.071353,
+            121.607785
+          ],
+          "address": "臺北市內湖區民權東路6段296巷46之3號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3293ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.073423183448703,
+        "lng": 121.60252945789033
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800560,
+          "title": "喜渥攝影工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.073696,
+            121.603932
+          ],
+          "address": "臺北市內湖區金湖路358巷2號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3283ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.071415270408096,
+        "lng": 121.604668860091
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2800659,
+          "title": "鼎郝乾洗商店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.072044,
+            121.606196
+          ],
+          "address": "臺北市內湖區民權東路6段296巷27號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800752,
+          "title": "東引快刀手麵食館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.072379,
+            121.605267
+          ],
+          "address": "臺北市內湖區民權東路6段288號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801128,
+          "title": "鼎郝乾洗商店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.072044,
+            121.606196
+          ],
+          "address": "臺北市內湖區民權東路6段296巷27號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3267ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05853081249295,
+        "lng": 121.61427763950475
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800755,
+          "title": "瑞豐商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.058743,
+            121.614969
+          ],
+          "address": "臺北市南港區經貿二路186之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3237ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.067059607014752,
+        "lng": 121.61754378028165
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800911,
+          "title": "五分藥局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.067191,
+            121.615956
+          ],
+          "address": "臺北市內湖區五分街64號1樓及66號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d326fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05568771701701,
+        "lng": 121.61318897024029
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800989,
+          "title": "森時光商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055736,
+            121.611613
+          ],
+          "address": "臺北市南港區新民街63號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.592Z"
+}

@@ -1,0 +1,711 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4887ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04650638856597,
+        "lng": 121.57768587879241
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800019,
+          "title": "松隆路與松山路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04801,
+            121.57776
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-01:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800156,
+          "title": "松山路永吉路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04542,
+            121.577774
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-07:50、12:00-12:30、15:30-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.039984867930634,
+        "lng": 121.57228296772102
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800081,
+          "title": "松高路與忠孝東路5段236巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03896,
+            121.571846
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、12:00-12:30、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03831473683683,
+        "lng": 121.56582974856552
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800088,
+          "title": "松高路與松智路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039093,
+            121.565506
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800328,
+          "title": "松高路　　　　新光三越",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.039076,
+            121.56712
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48cbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.036306430515953,
+        "lng": 121.56796837226626
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 1800090,
+          "title": "松仁路與松壽路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035805,
+            121.56834
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[平日]12:00-14:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800319,
+          "title": "松壽路　　　　信義威秀",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035835,
+            121.56692
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800323,
+          "title": "松仁路 89號",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.037405,
+            121.56842
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "全日",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4827ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03930719482746,
+        "lng": 121.58946875371119
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800091,
+          "title": "福德街373巷與成福路211巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.040365,
+            121.59063
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[平日]07:00-09:00、11:30-12:30、16:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4803ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038811405894272,
+        "lng": 121.57764855027023
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800093,
+          "title": "松山路與松德路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03955,
+            121.57781
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4817ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041654790886525,
+        "lng": 121.57873663543114
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800100,
+          "title": "忠孝東路5段524巷及621巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041523,
+            121.57919
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-07:50、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a488fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.043663162914054,
+        "lng": 121.5765978010662
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800106,
+          "title": "松山路與虎林街89巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.043226,
+            121.57777
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-07:50、12:00-12:30、15:30-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48a7ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.046167800104467,
+        "lng": 121.58627896246522
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 1800111,
+          "title": "東新街108巷與東新街80巷9弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04593,
+            121.58788
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、12:00-12:30、15:30-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800184,
+          "title": "同德路與成福路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046047,
+            121.585815
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[平日]07:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800213,
+          "title": "東新街與108巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04652,
+            121.58781
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、11:30-12:30、15:30-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800255,
+          "title": "東新街65號　　成德國小",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04675,
+            121.58689
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、11:30-12:30、15:30-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800256,
+          "title": "同德路　　　　東新街80巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.046377,
+            121.58698
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、11:30-12:30、15:30-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a480fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03680283110857,
+        "lng": 121.57978738575031
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1800115,
+          "title": "福德街與林口街",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036367,
+            121.57912
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 1800116,
+          "title": "信義路六段與松山路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036236,
+            121.57844
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]06:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4893ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.047679531206033,
+        "lng": 121.57232022452263
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800133,
+          "title": "松隆路與松信路口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.04686,
+            121.57212
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-07:50、12:00-12:20、16:00-16:20",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4873ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03395928679847,
+        "lng": 121.57869929315544
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800147,
+          "title": "松山路650巷15弄口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.032764,
+            121.57897
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:20、16:00-18:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a489bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044836378753512,
+        "lng": 121.57123222819492
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800166,
+          "title": "永吉路與松信路",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.045586,
+            121.57209
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:20-07:50、12:00-12:20、16:00-16:20",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4833ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.040481129261256,
+        "lng": 121.58410256286406
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800171,
+          "title": "中坡南路201巷口",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041515,
+            121.585464
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-19:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4857ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03513299503117,
+        "lng": 121.57333370093221
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800196,
+          "title": "松德路168巷與松德路168巷12弄",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.036512,
+            121.573555
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]一、三至五07:00-08:00、12:00-12:40、16:00-16:30、週二07:00-08:00、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041158057204804,
+        "lng": 121.56691764874788
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800205,
+          "title": "忠孝東路5段22巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.041117,
+            121.56614
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[每日]07:00-23:00",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4823ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038472458990334,
+        "lng": 121.58624151897924
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1800235,
+          "title": "福德街　　　　福德街268巷",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.038847,
+            121.58602
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "[上課期間]07:00-08:00、12:00-12:20、16:00-16:30",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:45.938Z"
+}

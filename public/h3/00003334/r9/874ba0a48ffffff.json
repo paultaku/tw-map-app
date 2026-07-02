@@ -1,0 +1,451 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a48cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.036306430515953,
+        "lng": 121.56796837226626
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900118,
+          "title": "BMF 動空間",
+          "category": "culture",
+          "location": "中山",
+          "coords": [
+            25.0372,
+            121.5687
+          ],
+          "address": "臺北市信義區松仁路89號地下2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900325,
+          "title": "健身工廠台北信義廠",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0355,
+            121.5677
+          ],
+          "address": "臺北市信義區松壽路22號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4897ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04851455782381,
+        "lng": 121.57554704554413
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900270,
+          "title": "Curves 松山店",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0498,
+            121.576
+          ],
+          "address": "臺北市松山區八德路四段666號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4883ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04567140968799,
+        "lng": 121.57445899742827
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900303,
+          "title": "KAT Know&Apply Training",
+          "category": "culture",
+          "location": "松山",
+          "coords": [
+            25.0453,
+            121.5748
+          ],
+          "address": "臺北市信義區永吉路302號地下一樓、地下一樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900311,
+          "title": "KAT Fitness",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0453,
+            121.5748
+          ],
+          "address": "臺北市信義區永吉路302號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48d7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.04199314447861,
+        "lng": 121.57014425404289
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900306,
+          "title": "Curves 市府永春店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0411,
+            121.5707
+          ],
+          "address": "臺北市信義區忠孝東路五段259號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900321,
+          "title": "平衡運動教室",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0412,
+            121.5696
+          ],
+          "address": "臺北市信義區忠孝東路五段201號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4817ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.041654790886525,
+        "lng": 121.57873663543114
+      },
+      "categories": {
+        "culture": 4
+      },
+      "points": [
+        {
+          "id": 7900315,
+          "title": "Switch on 妳的運動空間",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0417,
+            121.5792
+          ],
+          "address": "臺北市信義區忠孝東路五段625號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0933201394",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900319,
+          "title": "X-Revolution Fitness 極進化",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.041,
+            121.5772
+          ],
+          "address": "臺北市信義區忠孝東路五段469號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900322,
+          "title": "永春活力館",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0414,
+            121.5771
+          ],
+          "address": "臺北市信義區松山路342巷13號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "體育局",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900369,
+          "title": "有誼撞球運動館",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.042,
+            121.5796
+          ],
+          "address": "臺北市信義區忠孝東路五段669號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "撞球場及攀岩場",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "撞球場及攀岩場"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4893ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.047679531206033,
+        "lng": 121.57232022452263
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900318,
+          "title": "World Gym 健身俱樂部松隆店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.047,
+            121.5718
+          ],
+          "address": "臺北市信義區松隆路125號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4803ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.038811405894272,
+        "lng": 121.57764855027023
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900324,
+          "title": "核心肌地",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0385,
+            121.5766
+          ],
+          "address": "臺北市信義區松德路65號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4813ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.040819855431888,
+        "lng": 121.57550974551408
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900328,
+          "title": "健身銀行",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0412,
+            121.5762
+          ],
+          "address": "臺北市信義區忠孝東路五段423巷4弄16號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0908110603",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a48a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.045332973118906,
+        "lng": 121.58305179656986
+      },
+      "categories": {
+        "culture": 2
+      },
+      "points": [
+        {
+          "id": 7900340,
+          "title": "前勁體能訓練中心",
+          "category": "culture",
+          "location": "南港",
+          "coords": [
+            25.0443,
+            121.5822
+          ],
+          "address": "臺北市南港區忠孝東路五段970號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        },
+        {
+          "id": 7900343,
+          "title": "幾點練健身工坊",
+          "category": "culture",
+          "location": "南港",
+          "coords": [
+            25.0457,
+            121.5827
+          ],
+          "address": "臺北市南港區忠孝東路六段5號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "0910955223",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4887ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04650638856597,
+        "lng": 121.57768587879241
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900379,
+          "title": "台北市中華基督教青年會永吉會館",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0451,
+            121.5772
+          ],
+          "address": "臺北市信義區永吉路500號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "室內游泳池",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "室內游泳池"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

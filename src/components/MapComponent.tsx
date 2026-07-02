@@ -80,8 +80,8 @@ export default function MapComponent({
   useEffect(() => {
     if (!mapRef.current || mapInstanceRef.current) return;
 
-    // Center of Taiwan
-    const centerOfTaiwan: [number, number] = [23.6978, 120.9605];
+    // Initial center: Taipei (matches the default 台北市 city selector)
+    const initialCenter: [number, number] = [25.032969, 121.565426];
 
     // Geographic bounds restricting the map to the Taiwan area (incl. Penghu & outlying padding)
     const taiwanBounds = L.latLngBounds(
@@ -90,8 +90,8 @@ export default function MapComponent({
     );
 
     const mapInstance = L.map(mapRef.current, {
-      center: centerOfTaiwan,
-      zoom: 8, // Integer zoom for cleaner tile loading
+      center: initialCenter,
+      zoom: 12, // Integer zoom for cleaner tile loading; opens on Taipei
       minZoom: 7, // Keep the view scoped to Taiwan; can't zoom out to the whole world
       maxZoom: 19, // Specify maxZoom to prevent Leaflet.markercluster "Map has no maxZoom specified" error
       zoomControl: true,

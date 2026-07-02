@@ -1,0 +1,697 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a40c3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.041504112164333,
+        "lng": 121.50893076361847
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 12100065,
+          "title": "中華路1段東側",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.042708,
+            121.508701
+          ],
+          "address": "捷運西門站6號出口",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100079,
+          "title": "遠東百貨大門西側",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.041969,
+            121.508806
+          ],
+          "address": "捷運西門站寶慶路",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100194,
+          "title": "寶慶路",
+          "category": "nightmarket",
+          "location": "萬華",
+          "coords": [
+            25.042434,
+            121.508634
+          ],
+          "address": "遠東百貨寶慶店",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a408fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.046019085943207,
+        "lng": 121.51646733952258
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 12100067,
+          "title": "公園路15號之1",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.044725,
+            121.5171
+          ],
+          "address": "健保局聯合門診中心",
+          "layoutType": "",
+          "hours": "週一至週五9~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100088,
+          "title": "南陽街",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.046328,
+            121.516186
+          ],
+          "address": "台北凱撒大飯店(南陽街)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100098,
+          "title": "忠孝西路1段38號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.046372,
+            121.516288
+          ],
+          "address": "台北凱撒大飯店(忠孝西路)",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4013ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.043176261863184,
+        "lng": 121.5153802169599
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100068,
+          "title": "公園路西側",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.042227,
+            121.516302
+          ],
+          "address": "捷運台大醫院站",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4003ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.041169357299943,
+        "lng": 121.51751796001166
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100071,
+          "title": "常德街",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.041192,
+            121.517326
+          ],
+          "address": "臺大醫院常德院區",
+          "layoutType": "",
+          "hours": "8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4053ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03665431146776,
+        "lng": 121.50998135925883
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100072,
+          "title": "博愛路127號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.037903,
+            121.511098
+          ],
+          "address": "法庭大廈",
+          "layoutType": "",
+          "hours": "週一至週五8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100073,
+          "title": "博愛路131號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.036808,
+            121.511002
+          ],
+          "address": "法庭大廈",
+          "layoutType": "",
+          "hours": "週一至週五8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a407bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03347612415675,
+        "lng": 121.51748143670997
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 12100074,
+          "title": "愛國東路",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.034756,
+            121.517453
+          ],
+          "address": "捷運中正紀念堂站(近5號出口)國家劇院南側",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100075,
+          "title": "愛國東路",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.034756,
+            121.517453
+          ],
+          "address": "捷運中正紀念堂站(近5號出口)國家劇院北側",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100101,
+          "title": "中正區羅斯福路1段4號(捷運中正紀念堂1號出口)",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.033488,
+            121.517626
+          ],
+          "address": "勞保局",
+          "layoutType": "",
+          "hours": "6~22",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a400fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03916232748448,
+        "lng": 121.51965573393055
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100076,
+          "title": "信義路1段",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.037765,
+            121.519247
+          ],
+          "address": "捷運中正紀念堂站之國家音樂廳劇院路側",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4007ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.042005306633843,
+        "lng": 121.52074291582643
+      },
+      "categories": {
+        "nightmarket": 3
+      },
+      "points": [
+        {
+          "id": 12100077,
+          "title": "濟南路1段2之2號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.043,
+            121.520362
+          ],
+          "address": "中央聯合辦公大樓北棟(外交部領事事務局)",
+          "layoutType": "",
+          "hours": "週一至週五8~18",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100078,
+          "title": "徐州路5號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.041689,
+            121.519594
+          ],
+          "address": "中央聯合辦公大樓南棟",
+          "layoutType": "",
+          "hours": "週一至週五7~20",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100092,
+          "title": "徐州路2號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.04159,
+            121.519816
+          ],
+          "address": "台大醫院急診室",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40d7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.044346944533427,
+        "lng": 121.51001778245188
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100080,
+          "title": "漢口街1段144號對面",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.045201,
+            121.509584
+          ],
+          "address": "台糖會館",
+          "layoutType": "",
+          "hours": "7~19",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40cfffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.039497303035933,
+        "lng": 121.51106838557324
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100082,
+          "title": "貴陽街1段",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.039097,
+            121.509825
+          ],
+          "address": "臺灣高等法院",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a402bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.037991026312046,
+        "lng": 121.52501861556848
+      },
+      "categories": {
+        "nightmarket": 2
+      },
+      "points": [
+        {
+          "id": 12100085,
+          "title": "杭州南路(鄰仁愛路交叉路口)",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.037998,
+            121.525027
+          ],
+          "address": "交通部",
+          "layoutType": "",
+          "hours": "週一至週五0830~1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 12100086,
+          "title": "仁愛路1段42號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.038325,
+            121.523792
+          ],
+          "address": "中華電信台北南區服務中心",
+          "layoutType": "",
+          "hours": "週一至週五0830~1730",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.045684097368703,
+        "lng": 121.52505523995666
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100089,
+          "title": "忠孝東路1段31號",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.044426,
+            121.525312
+          ],
+          "address": "和逸飯店",
+          "layoutType": "",
+          "hours": "9~17",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4043ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03464729955804,
+        "lng": 121.51211898242354
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100094,
+          "title": "博愛路愛國西路口",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.035312,
+            121.510823
+          ],
+          "address": "交通大隊新建大樓旁",
+          "layoutType": "",
+          "hours": "0830~17",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a405bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03381123825092,
+        "lng": 121.50889435513744
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100095,
+          "title": "廣州街4巷",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.034737,
+            121.509776
+          ],
+          "address": "交通大隊新建大樓旁",
+          "layoutType": "",
+          "hours": "周一至周五9~17",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a40bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.046855078835186,
+        "lng": 121.5196922866635
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100096,
+          "title": "臺北車站東側公園路公車專用道(內側)",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.047271,
+            121.518174
+          ],
+          "address": "臺北火車站東3門",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4083ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.04802578771252,
+        "lng": 121.51432959767318
+      },
+      "categories": {
+        "nightmarket": 1
+      },
+      "points": [
+        {
+          "id": 12100097,
+          "title": "臺北車站西側地下停車場(館前路與北平西路間)",
+          "category": "nightmarket",
+          "location": "中正",
+          "coords": [
+            25.047912,
+            121.515929
+          ],
+          "address": "臺北火車站西側地下停車場",
+          "layoutType": "",
+          "hours": "0~24",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:17.020Z"
+}

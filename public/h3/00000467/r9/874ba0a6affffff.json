@@ -1,0 +1,581 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6a53ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.062404642693327,
+        "lng": 121.54016866432997
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1300278,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062331,
+            121.540485
+          ],
+          "address": "民權東路3段與龍江路口(西向東公車道)-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300279,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062323,
+            121.540682
+          ],
+          "address": "民權東路3段與龍江路交叉口(西往東)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300283,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062502,
+            121.540244
+          ],
+          "address": "民權東路3段(榮星花園二)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300285,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062331,
+            121.540487
+          ],
+          "address": "民權東路3段與龍江路口(西向東公車道)-2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300293,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062417,
+            121.541004
+          ],
+          "address": "民權東路3段與龍江路口(東向西公車道)(三)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300295,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062514,
+            121.539223
+          ],
+          "address": "民權東路3段(榮星花園三)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a4bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.057555290143803,
+        "lng": 121.54121936660904
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300281,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.057917,
+            121.541744
+          ],
+          "address": "民生東路3段65巷旁公車站",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a57ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.063240307038214,
+        "lng": 121.5433944928899
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300282,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062246,
+            121.543931
+          ],
+          "address": "民權東路3段與復興北路口(西向東公車道二)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300284,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.062246,
+            121.543933
+          ],
+          "address": "民權東路3段與復興北路口(西向東公車道一)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a43ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.060397839498965,
+        "lng": 121.5423069186568
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300292,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.06006,
+            121.544022
+          ],
+          "address": "復興北路386號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6acbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.064411320612255,
+        "lng": 121.53803044081866
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 1300342,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市中山區",
+          "coords": [
+            25.063374,
+            121.537335
+          ],
+          "address": "建國北路3段(榮星公園旁公車站牌)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a6bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.057219378452825,
+        "lng": 121.54980952963363
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 1300372,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.057936,
+            121.548764
+          ],
+          "address": "南京東路5段123巷斜對面(公車南京三民路口3)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300375,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.057706,
+            121.5496122
+          ],
+          "address": "南京東路4段139號(公車南京寧安街口站3）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300381,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0575074,
+            121.5492902
+          ],
+          "address": "民生東路4段與敦化北路口(台灣銀行旁)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300382,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.05802,
+            121.549392
+          ],
+          "address": "民權東路敦北公園（民權東路公車站）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300383,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.058038,
+            121.549018
+          ],
+          "address": "敦化北路333巷口(公車富錦街口站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300384,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.05796,
+            121.548993
+          ],
+          "address": "敦化北路207號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a73ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.062069020723996,
+        "lng": 121.54875880895409
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 1300385,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.062054,
+            121.548163
+          ],
+          "address": "敦化北路214號(公車民生敦化路口站)2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300388,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0616679,
+            121.5504746
+          ],
+          "address": "民生東路3段109號(公車站民生復興路口-西華飯店站/聯邦銀行)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300392,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.06188,
+            121.54771
+          ],
+          "address": "民權東路3段156號(公車民權敦化路口站2)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300393,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0620799,
+            121.548218
+          ],
+          "address": "民權東路3段181號(公車民權敦化路口站1/民有派出所對面)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a4fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.058390911031452,
+        "lng": 121.54444520379393
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300386,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.057898,
+            121.545318
+          ],
+          "address": "敦化北路214號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300389,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0582262,
+            121.5445252
+          ],
+          "address": "復興北路301號(公車復興民生東路口站)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6a47ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.061233456116312,
+        "lng": 121.54553280767023
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 1300390,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.062021,
+            121.544374
+          ],
+          "address": "3段102號前人行道上(復興北路與民權東路口)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        },
+        {
+          "id": 1300391,
+          "title": "臺北市行人專用清潔箱",
+          "category": "other",
+          "location": "臺北市松山區",
+          "coords": [
+            25.0621845,
+            121.5458459
+          ],
+          "address": "民權東路3段102號(公車民權復興路口站1)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "嚴禁投入家用垃圾，違者重罰新臺幣6000元",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "嚴禁投入家用垃圾，違者重罰新臺幣6000元"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:44.841Z"
+}

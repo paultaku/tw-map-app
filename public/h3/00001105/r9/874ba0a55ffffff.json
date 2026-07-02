@@ -1,0 +1,671 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a552fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.013071299133845,
+        "lng": 121.49806179595143
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400009,
+          "title": "Elaphe carinata",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01393976820002,
+            121.49922004905403
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "945",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400296,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.013484757455938,
+            121.49872232844376
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a552bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.012235105822217,
+        "lng": 121.49483775667474
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 10400010,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.011593761660198,
+            121.49605996005745
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "952",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55abffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.019093300814568,
+        "lng": 121.49165000591289
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 10400029,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.018893706068297,
+            121.49168016479804
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1211",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400068,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02048087577963,
+            121.49223144224524
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1131",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400069,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.020182662024336,
+            121.49231942731728
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1132",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400070,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02012804452342,
+            121.49245792497817
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1133",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400071,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01986607116807,
+            121.49250642095839
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1135",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400174,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.017628338788924,
+            121.49212098715049
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55b3ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.023943722599494,
+        "lng": 121.49059948255542
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10400035,
+          "title": "Hemidactylus frenatus",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.023926767667007,
+            121.49032292527909
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2103",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400194,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.022741472653607,
+            121.49113071010035
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400195,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02277726455753,
+            121.4912299371691
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400196,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02313918607044,
+            121.49098366535367
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400197,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.023500723231127,
+            121.49085629284927
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5507ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.016249803411416,
+        "lng": 121.4905633202758
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400036,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01610455633031,
+            121.49151052935389
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2126",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400095,
+          "title": "Trachemys scripta elegans",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.015543504227324,
+            121.49191451892005
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2125",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5527ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.015914947542626,
+        "lng": 121.49914859284384
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10400048,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.015266953214933,
+            121.49920559968908
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1108",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400076,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.015771188663475,
+            121.49961386216796
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1204",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a55a3ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.02193671667992,
+        "lng": 121.49273671374692
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 10400067,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.021710707858823,
+            121.49161211898928
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1128",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400096,
+          "title": "Hemidactylus frenatus",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02112292431474,
+            121.49190702777597
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2215",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400097,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.021882432670377,
+            121.49155335262975
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "2225",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400191,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.020734109725296,
+            121.49209373592242
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400192,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.02186431252551,
+            121.49157309724521
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400193,
+          "title": "Gekko hokouensis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.021927540768242,
+            121.49156344067313
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5533ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 25.01708609214608,
+        "lng": 121.4937872383399
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10400072,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.017161739282233,
+            121.49402146529641
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1141",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400073,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01707120139366,
+            121.49410036701349
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1142",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400074,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01701680779359,
+            121.49416950530195
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1143",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400075,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.016871876166427,
+            121.49431754496027
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "1144",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10400172,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.01746985095381,
+            121.49366600901605
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a553bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.014242517228162,
+        "lng": 121.49270052301368
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 10400154,
+          "title": "Japalura swinhonis",
+          "category": "nature",
+          "location": "新店溪",
+          "coords": [
+            25.013093440519203,
+            121.49297478761946
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:11.107Z"
+}

@@ -1,0 +1,123 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6027ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.089650348043424,
+        "lng": 121.50701147282176
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500769,
+          "title": "臺北市政府警察局士林分局社子派出所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08965604,
+            121.5055377
+          ],
+          "address": "延平北路6段200號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門值勤台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門值勤台旁"
+        },
+        {
+          "id": 5500826,
+          "title": "社子公園",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.090899,
+            121.506612
+          ],
+          "address": "永平街20巷37弄對面",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "社子公園圖書讀書閱覽室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "社子公園圖書讀書閱覽室"
+        },
+        {
+          "id": 5502445,
+          "title": "社子公園",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.090899,
+            121.506612
+          ],
+          "address": "永平街20巷37弄對面",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "閱覽室門口明顯處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "閱覽室門口明顯處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a602fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.08680895795105,
+        "lng": 121.50592441758633
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5502043,
+          "title": "臺北市政府環境保護局士林區清潔隊社子分隊葫蘆班",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08589695,
+            121.506607
+          ],
+          "address": "中正路 臨707-1號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        },
+        {
+          "id": 5502082,
+          "title": "臺北市政府環境保護局士林區清潔隊社子分隊社子班",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.08579,
+            121.50642
+          ],
+          "address": "中正路臨692號對面",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

@@ -1,0 +1,755 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a49a7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.05201012968716,
+        "lng": 121.60887226104539
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2700209,
+          "title": "臺灣富禮納思股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052571,
+            121.607496
+          ],
+          "address": "臺北市南港區忠孝東路7段371號B1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701251,
+          "title": "樂雅樂食品股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052125,
+            121.609585
+          ],
+          "address": "臺北市南港區忠孝東路七段508號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701344,
+          "title": "安心食品服務股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052205,
+            121.609813
+          ],
+          "address": "臺北市南港區忠孝東路7段508-8號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49b7ffff",
+      "res": 9,
+      "count": 20,
+      "center": {
+        "lat": 25.054018853918794,
+        "lng": 121.6067328545379
+      },
+      "categories": {
+        "other": 20
+      },
+      "points": [
+        {
+          "id": 2700221,
+          "title": "東京牛角股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號c棟8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700295,
+          "title": "茄子餐飲事業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700422,
+          "title": "豆府股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路七段369號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700611,
+          "title": "三澧企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700647,
+          "title": "亞洲藏壽司股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700954,
+          "title": "冠樺生活股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號、371號B1~B2及南港路1段313號、市民大道八段360號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701006,
+          "title": "潤泰旭展股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路七段369號1至10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701076,
+          "title": "這一鍋餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701083,
+          "title": "這一鍋餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號A棟3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701106,
+          "title": "台灣壽司郎股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號5樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701161,
+          "title": "特力屋股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054442,
+            121.605577
+          ],
+          "address": "臺北市南港區南港路二段20巷5號地下1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701209,
+          "title": "百富通股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701561,
+          "title": "全家國際餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701629,
+          "title": "爭鮮股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號A棟1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701758,
+          "title": "瀧昇有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路7段369號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701812,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054442,
+            121.605577
+          ],
+          "address": "臺北市南港區南港路二段20巷5號地下一樓、地下二樓、地下二樓之一全部、地下三樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701999,
+          "title": "台灣無印良品股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路七段369號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702090,
+          "title": "台灣善商股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052669,
+            121.607208
+          ],
+          "address": "臺北市南港區忠孝東路七段369號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702480,
+          "title": "菜冠美商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055026,
+            121.606444
+          ],
+          "address": "臺北市南港區興中路12巷25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702569,
+          "title": "辛隱企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.055056,
+            121.606999
+          ],
+          "address": "臺北市南港區興中路12巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a499bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.050680501682663,
+        "lng": 121.59382196706194
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2700403,
+          "title": "和德昌股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050177,
+            121.593619
+          ],
+          "address": "臺北市南港區忠孝東路六段438號1、2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701680,
+          "title": "台灣屈臣氏個人用品商店股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050196,
+            121.593701
+          ],
+          "address": "臺北市南港區忠孝東路六段440號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701831,
+          "title": "全聯實業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.051258,
+            121.595372
+          ],
+          "address": "臺北市南港區忠孝東路六段195、197號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a49a3ffff",
+      "res": 9,
+      "count": 9,
+      "center": {
+        "lat": 25.051175667615745,
+        "lng": 121.60564431092442
+      },
+      "categories": {
+        "other": 9
+      },
+      "points": [
+        {
+          "id": 2700598,
+          "title": "三澧企業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路7段299號8樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700707,
+          "title": "金田興業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路七段299號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2700836,
+          "title": "金色三麥餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路7段299號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701017,
+          "title": "金田興業股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路7段299號C棟7樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701096,
+          "title": "豆腐村有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路7段299號10樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701388,
+          "title": "貳樓餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052512,
+            121.606056
+          ],
+          "address": "臺北市南港區忠孝東路7段359號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701451,
+          "title": "王品餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路七段299號9樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2701573,
+          "title": "高麗園有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052364,
+            121.604792
+          ],
+          "address": "臺北市南港區忠孝東路7段299號7樓(C棟)(city link南港車站店)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702321,
+          "title": "台灣泛亞零售管理顧問股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.052512,
+            121.606056
+          ],
+          "address": "臺北市南港區忠孝東路7段359號B棟3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4993ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.05352362368688,
+        "lng": 121.59491032582355
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2701957,
+          "title": "奧迪北區股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054265,
+            121.595364
+          ],
+          "address": "臺北市南港區南港路二段155號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4983ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.051515167966272,
+        "lng": 121.59704952090318
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702044,
+          "title": "四分音符流行餐飲股份有限公司",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05148,
+            121.597847
+          ],
+          "address": "臺北市南港區忠孝東路7段99號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.030Z"
+}

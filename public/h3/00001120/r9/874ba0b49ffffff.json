@@ -1,0 +1,605 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0b496bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.133252260625305,
+        "lng": 121.49755509831628
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500071,
+          "title": "幼華學校財團法人臺北市幼華高級中等學校",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133393,
+            121.49689
+          ],
+          "address": "北投路二段55號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "保健室內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "保健室內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4933ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.144611257731047,
+        "lng": 121.50190327171407
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500117,
+          "title": "臺北市立復興高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.143591,
+            121.5018
+          ],
+          "address": "復興四路70號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "勤學樓1樓衛生組前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "勤學樓1樓衛生組前"
+        },
+        {
+          "id": 5500869,
+          "title": "臺北市立復興高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.143591,
+            121.5018
+          ],
+          "address": "復興四路70號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "藝術組外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "藝術組外"
+        },
+        {
+          "id": 5500870,
+          "title": "臺北市立復興高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.143591,
+            121.5018
+          ],
+          "address": "復興四路70號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "福利社後方篤行樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "福利社後方篤行樓"
+        },
+        {
+          "id": 5500872,
+          "title": "臺北市立復興高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.143591,
+            121.5018
+          ],
+          "address": "復興四路70號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "復興大樓1樓穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "復興大樓1樓穿堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4973ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.138095104817822,
+        "lng": 121.49650435871254
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500416,
+          "title": "臺北市北投區文化國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.137094,
+            121.496669
+          ],
+          "address": "文化三路一號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於進入校門口穿堂右側牆面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於進入校門口穿堂右側牆面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b492bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.13976868954727,
+        "lng": 121.50295403501468
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500670,
+          "title": "老爺榮康股份有限公司(北投老爺酒店)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.138848,
+            121.501697
+          ],
+          "address": "中和街2號",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "飯店1F大廳 直走 禮賓接待櫃台斜前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "飯店1F大廳 直走 禮賓接待櫃台斜前方"
+        },
+        {
+          "id": 5501154,
+          "title": "復興公園泡腳池",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.138819,
+            121.502198
+          ],
+          "address": "中和街61號對面",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "管理室前置物櫃上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室前置物櫃上"
+        },
+        {
+          "id": 5501228,
+          "title": "臺北市私立薇閣高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.138874,
+            121.503907
+          ],
+          "address": "珠海路50號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "本校健康中心前，輔導室樓梯下去，近操場",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校健康中心前，輔導室樓梯下去，近操場"
+        },
+        {
+          "id": 5502660,
+          "title": "臺北市私立薇閣高級中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.138874,
+            121.503907
+          ],
+          "address": "珠海路50號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "進德樓位於珠海路上，學校正門進入即可看到(正面對就是進德樓)，壁掛式AED位於正前方電梯側面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進德樓位於珠海路上，學校正門進入即可看到(正面對就是進德樓)，壁掛式AED位於正前方電梯側面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b496fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.13408903568027,
+        "lng": 121.50077988892974
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500753,
+          "title": "臺北市政府警察局北投分局長安派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133282,
+            121.501298
+          ],
+          "address": "中央北路1段1號1樓",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "長安所入口進門左手邊約5公尺處牆邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "長安所入口進門左手邊約5公尺處牆邊"
+        },
+        {
+          "id": 5501482,
+          "title": "北投青磺名湯(沉逸齋有限公司)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.133906,
+            121.501112
+          ],
+          "address": "中央北路1段12號1樓",
+          "layoutType": "溫泉區",
+          "hours": "詳見官方網站",
+          "description": "放置於大廳顯眼處，入口進來後左手邊即可看到(即一樓大廳電梯出口的牆邊)，取用及時方便",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於大廳顯眼處，入口進來後左手邊即可看到(即一樓大廳電梯出口的牆邊)，取用及時方便"
+        },
+        {
+          "id": 5501839,
+          "title": "臺北市北投區北投國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.134142,
+            121.500216
+          ],
+          "address": "中央北路1段73號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "行政大樓川堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓川堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4913ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.14494022984668,
+        "lng": 121.49331589535774
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500764,
+          "title": "臺北市政府警察局北投分局大屯派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.145513,
+            121.49335
+          ],
+          "address": "中和街534號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "大屯派出所值班台後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大屯派出所值班台後方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4963ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.136092132927633,
+        "lng": 121.49864210836022
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501238,
+          "title": "超力達工作室(臺北市健力訓練站)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.135034,
+            121.498594
+          ],
+          "address": "大同街137號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "進門右側架子上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進門右側架子上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4977ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.138931923221705,
+        "lng": 121.49972914060788
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501294,
+          "title": "飛健身合作社",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.138462,
+            121.500866
+          ],
+          "address": "永興路一段32巷3弄14號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "啞鈴訓練場域",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "啞鈴訓練場域"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b4967ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.136928903623254,
+        "lng": 121.50186695087079
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501371,
+          "title": "列特博運動健身機構",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1370121,
+            121.5022063
+          ],
+          "address": "大業路700號 (列特博運動健身機構)",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "列特博運動健身機構休息區，廁所門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "列特博運動健身機構休息區，廁所門口"
+        },
+        {
+          "id": 5501437,
+          "title": "臺北市私立薇閣國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.135958,
+            121.501023
+          ],
+          "address": "育仁路106號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "健康中心:一進校門口後，經過警衛室，直走經過校友館後，就可以看到學校的健康中心。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "健康中心:一進校門口後，經過警衛室，直走經過校友館後，就可以看到學校的健康中心。"
+        },
+        {
+          "id": 5501753,
+          "title": "臺北捷運新北投站R22A",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.136933,
+            121.50253
+          ],
+          "address": "大業路700號(R22A)",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "新北投站內大廳無障礙廁所旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "新北投站內大廳無障礙廁所旁"
+        },
+        {
+          "id": 5502580,
+          "title": "新北投車站",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.13661816,
+            121.5034783
+          ],
+          "address": "七星街1號1樓",
+          "layoutType": "地方政府主管風景區",
+          "hours": "詳見官方網站",
+          "description": "展場內大廳",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展場內大廳"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b493bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.141771631494013,
+        "lng": 121.50081619505922
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501388,
+          "title": "香港商世界健身事業有限公司北投中和分公司",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.141857,
+            121.499229
+          ],
+          "address": "中和街366-1號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "客服櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "客服櫃台旁"
+        },
+        {
+          "id": 5502402,
+          "title": "新北投71園區",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.141611,
+            121.502361
+          ],
+          "address": "開明街71號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "(114年9月至115年4月期間，71園區將作為耐震補強工程施作場域，出入口由工程廠商管控。)由義方國小舊校舍整修而成，建物呈Ｌ型的連棟四層樓校舍，為臺北市藝響空間網之一。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "(114年9月至115年4月期間，71園區將作為耐震補強工程施作場域，出入口由工程廠商管控。)由義方國小舊校舍整修而成，建物呈Ｌ型的連棟四層樓校舍，為臺北市藝響空間網之一。"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b498fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.147779705145318,
+        "lng": 121.49440286071761
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501577,
+          "title": "貴子坑露營場",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.14857336,
+            121.4934427
+          ],
+          "address": "秀山路161號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "露營區入口處，左邊警衛室（小木屋）內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "露營區入口處，左邊警衛室（小木屋）內"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0b49cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.140426688703435,
+        "lng": 121.48577996857537
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502291,
+          "title": "臺北市北投區桃源國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.139607,
+            121.484481
+          ],
+          "address": "中央北路三段40巷45號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "教務處走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "教務處走廊"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

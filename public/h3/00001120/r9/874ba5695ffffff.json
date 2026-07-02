@@ -1,0 +1,333 @@
+{
+  "cells": [
+    {
+      "h3": "894ba569533ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.156321116809377,
+        "lng": 121.5470634776661
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500167,
+          "title": "內政部國家公園署陽明山國家公園管理處遊客中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.155336,
+            121.546662
+          ],
+          "address": "竹子湖路1-20號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "遊客中心大門進入後的右邊服務台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "遊客中心大門進入後的右邊服務台旁"
+        },
+        {
+          "id": 5500894,
+          "title": "內政部國家公園署陽明山國家公園管理處行政中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.155667,
+            121.54769
+          ],
+          "address": "竹子湖路1-20號(行政中心)",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "置於行政中心1樓接待大廳，方便拿取",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於行政中心1樓接待大廳，方便拿取"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56958fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.15949163076207,
+        "lng": 121.53955979750675
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500274,
+          "title": "陽明公園",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.159213,
+            121.540131
+          ],
+          "address": "湖山路2段26號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "陽明公園遊客服務中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "陽明公園遊客服務中心"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569567ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.1486382194739,
+        "lng": 121.54702655197862
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500748,
+          "title": "臺北市政府警察局北投分局公園派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.148752,
+            121.548615
+          ],
+          "address": "紗帽路110號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "放置於近門口地帶之角落",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於近門口地帶之角落"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56952bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.151477943062577,
+        "lng": 121.54811436225638
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500825,
+          "title": "前山公園男公共浴室",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.150242,
+            121.548548
+          ],
+          "address": "建國街7-1號",
+          "layoutType": "大型公眾浴場",
+          "hours": "詳見官方網站",
+          "description": "前山公園男公共浴室管理室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "前山公園男公共浴室管理室"
+        },
+        {
+          "id": 5501221,
+          "title": "七星公園-苗圃涼亭(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.15149182,
+            121.5465617
+          ],
+          "address": "",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "七星公園-苗圃涼亭",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "七星公園-苗圃涼亭"
+        },
+        {
+          "id": 5501913,
+          "title": "小油坑往七星山主峰0.6k處觀景平台(亞洲形上觀音山揹水隊捐贈)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.15150071,
+            121.5465583
+          ],
+          "address": "",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "小油坑往七星山主峰0.6k處觀景平台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "小油坑往七星山主峰0.6k處觀景平台"
+        },
+        {
+          "id": 5502685,
+          "title": "臺北市教師研習中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.151185,
+            121.549653
+          ],
+          "address": "建國街2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "設置於教授休息室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "設置於教授休息室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569503ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.154648906268477,
+        "lng": 121.540610671145
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501229,
+          "title": "臺北市北投區湖山里辦公處",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.154443,
+            121.540675
+          ],
+          "address": "湖山路一段48之2號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "湖山路一段48-2號(湖山里里辦公處)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "湖山路一段48-2號(湖山里里辦公處)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569587ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.16233096154861,
+        "lng": 121.54064751136539
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501274,
+          "title": "內政部國家公園署陽明山國家公園管理處陽明書屋管理站",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.162652,
+            121.540594
+          ],
+          "address": "台北市北投區中興路12號",
+          "layoutType": "國家公園",
+          "hours": "詳見官方網站",
+          "description": "服務站入口臨櫃台左側方向",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "服務站入口臨櫃台左側方向"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569557ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.150973145295925,
+        "lng": 121.53629678909257
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501638,
+          "title": "臺北市北投區湖山國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.150082,
+            121.535783
+          ],
+          "address": "湖底路11號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "教學大樓一樓左側樓梯口(飲水機旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "教學大樓一樓左側樓梯口(飲水機旁)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569543ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.148133485816672,
+        "lng": 121.53520916400882
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502063,
+          "title": "臺北市政府環境保護局北投區清潔隊陽明分隊一班",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.148526,
+            121.533669
+          ],
+          "address": "紗帽路141巷23號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公區休息區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公區休息區"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

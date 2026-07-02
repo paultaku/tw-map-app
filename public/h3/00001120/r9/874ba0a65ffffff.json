@@ -1,0 +1,333 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a65a7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.1163869063235,
+        "lng": 121.51143280789856
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500126,
+          "title": "臺北市北投運動中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.116473,
+            121.509762
+          ],
+          "address": "石牌路1段39巷100號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "一樓中控室前方，靠近販賣部",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓中控室前方，靠近販賣部"
+        },
+        {
+          "id": 5500343,
+          "title": "臺北市北投運動中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.116473,
+            121.509762
+          ],
+          "address": "石牌路1段39巷100號",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "5F大廳樓梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "5F大廳樓梯旁"
+        },
+        {
+          "id": 5501865,
+          "title": "臺北市北投區石牌國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.115729,
+            121.511757
+          ],
+          "address": "致遠二路80號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "石牌國小警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "石牌國小警衛室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a652fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10669696932116,
+        "lng": 121.5135342703847
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500411,
+          "title": "臺北市北投區文林國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.106183,
+            121.513674
+          ],
+          "address": "文林北路155號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "進入警衛室右側牆壁上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進入警衛室右側牆壁上"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a651bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.10819599055786,
+        "lng": 121.49958398068873
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500613,
+          "title": "北投焚化廠回饋設施洲美運動公園(主題館)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.109602,
+            121.499364
+          ],
+          "address": "洲美街271號(洲美運動公園)",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "游泳館飲水機旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "游泳館飲水機旁"
+        },
+        {
+          "id": 5502106,
+          "title": "臺北市政府環境保護局北投區清潔隊停車場",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.107949,
+            121.49926
+          ],
+          "address": "洲美街271號(北投焚化廠內)",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6523ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10870137981491,
+        "lng": 121.51139636133868
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500744,
+          "title": "臺北市政府警察局北投分局石牌派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.109935,
+            121.512507
+          ],
+          "address": "文林北路296號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "石牌派出所1樓偵詢室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "石牌派出所1樓偵詢室旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a654fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.100510098473833,
+        "lng": 121.49954769310285
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501453,
+          "title": "臺北市政府環境保護局北投垃圾焚化廠",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.100116,
+            121.498582
+          ],
+          "address": "洲美街271號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "北投焚化廠值班宿舍1樓右側白鷺鷥學堂內辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "北投焚化廠值班宿舍1樓右側白鷺鷥學堂內辦公室"
+        },
+        {
+          "id": 5501846,
+          "title": "臺北市政府環境保護局北投垃圾焚化廠",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.100116,
+            121.498582
+          ],
+          "address": "洲美街271號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "值勤休息室一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "值勤休息室一樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6533ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.110705664981598,
+        "lng": 121.50925848318133
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501484,
+          "title": "南陽實業 現代汽車北投廠",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.111542,
+            121.509732
+          ],
+          "address": "承德路七段95號",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "休息區旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "休息區旁邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a65b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117554365728523,
+        "lng": 121.50606991144551
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501563,
+          "title": "台北市中華基督教青年會唭哩岸會館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.117058,
+            121.504508
+          ],
+          "address": "承德路七段312號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "ＹＭＣＡ唭哩岸會館",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "ＹＭＣＡ唭哩岸會館"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a658bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.113040604209278,
+        "lng": 121.49853328112131
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502083,
+          "title": "臺北市政府環境保護局北投區清潔隊石牌分隊",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.11328784,
+            121.4985667
+          ],
+          "address": "承德路7段393巷200號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

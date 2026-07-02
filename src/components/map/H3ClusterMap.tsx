@@ -10,7 +10,7 @@ import { AggregateLayer } from './AggregateLayer';
 import { H3Loader } from './H3Loader';
 import type { GridResult } from '@/services/gridProvider';
 
-export default function H3ClusterMap({ initialLocations }: { initialLocations: Location[] }) {
+export default function H3ClusterMap({ datasetId = '', initialLocations }: { datasetId?: string; initialLocations: Location[] }) {
   // Seed with build-time hydration data for instant first paint; H3Loader then queries Firestore.
   const [grid, setGrid] = useState<GridResult>({ mode: 'detail', points: initialLocations });
   const handleLoaded = useCallback((result: GridResult) => setGrid(result), []);
@@ -34,7 +34,7 @@ export default function H3ClusterMap({ initialLocations }: { initialLocations: L
       )}
 
       {/* Firestore-backed H3 loader (mirrors BBoxLoader) */}
-      <H3Loader onLoaded={handleLoaded} />
+      <H3Loader datasetId={datasetId} onLoaded={handleLoaded} />
     </MapContainer>
   );
 }

@@ -1,0 +1,711 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da20bffff",
+      "res": 9,
+      "count": 13,
+      "center": {
+        "lat": 24.968003110155614,
+        "lng": 121.59127020836473
+      },
+      "categories": {
+        "other": 13
+      },
+      "points": [
+        {
+          "id": 2702368,
+          "title": "小日子咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路3段38巷33號前100公尺",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702373,
+          "title": "貓空閒咖啡館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967789,
+            121.591551
+          ],
+          "address": "臺北市文山區指南里指南路3段３８巷３３之７號（對面）",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702376,
+          "title": "迺乾茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969128,
+            121.591682
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３７號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702412,
+          "title": "奉陪品茗餐飲",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968675,
+            121.591787
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷37之1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702496,
+          "title": "阿義師的大茶壺茶餐廳",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968675,
+            121.591787
+          ],
+          "address": "臺北市文山區指南路3段38巷37之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702542,
+          "title": "旅途咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33號旁約42公尺建物",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702642,
+          "title": "清泉四哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南路3段38巷33-1號B1到3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702827,
+          "title": "松園茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96706,
+            121.591132
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之5號(對面的找茶屋)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702841,
+          "title": "正大休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96706,
+            121.591132
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702842,
+          "title": "清泉大哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３３之１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702914,
+          "title": "清泉二哥的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967078,
+            121.590765
+          ],
+          "address": "臺北市文山區指南里指南路３段３８巷３３之１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702915,
+          "title": "雙橡園茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967338,
+            121.591099
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷33之6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702921,
+          "title": "山中茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967068,
+            121.590701
+          ],
+          "address": "臺北市文山區指南路3段38巷33號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da257ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.967168775469307,
+        "lng": 121.58804330245626
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 2702369,
+          "title": "貓空大觀園餐館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967193,
+            121.587228
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷22之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702466,
+          "title": "森活多一點甜工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.96806,
+            121.588358
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16-7號旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702473,
+          "title": "榮門客棧茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967103,
+            121.586824
+          ],
+          "address": "臺北市文山區指南路３段３８巷22號之2",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702491,
+          "title": "貓空小木屋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.966861,
+            121.586678
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷28號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702695,
+          "title": "觀鼎休閒茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968139,
+            121.588016
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16之5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da277ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.96682585558884,
+        "lng": 121.59663610790943
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2702382,
+          "title": "邀月茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "臺北市文山區指南里指南路3段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702558,
+          "title": "寒舍茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.967296,
+            121.597168
+          ],
+          "address": "臺北市文山區指南路3段40巷6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da253ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.966334388896968,
+        "lng": 121.58481650858589
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2702440,
+          "title": "六季香茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965865,
+            121.583457
+          ],
+          "address": "臺北市文山區指南路３段３４巷５３－１號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702484,
+          "title": "春茶鄉茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.966436,
+            121.586378
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷30號1樓、2樓及地下室",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702919,
+          "title": "晨曦茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.965644,
+            121.583307
+          ],
+          "address": "臺北市文山區指南路3段34巷53號(含道路對面50坪10桌)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da20fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.96883739294372,
+        "lng": 121.59449722629662
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2702543,
+          "title": "相逢居茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968043,
+            121.595096
+          ],
+          "address": "臺北市文山區指南路3段40巷12號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702844,
+          "title": "貓空山水客茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968575,
+            121.595277
+          ],
+          "address": "臺北市文山區指南路3段40巷8-5號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702892,
+          "title": "黛小夫羊行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968575,
+            121.595277
+          ],
+          "address": "臺北市文山區指南里指南路3段40巷8之5號1樓至2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2cfffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.96918009216014,
+        "lng": 121.58590457207131
+      },
+      "categories": {
+        "other": 5
+      },
+      "points": [
+        {
+          "id": 2702567,
+          "title": "傳生茶園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969656,
+            121.587372
+          ],
+          "address": "臺北市文山區指南里指南路3段38巷16之1號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702620,
+          "title": "上暘茶莊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969321,
+            121.587365
+          ],
+          "address": "臺北市文山區指南路3段38巷16之2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702641,
+          "title": "四爺的店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.969321,
+            121.587365
+          ],
+          "address": "臺北市文山區指南路三段38巷16之2號二樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702696,
+          "title": "光羽塩茶坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968706,
+            121.585734
+          ],
+          "address": "臺北市文山區指南路3段38巷14之2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2702897,
+          "title": "新談天園茶行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.968581,
+            121.58514
+          ],
+          "address": "臺北市文山區指南路3段38巷14之3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da2c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.97202571386198,
+        "lng": 121.58699265772245
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702617,
+          "title": "美加茶園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.971563,
+            121.587661
+          ],
+          "address": "臺北市文山區指南路3段38巷19號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da233ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 24.972517310463495,
+        "lng": 121.59881262672752
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2702786,
+          "title": "映月茶館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.973154,
+            121.600171
+          ],
+          "address": "臺北市文山區指南里指南路3段167巷8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.030Z"
+}

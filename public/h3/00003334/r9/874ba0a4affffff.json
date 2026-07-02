@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4a93ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.027775746243677,
+        "lng": 121.56470471592154
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900305,
+          "title": "Curves 北醫世貿店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.029,
+            121.5649
+          ],
+          "address": "臺北市信義區莊敬路325巷60號3樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4a8fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023758292864507,
+        "lng": 121.56898187786122
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900317,
+          "title": "World Gym 健身俱樂部松仁店",
+          "category": "culture",
+          "location": "信義",
+          "coords": [
+            25.0243,
+            121.5698
+          ],
+          "address": "臺北市信義區松仁路277號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

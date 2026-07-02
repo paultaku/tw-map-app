@@ -1,0 +1,721 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d3613ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.08061870868949,
+        "lng": 121.59074454103954
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900149,
+          "title": "新東陽內湖門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.081558,
+            121.591971
+          ],
+          "address": "臺北市內湖區成功路四段49號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2793-4895/總公司02-2772-6222＃957(郭小姐)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900156,
+          "title": "鬍鬚張內湖湖光店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.080116,
+            121.590522
+          ],
+          "address": "臺北市內湖區成功路三段177號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2792-1220/總公司:02-2298-2185＃232(行企部劉副理)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901207,
+          "title": "Hsin Tung Yang Neihu Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.081558,
+            121.591971
+          ],
+          "address": "No. 49",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 114",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City 114"
+        },
+        {
+          "id": 6901214,
+          "title": "Formosa Chang- Neihu huguang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.080116,
+            121.590522
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Chenggong Rd.",
+          "notes": "Neihu Dist."
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d368fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.083460869313402,
+        "lng": 121.59183290701797
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900150,
+          "title": "有機緣地-成功店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082032,
+            121.591564
+          ],
+          "address": "臺北市內湖區成功路四段30巷9號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2794-8382/\n公司02-2657-7333",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900872,
+          "title": "老先覺PLUS內湖店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08274,
+            121.591342
+          ],
+          "address": "台北市內湖區內湖路二段388號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27961309",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901208,
+          "title": "Organics Specialties Mart - Cheng Kung Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.082032,
+            121.591564
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Chenggong Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 4",
+          "notes": "Chenggong Rd."
+        },
+        {
+          "id": 6901930,
+          "title": "Old God! PLUS Kung Food Hot Pot - Neihu Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.08274,
+            121.591342
+          ],
+          "address": "No. 388",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 114",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City 114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36bbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.084295738883185,
+        "lng": 121.595060573572
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900160,
+          "title": "里仁-內湖捷運店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084005,
+            121.593714
+          ],
+          "address": "臺北市成功路4段182巷6弄1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-8792-0527/02-77146168#80514(總公司陳'S)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900822,
+          "title": "馬友友印度廚房內湖店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084199,
+            121.595941
+          ],
+          "address": "台北市內湖區成功路四段203號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901218,
+          "title": "Leezen-Neihu MRT Station Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084005,
+            121.593714
+          ],
+          "address": "No. 1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Chenggong Rd.",
+          "image": "",
+          "management": "",
+          "phone": "Sec. 4",
+          "notes": "Chenggong Rd."
+        },
+        {
+          "id": 6901880,
+          "title": "Mayur Indian Kitchen Neihu Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084199,
+            121.595941
+          ],
+          "address": "No. 203",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 114",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City 114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.070084138062754,
+        "lng": 121.58961870655017
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900591,
+          "title": "Tiecafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070259,
+            121.588227
+          ],
+          "address": "台北市內湖區成功路二段426巷56號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0932-320-958",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901649,
+          "title": "Tiecafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.070259,
+            121.588227
+          ],
+          "address": "No. 56",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu District",
+          "image": "",
+          "management": "",
+          "phone": "Chenggong Rd",
+          "notes": "Neihu District"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3687ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.086302947917215,
+        "lng": 121.59292129516894
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900633,
+          "title": "暖窩咖啡 內湖門市",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.086269,
+            121.592015
+          ],
+          "address": "台北市內湖區內湖路三段64號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27902928",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900644,
+          "title": "詹咖李",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084817,
+            121.592865
+          ],
+          "address": "台北市內湖區金龍路64-1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-87910255",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901691,
+          "title": "Cozy House Coffee Neihu Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.086269,
+            121.592015
+          ],
+          "address": "1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu District",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Road",
+          "notes": "Neihu District"
+        },
+        {
+          "id": 6901702,
+          "title": "Zhancurlee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084817,
+            121.592865
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 114",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City 114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d3693ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.087475066591836,
+        "lng": 121.58755450149579
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900717,
+          "title": "Tierra Casa Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.086746,
+            121.58859
+          ],
+          "address": "台北市內湖區金龍路177號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27941193",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901775,
+          "title": "Tierra Casa Restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.086746,
+            121.58859
+          ],
+          "address": "No. 177",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "114",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.078113773421737,
+        "lng": 121.58106236915597
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900761,
+          "title": "初心菓寮",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.078267,
+            121.58214
+          ],
+          "address": "台北市內湖區文德路86號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-26592389",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901819,
+          "title": "Shoshin",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.078267,
+            121.58214
+          ],
+          "address": "No. 86",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "114",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36cfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.076941535375422,
+        "lng": 121.58642874629221
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900816,
+          "title": "日子很甜雪花冰",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.077224,
+            121.585012
+          ],
+          "address": "台北市內湖區文德路210巷30弄42號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901874,
+          "title": "Ice Sugar Day",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.077224,
+            121.585012
+          ],
+          "address": "No. 42",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Wende Rd.",
+          "notes": "Neihu Dist."
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d36a7ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.085965321338502,
+        "lng": 121.60151624281514
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900884,
+          "title": "可朗烘焙坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084862,
+            121.600272
+          ],
+          "address": "台北市內湖區成功路四段362號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27929299",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901942,
+          "title": "CRUMB CO.",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.084862,
+            121.600272
+          ],
+          "address": "No. 362",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 114",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City 114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d364bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.069249246263464,
+        "lng": 121.58639129885292
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900917,
+          "title": "圓葉肉羹",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068743,
+            121.585476
+          ],
+          "address": "台北市內湖區民權東路六段78號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27948077",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901005,
+          "title": "路易莎咖啡（內湖三民）",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068729,
+            121.585179
+          ],
+          "address": "台北市內湖區民權東路六段72號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27936263",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901006,
+          "title": "梁社漢排骨（內湖民權東店）",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068718,
+            121.58504
+          ],
+          "address": "台北市內湖區民權東路六段68號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27941383",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901975,
+          "title": "Yuanye Rougeng",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068743,
+            121.585476
+          ],
+          "address": "1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu District",
+          "image": "",
+          "management": "",
+          "phone": "Minquan East Road",
+          "notes": "Neihu District"
+        },
+        {
+          "id": 6902063,
+          "title": "LOUISA COFFEE (Neihu Samin)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068729,
+            121.585179
+          ],
+          "address": "No. 72",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6902064,
+          "title": "LIANG SHE HAN BUY GOOD (Neihu Minquan East Branch)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.068718,
+            121.58504
+          ],
+          "address": "No. 68",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu District",
+          "notes": "Taipei City"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

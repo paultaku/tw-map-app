@@ -9,7 +9,7 @@ import { fetchGrid, type GridResult } from '@/services/gridProvider';
 // On move/zoom (debounced 300ms) it queries the resolution-appropriate grid for the viewport:
 //   low zoom  → grids_r7 (aggregate count bubbles)
 //   high zoom → grids_r9 (detail points)
-export function H3Loader({ onLoaded }: { onLoaded: (result: GridResult) => void }) {
+export function H3Loader({ datasetId = '', onLoaded }: { datasetId?: string; onLoaded: (result: GridResult) => void }) {
   const map = useMap();
   const onLoadedRef = useRef(onLoaded);
   useEffect(() => {
@@ -20,6 +20,7 @@ export function H3Loader({ onLoaded }: { onLoaded: (result: GridResult) => void 
   const reqId = useRef(0);
 
   const load = async () => {
+    if (!datasetId) return; // no dataset chosen yet
     const b = map.getBounds();
     const bbox = {
       minLat: b.getSouth(),
@@ -29,7 +30,7 @@ export function H3Loader({ onLoaded }: { onLoaded: (result: GridResult) => void 
     };
     const mine = ++reqId.current;
     try {
-      const result = await fetchGrid(bbox, map.getZoom());
+      const result = await fetchGrid(datasetId, bbox, map.getZoom());
       if (mine === reqId.current) onLoadedRef.current(result);
     } catch (e) {
       console.error('H3 grid load failed:', e);
@@ -38,11 +39,11 @@ export function H3Loader({ onLoaded }: { onLoaded: (result: GridResult) => void 
 
   const debouncedLoad = useDebouncedCallback(load, 300);
 
-  // Initial load on mount (queries Firestore for the starting viewport).
+  // Initial load on mount and whenever the selected dataset changes.
   useEffect(() => {
     load();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [datasetId]);
 
   useMapEvents({
     moveend: () => debouncedLoad(),

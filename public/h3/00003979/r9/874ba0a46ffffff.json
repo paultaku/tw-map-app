@@ -1,0 +1,803 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a46b7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.044681106610348,
+        "lng": 121.50143117549827
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400622,
+          "title": "淡水河06E Tamsui-06E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04549188,
+            121.5018067
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400623,
+          "title": "中興橋 Zhongxing Bridge 淡水河右岸",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04453641,
+            121.5007882
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400624,
+          "title": "淡水河07A Tamsui-07A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04388889,
+            121.5004167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401041,
+          "title": "淡水河右岸10.0KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04346369,
+            121.5000432
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.041838343536803,
+        "lng": 121.50034429009209
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400625,
+          "title": "淡水河07B Tamsui-07B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04319695,
+            121.4998175
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400626,
+          "title": "淡水河07C Tamsui-07C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04183333,
+            121.4986944
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46bbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.041002039551415,
+        "lng": 121.49712001756265
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400627,
+          "title": "淡水河07D Tamsui-07D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0406,
+            121.4977405
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400628,
+          "title": "淡水河07E Tamsui-07E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.04008677,
+            121.4972111
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401042,
+          "title": "淡水河右岸10.5KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03998543,
+            121.4971199
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4617ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.038159190736366,
+        "lng": 121.49603320623494
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400629,
+          "title": "淡水河07F Tamsui-07F",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03933056,
+            121.4956464
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400630,
+          "title": "淡水河07G Tamsui-07G",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03881667,
+            121.4949119
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4613ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.037322830860706,
+        "lng": 121.49280909807788
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400631,
+          "title": "淡水河07H Tamsui-07H",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03836111,
+            121.4930549
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401043,
+          "title": "淡水河右岸11.0KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.0383487,
+            121.4926092
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a468bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.039329276173916,
+        "lng": 121.49067180997679
+      },
+      "categories": {
+        "nature": 1
+      },
+      "points": [
+        {
+          "id": 11400632,
+          "title": "淡水河07I Tamsui-07I",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03790833,
+            121.4911722
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46c7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.03648641920194,
+        "lng": 121.48958510242542
+      },
+      "categories": {
+        "nature": 4
+      },
+      "points": [
+        {
+          "id": 11400633,
+          "title": "淡水河07J Tamsui-07J",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03738889,
+            121.4905
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400634,
+          "title": "淡水河07K Tamsui-07K",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03659067,
+            121.4890792
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400635,
+          "title": "淡水河07L Tamsui-07L",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03649444,
+            121.4879195
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401044,
+          "title": "淡水河右岸11.5KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03655718,
+            121.4883638
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46c3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0356499557722,
+        "lng": 121.4863612192921
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400774,
+          "title": "華江橋 Huajiang Bridge 新店溪右岸",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03561389,
+            121.486887
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400775,
+          "title": "新店溪01A Xindian-01A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03541667,
+            121.4868056
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400776,
+          "title": "新店溪01B Xindian-01B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03436111,
+            121.4864722
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a46cbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.032807013148254,
+        "lng": 121.48527458583463
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 11400777,
+          "title": "新店溪01C Xindian-01C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03291667,
+            121.4863889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401045,
+          "title": "淡水河右岸12.0KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03280827,
+            121.4864558
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4653ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.030800460469255,
+        "lng": 121.48741175391952
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 11400778,
+          "title": "新店溪01D Xindian-01D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03161111,
+            121.4870833
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400779,
+          "title": "新店溪01E Xindian-01E",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03089444,
+            121.4880059
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400780,
+          "title": "萬板橋 Wanban Bridge 新店溪右岸",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03041115,
+            121.4881554
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400781,
+          "title": "新店溪02A Xindian-02A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.03022335,
+            121.4874744
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400782,
+          "title": "新店溪02B Xindian-02B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.029275,
+            121.4876735
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11401046,
+          "title": "淡水河右岸12.5KM",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02980059,
+            121.487566
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4643ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.028793782549016,
+        "lng": 121.48954895294189
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400783,
+          "title": "新店溪02C Xindian-02C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02864167,
+            121.487931
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400784,
+          "title": "新店溪02D Xindian-02D",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02770833,
+            121.4882773
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400785,
+          "title": "華翠橋 Huacui Bridge 新店溪右岸",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02754444,
+            121.4883753
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a464bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.025950603285533,
+        "lng": 121.48846228229304
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 11400786,
+          "title": "新店溪03A Xindian-03A",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02686667,
+            121.4889161
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400787,
+          "title": "新店溪03B Xindian-03B",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02609167,
+            121.489544
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 11400788,
+          "title": "新店溪03C Xindian-03C",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            25.02552778,
+            121.4898889
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:15.295Z"
+}

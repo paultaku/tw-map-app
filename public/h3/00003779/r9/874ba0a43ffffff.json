@@ -1,0 +1,1393 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a432fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.024772567907945,
+        "lng": 121.54321014868074
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000309,
+          "title": "捷運科技大樓站(文湖線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026136,
+            121.543645
+          ],
+          "address": "臺北市大安區復興南路二段235號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運科技大樓站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000384,
+          "title": "麥當勞台北復興二店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025483,
+            121.543687
+          ],
+          "address": "臺北市大安區復興南路二段273號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北復興二分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000403,
+          "title": "統一星巴克興和門市",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025602,
+            121.543647
+          ],
+          "address": "臺北市大安區復興南路二段275號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克股份有限公司興和門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4333ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.02878869708425,
+        "lng": 121.5389338963226
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000316,
+          "title": "大安森林公園地下停車場(署)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.028771,
+            121.537892
+          ],
+          "address": "臺北市大安區建國南路二段2號地下一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處大安森林公園地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000363,
+          "title": "臺北市立圖書館總館",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.029152,
+            121.538369
+          ],
+          "address": "臺北市大安區建國南路二段125號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館總館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4313ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.029125299703395,
+        "lng": 121.53034506634707
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000317,
+          "title": "金華公園地下停車場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.029471,
+            121.531765
+          ],
+          "address": "臺北市大安區金華街254巷1號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處金華公園地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000344,
+          "title": "公有錦安市場(署)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.028633,
+            121.529604
+          ],
+          "address": "臺北市大安區永康街58號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有錦安市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000380,
+          "title": "臺北市立圖書館龍安民眾閱覽室",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.029034,
+            121.529646
+          ],
+          "address": "臺北市大安區永康街60號2.3F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市立圖書館龍安民眾閱覽室",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43afffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03163213302833,
+        "lng": 121.54002135982776
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000319,
+          "title": "大安高工地下停車場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.032794,
+            121.54071
+          ],
+          "address": "臺北市大安區信義路三段166巷6弄12號地下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處大安高工地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4377ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023101580154325,
+        "lng": 121.53675903586429
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000321,
+          "title": "龍門國中地下停車場",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.024266,
+            121.53804
+          ],
+          "address": "臺北市大安區建國南路二段269號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市停車管理工程處龍門國中地下停車場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4383ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.03397624499609,
+        "lng": 121.52929443870656
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000324,
+          "title": "捷運東門站(淡水信義線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.0336,
+            121.5288
+          ],
+          "address": "臺北市大安區信義路二段166號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運東門站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000648,
+          "title": "統一超商臺北市臨沂門市",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.034531,
+            121.527801
+          ],
+          "address": "臺北市中正區臨沂街74號76號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一超商股份有限公司臺北市臨沂門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.032804325308867,
+        "lng": 121.53465776722443
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000325,
+          "title": "捷運大安森林公園站(淡水信義線)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.033418,
+            121.5337
+          ],
+          "address": "臺北市大安區信義路三段100號B1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運大安森林公園站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a430fffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.02510961190536,
+        "lng": 121.5346210151986
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6000335,
+          "title": "中油龍安加油站",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025812,
+            121.535306
+          ],
+          "address": "臺北市大安區和平東路二段2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司龍安站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000364,
+          "title": "大安區公所",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026441,
+            121.534607
+          ],
+          "address": "臺北市大安區新生南路二段86號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市大安區公所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000365,
+          "title": "國稅局大安分局",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026441,
+            121.534607
+          ],
+          "address": "臺北市大安區新生南路二段86號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財政部臺北國稅局大安分局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000367,
+          "title": "臺北市稅捐稽徵處大安分處",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026441,
+            121.534607
+          ],
+          "address": "臺北市大安區新生南路二段86號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市稅捐稽徵處大安分處",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000368,
+          "title": "大安區戶政事務所",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026441,
+            121.534607
+          ],
+          "address": "臺北市大安區新生南路二段86號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市大安區戶政事務所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000393,
+          "title": "摩斯漢堡和平東路店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026176,
+            121.534109
+          ],
+          "address": "臺北市大安區和平東路一段278號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司和平東路分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a438bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.031132955745807,
+        "lng": 121.52820713817178
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000336,
+          "title": "中油金山南路加油站",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031564,
+            121.526942
+          ],
+          "address": "臺北市大安區金山南路二段77號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺灣中油股份有限公司金山南路站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000405,
+          "title": "摩斯漢堡金山店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030784,
+            121.526792
+          ],
+          "address": "臺北市大安區金山南路二段121號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司金山南路分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.030796573816673,
+        "lng": 121.53679581636341
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000337,
+          "title": "勝利加油站",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.031032,
+            121.538105
+          ],
+          "address": "臺北市大安區建國南路二段75之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "財團法人台北市勝利社會福利事業基金會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a438fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.031968666471027,
+        "lng": 121.53143239653588
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000339,
+          "title": "永康公園",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.032032,
+            121.529745
+          ],
+          "address": "臺北市大安區永康街8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4307ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.027953133698208,
+        "lng": 121.53570840468858
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000341,
+          "title": "大安森林公園(署)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.027752,
+            121.535241
+          ],
+          "address": "臺北市大安區新生南路二段1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "公園路燈工程管理處青年公園管理所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43a3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.033639932247137,
+        "lng": 121.5378832502229
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000345,
+          "title": "公有信義市場(署)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.034026,
+            121.539044
+          ],
+          "address": "臺北市大安區信義路三段107號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有信義市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4323ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026780695113903,
+        "lng": 121.54107200709686
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000346,
+          "title": "公有安東市場(署)",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.028279,
+            121.541146
+          ],
+          "address": "臺北市大安區瑞安街75號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有安東市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a433bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.025945179455043,
+        "lng": 121.53784645500143
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000348,
+          "title": "中國文化大學推廣教育部",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025917,
+            121.538013
+          ],
+          "address": "臺北市大安區建國南路二段231號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "中國文化大學推廣教育部",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000394,
+          "title": "統一星巴克建和門市",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.025709,
+            121.537167
+          ],
+          "address": "臺北市大安區和平東路二段42之1號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克股份有限公司建和門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a431bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.026281851269236,
+        "lng": 121.52925775834476
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000371,
+          "title": "和平東路派出所",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026534,
+            121.530718
+          ],
+          "address": "臺北市大安區和平東路一段143號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府警察局和平東路派出所",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4327ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.027616158869755,
+        "lng": 121.54429767147022
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000388,
+          "title": "摩斯漢堡復興南路店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.028459,
+            121.545689
+          ],
+          "address": "臺北市大安區復興南路二段151巷47號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司復興南路分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000404,
+          "title": "爭鮮迴轉壽司科技店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.026934,
+            121.543658
+          ],
+          "address": "臺北市大安區復興南路二段191號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "爭鮮股份有限公司科技分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.027453818084645,
+        "lng": 121.5238947656444
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000391,
+          "title": "統一星巴克和平門市",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.027041,
+            121.52293
+          ],
+          "address": "臺北市大安區和平東路一段2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "統一星巴克股份有限公司和平門市",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000401,
+          "title": "麥當勞羅斯福店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.027721,
+            121.522393
+          ],
+          "address": "臺北市大安區羅斯福路二段45號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司羅斯福分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4357ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.023438321182127,
+        "lng": 121.52817047252897
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000392,
+          "title": "漢堡王新師大店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.023925,
+            121.528002
+          ],
+          "address": "臺北市大安區師大路86巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台鋼漢堡王股份有限公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a436bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.01741413659267,
+        "lng": 121.53458426414254
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000396,
+          "title": "麥當勞台北新生店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.018322,
+            121.533552
+          ],
+          "address": "臺北市大安區新生南路三段88之1.2.3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣麥當勞餐廳股份有限公司台北新生分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a439bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.03314048654741,
+        "lng": 121.52606924083719
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000406,
+          "title": "吉野家東門店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03405,
+            121.52735
+          ],
+          "address": "臺北市大安區金山南路二段9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "台灣吉野家股份有限公司東門分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a437bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.019422323350852,
+        "lng": 121.53244630277351
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000408,
+          "title": "西雅圖咖啡台大店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.018826,
+            121.533337
+          ],
+          "address": "臺北市大安區新生南路三段88號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "馥餘實業股份有限公司台大分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a434fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.018586695649397,
+        "lng": 121.52922107895073
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000410,
+          "title": "摩斯漢堡羅斯福路店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.019895,
+            121.529796
+          ],
+          "address": "臺北市大安區羅斯福路三段233號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "安心食品服務股份有限公司羅斯福路分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000579,
+          "title": "捷運台電大樓站(松山新店線)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.018927,
+            121.529708
+          ],
+          "address": "臺北市中正區羅斯福路三段216-5號B1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運台電大樓站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43d3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.029461378681855,
+        "lng": 121.52175695847531
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000411,
+          "title": "爭鮮迴轉壽司古亭店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.029539,
+            121.521256
+          ],
+          "address": "臺北市大安區羅斯福路二段73號1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "爭鮮股份有限公司古亭分公司",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000619,
+          "title": "公有南門市場(署)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.030271,
+            121.522284
+          ],
+          "address": "臺北市中正區羅斯福路一段8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有南門市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4387ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.034811951558524,
+        "lng": 121.53251974891103
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000413,
+          "title": "摩斯漢堡新生店",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.03449,
+            121.533077
+          ],
+          "address": "臺北市大安區新生南路一段161之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "25.034490",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4337ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.029624208568432,
+        "lng": 121.54215950024528
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000416,
+          "title": "大安2號",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.030005,
+            121.541707
+          ],
+          "address": "臺北市大安區瑞安街208巷47弄39號慈湄宮旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43b7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.036483208976026,
+        "lng": 121.53897070626702
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000420,
+          "title": "大安花市3號",
+          "category": "other",
+          "location": "臺北市大安區",
+          "coords": [
+            25.037046,
+            121.53806
+          ],
+          "address": "臺北市大安區仁愛路與建國南路口高架橋下",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43cbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.02461036137883,
+        "lng": 121.52280756133027
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000576,
+          "title": "捷運古亭站(松山新店線)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.025473,
+            121.523279
+          ],
+          "address": "臺北市中正區羅斯福路二段164之1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "捷運古亭站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000703,
+          "title": "夏慕尼南昌店",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.025836,
+            121.522171
+          ],
+          "address": "臺北市中正區南昌路二段112號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "王品餐飲股份有限公司夏慕尼南昌店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000727,
+          "title": "中正12號",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.025057,
+            121.521855
+          ],
+          "address": "臺北市中正區晉江街34號長慶廟旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市政府環境保護局",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a435bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.0197589821866,
+        "lng": 121.52385815790612
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 6000605,
+          "title": "臺北市客家文化主題公園(署)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.0203,
+            121.5253
+          ],
+          "address": "臺北市中正區汀州路三段2號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市客家事務委員會",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000613,
+          "title": "古亭河濱公園",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.020129,
+            121.522197
+          ],
+          "address": "臺北市中正區同安街底永福橋至中正橋間",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處南區分隊",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000663,
+          "title": "古亭河濱公園",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.018908,
+            121.522556
+          ],
+          "address": "客家平台花海旁",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "水利處高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4393ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.035983698277192,
+        "lng": 121.52715651171569
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 6000617,
+          "title": "公有東門市場(署)",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.034572,
+            121.526638
+          ],
+          "address": "臺北市中正區信義路二段81號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "臺北市市場處公有東門市場",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4353ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.022602598032925,
+        "lng": 121.5249453696913
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6000673,
+          "title": "王貫英紀念圖書館",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.022638,
+            121.523818
+          ],
+          "address": "臺北市中正區汀州路二段265號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "王貫英紀念圖書館",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6000704,
+          "title": "聚北海道昆布鍋南昌店",
+          "category": "other",
+          "location": "臺北市中正區",
+          "coords": [
+            25.023947,
+            121.524421
+          ],
+          "address": "臺北市中正區南昌路二段216號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "王品餐飲股份有限公司聚北海道昆布鍋南昌店",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:58.098Z"
+}

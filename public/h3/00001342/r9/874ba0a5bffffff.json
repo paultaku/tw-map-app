@@ -1,0 +1,1967 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a5b03ffff",
+      "res": 9,
+      "count": 63,
+      "center": {
+        "lat": 24.97908144300842,
+        "lng": 121.55480388409397
+      },
+      "categories": {
+        "nature": 63
+      },
+      "points": [
+        {
+          "id": 10000000,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979803,
+            121.553778
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000001,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979721,
+            121.553805
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000002,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979615,
+            121.553837
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000003,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979592,
+            121.553844
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000004,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979567,
+            121.553846
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000005,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97954,
+            121.553859
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m多主幹2枝"
+        },
+        {
+          "id": 10000006,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97951,
+            121.553871
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000007,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979475,
+            121.553881
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000008,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979436,
+            121.553893
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000009,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979411,
+            121.553901
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000010,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979389,
+            121.553904
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.7m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.7m"
+        },
+        {
+          "id": 10000011,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97934,
+            121.553927
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000012,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979305,
+            121.553938
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000013,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97927,
+            121.553947
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        },
+        {
+          "id": 10000014,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979246,
+            121.553958
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000015,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979208,
+            121.553969
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000016,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979171,
+            121.55398
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000017,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979121,
+            121.553992
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000018,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979101,
+            121.554001
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000019,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979074,
+            121.554006
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000020,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979052,
+            121.554014
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000021,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979003,
+            121.554032
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000022,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978966,
+            121.554047
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000023,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978942,
+            121.554051
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000024,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.9789,
+            121.554066
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        },
+        {
+          "id": 10000025,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978875,
+            121.554072
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000026,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978842,
+            121.55409
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000027,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978807,
+            121.5541
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000028,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978773,
+            121.55411
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000029,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978748,
+            121.55412
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000030,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978721,
+            121.554124
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000031,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978686,
+            121.554139
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.7m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.7m"
+        },
+        {
+          "id": 10000032,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978646,
+            121.554152
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000033,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978617,
+            121.554159
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        },
+        {
+          "id": 10000034,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978592,
+            121.554167
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000035,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978561,
+            121.554175
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000036,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978542,
+            121.55418
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000037,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978497,
+            121.554196
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000038,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978408,
+            121.554227
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000039,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978366,
+            121.554233
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000040,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978324,
+            121.554252
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000041,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978282,
+            121.554258
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000042,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978264,
+            121.554269
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000043,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978242,
+            121.55428
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000044,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978206,
+            121.554292
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000045,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978177,
+            121.5543
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000046,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978146,
+            121.55431
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000047,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978109,
+            121.554324
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹4枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹4枝"
+        },
+        {
+          "id": 10000048,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978085,
+            121.55433
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹3枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹3枝"
+        },
+        {
+          "id": 10000049,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978007,
+            121.55435
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000050,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977982,
+            121.554361
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000051,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977955,
+            121.554367
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000052,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977932,
+            121.554368
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000053,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977901,
+            121.554387
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000054,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977857,
+            121.554401
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000055,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977823,
+            121.554411
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000056,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977797,
+            121.554419
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000057,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977774,
+            121.554426
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000058,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977746,
+            121.554434
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        },
+        {
+          "id": 10000059,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977723,
+            121.554443
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹3枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹3枝"
+        },
+        {
+          "id": 10000060,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97768,
+            121.554456
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹4枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹4枝"
+        },
+        {
+          "id": 10000061,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977624,
+            121.554479
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹3枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹3枝"
+        },
+        {
+          "id": 10000070,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979234,
+            121.553846
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b0bffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.976236261254527,
+        "lng": 121.55371628677086
+      },
+      "categories": {
+        "nature": 8
+      },
+      "points": [
+        {
+          "id": 10000062,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97759,
+            121.554491
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.7m多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.7m多主幹2枝"
+        },
+        {
+          "id": 10000063,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977564,
+            121.554493
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000064,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977493,
+            121.55454
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000065,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977444,
+            121.554571
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.9m多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.9m多主幹2枝"
+        },
+        {
+          "id": 10000066,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977424,
+            121.554589
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000067,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97723,
+            121.554755
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10000068,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977198,
+            121.554777
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000069,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977067,
+            121.554943
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b07ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.979916418913785,
+        "lng": 121.55802974677911
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10000071,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979401,
+            121.557737
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000072,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979802,
+            121.558063
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000073,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980225,
+            121.55924
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10010901,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979369,
+            121.558526
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝尺放地面"
+        },
+        {
+          "id": 10010902,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978779,
+            121.55813
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b33ffff",
+      "res": 9,
+      "count": 5,
+      "center": {
+        "lat": 24.980751342990697,
+        "lng": 121.56125572164615
+      },
+      "categories": {
+        "nature": 5
+      },
+      "points": [
+        {
+          "id": 10000074,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980108,
+            121.559725
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000075,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979851,
+            121.560737
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000076,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.98013,
+            121.562268
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "主幹傾斜",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "主幹傾斜"
+        },
+        {
+          "id": 10010899,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.97925,
+            121.56151
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        },
+        {
+          "id": 10010900,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979221,
+            121.561228
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b37ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.981586215226983,
+        "lng": 121.56448180868037
+      },
+      "categories": {
+        "nature": 8
+      },
+      "points": [
+        {
+          "id": 10000077,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981397,
+            121.564915
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10000078,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981466,
+            121.565391
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "僅量主幹",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "僅量主幹"
+        },
+        {
+          "id": 10000079,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981441,
+            121.565695
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.5m多主幹4枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.5m多主幹4枝"
+        },
+        {
+          "id": 10000080,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981499,
+            121.56572
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹13枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹13枝"
+        },
+        {
+          "id": 10000081,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981485,
+            121.565795
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.2m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.2m"
+        },
+        {
+          "id": 10000082,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981447,
+            121.565782
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量0.2m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量0.2m"
+        },
+        {
+          "id": 10000083,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981437,
+            121.565852
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10010896,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980392,
+            121.564257
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b27ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.979575870249057,
+        "lng": 121.56662020337421
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10000084,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.981096,
+            121.566628
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "測量1m",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "測量1m"
+        },
+        {
+          "id": 10000085,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.98108,
+            121.566708
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b13ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.981091519593907,
+        "lng": 121.55266570130233
+      },
+      "categories": {
+        "nature": 6
+      },
+      "points": [
+        {
+          "id": 10010674,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980634,
+            121.553525
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10010675,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980567,
+            121.553535
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10010676,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980501,
+            121.553539
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "DBH<6",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "DBH<6"
+        },
+        {
+          "id": 10010684,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980036,
+            121.553673
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10010685,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980045,
+            121.553672
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 10010686,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980047,
+            121.553686
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b23ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.978741045750898,
+        "lng": 121.56339405597393
+      },
+      "categories": {
+        "nature": 2
+      },
+      "points": [
+        {
+          "id": 10010897,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.980182,
+            121.56381
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝尺放地面"
+        },
+        {
+          "id": 10010898,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.979957,
+            121.563341
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a5b0fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 24.97707124124147,
+        "lng": 121.55694209765763
+      },
+      "categories": {
+        "nature": 3
+      },
+      "points": [
+        {
+          "id": 10010903,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978353,
+            121.557997
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝尺放地面"
+        },
+        {
+          "id": 10010904,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.978105,
+            121.55797
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "尺放地面"
+        },
+        {
+          "id": 10010905,
+          "title": "臺北市河濱生態喬木",
+          "category": "nature",
+          "location": "臺北市",
+          "coords": [
+            24.977672,
+            121.557942
+          ],
+          "address": "",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "多主幹2枝尺放地面",
+          "image": "",
+          "management": "高灘地南區管理站",
+          "phone": "",
+          "notes": "多主幹2枝尺放地面"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:10.280Z"
+}

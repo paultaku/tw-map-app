@@ -1,0 +1,947 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a43c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.027453818084645,
+        "lng": 121.5238947656444
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2800008,
+          "title": "富明王企業社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.026219,
+            121.523315
+          ],
+          "address": "臺北市大安區羅斯福路2段79號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800261,
+          "title": "維境皮拉提斯工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027277,
+            121.525017
+          ],
+          "address": "臺北市大安區和平東路1段75巷2之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800778,
+          "title": "路兒商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.026847,
+            121.523047
+          ],
+          "address": "臺北市大安區和平東路1段6號11樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800908,
+          "title": "筋站傳統整復推拿館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027274,
+            121.525122
+          ],
+          "address": "臺北市大安區和平東路1段75巷1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a434fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.018586695649397,
+        "lng": 121.52922107895073
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800019,
+          "title": "木易商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.018587,
+            121.530703
+          ],
+          "address": "臺北市大安區羅斯福路3段271號10樓之3",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43c7ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.028289584826133,
+        "lng": 121.52711985982423
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800053,
+          "title": "一拍爵士鼓音樂藝術工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.0288,
+            121.526464
+          ],
+          "address": "臺北市大安區金山南路二段169號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4333ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02878869708425,
+        "lng": 121.5389338963226
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800217,
+          "title": "喬峵玻璃行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027509,
+            121.539518
+          ],
+          "address": "臺北市大安區瑞安街244巷27號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4337ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.029624208568432,
+        "lng": 121.54215950024528
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800257,
+          "title": "義二商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.029707,
+            121.543037
+          ],
+          "address": "臺北市大安區瑞安街45號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800654,
+          "title": "誇許早午餐",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.030636,
+            121.543325
+          ],
+          "address": "臺北市大安區復興南路2段84之6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43dbffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.026617999491116,
+        "lng": 121.5206697838221
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 2800266,
+          "title": "沅賀商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.026751,
+            121.52146
+          ],
+          "address": "臺北市中正區和平西路1段14號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800354,
+          "title": "和平澎湖鮮魚湯",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.026454,
+            121.519942
+          ],
+          "address": "臺北市中正區和平西路1段46號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800423,
+          "title": "哈偉斯食品行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027384,
+            121.521574
+          ],
+          "address": "臺北市中正區羅斯福路2段66巷1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800613,
+          "title": "富比視工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027669,
+            121.521311
+          ],
+          "address": "臺北市中正區羅斯福路2段48巷3號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43cfffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.025446132250647,
+        "lng": 121.52603260366408
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800432,
+          "title": "恆昌傳統整復推拿館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.024754,
+            121.526748
+          ],
+          "address": "臺北市大安區羅斯福路2段101巷45號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800738,
+          "title": "恆昌傳統整復推拿館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.024754,
+            121.526748
+          ],
+          "address": "臺北市大安區羅斯福路2段101巷45號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a439bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.03314048654741,
+        "lng": 121.52606924083719
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 2800479,
+          "title": "吉宥商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033628,
+            121.526467
+          ],
+          "address": "臺北市大安區金山南路二段10巷15號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800629,
+          "title": "饃饃噠商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033148,
+            121.527283
+          ],
+          "address": "臺北市大安區金山南路2段25之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801081,
+          "title": "饃饃噠商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033148,
+            121.527283
+          ],
+          "address": "臺北市大安區金山南路2段25之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4343ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02059470945568,
+        "lng": 121.5270832088999
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800499,
+          "title": "一粒一甜不辣小吃店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.021532,
+            121.528174
+          ],
+          "address": "臺北市大安區師大路135巷1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4323ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.026780695113903,
+        "lng": 121.54107200709686
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800529,
+          "title": "曾記餃子",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025399,
+            121.541077
+          ],
+          "address": "臺北市大安區和平東路2段145號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801023,
+          "title": "榮騰咖啡館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.028064,
+            121.54062
+          ],
+          "address": "臺北市大安區瑞安街206號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43d3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.029461378681855,
+        "lng": 121.52175695847531
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800532,
+          "title": "筋師傅工坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.029147,
+            121.521164
+          ],
+          "address": "臺北市中正區羅斯福路2段7之1號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a432fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.024772567907945,
+        "lng": 121.54321014868074
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800549,
+          "title": "阿英海產粥",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.024604,
+            121.543245
+          ],
+          "address": "臺北市大安區復興南路2段268號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800845,
+          "title": "和平飲料店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025314,
+            121.541658
+          ],
+          "address": "臺北市大安區和平東路2段169號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4327ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.027616158869755,
+        "lng": 121.54429767147022
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800729,
+          "title": "一成工程行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.028054,
+            121.544383
+          ],
+          "address": "臺北市大安區和平東路2段265巷37弄6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801116,
+          "title": "信義書局",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.027535,
+            121.543689
+          ],
+          "address": "臺北市大安區復興南路2段173號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4393ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.035983698277192,
+        "lng": 121.52715651171569
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800768,
+          "title": "五星中藥行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.035236,
+            121.526514
+          ],
+          "address": "臺北市中正區金山南路1段110巷16號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a438fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.031968666471027,
+        "lng": 121.53143239653588
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800885,
+          "title": "拏雲商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.03179,
+            121.532591
+          ],
+          "address": "臺北市大安區新生南路2段30巷1之2號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43cbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02461036137883,
+        "lng": 121.52280756133027
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800899,
+          "title": "姬王府國際貿易企業",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025838,
+            121.522173
+          ],
+          "address": "臺北市中正區南昌路2段112之18號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a43a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.033639932247137,
+        "lng": 121.5378832502229
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800907,
+          "title": "新吉永昇工程",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.033249,
+            121.539113
+          ],
+          "address": "臺北市大安區信義路3段126號4樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2800984,
+          "title": "青山微曉社",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.034224,
+            121.536429
+          ],
+          "address": "臺北市大安區新生南路1段165巷39號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4353ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.022602598032925,
+        "lng": 121.5249453696913
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800933,
+          "title": "弘寶商行",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.022749,
+            121.52614
+          ],
+          "address": "臺北市大安區羅斯福路3段77號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4347ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.021430384881437,
+        "lng": 121.53030837223386
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2800955,
+          "title": "煥妍美學坊",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.020029,
+            121.530175
+          ],
+          "address": "臺北市大安區辛亥路1段40號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a437bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.019422323350852,
+        "lng": 121.53244630277351
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 2800999,
+          "title": "非印影像設計工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.020358,
+            121.533047
+          ],
+          "address": "臺北市大安區溫州街75號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 2801122,
+          "title": "安好食精緻早餐",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.018733,
+            121.532623
+          ],
+          "address": "臺北市大安區新生南路3段86巷9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a430fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.02510961190536,
+        "lng": 121.5346210151986
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 2801067,
+          "title": "鑫源當舖",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.025715,
+            121.535833
+          ],
+          "address": "臺北市大安區和平東路2段16號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:49.592Z"
+}

@@ -1,0 +1,1915 @@
+{
+  "cells": [
+    {
+      "h3": "894ba56928bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11889608638919,
+        "lng": 121.52110863374558
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500013,
+          "title": "國立臺北護理健康大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.117539,
+            121.520679
+          ],
+          "address": "明德路365號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "置於科技大樓一樓健康中心對面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於科技大樓一樓健康中心對面"
+        },
+        {
+          "id": 5500954,
+          "title": "國立臺北護理健康大學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.117539,
+            121.520679
+          ],
+          "address": "明德路365號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "學生餐廳一樓外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學生餐廳一樓外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56920fffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11288289114452,
+        "lng": 121.52752308382851
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500054,
+          "title": "臺北市士林區士東國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.112934,
+            121.526814
+          ],
+          "address": "中山北路六段392號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "士東國小健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "士東國小健康中心"
+        },
+        {
+          "id": 5500789,
+          "title": "臺北市士林區士東國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.112934,
+            121.526814
+          ],
+          "address": "中山北路六段392號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "幼兒園內茉莉班教室正前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "幼兒園內茉莉班教室正前方"
+        },
+        {
+          "id": 5501269,
+          "title": "動動MoveMove體適能教室",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.112997,
+            121.528655
+          ],
+          "address": "士東路９１巷３６號1F",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "動動櫃檯旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "動動櫃檯旁邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569207ffff",
+      "res": 9,
+      "count": 17,
+      "center": {
+        "lat": 25.115723608647627,
+        "lng": 121.5286105241053
+      },
+      "categories": {
+        "other": 17
+      },
+      "points": [
+        {
+          "id": 5500083,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor end of the hallway towards the lower school playground",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor end of the hallway towards the lower school playground"
+        },
+        {
+          "id": 5500084,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "2nd ?oor left side of the atrium beside counselor o?ce",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2nd ?oor left side of the atrium beside counselor o?ce"
+        },
+        {
+          "id": 5500110,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor entrance to B building near MS o?ces in the outside foyer",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor entrance to B building near MS o?ces in the outside foyer"
+        },
+        {
+          "id": 5500111,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor"
+        },
+        {
+          "id": 5500112,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "4th ?oor sky bridge entrance to tech cube",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4th ?oor sky bridge entrance to tech cube"
+        },
+        {
+          "id": 5500113,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor"
+        },
+        {
+          "id": 5500114,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "4th ?oor on wall to the right of auditorium in H building",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4th ?oor on wall to the right of auditorium in H building"
+        },
+        {
+          "id": 5500115,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "2nd ?oor on wall closest to the stairwell leading to the ?eld",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2nd ?oor on wall closest to the stairwell leading to the ?eld"
+        },
+        {
+          "id": 5500993,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor hallway near entrance to upper school gym",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor hallway near entrance to upper school gym"
+        },
+        {
+          "id": 5501071,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "1st ?oor to the left as entering entrance",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1st ?oor to the left as entering entrance"
+        },
+        {
+          "id": 5501258,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "2nd ?oor",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2nd ?oor"
+        },
+        {
+          "id": 5502229,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "2nd ?oor C building towards H building past the Black Box Room",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2nd ?oor C building towards H building past the Black Box Room"
+        },
+        {
+          "id": 5502230,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "3rd ?oor center stairwell in A building in the teacher area",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3rd ?oor center stairwell in A building in the teacher area"
+        },
+        {
+          "id": 5502231,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "3rd ?oor outside of gym in the area near the stairwell",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3rd ?oor outside of gym in the area near the stairwell"
+        },
+        {
+          "id": 5502232,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "4th ?oor top of stairwell beside art room and hallway towards library",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "4th ?oor top of stairwell beside art room and hallway towards library"
+        },
+        {
+          "id": 5502233,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "2nd floor",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "2nd floor"
+        },
+        {
+          "id": 5502235,
+          "title": "台北美國學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1164004,
+            121.5301123
+          ],
+          "address": "11152 中山北路六段 800號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "3rd ?oor on the wall beside the stairs outside of the library",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "3rd ?oor on the wall beside the stairs outside of the library"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926fffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.106032512951156,
+        "lng": 121.53071206073864
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500132,
+          "title": "臺北市立聯合醫院陽明院區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.104846,
+            121.531212
+          ],
+          "address": "雨聲街105號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "陽明院區後棟大樓--宿舍入口右側(健檢中心)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "陽明院區後棟大樓--宿舍入口右側(健檢中心)"
+        },
+        {
+          "id": 5501469,
+          "title": "臺北市士林區雨農國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.105257,
+            121.529834
+          ],
+          "address": "忠義街1號",
+          "layoutType": "國小",
+          "hours": "詳見官方網站",
+          "description": "靠近校門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "靠近校門口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692dbffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11438277639164,
+        "lng": 121.51357074541606
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500202,
+          "title": "臺北市立石牌國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114965,
+            121.514231
+          ],
+          "address": "石牌路一段139號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "總務前穿堂(701教室旁)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "總務前穿堂(701教室旁)"
+        },
+        {
+          "id": 5500287,
+          "title": "臺北市立石牌國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114965,
+            121.514231
+          ],
+          "address": "石牌路一段139號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "操場內的司令台後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "操場內的司令台後方"
+        },
+        {
+          "id": 5502304,
+          "title": "臺北市立石牌國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114965,
+            121.514231
+          ],
+          "address": "石牌路一段139號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "體育館1樓 室內籃球場外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "體育館1樓 室內籃球場外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569223ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11455513110614,
+        "lng": 121.53397455953942
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500263,
+          "title": "天母運動場區棒球場",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.113451,
+            121.532875
+          ],
+          "address": "忠誠路二段77號",
+          "layoutType": "運動場館(如小巨蛋)",
+          "hours": "詳見官方網站",
+          "description": "天母棒球場1樓行政辦公室入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "天母棒球場1樓行政辦公室入口右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.118059745107836,
+        "lng": 121.51788324603862
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5500270,
+          "title": "臺北市北投區健康服務中心",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.118031,
+            121.517118
+          ],
+          "address": "石牌路二段111號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "北投區健康服務中心1樓服務台",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "北投區健康服務中心1樓服務台"
+        },
+        {
+          "id": 5500770,
+          "title": "臺北市政府警察局北投分局永明派出所",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.117934,
+            121.516949
+          ],
+          "address": "石牌路2段101號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "值勤臺旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "值勤臺旁"
+        },
+        {
+          "id": 5500898,
+          "title": "國立臺北護理健康大學水療中心(展昭國際企業(股)公司)",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.117796,
+            121.518053
+          ],
+          "address": "明德路365號(水療中心)",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "大池游泳池右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大池游泳池右側"
+        },
+        {
+          "id": 5502511,
+          "title": "力康運動醫學機構天母館",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1186138,
+            121.5192037
+          ],
+          "address": "明德路365號學思樓3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.11255038658231,
+        "lng": 121.53611289227756
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500277,
+          "title": "天母運動場區網球場",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.113749,
+            121.535564
+          ],
+          "address": "忠誠路二段77號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "網球場辦公室南側大門和服務臺中間",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "網球場辦公室南側大門和服務臺中間"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692b3ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.123409088541163,
+        "lng": 121.5286472013605
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500286,
+          "title": "合作金庫商業銀行-員工訓練中心",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.12302961,
+            121.5287632
+          ],
+          "address": "中山北路七段81巷49號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓警衛櫃台前",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓警衛櫃台前"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569237ffff",
+      "res": 9,
+      "count": 7,
+      "center": {
+        "lat": 25.117395839829072,
+        "lng": 121.53506210352347
+      },
+      "categories": {
+        "other": 7
+      },
+      "points": [
+        {
+          "id": 5500336,
+          "title": "新光三越百貨股份有限公司台北天母分公司-一館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.11795,
+            121.533924
+          ],
+          "address": "天母東路68號地下一樓.地上1樓至7樓",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "A棟6樓醫護室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "A棟6樓醫護室"
+        },
+        {
+          "id": 5500851,
+          "title": "全真概念健康事業股份有限公司-天母分公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.116401,
+            121.533665
+          ],
+          "address": "忠誠路二段188號B1",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "大門進來就會看到",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進來就會看到"
+        },
+        {
+          "id": 5501833,
+          "title": "新光三越百貨股份有限公司台北天母分公司-二館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.117942,
+            121.53383
+          ],
+          "address": "忠誠路二段200號1樓.202號1樓.206號地下1樓.地上1樓至3樓",
+          "layoutType": "商場",
+          "hours": "詳見官方網站",
+          "description": "B館1F服務台後方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "B館1F服務台後方"
+        },
+        {
+          "id": 5502309,
+          "title": "旭昇健康有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.117664,
+            121.533357
+          ],
+          "address": "天母東路50巷8號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "進大門後櫃檯右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "進大門後櫃檯右側"
+        },
+        {
+          "id": 5502463,
+          "title": "臺北市立臺北特殊教育學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.116617,
+            121.536225
+          ],
+          "address": "忠誠路二段207巷3號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "一樓健康中心內",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓健康中心內"
+        },
+        {
+          "id": 5502674,
+          "title": "臺北市立啟明學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.116621,
+            121.534969
+          ],
+          "address": "忠誠路二段207巷1號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "學務處旁川堂，緊鄰學務處及健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "學務處旁川堂，緊鄰學務處及健康中心"
+        },
+        {
+          "id": 5502676,
+          "title": "臺北市立啟明學校",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.116621,
+            121.534969
+          ],
+          "address": "忠誠路二段207巷1號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "本校學生宿舍一樓櫃台旁牆壁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本校學生宿舍一樓櫃台旁牆壁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569243ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.108369634605193,
+        "lng": 121.51998474325224
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500414,
+          "title": "臺北市立明德國民中學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.108023,
+            121.51866
+          ],
+          "address": "明德路50號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "校門口進來右手邊四維樓1樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "校門口進來右手邊四維樓1樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692bbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.12056861266938,
+        "lng": 121.52755974636045
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500420,
+          "title": "臺北市士林區天母國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.120167,
+            121.527422
+          ],
+          "address": "天玉街12號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市士林區天母國小警衛室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市士林區天母國小警衛室"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56922bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11171434037651,
+        "lng": 121.5328870377472
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500491,
+          "title": "臺灣士林地方法院",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.112514,
+            121.53308
+          ],
+          "address": "士東路190號",
+          "layoutType": "法院",
+          "hours": "詳見官方網站",
+          "description": "置於本院法警室旁，公共電話區域，近西大門及電梯口。",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於本院法警室旁，公共電話區域，近西大門及電梯口。"
+        },
+        {
+          "id": 5501024,
+          "title": "臺北市士林老人服務暨日間照顧中心",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.111436,
+            121.532287
+          ],
+          "address": "忠誠路二段53巷7號6樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "6樓日間照顧中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "6樓日間照顧中心"
+        },
+        {
+          "id": 5502314,
+          "title": "大葉高島屋百貨股份有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.111857,
+            121.531367
+          ],
+          "address": "忠誠路2段55號",
+          "layoutType": "百貨業",
+          "hours": "詳見官方網站",
+          "description": "1F忠誠大門口入口處直走通往員工出入口安全門旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1F忠誠大門口入口處直走通往員工出入口安全門旁"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692d3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.117223351748542,
+        "lng": 121.51465797075143
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500579,
+          "title": "hamerfitness石牌店",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1157933,
+            121.5150171
+          ],
+          "address": "東華街二段6號2樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "位於石牌捷運站 東華街二段6號2樓 馬可先生樓上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位於石牌捷運站 東華街二段6號2樓 馬可先生樓上"
+        },
+        {
+          "id": 5502514,
+          "title": "維京健身工作室",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.1180834,
+            121.5159794
+          ],
+          "address": "義理街81號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "一樓入口右側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓入口右側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692a3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.12140479764385,
+        "lng": 121.53078547123926
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500616,
+          "title": "香港商世界健身事業有限公司天母分公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.119924,
+            121.531148
+          ],
+          "address": "中山北路7段34號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "1樓洽談區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓洽談區"
+        },
+        {
+          "id": 5501111,
+          "title": "香港商世界健身事業有限公司飛動天母分公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.121245,
+            121.531248
+          ],
+          "address": "中山北路七段73號.75號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "展示櫃左邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "展示櫃左邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692abffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.118564244151912,
+        "lng": 121.5296979865756
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500661,
+          "title": "Curves女性專用30分鐘健身中心天母店",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.119208,
+            121.529596
+          ],
+          "address": "天母西路3號3樓之11",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "面向運動區左方柱子後側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "面向運動區左方柱子後側"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56924fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.10636500335354,
+        "lng": 121.52212280427462
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500662,
+          "title": "家福股份有限公司台北天母分公司(家樂福天母店)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.105749,
+            121.52274
+          ],
+          "address": "德行西路47號",
+          "layoutType": "賣場",
+          "hours": "詳見官方網站",
+          "description": "家樂福天母店二樓結帳區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "家樂福天母店二樓結帳區"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692b7ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.124245269109956,
+        "lng": 121.53187297809617
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5500669,
+          "title": "沃田有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.122814,
+            121.531848
+          ],
+          "address": "中山北路7段127號",
+          "layoutType": "旅館",
+          "hours": "詳見官方網站",
+          "description": "放置於1樓櫃檯，如需使用請洽櫃檯人員",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於1樓櫃檯，如需使用請洽櫃檯人員"
+        },
+        {
+          "id": 5500742,
+          "title": "臺北市政府警察局士林分局天母派出所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.125001,
+            121.532966
+          ],
+          "address": "中山北路七段192號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "天母派出所內值勤台左後側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "天母派出所內值勤台左後側"
+        },
+        {
+          "id": 5501616,
+          "title": "楷穎運動國際有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1238679,
+            121.532749
+          ],
+          "address": "中山北路七段156-1號一樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "台北市士林區中山北路七段156-1號一樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市士林區中山北路七段156-1號一樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56927bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.107201210195946,
+        "lng": 121.52534826985571
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500768,
+          "title": "臺北市政府警察局士林分局蘭雅派出所",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.106571,
+            121.524685
+          ],
+          "address": "中山北路6段153號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門口"
+        },
+        {
+          "id": 5501541,
+          "title": "coffit健身咖",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1076519,
+            121.5252606
+          ],
+          "address": "中山北路六段184號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "佩佩藥局旁。屋比房屋對面",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "佩佩藥局旁。屋比房屋對面"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569257ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.111210442808353,
+        "lng": 121.52107205761071
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5500940,
+          "title": "奎山學校財團法人臺北市奎山實驗高級中等學校",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.111304,
+            121.521025
+          ],
+          "address": "明德路200號",
+          "layoutType": "高中職",
+          "hours": "詳見官方網站",
+          "description": "臺北市奎山實驗高級中等學校健康中心",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市奎山實驗高級中等學校健康中心"
+        },
+        {
+          "id": 5502207,
+          "title": "臺北市北投區明德國民小學",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.112123,
+            121.521788
+          ],
+          "address": "明德路190號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "臺北市立北投區明德國民小學\n仁愛一樓--健康中心--前走廊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "臺北市立北投區明德國民小學\n仁愛一樓--健康中心--前走廊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56926bffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.10519640590073,
+        "lng": 121.52748642226405
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5501146,
+          "title": "Surmount運動空間-天母店(巧翊體適能館)",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.10440302,
+            121.5262081
+          ],
+          "address": "忠誠路一段30號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "櫃檯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯旁"
+        },
+        {
+          "id": 5501322,
+          "title": "第一商業銀行天母分行",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.104853,
+            121.527387
+          ],
+          "address": "忠誠路一段62號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大門進入後左側、客戶公用電腦旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大門進入後左側、客戶公用電腦旁邊"
+        },
+        {
+          "id": 5501424,
+          "title": "PQ FITNESS",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1048744,
+            121.5272749
+          ],
+          "address": "忠誠路一段60號B1F",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "櫃檯前方",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "櫃檯前方"
+        }
+      ]
+    },
+    {
+      "h3": "894ba5692c3ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.115219174101917,
+        "lng": 121.51679596882973
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501164,
+          "title": "Curves女性30分鐘環狀運動石牌店",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.11654743,
+            121.516985
+          ],
+          "address": "裕民一路30號2樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "置於Curves女性30分鐘環狀運動石牌店",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "置於Curves女性30分鐘環狀運動石牌店"
+        },
+        {
+          "id": 5501170,
+          "title": "健身工廠石牌廠",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114496,
+            121.515561
+          ],
+          "address": "裕民六路2號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "入口處走道牆上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "入口處走道牆上"
+        },
+        {
+          "id": 5501749,
+          "title": "臺北捷運石牌站R19",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114523,
+            121.515559
+          ],
+          "address": "石牌路1段200號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "1樓大廳付費區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓大廳付費區"
+        },
+        {
+          "id": 5502353,
+          "title": "財團法人伊甸社會福利基金會附設臺北市私立頤福社區式長期照顧服務機構",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.114535,
+            121.517648
+          ],
+          "address": "裕民六路120號3樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "放置於中心第三間廁所外",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "放置於中心第三間廁所外"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569227ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.11539117291608,
+        "lng": 121.5372004659184
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5501264,
+          "title": "臺北市立大學天母校區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.115897,
+            121.537253
+          ],
+          "address": "忠誠路二段101號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "警衛室入門左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "警衛室入門左側"
+        },
+        {
+          "id": 5501574,
+          "title": "臺北市立大學天母校區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.115897,
+            121.537253
+          ],
+          "address": "忠誠路二段101號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "場館近忠誠路二段之大門入口左側",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場館近忠誠路二段之大門入口左側"
+        },
+        {
+          "id": 5501834,
+          "title": "臺北市立大學天母校區",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.115897,
+            121.537253
+          ],
+          "address": "忠誠路二段101號",
+          "layoutType": "大專院校",
+          "hours": "詳見官方網站",
+          "description": "場館近田徑場之西側大門入口",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "場館近田徑場之西側大門入口"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56923bffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.11371903717824,
+        "lng": 121.5307487655046
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501350,
+          "title": "動動MOVEMOVE體適能教室-天母館",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.113727,
+            121.529745
+          ],
+          "address": "士林區士東路91巷49號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "位在動動天母館-櫃台旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "位在動動天母館-櫃台旁"
+        },
+        {
+          "id": 5501537,
+          "title": "Bounce8",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.115072,
+            121.530555
+          ],
+          "address": "天母東路8巷80號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "AED設備擺放在教室入口旁，AED檢核表也置於設備上方明顯可見之處",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "AED設備擺放在教室入口旁，AED檢核表也置於設備上方明顯可見之處"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569273ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.110042091656112,
+        "lng": 121.52643566574525
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 5501450,
+          "title": "Sweet*慢走體適能",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.110115,
+            121.52568
+          ],
+          "address": "中山北路六段284號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "運動訓練場所",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "運動訓練場所"
+        },
+        {
+          "id": 5501477,
+          "title": "境力健康事業有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.109536,
+            121.525579
+          ],
+          "address": "中山北路六段258號",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "運動訓練班",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "運動訓練班"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569217ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.117728054782432,
+        "lng": 121.52647231355458
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501462,
+          "title": "群康健康事業股份有限公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1188588,
+            121.5275888
+          ],
+          "address": "天玉街15號1樓",
+          "layoutType": "健身房",
+          "hours": "詳見官方網站",
+          "description": "行政櫃檯旁邊",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政櫃檯旁邊"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569277ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.11087824206372,
+        "lng": 121.5296612955649
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 5501630,
+          "title": "觀示苑股份有限公司天母分公司",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1113989,
+            121.5299913
+          ],
+          "address": "忠誠路2段二十一巷二十七號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "大廳接待區",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "大廳接待區"
+        },
+        {
+          "id": 5501816,
+          "title": "施達實業有限公司附設臺北市私立施達社區長照機構",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.1109832,
+            121.5289077
+          ],
+          "address": "德行東路109巷104號2樓",
+          "layoutType": "健身中心",
+          "hours": "詳見官方網站",
+          "description": "台北市士林區德行東路109巷104號2樓 辦公室 (近大門口)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "台北市士林區德行東路109巷104號2樓 辦公室 (近大門口)"
+        },
+        {
+          "id": 5502243,
+          "title": "蘭雅公園地下停車場",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.109618,
+            121.529277
+          ],
+          "address": "德行東路129巷31號B1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "管理室旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "管理室旁"
+        },
+        {
+          "id": 5502292,
+          "title": "臺北市立蘭雅國民中學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.110656,
+            121.531042
+          ],
+          "address": "忠誠路2段51號",
+          "layoutType": "國中",
+          "hours": "詳見官方網站",
+          "description": "行政大樓一樓川堂(校門口進入直走)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "行政大樓一樓川堂(校門口進入直走)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569253ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.110374140530254,
+        "lng": 121.51784671309817
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501748,
+          "title": "臺北捷運明德站R18",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.109721,
+            121.518848
+          ],
+          "address": "明德路95號",
+          "layoutType": "捷運站",
+          "hours": "詳見官方網站",
+          "description": "捷運淡水信義線明德站詢問處旁(付費區)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "捷運淡水信義線明德站詢問處旁(付費區)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56928fffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.119732375580416,
+        "lng": 121.52433413385769
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5501937,
+          "title": "瓦城集團 瓦城天母店",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.11889814,
+            121.5234467
+          ],
+          "address": "天母西路111號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "餐廳二樓",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "餐廳二樓"
+        }
+      ]
+    },
+    {
+      "h3": "894ba569247ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.109205889165892,
+        "lng": 121.52321014830288
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502366,
+          "title": "臺北市士林區蘭雅國民小學",
+          "category": "other",
+          "location": "63000110",
+          "coords": [
+            25.10841,
+            121.523137
+          ],
+          "address": "磺溪街57號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "蘭雅國民小學 一樓穿堂",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "蘭雅國民小學 一樓穿堂"
+        }
+      ]
+    },
+    {
+      "h3": "894ba56921bffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.114051169047634,
+        "lng": 121.5221593941645
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5502673,
+          "title": "臺北市立北投幼兒園",
+          "category": "other",
+          "location": "63000120",
+          "coords": [
+            25.113142,
+            121.522624
+          ],
+          "address": "明德路208巷5號1樓",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "1樓活動室大門牆壁上",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "1樓活動室大門牆壁上"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

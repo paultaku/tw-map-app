@@ -1,0 +1,105 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1d33dbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.069902374508146,
+        "lng": 121.61863253820144
+      },
+      "categories": {
+        "other": 1
+      },
+      "points": [
+        {
+          "id": 5500737,
+          "title": "臺北市政府警察局內湖分局康樂派出所",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.070427,
+            121.618388
+          ],
+          "address": "康樂街110巷16弄20號",
+          "layoutType": "派出所",
+          "hours": "詳見官方網站",
+          "description": "一樓值班臺",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "一樓值班臺"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1d33d3ffff",
+      "res": 9,
+      "count": 3,
+      "center": {
+        "lat": 25.072745059971982,
+        "lng": 121.61972131828476
+      },
+      "categories": {
+        "other": 3
+      },
+      "points": [
+        {
+          "id": 5502005,
+          "title": "臺北市立東湖國民中學",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.072199,
+            121.619458
+          ],
+          "address": "康樂街131號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "穿堂電梯旁",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "穿堂電梯旁"
+        },
+        {
+          "id": 5502009,
+          "title": "臺北市立東湖國民中學",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.072199,
+            121.619458
+          ],
+          "address": "康樂街131號",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "活動中心1樓(大樓內)",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "活動中心1樓(大樓內)"
+        },
+        {
+          "id": 5502110,
+          "title": "臺北市政府環境保護局內湖區清潔隊東湖分隊",
+          "category": "other",
+          "location": "63000100",
+          "coords": [
+            25.073111,
+            121.621004
+          ],
+          "address": "康樂街150號4F之1",
+          "layoutType": "其他場所",
+          "hours": "詳見官方網站",
+          "description": "辦公室",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "辦公室"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:20:56.923Z"
+}

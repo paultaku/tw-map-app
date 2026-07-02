@@ -1,0 +1,69 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a6ccbffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.098345225125506,
+        "lng": 121.5306753569413
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900002,
+          "title": "BOSS 健身工作室",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.0979,
+            121.5296
+          ],
+          "address": "臺北市士林區雨農路19號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a6c97ffff",
+      "res": 9,
+      "count": 1,
+      "center": {
+        "lat": 25.110545516727495,
+        "lng": 121.53825125584613
+      },
+      "categories": {
+        "culture": 1
+      },
+      "points": [
+        {
+          "id": 7900022,
+          "title": "World Gym 健身俱樂部台北天母德行店",
+          "category": "culture",
+          "location": "士林",
+          "coords": [
+            25.1117,
+            121.5378
+          ],
+          "address": "臺北市士林區德行東路331巷35號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "健身房",
+          "image": "",
+          "management": "私立",
+          "phone": "",
+          "notes": "健身房"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:03.019Z"
+}

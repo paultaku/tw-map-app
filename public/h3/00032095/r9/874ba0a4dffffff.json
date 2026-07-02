@@ -1,0 +1,671 @@
+{
+  "cells": [
+    {
+      "h3": "894ba0a4d5bffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 25.05135762411295,
+        "lng": 121.57663511583465
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900086,
+          "title": "裕珍馨(饒河店)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050709,
+            121.575954
+          ],
+          "address": "臺北市松山區饒河街189號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2742-0869/楊小姐04-2683-1969＃1402",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900105,
+          "title": "金門風味館台北饒河店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050419,
+            121.575275
+          ],
+          "address": "台北市松山區饒河街142號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-23699711/0908-369-058",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900874,
+          "title": "松河璞旅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050982,
+            121.575104
+          ],
+          "address": "台北市松山區松河街112號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-25281567 #280",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901144,
+          "title": "Yu Jan Shin (Raohe Branch)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050709,
+            121.575954
+          ],
+          "address": "No. 189",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 105",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901163,
+          "title": "Kinmen Flavor restaurant",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050419,
+            121.575275
+          ],
+          "address": "1F.",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 105",
+          "image": "",
+          "management": "",
+          "phone": "Songshan Dist.",
+          "notes": "Taipei City 105"
+        },
+        {
+          "id": 6901932,
+          "title": "Boutech Waterfront Hotel",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050982,
+            121.575104
+          ],
+          "address": "No. 112",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 105",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d4fffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.050184454844622,
+        "lng": 121.5820010239529
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900111,
+          "title": "龍笛美學精品館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049641,
+            121.581198
+          ],
+          "address": "臺北市南港區市民大道七段11號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2783-3358/02-2783-6633",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900720,
+          "title": "九六健康餐盒",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050602,
+            121.581614
+          ],
+          "address": "台北市南港區玉成街14-8號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-26515559",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901169,
+          "title": "Londee",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.049641,
+            121.581198
+          ],
+          "address": "No. 11",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 115",
+          "image": "",
+          "management": "",
+          "phone": "Nangang Dist.",
+          "notes": "Taipei City 115"
+        },
+        {
+          "id": 6901778,
+          "title": "Ninety-six Lunch Box",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.050602,
+            121.581614
+          ],
+          "address": "No. 14-8",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "115",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "115"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4db7ffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.068076416010282,
+        "lng": 121.5917578676588
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900157,
+          "title": "鬍鬚張台北內湖店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.067395,
+            121.590487
+          ],
+          "address": "臺北市內湖區成功路二段318號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2791-0808/總公司:02-2298-2185＃232(行企部劉副理)",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900639,
+          "title": "WILSONPARK威爾森公園",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069105,
+            121.593078
+          ],
+          "address": "台北市內湖區民權東路六段125-1號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0981-563727",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901215,
+          "title": "Formosa Chang-Taipei Neihu Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.067395,
+            121.590487
+          ],
+          "address": "No. 318",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu Dist.",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901697,
+          "title": "Wilson Park",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.069105,
+            121.593078
+          ],
+          "address": "No. 125-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d4bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.04934953237406,
+        "lng": 121.57877397869244
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900691,
+          "title": "林柏食叁涮涮鍋",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048469,
+            121.57956
+          ],
+          "address": "台北市信義區松隆路333號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27569803",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900694,
+          "title": "乾脆點早午餐",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048587,
+            121.579892
+          ],
+          "address": "台北市信義區松隆路343號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27477398",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901749,
+          "title": "Linfo Shabu-Shabu",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048469,
+            121.57956
+          ],
+          "address": "No. 333",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 110",
+          "notes": "Taiwan (R.O.C.)"
+        },
+        {
+          "id": 6901752,
+          "title": "dCp Brunch",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.048587,
+            121.579892
+          ],
+          "address": "No. 343",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 110",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d67ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.052688909656627,
+        "lng": 121.59168283226083
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900704,
+          "title": "白暮蛋餅先生4號昆陽店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053802,
+            121.592342
+          ],
+          "address": "台北市南港區昆陽街6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0905-627878",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901762,
+          "title": "Mr. Pai Mu Chinese Omelet No.4 Kunyang Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053802,
+            121.592342
+          ],
+          "address": "No. 6",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "115",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "115"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d9bffff",
+      "res": 9,
+      "count": 4,
+      "center": {
+        "lat": 25.06473672689091,
+        "lng": 121.57884866817184
+      },
+      "categories": {
+        "other": 4
+      },
+      "points": [
+        {
+          "id": 6900728,
+          "title": "糕菲庇護工場",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063609,
+            121.579393
+          ],
+          "address": "台北市內湖區行愛路140巷25號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27852499",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900739,
+          "title": "OutdoorLINK戶外林區",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063647,
+            121.578695
+          ],
+          "address": "台北市內湖區新湖二路146巷33號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-27951116",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901786,
+          "title": "Gofe Workshop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063609,
+            121.579393
+          ],
+          "address": "No. 25",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901797,
+          "title": "OutdoorLINK",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.063647,
+            121.578695
+          ],
+          "address": "No. 33",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Neihu District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d57ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.055035574404467,
+        "lng": 121.58095024501381
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900730,
+          "title": "卡波甜品坊 (手作豆花.冰品)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054722,
+            121.579916
+          ],
+          "address": "台北市內湖區新明路398號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901788,
+          "title": "Couple Dessert House (Handmade Tofu Pudding and Ice Products)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.054722,
+            121.579916
+          ],
+          "address": "No. 398",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "114",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "114"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d53ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.054200608541827,
+        "lng": 121.57772320829977
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900732,
+          "title": "捲捲小姐墨西哥捲餅",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053999,
+            121.578515
+          ],
+          "address": "台北市內湖區新明路460巷12號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901790,
+          "title": "Miss Wrap Burrito",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.053999,
+            121.578515
+          ],
+          "address": "Panini",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Xinming Rd",
+          "image": "",
+          "management": "",
+          "phone": "Lane 460",
+          "notes": "Xinming Rd"
+        }
+      ]
+    },
+    {
+      "h3": "894ba0a4d03ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 25.05871338198965,
+        "lng": 121.58526561203077
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900840,
+          "title": "物生有影攝影",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05851,
+            121.585117
+          ],
+          "address": "台北市內湖區南京東路六段346號7樓之1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2795-3695",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901898,
+          "title": "Ｗusen Photography",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            25.05851,
+            121.585117
+          ],
+          "address": "7F-1",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Neihu District",
+          "image": "",
+          "management": "",
+          "phone": "Nanjing East Road",
+          "notes": "Neihu District"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}

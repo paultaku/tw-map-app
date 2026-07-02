@@ -1,0 +1,715 @@
+{
+  "cells": [
+    {
+      "h3": "894ba1da6c3ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.985266119401015,
+        "lng": 121.5687958345323
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900526,
+          "title": "貓茶町 - 創始店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.985688,
+            121.567582
+          ],
+          "address": "臺北市文山區保儀路117號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2937-6800/02-2913-8000#15吳會計",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901584,
+          "title": "Tea Dessert House",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.985688,
+            121.567582
+          ],
+          "address": "No. 117",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 116",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da607ffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.985759798373817,
+        "lng": 121.58061392584865
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900531,
+          "title": "Purrson Bistro呼嚕小酒館",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.986114,
+            121.579466
+          ],
+          "address": "台北市文山區指南路二段106號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2936-9172/0970-764-851",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901589,
+          "title": "Purrson Bistro",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.986114,
+            121.579466
+          ],
+          "address": "No. 106",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6d7ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.98811112160695,
+        "lng": 121.56988368336923
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900533,
+          "title": "阿段烘焙",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989021,
+            121.569813
+          ],
+          "address": "台北市文山區開元街38號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2936-1341\n02-2939-9562/0933-174-820",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900534,
+          "title": "山芳良油",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987705,
+            121.568926
+          ],
+          "address": "台北市文山區指南路一段9號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2939-5789/0988-335-678",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900677,
+          "title": "澧莎麵包店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988658,
+            121.568468
+          ],
+          "address": "台北市文山區保儀路6號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0930-076040",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901591,
+          "title": "Aduanbakery",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989021,
+            121.569813
+          ],
+          "address": "No. 38",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "121.569813",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City",
+          "notes": "121.569813"
+        },
+        {
+          "id": 6901592,
+          "title": "SUMFINE",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987705,
+            121.568926
+          ],
+          "address": "No. 9",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901735,
+          "title": "Lisa’s Bakery",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988658,
+            121.568468
+          ],
+          "address": "No. 6",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taiwan (R.O.C.)",
+          "image": "",
+          "management": "",
+          "phone": "Taipei City 116",
+          "notes": "Taiwan (R.O.C.)"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da683ffff",
+      "res": 9,
+      "count": 6,
+      "center": {
+        "lat": 24.991790798291845,
+        "lng": 121.57419802104538
+      },
+      "categories": {
+        "other": 6
+      },
+      "points": [
+        {
+          "id": 6900646,
+          "title": "Feed Zone Cafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.993191,
+            121.57398
+          ],
+          "address": "台北市文山區新光路一段189號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900740,
+          "title": "李氏兄弟餐酒館Le Lee Brother Bistro",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.99141,
+            121.573601
+          ],
+          "address": "台北市文山區新光路一段104號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29377290",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900864,
+          "title": "雨果花園烘培工作室",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.992808,
+            121.573925
+          ],
+          "address": "台北市文山區新光路一段167號1樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0930-330658",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901704,
+          "title": "Feed Zone Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.993191,
+            121.57398
+          ],
+          "address": "No. 189",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 116",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City 116"
+        },
+        {
+          "id": 6901798,
+          "title": "Le Lee Brother Bistro",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.99141,
+            121.573601
+          ],
+          "address": "No. 104",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901922,
+          "title": "Hugo's Garden",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.992808,
+            121.573925
+          ],
+          "address": "1F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan District",
+          "image": "",
+          "management": "",
+          "phone": "Xinguang Road",
+          "notes": "Wenshan District"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da613ffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.986935596277277,
+        "lng": 121.57524867286493
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 6900736,
+          "title": "TDB 傳統甜點麵包店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988114,
+            121.576562
+          ],
+          "address": "台北市文山區指南路二段119巷16號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900742,
+          "title": "覓糖-文山政大店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987597,
+            121.575605
+          ],
+          "address": "台北市文山區指南路2段62號1樓(左側)",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29370225",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900795,
+          "title": "小公寓咖啡",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987622,
+            121.575475
+          ],
+          "address": "台北市文山區指南路二段56號2樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29392790",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901010,
+          "title": "素還真 政大店",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987836,
+            121.57426
+          ],
+          "address": "台北市文山區指南路二段10號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "0955-651277",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901794,
+          "title": "TBD Traditional Dessert and Bakery Shop",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988114,
+            121.576562
+          ],
+          "address": "No. 16",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan Dist.",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd.",
+          "notes": "Wenshan Dist."
+        },
+        {
+          "id": 6901800,
+          "title": "Mi Tang - Wenshan National Chengchi University Store",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987597,
+            121.575605
+          ],
+          "address": "116",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Zhinan Rd",
+          "image": "",
+          "management": "",
+          "phone": "Section 2",
+          "notes": "Zhinan Rd"
+        },
+        {
+          "id": 6901853,
+          "title": "Apt. Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987622,
+            121.575475
+          ],
+          "address": "2F",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Wenshan District",
+          "image": "",
+          "management": "",
+          "phone": "Zhinan Rd",
+          "notes": "Wenshan District"
+        },
+        {
+          "id": 6902068,
+          "title": "Su Huan Chen Restaurant for Vegetarian (Chengchi University Branch)",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.987836,
+            121.57426
+          ],
+          "address": "No. 10",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da68bffff",
+      "res": 9,
+      "count": 8,
+      "center": {
+        "lat": 24.988945881841993,
+        "lng": 121.57311009825668
+      },
+      "categories": {
+        "other": 8
+      },
+      "points": [
+        {
+          "id": 6900741,
+          "title": "老味道鍋物",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988235,
+            121.573513
+          ],
+          "address": "台北市文山區指南路二段17號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29376848",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900766,
+          "title": "ROSELAND",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988579,
+            121.573595
+          ],
+          "address": "台北市文山區新光路一段8號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-2936-5088",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900774,
+          "title": "Mr. Light 輕食先生",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989909,
+            121.573635
+          ],
+          "address": "台北市文山區新光路一段50號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29368011",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6900865,
+          "title": "周詮咖啡 Roundful Cafe",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989778,
+            121.573638
+          ],
+          "address": "台北市文山區新光路一段44號",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "02-29372105",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901799,
+          "title": "Old Flavors Hotpot",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988235,
+            121.573513
+          ],
+          "address": "No. 17",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901824,
+          "title": "ROSELAND",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.988579,
+            121.573595
+          ],
+          "address": "No. 8",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        },
+        {
+          "id": 6901832,
+          "title": "Mr. Light",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989909,
+            121.573635
+          ],
+          "address": "No. 50",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City 116",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan Dist.",
+          "notes": "Taipei City 116"
+        },
+        {
+          "id": 6901923,
+          "title": "Roundful Café",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.989778,
+            121.573638
+          ],
+          "address": "No. 44",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        }
+      ]
+    },
+    {
+      "h3": "894ba1da6dbffff",
+      "res": 9,
+      "count": 2,
+      "center": {
+        "lat": 24.98443130314287,
+        "lng": 121.56556958355974
+      },
+      "categories": {
+        "other": 2
+      },
+      "points": [
+        {
+          "id": 6900772,
+          "title": "鵝肉世家",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.982844,
+            121.565796
+          ],
+          "address": "台北市文山區木新路二段283號一樓",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "本位置資訊僅供參考，實際情形以現場公告及標示為準",
+          "image": "",
+          "management": "",
+          "phone": "",
+          "notes": "本位置資訊僅供參考，實際情形以現場公告及標示為準"
+        },
+        {
+          "id": 6901830,
+          "title": "Goose Family",
+          "category": "other",
+          "location": "臺北市",
+          "coords": [
+            24.982844,
+            121.565796
+          ],
+          "address": "No. 283",
+          "layoutType": "",
+          "hours": "詳見官方網站",
+          "description": "Taipei City",
+          "image": "",
+          "management": "",
+          "phone": "Wenshan District",
+          "notes": "Taipei City"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-01T18:21:00.786Z"
+}
